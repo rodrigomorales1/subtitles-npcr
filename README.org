@@ -1,3 +1,5 @@
+* Utilities
+
 Generate =*.vtt= files for a given languages and for a given text.
 
 #+begin_src sh
@@ -7,8 +9,19 @@ python3 generate-vtt.py -p 43-1 -f en,es
 Generate video for a given text.
 
 #+begin_src sh
+python3 generate-video.py -p 43-1
+#+end_src
+
+Generate video for a given text between a given time.
+
+#+begin_src sh
 python3 generate-video.py -p 43-1 -ss 00:00:10 -to 00:00:20
 #+end_src
+
+* Vanilla commands
+:PROPERTIES:
+:CREATED: [2023-07-08 00:29:02 -05]
+:END:
 
 Subtitles below video
 
@@ -31,9 +44,7 @@ ffmpeg -v error -y \
        output.mp4
 #+end_src
 
-Subtitles on top of video.
-
-Compacted dimensions.
+Subtitles on top of video. Compacted dimensions.
 
 #+HEADER: :dir (or default-directory)
 #+HEADER: :results silent
@@ -53,9 +64,7 @@ ffmpeg -v error -y \
        output.mp4
 #+end_src
 
-Subtitles on top of video.
-
-Mandarin Corner style.
+Subtitles on top of video. Mandarin Corner style.
 
 #+HEADER: :dir (or default-directory)
 #+HEADER: :results silent
