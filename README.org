@@ -1,12 +1,12 @@
 * Utilities
 
-Generate =*.vtt= files for a given languages and for a given text.
+Generate =*.vtt= files for a given text and for a set of given languages.
 
 #+begin_src sh
 python3 generate-vtt.py -p 43-1 -f en,es
 #+end_src
 
-Generate video for a given text.
+Generate video for a given text. The subtitles need to be generated beforehand.
 
 #+begin_src sh
 python3 generate-video.py -p 43-1
