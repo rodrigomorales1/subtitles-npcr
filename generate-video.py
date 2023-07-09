@@ -1,6 +1,6 @@
 # Examples
 #
-# $ python3 generate-video.py -p 43-1 -i ./timestamps/43-1.vtt -ss 00:00:10 -to 00:00:20 -o output.mp4
+# $ python3 generate-video.py -p 46-1 -i ./timestamps/46-1.webm -o output.mp4
 
 import subprocess
 import argparse
