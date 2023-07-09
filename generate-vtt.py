@@ -1,6 +1,6 @@
 # Examples
 #
-# $ python3 generate-vtt.py -p 43-1 -f en,es,zh-hans -o subtitles
+# $ python3 generate-vtt.py -p 43-1 -f en,es,zh-hans,pinyin -o subtitles
 
 import re
 import yaml
