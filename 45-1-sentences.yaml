@@ -1,0 +1,290 @@
+- id: 76c945c9e00548389289d95c6cc62f81
+  zh-hans: 请问，您是钱总经理吗？
+  pinyin: Qǐngwèn, nín shì Qián zǒng jīnglǐ ma?
+  en: Excuse me, are you General Manager Qian?
+  es:
+- id: 7ec0de9a30d04b9b91afba0eb928c6b0
+  zh-hans: 是的。
+  pinyin: Shì de.
+  en: I am.
+  es:
+- id: 0b0a9d5cf59c4f0ca690aa5d8981c5b9
+  zh-hans: 您是马大为先生吧？
+  pinyin: Nín shì Mǎ Dàwéi xiānshēng ba?
+  en: You are Mr. Ma Dawei, right?
+  es:
+- id: 2d4c38881a4c4bbcbdf1ee2d186ccc72
+  zh-hans: 我是马大为。钱总，您好。
+  pinyin: Wǒ shì Mǎ Dàwéi. Qián zǒng, nín hǎo.
+  en: I am Ma Dawei. GM Qian, hello.
+  es:
+- id: fbba64948a4643d09a928b179364b057
+  zh-hans: 你好。
+  pinyin: Ní hǎo.
+  en: Hello.
+  es:
+- id: 86c0409274d84bfd99850dda3e3446a7
+  zh-hans: 上个月我来贵公司跟张经理谈过一次，
+  pinyin: Shàng gè yuè wǒ lái guì gōngsī gēn Zhāng jīnglǐ tánguò yīcì,
+  en: Last month I came to your company and spoke with Manager Zhang,
+  es:
+- id: 595dc615d8d84c748b19098d02ee3014
+  zh-hans: 后来您的秘书给我打电话，
+  pinyin: hòulái nín de mìshū gěi wǒ dǎ diànhuà,
+  en: afterwards your secretary gave me a call,
+  es:
+- id: c837a917c0484abcaebe478bc1303310
+  zh-hans: 让我今天来公司跟您谈一谈。
+  pinyin: ràng wǒ jīntiān lái gōngsī gēn nín tán yī tán.
+  en: and asked me to come the company today to talk with you.
+  es:
+- id: 6b8ddc0f1cab4e2a821f8fe61877c4e5
+  zh-hans: 是这样。我们请您来，
+  pinyin: Shì zhèyàng. Wǒmen qǐng nín lái,
+  en: That’s right. We have invited you here,
+  es:
+- id: 9f9288280ade4faba7f3fc0ec1a2f0a0
+  zh-hans: 是想再谈一谈您的求职问题。请坐，
+  pinyin: shì xiǎng zài tán yī tán nín de qiúzhí wèntí. Qǐng zuò,
+  en: to further discuss questions we have on your application. Please take a seat,
+  es:
+- id: 9130fc53e1cd454293c7e8a6f6f49f14
+  zh-hans: 您想喝点儿什么？
+  pinyin: nín xiǎng hē diǎnr shénme?
+  en: would you like anything to drink?
+  es:
+- id: 733d492b1b7648e39a312bb500636f9c
+  zh-hans: 不用了，谢谢。
+  pinyin: Bùyòngle, xièxiè.
+  en: No need, thank you.
+  es:
+- id: c68f21a0dbad4c3ab307b594cd7f8732
+  zh-hans: 您知道本公司市场开发部要招聘经理。
+  pinyin: Nín zhīdào běn gōngsī shìchǎng kāifā bù yào zhāopìn jīnglǐ.
+  en: You know that this company’s business development department is hiring a manager.
+  es:
+- id: 9169257e05b242e7906a9e2c285c0048
+  zh-hans: 市场开发的工作很重要，
+  pinyin: Shìchǎng kāifā de gōngzuò hěn zhòngyào,
+  en: Business development work is very important,
+  es:
+- id: ea76922544f346fc9c0dc2de02d55634
+  zh-hans: 这个部的经理要常到中国各地出差，
+  pinyin: zhège bù de jīnglǐ yào cháng dào Zhōngguó gèdì chūchāi,
+  en: this department’s manager will have to do many business trips all over China,
+  es:
+- id: fca2e6416a004c939481e8e673caf1a7
+  zh-hans: 参加各种商务活动。
+  pinyin: cānjiā gè zhǒng shāngwù huódòng.
+  en: and participate in many commercial activities.
+  es:
+- id: 9f6f045d25dc45f8b5f568925860d993
+  zh-hans: 这个职务不但要求有工商管理的专业知识，
+  pinyin: Zhège zhíwù bùdàn yāoqiú yǒu gōngshāng guǎnlǐ de zhuānyè zhīshì,
+  en: This position not only requires specialised knowlege of business management,
+  es:
+- id: 5a4e78403a3149b8ba06a5e5c2e19599
+  zh-hans: 而且要求了解中国的社会和文化，
+  pinyin: érqiě yāoqiú liǎojiě Zhōngguó de shèhuì hé wénhuà,
+  en: but also requires understanding of Chinese society and culture,
+  es:
+- id: 0740cc3315a64377b9e5cd059c531b56
+  zh-hans: 汉语普通话也要说得很流利。
+  pinyin: Hànyǔ pǔtōnghuà yě yào shuō de hěn liúlì.
+  en: Mandarin speaking should also be fluent.
+  es:
+- id: ea2b0c6d4d4a4fbfa282d4b50fb72b2b
+  zh-hans: 我想听听您对这个职务的想法。
+  pinyin: Wǒ xiǎng tīng tīng nín duì zhège zhíwù de xiǎngfǎ.
+  en: I’d like to hear your thoughts on this position.
+  es:
+- id: 24db869ad7e0422e97189c9f0f28d9ea
+  zh-hans: 我对这个职务很感兴趣，
+  pinyin: Wǒ duì zhège zhíwù hěn gǎn xìngqù,
+  en: I am very interested in this position,
+  es:
+- id: 4c9e3cd36c324b88ba2396d8d8ff3bc8
+  zh-hans: 而且也觉得我本人的条件比较适合。
+  pinyin: érqiě yě juéde wǒ běnrén de tiáojiàn bǐjiào shìhé.
+  en: and furthermore I think that I am relatively qualified.
+  es:
+- id: 5896b04f99bf4a279d96c1c923e06684
+  zh-hans: 我在美国学的是工商管理，
+  pinyin: Wǒ zài Měiguó xué de shì gōngshāng guǎnlǐ,
+  en: In America I studied business management,
+  es:
+- id: eb57dde5132b4bff9ee895026530ebef
+  zh-hans: 在加拿大当过一家贸易公司的商务代表，
+  pinyin: zài Jiānádà dāngguò yījiā màoyì gōngsī de shāngwù dàibiǎo,
+  en: and in Canada I worked as a commercial representative for a trading company,
+  es:
+- id: cb3869f343a643c9a0a97e62691dfcc0
+  zh-hans: 有这方面的工作经验，
+  pinyin: yǒu zhè fāngmiàn de gōngzuò jīngyàn,
+  en: and having this sort of work experience,
+  es:
+- id: 8e40e1e5ce634c8f86479ed81d0c3e8c
+  zh-hans: 对中加两国的贸易情况也比较熟悉。
+  pinyin: duì zhōng jiā liǎng guó de màoyì qíngkuàng yě bǐjiào shúxī.
+  en: also makes me relatively familiar with the trade situation between China and Canada.
+  es:
+- id: d5ac02b3194549b2b84643252340d30f
+  zh-hans: 汉语是我的第一外语，
+  pinyin: Hànyǔ shì wǒ de dì yī wàiyǔ,
+  en: Chinese is my first foreign language,
+  es:
+- id: 3275134795fa4768b5eaba96126d0f1a
+  zh-hans: 我已经通过了汉语水平考试八级。
+  pinyin: wǒ yǐjīng tōngguòle Hànyǔ shuǐpíng kǎoshì bā jí.
+  en: and I have already passed the HSK level eight exam.
+  es:
+- id: 38911fd7d14d4a62bb0c81e06167492c
+  zh-hans: 我喜欢中国文化，
+  pinyin: Wǒ xǐhuan Zhōngguó wénhuà,
+  en: I like Chinese culture,
+  es:
+- id: a3f3588eb96144a69885d4a6f5fb1f35
+  zh-hans: 为了更多地了解中国，
+  pinyin: wèile gèng duō de liǎojiě Zhōngguó,
+  en: and in order to understand China more,
+  es:
+- id: d9e431f3fb17440cb0b0f9f49dc6efce
+  zh-hans: 我还在北京语言学院进修了一年多的中国文学。
+  pinyin: wǒ hái zài Běijīng Yǔyán Xuéyuàn jìnxiūle yī nián duō de Zhōngguó wénxué.
+  en: I spent over one year at Beijing Language and Culture University doing advance studies of Chinese literature.
+  es:
+- id: 70d6b1c718c643eb8a081b8e1046744c
+  zh-hans: 我希望我的知识和经验
+  pinyin: Wǒ xīwàng wǒ de zhīshì hé jīngyàn
+  en: I hope that my knowledge and experience
+  es:
+- id: 866fcb969ced477aad82099d4f92d6c9
+  zh-hans: 能很好地用于贵公司的工作，
+  pinyin: néng hěn hǎo de yòng yú guì gōngsī de gōngzuò,
+  en: can be used by your company,
+  es:
+- id: 8c784b2ff9e74d70a24aa9c7e2132b84
+  zh-hans: 我也相信自己
+  pinyin: wǒ yě xiāngxìn zìjǐ
+  en: I also believe
+  es:
+- id: 43d8a820543e454a97a6ab7e45355f2f
+  zh-hans: 一定能成为贵公司很好的工作人员。
+  pinyin: yīdìng néng chéngwéi guì gōngsī hěn hǎo de gōngzuò rényuán.
+  en: that I can become a good worker for your company.
+  es:
+- id: eb21f418424640a6926b962683dd0852
+  zh-hans: 很好。我们看了好多人的简历，
+  pinyin: Hěn hǎo. Wǒmen kànle hǎoduō rén de jiǎnlì,
+  en: Very good. We have looked at many people’s resumes,
+  es:
+- id: 9fed66074a6049b19b71ad3b950abea7
+  zh-hans: 认为您的条件不错。
+  pinyin: rènwéi nín de tiáojiàn bùcuò.
+  en: and we think that your qualifications are not bad.
+  es:
+- id: 5172a4efec53437d8e2696fb9242f1ae
+  zh-hans: 您是学工商管理的，
+  pinyin: Nín shì xué gōngshāng guǎnlǐ de,
+  en: You have studied business management,
+  es:
+- id: 8a1f8a1ddb334041afcea07e62dfef79
+  zh-hans: 又会汉语，
+  pinyin: yòu huì Hànyǔ,
+  en: can speak Chinese,
+  es:
+- id: c62cf9ceefd148c99cd4d7450c186d39
+  zh-hans: 还有这方面的工作经验。
+  pinyin: hái yǒu zhè fāngmiàn de gōngzuò jīngyàn.
+  en: and also have this sort of work experience.
+  es:
+- id: cfb61ee96cb34885a22967ec4ca5f06d
+  zh-hans: 我想您会很快地适应这里的工作环境。
+  pinyin: Wǒ xiǎng nín huì hěn kuài de shìyìng zhèlǐ de gōngzuò huánjìng.
+  en: I think you will very quickly adapt to the work environment here.
+  es:
+- id: d2ef3087f4e9420e87dfa6574ac60695
+  zh-hans: 谢谢，你们对我有这样的看法，我很高兴。
+  pinyin: Xièxiè, nǐmen duì wǒ yǒu zhèyàng de kànfǎ, wǒ hěn gāoxìng.
+  en: Thank you, if you think of me like this, I am very happy.
+  es:
+- id: 6e4be67704b84346bd52d21f3e178279
+  zh-hans: 工资问题，我上次已经跟张经理提了，
+  pinyin: Gōngzī wèntí, wǒ shàng cì yǐjīng gēn Zhāng jīnglǐ tíle,
+  en: Salary questions, I already raised with Manager Zhang last time,
+  es:
+- id: 6695b7192c80489abf964732ef090762
+  zh-hans: 不知道贵公司有没有新的考虑。
+  pinyin: bù zhīdào guì gōngsī yǒu méiyǒu xīn de kǎolǜ.
+  en: I don’t know whether your company has any new thoughts?
+  es:
+- id: fe485cfb6f4a49ddb8f9a66d251197a3
+  zh-hans: 关于您的工资问题，我们还是上次那个意见。
+  pinyin: Guānyú nín de gōngzī wèntí, wǒmen háishì shàng cì nàgè yìjiàn.
+  en: Regarding your salary questions, our views are still the same as last time.
+  es:
+- id: 1732cca6240f4e45a006d5d9edce00be
+  zh-hans: 在我们公司，经理的工资一般比较高。
+  pinyin: Zài wǒmen gōngsī, jīnglǐ de gōngzī yībān bǐjiào gāo.
+  en: At our company, manager salaries are relatively high.
+  es:
+- id: 81067b5125884401a571bb3de30018b6
+  zh-hans: 除了工作要求和工资以外，您还有问题吗？
+  pinyin: Chúle gōngzuò yāoqiú hé gōngzī yǐwài, nín hái yǒu wèntí ma?
+  en: Aside from work requirements and salary, do you have any other quesitons?
+  es:
+- id: 9fb77d5efbf24589ae8829ada95facd6
+  zh-hans: 现在我没有别的问题。
+  pinyin: Xiànzài wǒ méiyǒu bié de wèntí.
+  en: At the moment I don’t have any other questions.
+  es:
+- id: af64bf0f48774a4fb2ff8f77ab674256
+  zh-hans: 好。如果您同意我们已经谈过的一切条件，
+  pinyin: Hǎo. Rúguǒ nín tóngyì wǒmen yǐjīng tánguò de yīqiè tiáojiàn,
+  en: Ok. If you agree with all the conditions we have already discussed,
+  es:
+- id: 9f27fd4724fd4a80981e85825e4b0af5
+  zh-hans: 那么，我们很快就可以签订工作合同。
+  pinyin: nàme, wǒmen hěn kuài jiù kěyǐ qiāndìng gōngzuò hétóng.
+  en: then, we can quickly move onto signing a work contract.
+  es:
+- id: 1c9742ace9db4203b0eab9b0049bcdc5
+  zh-hans: 谢谢您。我想再考虑一下，可以吗？
+  pinyin: Xièxiè nín. Wǒ xiǎng zài kǎolǜ yīxià, kěyǐ ma?
+  en: Thank you. I would like to think it over a little, is that ok?
+  es:
+- id: c29bd2844daf4d8e83cc22c4ca0682b2
+  zh-hans: 可以。无论同意或者不同意，
+  pinyin: Kěyǐ. Wúlùn tóngyì huòzhě bù tóngyì,
+  en: That’s fine. No matter if you agree or not,
+  es:
+- id: 65c4a4507bb342dcaff9840c2e2ca280
+  zh-hans: 都希望您在本星期之内把您的决定告诉我们。
+  pinyin: dōu xīwàng nín zài běn xīngqí zhī nèi bǎ nín de juédìng gàosu wǒmen. Hǎo
+  en: we hope you can let us know of your decision within this week.
+  es:
+- id: 46c5a4cc5cc9409db3620e484a2948cd
+  zh-hans: 好的。
+  pinyin: de.
+  en: No problem.
+  es:
+- id: 765ef66e252f4fe7a7cff465573f0c4a
+  zh-hans: 再见！
+  pinyin: Zàijiàn!
+  en: Byebye!
+  es:
+- id: 343035f8332648e49b04397960752901
+  zh-hans: 再见！
+  pinyin: Zàijiàn!
+  en: Byebye!
+  es:
+- id: d031a2075fca40458ac43a43aff98783
+  zh-hans: 好。
+  pinyin: Hǎo.
+  en: Ok.
+  es:
+- id: 1c745fa3e3d94ef2abf219ec00c253b6
+  zh-hans: 再见。
+  pinyin: Zàijiàn.
+  en: Bye.
+  es:
