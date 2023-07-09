@@ -1,11 +1,19 @@
+# Examples
+#
+# $ python3 generate-vtt.py -p 43-1 -f en,es,zh-hans -o subtitles
+
 import re
 import yaml
 import argparse
 import logging
 import sys
 
-def generate_subtitle_for_field(filename_prefix, field_name, sentences_data, vtt_lines):
-    filename = filename_prefix + '.' + field_name + '.vtt'
+def generate_subtitle_for_field(directory,
+                                filename_prefix,
+                                field_name,
+                                sentences_data,
+                                vtt_lines):
+    filename = f"{directory}/{filename_prefix}.{field_name}.vtt"
     with open(filename, 'w') as f:
         logging.info("""File "%s" has been created.""" % (filename))
         for line in vtt_lines:
@@ -21,9 +29,9 @@ def generate_subtitle_for_field(filename_prefix, field_name, sentences_data, vtt
                 content = ""
             f.write(content + '\n')
 
-def generate_subtitle_for_fields(prefix_of_text, fields):
-    filename_timestamps = prefix_of_text + '-timestamps.vtt'
-    filename_sentences = prefix_of_text + '-sentences.yaml'
+def generate_subtitle_for_fields(prefix_of_text, fields, output_directory):
+    filename_timestamps = f"timestamps/{prefix_of_text}.vtt"
+    filename_sentences = f"sentences/{prefix_of_text}.yaml"
     vtt_lines = []
     with open(filename_timestamps) as f:
         logging.info(f"""Reading contents of file "{filename_timestamps}".""")
@@ -35,7 +43,7 @@ def generate_subtitle_for_fields(prefix_of_text, fields):
         sentences_data = yaml.safe_load(f)
     logging.info("""Number of YAML objects found in "%s": %s""" % (filename_sentences, len(sentences_data)))
     for field in fields:
-        generate_subtitle_for_field(prefix_of_text, field, sentences_data, vtt_lines)
+        generate_subtitle_for_field(output_directory, prefix_of_text, field, sentences_data, vtt_lines)
 
 def check_regex_one_or_multiple_fields(arg_value, pat=re.compile(r"^[a-z-]+(,[a-z-]+)*$")):
     if not pat.match(arg_value):
@@ -64,6 +72,12 @@ parser.add_argument(
     help="Prefix that is used in the files *-sentences.yaml and *-timestamps.vtt")
 
 parser.add_argument(
+    "-o",
+    "--output-directory",
+    dest = "output_directory",
+    help="Directory that will contain the output files.")
+
+parser.add_argument(
     "-f",
     "--fields",
     dest = "fields",
@@ -72,4 +86,7 @@ parser.add_argument(
 
 args = parser.parse_args()
 
-generate_subtitle_for_fields(args.prefix, args.fields.split(','))
+generate_subtitle_for_fields(
+    prefix_of_text = args.prefix,
+    fields = args.fields.split(','),
+    output_directory = args.output_directory if args.output_directory else '.')
