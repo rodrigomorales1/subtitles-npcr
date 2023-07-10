@@ -4,9 +4,14 @@
   en: We all know that female crabs are more tasty than male crabs.
   es:
 - id: e4a774f172544b25bedb2fa08385a64e
-  zh-hans: 在美国，我发现公蟹和母蟹是分开卖的。
-  pinyin: Zài Měiguó, wǒ fāxiàn gōng xiè hé mǔ xiè shì fēn kāi mài de.
-  en: In the United States, I discovered that male crabs and female crabs are sold separately.
+  zh-hans: 在美国，我发现
+  pinyin: Zài Měiguó, wǒ fāxiàn
+  en: In the United States, I discovered that
+  es:
+- id: c5eb3d5330ac4aeeaaf926b70fc833fc
+  zh-hans: 公蟹和母蟹是分开卖的。
+  pinyin: gōng xiè hé mǔ xiè shì fēn kāi mài de.
+  en: male crabs and female crabs are sold separately.
   es:
 - id: b879456220d84a9d9e7c73e1c628fed3
   zh-hans: 更让我觉得奇怪的是，
@@ -129,9 +134,14 @@
   en: 'The host said while eating male crab: “So tasty!”'
   es:
 - id: f3fdae61e34c4f8f8a1afded092460e6
-  zh-hans: 他还解释说，他喜欢公蟹肉又多又嫩，
-  pinyin: Tā hái jiěshì shuō, tā xǐhuan gōng xiè ròu yòu duō yòu nèn,
-  en: He also expained, he likes that male crabs have more meat and the meat is more tender,
+  zh-hans: 他还解释说，
+  pinyin: Tā hái jiěshì shuō,
+  en: He also expained,
+  es:
+- id: 7cdf5c4f96c24e64b4004ef50393d5c9
+  zh-hans: 他喜欢公蟹肉又多又嫩，
+  pinyin: tā xǐhuan gōng xiè ròu yòu duō yòu nèn,
+  en: he likes that male crabs have more meat and the meat is more tender,
   es:
 - id: 05beec19bb0e44489a74ebf6727bf730
   zh-hans: 母蟹不但肉少，而且也不香。
@@ -254,9 +264,14 @@
   en: For example, Americans do not eat chicken feet,
   es:
 - id: 893dc4e8091f4756bcb5c7357a285ec2
-  zh-hans: 可是在中国，鸡爪的价钱比鸡肉还贵。
-  pinyin: kěshì zài Zhōngguó, jī zhuǎ de jiàqián bǐ jīròu hái guì.
-  en: however in China, the price of chicken feet is more expensive than chicken meat.
+  zh-hans: 可是在中国，
+  pinyin: kěshì zài Zhōngguó,
+  en: however in China,
+  es:
+- id: 37b85cbf5951412aaad87747721956b6
+  zh-hans: 鸡爪的价钱比鸡肉还贵。
+  pinyin: jī zhuǎ de jiàqián bǐ jīròu hái guì.
+  en: the price of chicken feet is more expensive than chicken meat.
   es:
 - id: 6a8b38b6d29f4a11a1075c9f1e4126da
   zh-hans: 中国每年都要从美国进口很多的鸡爪，
