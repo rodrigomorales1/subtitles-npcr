@@ -337,22 +337,32 @@
   zh-hans: 要是早点儿知道就好了。
   pinyin: Yàoshi zǎodiǎnr zhīdào jiù hǎole.
   en: If I had known a little earlier it would have been fine.
-2  es: Si lo hubiera sabido antes, hubiera sido mejor.
+  es: Si lo hubiera sabido antes, hubiera sido mejor.
 - id: 4c6ec224c33b47e8ad00bb503b2ebaeb
   zh-hans: 没关系，
   pinyin: Méiguānxì,
   en: That's all right,
   es: No te preocupes,
 - id: 0103c544a0cf44eeb56d1e8810d30919
-  zh-hans: 明年这个时候我们系还有汉语节目表演，
-  pinyin: míngnián zhège shíhou wǒmen xì hái yǒu Hànyǔ jiémù biǎoyǎn,
-  en: next year at this time, our department will also have programs of Chinese performances,
-  es: el siguiente año, por esta época, nuestro departamento también realizará shows en Chino.
+  zh-hans: 明年这个时候
+  pinyin: míngnián zhège shíhou
+  en: next year at this time,
+  es: el siguiente año, por esta época,
+- id: 13dedc83282c4e35b8e1425b74631850
+  zh-hans: 我们系还有汉语节目表演，
+  pinyin: wǒmen xì hái yǒu Hànyǔ jiémù biǎoyǎn,
+  en: our department will also have programs of Chinese performances,
+  es: nuestro departamento también realizará shows en Chino.
 - id: 713d60bed929462f8ce2c7d59e14d932
-  zh-hans: 我想明年该演《阿Ｑ正传》了。
-  pinyin: wǒ xiǎng míngnián gāi yǎn “ā Q zhèng zhuàn”le.
-  en: 'I think, next year, they will be performing "The True Story of Ah Q".'
-  es: 'Creo que el siguiente año van a interpretar "La verdadera historia de Ah Q".'
+  zh-hans: 我想明年该演
+  pinyin: wǒ xiǎng míngnián gāi yǎn
+  en: I think, next year, they will be performing
+  es: Creo que el siguiente año van a interpretar
+- id: ba710ca057254f418fb534ea93580ffe
+  zh-hans: 《阿Ｑ正传》了。
+  pinyin: “ā Q zhèng zhuàn”le.
+  en: '"The True Story of Ah Q".'
+  es: '"La verdadera historia de Ah Q".'
 - id: 69e14d4515234fdabcfe2eb912f7f084
   zh-hans: 来，坐。
   pinyin: Lái, zuò.
