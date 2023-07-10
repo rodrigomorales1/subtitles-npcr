@@ -249,14 +249,9 @@
   en: The guide enthusiastically said to everyone:
   es:
 - id: b07c0131c4f64d3287065d3b046dddfa
-  zh-hans: “你们走的时候，
-  pinyin: “Nǐmen zǒu de shíhou,
-  en: “As you walk by,
-  es:
-- id: 8fc161580c9641b6b3290d5d6867f8d2
-  zh-hans: 别忘了跟巴金先生握手。”
-  pinyin: bié wàngle gēn Bā Jīn xiānshēng wòshǒu.”
-  en: don’t forget to shake hands with Mr. Ba Jin.”
+  zh-hans: “你们走的时候，别忘了跟巴金先生握手。”
+  pinyin: “Nǐmen zǒu de shíhou, bié wàngle gēn Bā Jīn xiānshēng wòshǒu.”
+  en: “When you leave, don’t forget to shake hands with Mr. Ba Jin.”
   es:
 - id: f2a91d20765044a290e59b3d732055d9
   zh-hans: “巴金先生在哪儿？”
