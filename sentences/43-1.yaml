@@ -37,7 +37,7 @@
   zh-hans: 但是我仍然读不懂它的意思。
   pinyin: dànshì wǒ réngrán dú bù dǒng tā de yìsi.
   en: but I still cannot understand their meanings.
-  es: pero aún así no puedo entender sus significados.
+  es: no puedo entender sus significados.
 - id: efc3b146047840329f0ac80fd4a526ac
   zh-hans: 什么句子？
   pinyin: Shénme jùzi?
@@ -49,10 +49,15 @@
   en: For example,
   es: Por ejemplo,
 - id: 920e987113f544b18c42abedfefc480a
-  zh-hans: “孔乙己是站着喝酒而穿长衫的唯一的人”。
+  zh-hans: “孔乙己是
+  pinyin: “Kǒng Yǐjǐ shì
+  en: '"Kong Yiji is'
+  es: '"Kong Yiji es'
+- id: 5ddb33310ef34e2c83f0c2e226d2d93a
+  zh-hans: 站着喝酒而穿长衫的唯一的人”。
   pinyin: “Kǒng Yǐjǐ shì zhànzhe hējiǔ ér chuān chángshān de wéiyī de rén.”
-  en: '"Kong Yiji is the only person drinking alcohol standing up and wearing a long gown."'
-  es: '"Kong Yiji es la única persona que toma alcohol de pie y viste un vestido largo."'
+  en: 'the only person drinking alcohol standing up and wearing a long gown."'
+  es: 'la única persona que toma alcohol de pie y viste un vestido largo."'
 - id: 162ebf9974464f83b3c02025e248141f
   zh-hans: 在这个句子里，
   pinyin: Zài zhège jùzi lǐ,
@@ -77,7 +82,7 @@
   zh-hans: 当时“穿长衫”的，
   pinyin: Dāngshí “chuān chángshān” de,
   en: 'At that time, those who wore "long gowns",'
-  es: En ese entonces, aquellos que vestían los vestidos largos,
+  es: En ese entonces, aquellos que vestían vestidos largos,
 - id: 0c714b8d5cec47f2914cbf44b0113af7
   zh-hans: 不是读书人就是有钱人，
   pinyin: bùshì dúshūrén jiùshì yǒu qián rén,
@@ -102,52 +107,52 @@
   zh-hans: 站着喝酒的人都是做工的穷人，
   pinyin: zhànzhe hējiǔ de rén dōu shì zuògōng de qióngrén,
   en: all of those who were drinking standing up were the working poor,
-  es: 
+  es: todos los que tomaban alcohol de pie eran pobres que trabajaban,
 - id: 5576215cfdd34896905e7b3b04542486
   zh-hans: 都穿着短衣。
   pinyin: dōu chuānzhe duǎn yī.
   en: and they all wore short-clothing.
-  es: 
+  es: todos ellos vestían prendas cortas.
 - id: 3507a260e13845f9a60975281946703e
   zh-hans: 只有孔乙己跟别人不同，
   pinyin: Zhǐyǒu Kǒng Yǐjǐ gēn biérén bùtóng,
   en: Only Kong Yiji was different to other people,
-  es: 
+  es: Solo Kong Yiji era diferente a las otras personas.
 - id: 2a9be7fb594c4e6aaf4786b23db9d0e0
   zh-hans: 他认为自己是读书人，
   pinyin: tā rènwéi zìjǐ shì dúshūrén,
   en: he considered himself a scholar,
-  es: 
+  es: Él cree que es un intelectual,
 - id: 4d96643d9fd949ada34eb543102df1d9
   zh-hans: 总是要穿着长衫；
   pinyin: zǒng shì yào chuānzhe chángshān;
   en: and always wore a long gown;
-  es: 
+  es: siempre viste vestidos largos;
 - id: 789764d5c0884be39f34322192910548
   zh-hans: 可是他现在已经很穷了，
   pinyin: kěshì tā xiànzài yǐjīng hěn qióngle,
   en: but now he was already very poor,
-  es: 
+  es: pero él es pobre,
 - id: e0ebd3c9f7944dc3b9e16efb9cb2ba3b
   zh-hans: 不可能坐下来
   pinyin: bù kěnéng zuò xiàlái
   en: and could not be eat sitting
-  es: 
+  es: no puede estar sentado
 - id: 9f0d24f7d5874464a3f624bed4712b0f
   zh-hans: 跟有钱人一样地吃、喝，
   pinyin: gēn yǒu qián rén yīyàng de chī, hē,
   en: like the rich people to eat and drink,
-  es: 
+  es: ni puede comer ni tomar como las personas ricas,
 - id: 9c59c95f66a2495e8bf0d3e4e818f64e
   zh-hans: 只能和穿短衣的穷人一起
   pinyin: zhǐ néng hé chuān duǎn yī de qióngrén yīqǐ
   en: could only be with the poor people that wore short clothes
-  es: 
+  es: sólo puede estar con las personas pobres que visten prendas cortas
 - id: e1f484c069e7476685bcd3ac44b225c1
   zh-hans: “站着喝酒”。
   pinyin: “zhànzhe hējiǔ”.
   en: and drank beer while standing.
-  es: 
+  es: y beben alcohol de pie.
 - id: ca3cdbbd3f7c4758b0740f9261929a8c
   zh-hans: 这句话表示
   pinyin: Zhè jù huà biǎoshì
@@ -182,22 +187,22 @@
   zh-hans: 这句话的意思是讽刺孔乙己吧？
   pinyin: zhè jù huà de yìsi shì fèngcì Kǒng Yǐjǐ ba?
   en: this sentence intends to satirize Kong Yiji, right?
-  es: 
+  es: esta oración intenta satirizar a Kong Yiji ¿cierto?
 - id: a786cde9bfcd4c23a318c862238a4c77
   zh-hans: 是讽刺孔乙己。
   pinyin: Shì fèngcì Kǒng Yǐjǐ.
   en: It does intend to satirize Kong Yiji.
-  es: 
+  es: Sí, intenta satirizar a Kong Yiji.
 - id: 862f68afe47a425b88a49da730a25170
   zh-hans: 鲁迅先生在这篇小说里
   pinyin: Lǔ Xùn xiānshēng zài zhè piān xiǎoshuō lǐ
   en: Mr. Lu Xun, in this novel,
-  es: 
+  es: Lu Xun, en esta novela,
 - id: a86aed0a320f411e9110b57a7ffdb40c
   zh-hans: 也揭露了封建社会。
   pinyin: yě jiēlù le fēngjiàn shèhuì.
   en: also exposes the feudal society.
-  es: 
+  es: también muestra a la sociedad feudal.
 - id: 1c8c37cfbb1e4326b8454dfd261b590c
   zh-hans: 你说得很对。
   pinyin: Nǐ shuō de hěn duì.
@@ -207,17 +212,17 @@
   zh-hans: 小云，谢谢你。
   pinyin: Xiǎo Yún, xièxiè nǐ.
   en: Xiao Yun, thank you.
-  es: 
+  es: Xiao Yun, gracias.
 - id: a24fca31a5c34a95acc0bdefbe05eb00
   zh-hans: 没有你的解释，
   pinyin: Méiyǒu nǐ de jiěshì,
   en: Without your explanation,
-  es: 
+  es: Sin tu explicación,
 - id: 57c1f2afb26140be9f3030a8fe60ae93
   zh-hans: 我就搞不清楚这句话的意思。
   pinyin: wǒ jiù gǎo bù qīngchu zhè jù huà de yìsi.
   en: I can't figure out the meaning of this sentence.
-  es: 
+  es: no conseguiría entender claramente el significado de esta oración.
 - id: d3dd37c69e1c4d7fb0d5af2c4eb8022d
   zh-hans: 别那么客气。
   pinyin: Bié nàme kèqì.
@@ -237,37 +242,37 @@
   zh-hans: 是啊，
   pinyin: Shì a,
   en: Yes,
-  es: 
+  es: Sí,
 - id: 833b1eb8585a40358185852577e8bc69
   zh-hans: 我们班演的相声，
   pinyin: wǒmen bān yǎn de xiàngsheng,
   en: our class performed a comic dialogue,
-  es: Nuestra clase interpretó una comedia.
+  es: Nuestra clase interpretó una comedia,
 - id: 88a60989ed2e4b71be82bad88e99eabc
   zh-hans: 大家都笑死了。
   pinyin: dàjiā dōu xiào sǐle.
   en: everyone laughed themselves to death.
-  es: 
+  es: todos se rieron hasta morir.
 - id: c97cd43bf0ca4453907c379dd51d24e9
   zh-hans: 你知道吗？
   pinyin: Nǐ zhīdào ma?
   en: Do you know?
-  es: 
+  es: ¿Sabías...?
 - id: bfda0d4695fc48d2807c91b26691e6a8
   zh-hans: 有个节目就是表演
   pinyin: Yǒu gè jiémù jiùshì biǎoyǎn
   en: One of the performances
-  es: 
+  es: Una de las interpretaciones
 - id: b12651436e7f4812acc2f791c7c36055
   zh-hans: 孔乙己在咸亨酒店喝酒。
   pinyin: Kǒng Yǐjǐ zài Xiánhēng jiǔdiàn hējiǔ.
   en: were of Kong Yiji drinking at the Xianheng hotel.
-  es: 
+  es: era sobre Kong Yiji tomando alcohol en el hotel Xianheng.
 - id: f4f73dee5fc94beb8e7c023e86da6b2c
   zh-hans: 谁演孔乙己？
   pinyin: Sheí yǎn Kǒng Yǐjǐ?
   en: Who performed Kong Yiji?
-  es: 
+  es: ¿Quién interpretó a Kong Yiji?
 - id: 71bddefbcc9b4009b9ef5399a97f6da7
   zh-hans: 高年级的一个留学生演孔乙己。
   pinyin: Gāo niánjí de yīgè liúxuéshēng yǎn kǒng yǐjǐ.
@@ -292,12 +297,12 @@
   zh-hans: 站在柜台前
   pinyin: zhàn zài guìtái qián
   en: stands in front of the counter
-  es: se para al frente del mostrador
+  es: se para al frente del mostrador y
 - id: 5974021c633a49d69e50d2e0859ee539
   zh-hans: 问店里的小伙计：
   pinyin:  'wèn diàn lǐ de xiǎo huǒjì:'
   en: 'and ask the waiter of the hotel:'
-  es: 'y le pregunta al camarero del hotel:'
+  es: 'le pregunta al camarero del hotel:'
 - id: 9d9c9af13fdb4861bbc655c3fd3a574f
   zh-hans: 你读过书吗？
   pinyin:  Nǐ dúguò shū ma?
@@ -327,12 +332,12 @@
   zh-hans: 没有来看你们的节目。
   pinyin: méiyǒu lái kàn nǐmen de jiémù.
   en: and didn't come to see your performance.
-  es: no vine a ver el programa de ustedes.
+  es: no pude venir a ver el programa de ustedes.
 - id: 7999b148cb774ffa92eb9d716fc68a32
   zh-hans: 要是早点儿知道就好了。
   pinyin: Yàoshi zǎodiǎnr zhīdào jiù hǎole.
   en: If I had known a little earlier it would have been fine.
-  es: Si lo hubiera sabido antes, hubiera sido mejor.
+2  es: Si lo hubiera sabido antes, hubiera sido mejor.
 - id: 4c6ec224c33b47e8ad00bb503b2ebaeb
   zh-hans: 没关系，
   pinyin: Méiguānxì,
