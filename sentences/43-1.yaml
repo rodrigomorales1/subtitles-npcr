@@ -49,20 +49,10 @@
   en: For example,
   es: Por ejemplo,
 - id: 920e987113f544b18c42abedfefc480a
-  zh-hans: “孔乙己是
-  pinyin: “Kǒng Yǐjǐ shì
-  en: '"Kong Yiji is the only person'
-  es: Kong Yiji es la única persona
-- id: f8d62aed9da849888f12e3ea6cd5930a
-  zh-hans: 站着喝酒
-  pinyin:  zhànzhe hējiǔ
-  en: drinking alcohol standing up
-  es: que toma alcohol estando parado
-- id: d0f2e85de9684b3098ce1f1f17c9ac0a
-  zh-hans: 而穿长衫的唯一的人”。
-  pinyin: ér chuān chángshān de wéiyī de rén.”
-  en: and wearing a long gown
-  es: y es la única persona que viste un vestido largo.
+  zh-hans: “孔乙己是站着喝酒而穿长衫的唯一的人”。
+  pinyin: “Kǒng Yǐjǐ shì zhànzhe hējiǔ ér chuān chángshān de wéiyī de rén.”
+  en: '"Kong Yiji is the only person drinking alcohol standing up and wearing a long gown."'
+  es: '"Kong Yiji es la única persona que toma alcohol de pie y viste un vestido largo."'
 - id: 162ebf9974464f83b3c02025e248141f
   zh-hans: 在这个句子里，
   pinyin: Zài zhège jùzi lǐ,
