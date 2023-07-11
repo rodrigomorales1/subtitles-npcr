@@ -128,10 +128,20 @@
   pinyin: Bā Jīn xiānshēng zhème dà suìshule,
   en: Mr. Ba Jin with such large age,
   es:
+- id: 55be8385507148639387c0a40e600cf5
+  zh-hans: 巴金先生已经去世了，
+  pinyin: Bājīn xiānshēng yǐjīng qùshì le,
+  en: Mr. Ba Jin has passed away,
+  es:
 - id: fe84c35339e74e25a349ebf4dc23c2c1
   zh-hans: 难道他会每天在那儿跟参观的人握手吗？
   pinyin: nándào tā huì měitiān zài nàr gēn cānguān de rén wòshǒu ma?
   en: is he really there everyday shaking hands with the visitors?
+  es:
+- id: 549dfc85b9724056945c4c081a01a009
+  zh-hans: 怎么会每天在那儿跟参观的人握手呢？
+  pinyin: zěnme huì měitiān zài nà'er gēn cānguān de rén wòshǒu ne?
+  en: how could he shake hands with visitors there every day?
   es:
 - id: 2890e61d7012430e929dcaea5be455c9
   zh-hans: 这当然是不可能的，
