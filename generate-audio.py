@@ -1,40 +1,49 @@
 import re
-import json
-import yaml
 import argparse
+import utilities
 
 parser = argparse.ArgumentParser()
 
 parser.add_argument(
-    "-a",
-    dest = "path_audio",
-    required = True)
-
-parser.add_argument(
-    "-t",
-    dest = "path_timestamps",
+    "-m",
+    "--media",
+    dest = "media",
     required = True)
 
 parser.add_argument(
     "-s",
-    dest = "path_sentences",
+    "--sentences",
+    dest = "sentences",
+    required = True)
+
+parser.add_argument(
+    "-t",
+    "--timestamps",
+    dest = "timestamps",
     required = True)
 
 parser.add_argument(
     "-o",
-    dest = "path_output",
+    "--output",
+    dest = "output",
     required = True)
+
+parser.add_argument(
+    "-ss",
+    "--start-time",
+    dest = "start_time")
+
+parser.add_argument(
+    "-to",
+    "--end-time",
+    dest = "end_time")
 
 args = parser.parse_args()
 
-colors = ['77CCDD', 'EECC88', '339999', '99AA44', 'CC9966']
-
-def insert_colors_in_values(value):
-    regex = r'{([0-9]+):([^}]+)}'
-    return re.sub(regex, lambda x: f'{{\\1c&H{colors[int(x.group(1))-1]}&}}{x.group(2)}{{\\c}}', value)
-
 def generate_ass_file(data_timestamps_sentences):
     import tempfile
+
+    utilities.insert_colors_in_keys(data_timestamps_sentences, ['zh-hans', 'pinyin', 'es', 'es'])
 
     temporary_file = tempfile.NamedTemporaryFile(suffix='.ass')
 
@@ -44,15 +53,15 @@ ScriptType: v4.00+
 
 [V4+ Styles]
 Format: Name,      Fontname,                      Fontsize, Outline,     PrimaryColour, Shadow, Bold, Alignment, MarginV
-Style:  1-pinyin,    Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2, 250
-Style:  1-zh-hans,   Noto Sans Mono CJK SC Regular, 32,       0,           &HFFFFFF,      0,      0,    2, 215
-Style:  1-en,        Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2, 195
-Style:  2-pinyin,    Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2, 145
-Style:  2-zh-hans,   Noto Sans Mono CJK SC Regular, 32,       0,           &HFFFFFF,      0,      0,    2, 120
-Style:  2-en,        Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2, 100
-Style:  3-pinyin,    Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2, 55
-Style:  3-zh-hans,   Noto Sans Mono CJK SC Regular, 32,       0,           &HFFFFFF,      0,      0,    2, 30
-Style:  3-en,        Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2, 10
+Style:  1-pinyin,  Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         250
+Style:  1-zh-hans, Noto Sans Mono CJK SC Regular, 32,       0,           &HFFFFFF,      0,      0,    2,         215
+Style:  1-en,      Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         195
+Style:  2-pinyin,  Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         145
+Style:  2-zh-hans, Noto Sans Mono CJK SC Regular, 32,       0,           &HFFFFFF,      0,      0,    2,         120
+Style:  2-en,      Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         100
+Style:  3-pinyin,  Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         55
+Style:  3-zh-hans, Noto Sans Mono CJK SC Regular, 32,       0,           &HFFFFFF,      0,      0,    2,         30
+Style:  3-en,      Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         10
 
 [Events]
 Format: Start, End, Style, Text""")
@@ -88,65 +97,37 @@ Dialogue: {start_time}, {end_time}, 3-en, {data_timestamps_sentences[i+2]['es']}
 
     return temporary_file
 
-def generate_video(path_audio, path_output, ass_file):
+def generate_video(path_audio, path_output, ass_file, start_time=None, end_time=None):
     import subprocess
-    cmd = ['ffmpeg',
-           # '-v', 'error',
-           '-y',
-           '-f', 'lavfi',
-           '-i', 'color=c=black:s=1280x720',
-           '-i', path_audio,
-           # '-ss', '00:00:40',
-           # '-to', '00:00:50',
-           '-vf', f'subtitles={ass_file}',
-           '-c:a', 'copy',
-           '-shortest',
-           path_output]
+    import itertools
+
+    cmd = list(itertools.chain.from_iterable(
+        [x for x in [
+            ['ffmpeg',
+             '-y',
+             '-f', 'lavfi',
+             '-i', 'color=c=black:s=1920x1080',
+             '-i', path_audio],
+            ['-ss', start_time, '-to', end_time] if start_time and end_time else None,
+            ['-vf', f'subtitles={ass_file}',
+             '-c:a', 'copy',
+             '-shortest',
+             path_output]
+        ] if x is not None]))
+
     subprocess.run(cmd)
 
-def collect_timestamps_sentences(filename_timestamps, filename_sentences):
-    data_timestamps_sentences = []
-
-    with open(filename_timestamps, 'r') as f:
-        lines = f.readlines()
-        for i in range(len(lines)):
-            if results := re.search(r"^([0-9]{2}:[0-9]{2}:[0-9]{2}.[0-9]{2})[0-9] --> ([0-9]{2}:[0-9]{2}:[0-9]{2}.[0-9]{2})[0-9]", lines[i]):
-                start = results.group(1)
-                end = results.group(2)
-                id = lines[i+1].rstrip()
-                data_timestamps_sentences.append({
-                    'id': id,
-                    'start': start,
-                    'end': end,
-                })
-
-    with open(filename_sentences) as f:
-        data_sentences = yaml.safe_load(f)
-
-    # We iterate through the timestamps.
-    #
-    # We don't iterate through the sentences, because a given sentence
-    # can be used twice.
-
-    for data_item in data_timestamps_sentences:
-        sentence  = next(item for item in data_sentences if item['id'] == data_item['id'])
-        for key, value in sentence.items():
-            if key == 'id':
-                continue
-            if re.search(r'{[0-9]+:[^}]+}', value):
-                data_item[key] = insert_colors_in_values(value)
-            else:
-                data_item[key] = value
-
-    return data_timestamps_sentences
-
-data_timestamps_sentences = collect_timestamps_sentences(
-    args.path_timestamps,
-    args.path_sentences)
+data_timestamps_sentences = utilities.get_data_timestamps_sentences_from_files(
+    args.timestamps,
+    args.sentences)
 
 temporary_file = generate_ass_file(data_timestamps_sentences)
 
-generate_video(
-    args.path_audio,
-    args.path_output,
-    temporary_file.name)
+import shutil
+
+shutil.copy(temporary_file.name, '/home/rdrg/e/a.ass')
+
+if args.start_time and args.end_time:
+    generate_video(args.media, args.output, temporary_file.name, args.start_time, args.end_time)
+else:
+    generate_video(args.media, args.output, temporary_file.name)
