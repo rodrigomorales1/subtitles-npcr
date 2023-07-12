@@ -14,30 +14,30 @@
   en: '"Kong Yiji"'
   es: '"Kong Yiji"'
 - id: 6d5acba8d6064a17b9a1b8d7c56fdeb6
-  zh-hans: 你现在读《孔乙己》这样的小说，
-  pinyin: Nǐ xiànzài dú “Kǒng Yǐjǐ” zhèyàng de xiǎoshuō,
-  en: Now you're reading a novel like "Kong Yiji",
-  es: Ahora estás leyendo una novela como "Kong Yiji",
+  zh-hans: 你现在(1:读)《(2:孔乙己)》这样的(3:小说)，
+  pinyin: Nǐ xiànzài (1:dú) “(2:Kǒng Yǐjǐ)” zhèyàng de (3:xiǎoshuō),
+  en: Now you're (1:reading) a (3:novel) like "(2:Kong Yiji)",
+  es: Ahora estás (1:leyendo) una (3:novela) como "(2:Kong Yiji)",
 - id: c22b6709fde34b55bc87eba99ca86536
-  zh-hans: 觉得难不难？
-  pinyin: jué dé nàn bù nán?
-  en: do you think it's difficult or not?
-  es: ¿Crees que es difícil o no?
+  zh-hans: (1:觉得)(2:难)不(2:难)？
+  pinyin: (1:jué dé) (2:nàn) bù (2:nán)?
+  en: do you (1:think) it's (2:difficult) or not?
+  es: ¿(1:Crees) que es (2:difícil) o no?
 - id: 5fdc4b7713b64c7fb64183008483cada
-  zh-hans: 难死了。
-  pinyin: Nán sǐle.
-  en: Extremely difficult.
-  es: Extremadamente difícil.
+  zh-hans: (1:难)死了。
+  pinyin: (1:Nán) sǐ le.
+  en: Extremely (1:difficult).
+  es: Extremadamente (1:difícil).
 - id: a51d2e454dc94afcb8903779503ac5c3
-  zh-hans: 有些句子虽然没有生词，
-  pinyin: Yǒuxiē jùzi suīrán méiyǒu shēngcí,
-  en: Even though some sentences have no new words,
-  es: A pesar de que algunas oraciones no tienen palabras nuevas,
+  zh-hans: (1:有些)(2:句子)(3:虽然)(4:没有)(5:生词)，
+  pinyin: (1:Yǒuxiē) (2:jùzi) (3:suīrán) (4:méiyǒu) (5:shēngcí),
+  en: "(3:Although) (1:some) (2:sentences) (4:don't have) (5:new words),"
+  es: (3:A pesar de que) (1:algunas) (2:oraciones) (4:no tienen) (5:palabras nuevas),
 - id: 5e0c3a07e084410b8142744b74974f50
-  zh-hans: 但是我仍然读不懂它的意思。
-  pinyin: dànshì wǒ réngrán dú bù dǒng tā de yìsi.
-  en: but I still cannot understand their meanings.
-  es: no puedo entender sus significados.
+  zh-hans: 但是我(1:仍然)读不懂它的(2:意思)。
+  pinyin: dànshì wǒ (1:réngrán) dú bù dǒng tā de (2:yìsi).
+  en: I (1:still) cannot understand their (2:meanings).
+  es: (1:aun así) no puedo entender sus (2:significados).
 - id: efc3b146047840329f0ac80fd4a526ac
   zh-hans: 什么句子？
   pinyin: Shénme jùzi?
@@ -55,24 +55,24 @@
   es: '"Kong Yiji es'
 - id: 5ddb33310ef34e2c83f0c2e226d2d93a
   zh-hans: 站着喝酒而穿长衫的唯一的人”。
-  pinyin: “Kǒng Yǐjǐ shì zhànzhe hējiǔ ér chuān chángshān de wéiyī de rén.”
+  pinyin: “zhànzhe hējiǔ ér chuān chángshān de wéiyī de rén.”
   en: 'the only person drinking alcohol standing up and wearing a long gown."'
   es: 'la única persona que toma alcohol de pie y viste un vestido largo."'
 - id: 162ebf9974464f83b3c02025e248141f
-  zh-hans: 在这个句子里，
-  pinyin: Zài zhège jùzi lǐ,
-  en: In this sentence,
-  es: En esta oración,
+  zh-hans: (1:在)(2:这个)(3:句子)里，
+  pinyin: (1:Zài) (2:zhège) (3:jùzi) lǐ,
+  en: (1:In) (2:this) (3:sentence),
+  es: (1:En) (2:esta) (3:oración),
 - id: d975f05163f94230a0c567b388d569ab
-  zh-hans: 鲁迅先生这样写孔乙己，
-  pinyin: Lǔ Xùn xiānshēng zhèyàng xiě Kǒng Yǐjǐ,
-  en: Mr. Lu Xun writes of Kong Yiji like this,
-  es: Lu Xun escribe sobre Kong Yiji así,
+  zh-hans: (1:鲁迅)(2:先生)(3:这样)(4:写)(5:孔乙己)，
+  pinyin: (1:Lǔ Xùn) (2:xiānshēng) (3:zhèyàng) (4:xiě) (5:Kǒng Yǐjǐ),
+  en: (1:Mr. Lu Xun) (4:writes) of (5:Kong Yiji) (3:like this),
+  es: (1:Lu Xun) (4:escribe) sobre (5:Kong Yiji) (3:así),
 - id: 4eb8513e8d25471083edad7ec4fb83b6
-  zh-hans: 有什么特别的意思？
-  pinyin: yǒu shénme tèbié de yìsi?
-  en: does it have some special meaning?
-  es: ¿tiene un significado especial?
+  zh-hans: (1:有)什么(2:特别)的(3:意思)？
+  pinyin: (1:yǒu) shénme (2:tèbié) de (3:yìsi)?
+  en: does it (1:have) some (2:special) (3:meaning)?
+  es: ¿(1:tiene) un (3:significado) (2:especial)?
 - id: 678b0ce1055c4967b78dc897c83472da
   zh-hans: 有啊。
   pinyin: Yǒu a.
@@ -84,10 +84,10 @@
   en: 'At that time, those who wore "long gowns",'
   es: En ese entonces, aquellos que vestían vestidos largos,
 - id: 0c714b8d5cec47f2914cbf44b0113af7
-  zh-hans: 不是读书人就是有钱人，
-  pinyin: bùshì dúshūrén jiùshì yǒu qián rén,
-  en: were either the scholars or the rich people,
-  es: eran los intelectuales o las personas ricas,
+  zh-hans: 不是(1:读书人)就是(2:有钱人)，
+  pinyin: bùshì (1:dúshūrén) jiùshì (2:yǒu qián rén),
+  en: were either the (1:scholars) or the (2:rich people),
+  es: eran los (1:intelectuales) o las (2:personas ricas),
 - id: 3b3785843b3d492ea407a8bfeec252c9
   zh-hans: 他们去咸亨酒店，
   pinyin: tāmen qù Xiánhēng jiǔdiàn,
@@ -99,15 +99,15 @@
   en: they drink and eat while sitting down.
   es: todos comen y beben estando sentados.
 - id: ecc2391f2bc74e9bb67b645c3a2013a3
-  zh-hans: 在酒店里，
-  pinyin: Zài jiǔdiàn lǐ,
-  en: In the hotel,
-  es: En el hotel,
+  zh-hans: (1:在)(2:酒店)里，
+  pinyin: (1:Zài) (2:jiǔdiàn) lǐ,
+  en: (1:In) the (2:hotel),
+  es: (1:En) el (2:hotel),
 - id: 80f9c324d7d747d5b5e840654a64eb1e
-  zh-hans: 站着喝酒的人都是做工的穷人，
-  pinyin: zhànzhe hējiǔ de rén dōu shì zuògōng de qióngrén,
-  en: all of those who were drinking standing up were the working poor,
-  es: todos los que tomaban alcohol de pie eran pobres que trabajaban,
+  zh-hans: (1:站着)(2:喝酒)的人都是(3:做工)的(4:穷人)，
+  pinyin: (1:zhànzhe) (2:hējiǔ) de rén dōu shì (3:zuògōng) de (4:qióngrén),
+  en: all of those who were (2:drinking alcohol) (1:standing up) were the (3:working) (4:poor),
+  es: todos los que (2:tomaban alcohol) (1:de pie) eran (4:pobres) que (3:trabajaban),
 - id: 5576215cfdd34896905e7b3b04542486
   zh-hans: 都穿着短衣。
   pinyin: dōu chuānzhe duǎn yī.
@@ -174,30 +174,30 @@
   en: Not understanding the social situation at that time,
   es: No conocer la situación de la sociedad en ese entonces,
 - id: fb5731d0fc0c4d8aaa3b51a3ac02b701
-  zh-hans: 就很难理解这句话的意思。
-  pinyin: jiù hěn nán lǐjiě zhè jù huà de yìsi.
-  en: then it will be difficult to understand the meaning of this sentence.
-  es: hace díficil entender el significado de esta oración.
+  zh-hans: 就很(1:难)(2:理解)(3:这)(4:句话)的(5:意思)。
+  pinyin: jiù hěn (1:nán) (2:lǐjiě) (3:zhè) (4:jù huà) de (5:yìsi).
+  en: then it will be (1:difficult) to (2:understand) the (5:meaning) of (3:this) (4:sentence).
+  es: hace (1:díficil) (2:entender) el (5:significado) de (3:esta) (4:oración).
 - id: 12f0c2e1689d4303bbe1dc2931ed9290
   zh-hans: 那么，
   pinyin: Nàme,
   en: So,
   es: Entonces,
 - id: d131779316834a998a794bbd7251876a
-  zh-hans: 这句话的意思是讽刺孔乙己吧？
-  pinyin: zhè jù huà de yìsi shì fèngcì Kǒng Yǐjǐ ba?
-  en: this sentence intends to satirize Kong Yiji, right?
-  es: esta oración intenta satirizar a Kong Yiji ¿cierto?
+  zh-hans: (1:这)(2:句话)的(3:意思)是(4:讽刺)(5:孔乙己)(6:吧)？
+  pinyin: (1:zhè) (2:jù huà) de (3:yìsi) shì (4:fèngcì) (5:Kǒng Yǐjǐ) (6:ba)?
+  en: the (3:meaning) of (1:this) (2:sentence) intends to (4:satirize) (5:Kong Yiji), (6:right?)
+  es: el (3:significado) (1:esta) (2:oración) intenta (4:satirizar) a (5:Kong Yiji) (6:¿cierto?)
 - id: a786cde9bfcd4c23a318c862238a4c77
-  zh-hans: 是讽刺孔乙己。
-  pinyin: Shì fèngcì Kǒng Yǐjǐ.
-  en: It does intend to satirize Kong Yiji.
-  es: Sí, intenta satirizar a Kong Yiji.
+  zh-hans: 是(2:讽刺)(3:孔乙己)。
+  pinyin: Shì (2:fèngcì) (3:Kǒng Yǐjǐ).
+  en: It does intend to (2:satirize) (3:Kong Yiji).
+  es: Sí, intenta (2:satirizar) a (3:Kong Yiji).
 - id: 862f68afe47a425b88a49da730a25170
-  zh-hans: 鲁迅先生在这篇小说里
-  pinyin: Lǔ Xùn xiānshēng zài zhè piān xiǎoshuō lǐ
-  en: Mr. Lu Xun, in this novel,
-  es: Lu Xun, en esta novela,
+  zh-hans: (1:鲁迅)(2:先生)(3:在)(4:这)篇(4:小说)里
+  pinyin: (1:Lǔ Xùn) (2:xiānshēng) (3:zài) (4:zhè) piān (5:xiǎoshuō) lǐ
+  en: (2:Mr.) (1:Lu Xun), (3:in) (4:this) (5:novel),
+  es: (1:Lu Xun), (3:en) (4:esta) (5:novela),
 - id: a86aed0a320f411e9110b57a7ffdb40c
   zh-hans: 也揭露了封建社会。
   pinyin: yě jiēlù le fēngjiàn shèhuì.
