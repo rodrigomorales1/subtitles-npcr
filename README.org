@@ -1,85 +1,26 @@
 * Utilities
 
-Generate =*.vtt= files for a given text and for a set of given languages.
-
+#+HEADER: :dir (or default-directory)
+#+HEADER: :results silent
 #+begin_src sh
-python3 generate-vtt.py -p 43-1 -f en,es
+python3 generate-audio.py \
+        --media "timestamps/audios/43-1.flac" \
+        --timestamps "timestamps/audios/43-1.vtt" \
+        --sentences "sentences/43-1.yaml" \
+        --output "output.mp4" \
+        --start-time 00:01:20 \
+        --end-time 00:01:40
 #+end_src
-
-Generate video for a given text. The subtitles need to be generated beforehand.
-
-#+begin_src sh
-python3 generate-video.py -p 43-1
-#+end_src
-
-Generate video for a given text between a given time.
-
-#+begin_src sh
-python3 generate-video.py -p 43-1 -ss 00:00:10 -to 00:00:20
-#+end_src
-
-* Vanilla commands
-:PROPERTIES:
-:CREATED: [2023-07-08 00:29:02 -05]
-:END:
-
-Subtitles below video
 
 #+HEADER: :dir (or default-directory)
 #+HEADER: :results silent
 #+begin_src sh
-filename_prefix="43-1"
-
-subtitle_1="subtitles=$filename_prefix.pinyin.vtt:force_style='fontname=Noto Sans,fontsize=20,MarginV=46,Outline=0'"
-subtitle_2="subtitles=$filename_prefix.zh-hans.vtt:force_style='fontname=Noto Sans Mono CJK SC Regular,fontsize=32,MarginV=18,Outline=0,PrimaryColour=&H0000FFFF'"
-subtitle_3="subtitles=$filename_prefix.en.vtt:force_style='fontname=Noto Sans,fontsize=20,MarginV=2,Outline=0'"
-subtitles="$subtitle_1,$subtitle_2$,$subtitle_3"
-
-ffmpeg -v error -y \
-       -f lavfi \
-       -i color=c=black:s=1920x1080 \
-       -i "$filename_prefix-timestamps.webm"  -ss 00:01:05 -to 00:01:15 \
-       -filter_complex "[1:v]scale=-1:820 [ovrl],[0:v][ovrl]overlay=(main_w-overlay_w)/2:0:shortest=1,$subtitles" \
-       -c:v libx264 -profile:v baseline -level 3.0 -pix_fmt yuv420p \
-       output.mp4
-#+end_src
-
-Subtitles on top of video. Compacted dimensions.
-
-#+HEADER: :dir (or default-directory)
-#+HEADER: :results silent
-#+begin_src sh
-filename_prefix="43-1"
-
-subtitle_1="subtitles=$filename_prefix.pinyin.vtt:force_style='fontname=Noto Sans,fontsize=20,MarginV=46,Outline=0'"
-subtitle_2="subtitles=$filename_prefix.zh-hans.vtt:force_style='fontname=Noto Sans Mono CJK SC Regular,fontsize=32,MarginV=18,Outline=0,PrimaryColour=&H0000FFFF,Bold=1'"
-subtitle_3="subtitles=$filename_prefix.en.vtt:force_style='fontname=Noto Sans,fontsize=18,MarginV=2,Outline=0'"
-subtitles="$subtitle_1,$subtitle_2$,$subtitle_3"
-
-ffmpeg -v error -y \
-       -f lavfi \
-       -i color=c=black:s=1920x1080 \
-       -i "$filename_prefix-timestamps.webm" -ss 00:00:20 -to 00:00:30 \
-       -filter_complex "[1:v]scale=-1:1080 [ovrl],[0:v][ovrl]overlay=(main_w-overlay_w)/2:0:shortest=1,drawbox=y=ih-250:height=250:t=fill:color=black@0.7,$subtitles" \
-       output.mp4
-#+end_src
-
-Subtitles on top of video. Mandarin Corner style.
-
-#+HEADER: :dir (or default-directory)
-#+HEADER: :results silent
-#+begin_src sh
-filename_prefix="43-1"
-
-subtitle_1="subtitles=$filename_prefix.pinyin.vtt:force_style='fontname=Noto Sans,fontsize=20,MarginV=56,Outline=0'"
-subtitle_2="subtitles=$filename_prefix.zh-hans.vtt:force_style='fontname=Noto Sans Mono CJK SC Regular,fontsize=32,MarginV=25,Outline=0,PrimaryColour=&H0000FFFF,Bold=1,Spacing=3'"
-subtitle_3="subtitles=$filename_prefix.en.vtt:force_style='fontname=Noto Sans,fontsize=19,MarginV=7,Outline=0'"
-subtitles="$subtitle_1,$subtitle_2$,$subtitle_3"
-
-ffmpeg -v error -y \
-       -f lavfi \
-       -i color=c=black:s=1920x1080 \
-       -i "$filename_prefix-timestamps.webm" -ss 00:00:20 -to 00:00:30 \
-       -filter_complex "[1:v]scale=-1:1080 [ovrl],[0:v][ovrl]overlay=(main_w-overlay_w)/2:0:shortest=1,drawbox=y=ih-300:height=300:t=fill:color=black@0.7,$subtitles" \
-       output.mp4
+python3 generate-video.py \
+        --do-color-words True \
+        --media "timestamps/videos/43-1.webm" \
+        --timestamps "timestamps/videos/43-1.vtt" \
+        --sentences "sentences/43-1.yaml" \
+        --output "output.mp4" \
+        --start-time 00:00:30 \
+        --end-time 00:00:40
 #+end_src
