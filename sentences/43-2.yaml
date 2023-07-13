@@ -334,7 +334,7 @@
   en: you are friend of Chinese (1:youth),
   es: usted es amigo de la (1:juventud) china,
 - id: 3a377b05009b4ce3b6a5d202f7d3ea97
-  zh-hans: 也是我们的(1:朋友)。
-  pinyin: yěshì wǒmen de (1:péngyǒu).
-  en: and also our (1:friend).
-  es: y también es nuestro (1:amigo)
+  zh-hans: (1:也)是(2:我们)的(3:朋友)。
+  pinyin: (1:yě) shì (2:wǒmen) de (3:péngyǒu).
+  en: and (1:also) (2:our) (3:friend).
+  es: y (1:también) es (2:nuestro) (3:amigo)
