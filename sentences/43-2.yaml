@@ -324,10 +324,10 @@
   en: (1:Dear) Mr. Ba Jin, hello!
   es: '(1:Querido) Ba Jin ¡hola!'
 - id: d3c79d987a944f5cbbfd2aea53a57db6
-  zh-hans: 我很喜欢您的(1:作品)，
-  pinyin: Wǒ hěn xǐhuan nín de (1:zuòpǐn),
-  en: I really like your (1:work),
-  es: Realmente me gusta tu (1:trabajo),
+  zh-hans: (1:我)(2:很)(3:喜欢)(4:您)的(5:作品)，
+  pinyin: (1:Wǒ) (2:hěn) (3:xǐhuan) (4:nín) de (5:zuòpǐn),
+  en: (1:I) (2:really) (3:like) (4:your) (5:work),
+  es: (2:Realmente) me (3:gustan) (4:sus) (5:obras),
 - id: c5518f0e2f6c4418867dd67cc52a96a0
   zh-hans: 您是中国(1:青年)的朋友，
   pinyin: nín shì Zhōngguó (1:qīngnián) de péngyǒu,
