@@ -2,7 +2,7 @@
   zh-hans: 我对中国现代文学很感兴趣，
   pinyin: Wǒ duì Zhōngguó xiàndài wénxué hěn gǎn xìngqù,
   en: I am very interested in modern Chinese literature,
-  es:
+  es: 
 - id: 6373aaa3d8f64570858ffb224fede34a
   zh-hans: 尤其喜欢鲁迅、
   pinyin: yóuqí xǐhuan Lǔ Xùn,
@@ -64,9 +64,9 @@
   en: Last week Libo said to me:
   es:
 - id: 3a45b632ca5745e7a6ce0b44d9f9dcbe
-  zh-hans: “你还是去参观一下中国现代文学馆吧。
-  pinyin: “Nǐ háishì qù cānguān yīxià Zhōngguó Xiàndài Wénxué Guǎn ba.
-  en: “You had better go to visit the Chinese Museum of Modern Literature.
+  zh-hans: “(1:你)(2:还是)(3:去)(4:参观)一下(5:中国)(6:现代)(7:文学)馆吧。
+  pinyin: “(1:Nǐ) (2:háishì) (3:qù) (4:cānguān) yīxià (5:Zhōngguó) (6:Xiàndài) (7:Wénxué) Guǎn ba.
+  en: “(1:You) (2:had better) (3:go) to (4:visit) the Museum of (6:Modern) (5:Chinese) (7:Literature).
   es:
 - id: 3b2eed3df41a4641bcfe28676b17dc03
   zh-hans: 中国现代有名作家的资料那儿都有。
