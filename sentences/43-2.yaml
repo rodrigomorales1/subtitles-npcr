@@ -186,6 +186,11 @@
 - id: 5660b05f48064b21ba8daef5d6b6f56f
   zh-hans: 但是进了大楼，
   pinyin: Dànshì jìnle dàlóu,
+  en: But upon entering the building,
+  es:
+- id: fbb875c5-b607-45df-8dac-06ecdda5b008
+  zh-hans: 但是进了大楼以后，
+  pinyin: Dànshì jìnle dàlóu yǐhòu,
   en: But after entering the building,
   es:
 - id: b3831df4cc6441d5bf554614e9309d8f
