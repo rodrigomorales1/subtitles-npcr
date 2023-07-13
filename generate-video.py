@@ -33,6 +33,18 @@ parser.add_argument(
     required = True)
 
 parser.add_argument(
+    '-c',
+    '--do-color-words',
+    dest='do_color_words',
+    type = ast.literal_eval,
+    default = True)
+
+parser.add_argument(
+    '--field-for-subtitles-in-third-line',
+    dest = 'field_for_subtitles_in_third_line',
+    default = 'en')
+
+parser.add_argument(
     "-ss",
     "--start-time",
     dest = "start_time")
@@ -42,22 +54,16 @@ parser.add_argument(
     "--end-time",
     dest = "end_time")
 
-parser.add_argument(
-    '-c',
-    '--do-color-words',
-    dest='do_color_words',
-    type = ast.literal_eval)
-
 args = parser.parse_args()
 
-def generate_ass_file(data_timestamps_sentences, do_color_words):
+def generate_ass_file(data_timestamps_sentences, do_color_words, field_for_subtitles_in_third_line):
     import tempfile
 
     if do_color_words:
-        utilities.insert_colors_in_keys(data_timestamps_sentences, ['zh-hans', 'pinyin', 'es', 'es'])
+        utilities.insert_colors_in_keys(data_timestamps_sentences, ['zh-hans', 'pinyin', field_for_subtitles_in_third_line])
         chinese_characters_color = 'FFFFFF'
     else:
-        utilities.remove_word_indicators_in_keys(data_timestamps_sentences, ['zh-hans', 'pinyin', 'es', 'es'])
+        utilities.remove_word_indicators_in_keys(data_timestamps_sentences, ['zh-hans', 'pinyin', field_for_subtitles_in_third_line])
         chinese_characters_color = '00FFFF'
 
     temporary_file = tempfile.NamedTemporaryFile(suffix='.ass')
@@ -67,10 +73,10 @@ def generate_ass_file(data_timestamps_sentences, do_color_words):
 ScriptType: v4.00+
 
 [V4+ Styles]
-Format: Name,      Fontname,                      Fontsize, Outline,     PrimaryColour, Spacing, Shadow, Bold, Alignment, MarginV
-Style:  pinyin,    Noto Sans,                     20,       0,           &HFFFFFF,      0,       0,      0,    2,         56
-Style:  zh-hans,   Noto Sans Mono CJK SC Regular, 32,       0,           &H{chinese_characters_color},      2,       0,      1,    2,         25
-Style:  es,        Noto Sans,                     19,       0,           &HFFFFFF,      0,       0,      0,    2,         6
+Format: Name,             Fontname,                      Fontsize, Outline, PrimaryColour,                Spacing, Shadow, Bold, Alignment, MarginV
+Style:  pinyin,           Noto Sans,                     20,       0,       &HFFFFFF,                     0,       0,      0,    2,         56
+Style:  zh-hans,          Noto Sans Mono CJK SC Regular, 32,       0,       &H{chinese_characters_color}, 2,       0,      1,    2,         25
+Style:  subtitles_bottom, Noto Sans,                     19,       0,       &HFFFFFF,                     0,       0,      0,    2,         6
 
 [Events]
 Format: Start, End, Style, Text""")
@@ -80,11 +86,11 @@ Format: Start, End, Style, Text""")
             f.write(f"""
 Dialogue: {start_time}, {end_time}, zh-hans, {data_timestamps_sentences[i]['zh-hans']}
 Dialogue: {start_time}, {end_time}, pinyin, {data_timestamps_sentences[i]['pinyin']}
-Dialogue: {start_time}, {end_time}, es, {data_timestamps_sentences[i]['es']}""")
+Dialogue: {start_time}, {end_time}, subtitles_bottom, {data_timestamps_sentences[i][field_for_subtitles_in_third_line]}""")
 
     return temporary_file
 
-def generate_video(media, output, start_time, end_time, do_color_words=True):
+def generate_video(media, output, start_time, end_time, field_for_subtitles_in_third_line, do_color_words):
     import subprocess
     import itertools
 
@@ -92,7 +98,7 @@ def generate_video(media, output, start_time, end_time, do_color_words=True):
         args.timestamps,
         args.sentences)
 
-    ass_file = generate_ass_file(data_timestamps_sentences, do_color_words)
+    ass_file = generate_ass_file(data_timestamps_sentences, do_color_words, field_for_subtitles_in_third_line)
 
     cmd = list(itertools.chain.from_iterable(
         [x for x in [
@@ -122,4 +128,5 @@ generate_video(
     output = args.output,
     start_time = args.start_time,
     end_time = args.end_time,
-    do_color_words = args.do_color_words)
+    do_color_words = args.do_color_words,
+    field_for_subtitles_in_third_line = args.field_for_subtitles_in_third_line)
