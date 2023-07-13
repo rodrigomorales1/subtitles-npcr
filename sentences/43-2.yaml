@@ -312,12 +312,12 @@
   zh-hans: (1:巴金)先生每天都在这里跟(2:参观的人)(3:握手)！”
   pinyin: (1:Bā Jīn) xiānshēng měitiān dū zài zhèlǐ gēn (2:cānguān de rén) (3:wòshǒu)!”
   en: Mr. (1:Ba Jin) is here everyday (3:shaking hands) with the (2:visitors)!”
-  es: 'que (1:Ba Jin) está acá todos los días con los visitantes!"'
+  es: 'que (1:Ba Jin) está acá todos los días (3:dando la mano) a los (2:visitantes)!"'
 - id: 0955e831d19e433db79ed3afb489f107
-  zh-hans: 我(1:握着)巴金先生的(2:手)，(2:心里想)：
-  pinyin: 'Wǒ (1:wòzhe) Bā Jīn xiānshēng de (2:shǒu), (2:xīnlǐ xiǎng):'
-  en: 'As I (1:hold) Mr. Ba Jin’s (2:hand), I (2:thought to myself):'
-  es: '(1:Sosteniendo) la (2:mano) de Ba Jin, (2:pensé interiormente):'
+  zh-hans: 我(1:握着)巴金先生的(2:手)，(3:心里想)：
+  pinyin: 'Wǒ (1:wòzhe) Bā Jīn xiānshēng de (2:shǒu), (3:xīnlǐ xiǎng):'
+  en: 'As I (1:hold) Mr. Ba Jin’s (2:hand), I (3:thought to myself):'
+  es: '(1:Sosteniendo) la (2:mano) de Ba Jin, (3:pensé interiormente):'
 - id: e1c65388a86140eaa3ebdfc4a516a857
   zh-hans: (1:尊敬)的巴金先生，您好！
   pinyin: (1:Zūnjìng) de Bā Jīn xiānshēng, nín hǎo!
