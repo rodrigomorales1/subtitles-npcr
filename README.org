@@ -1,26 +1,68 @@
-* Utilities
+* Generate video with subtitles from video
+:PROPERTIES:
+:CREATED: [2023-07-13 12:04:28 -05]
+:END:
 
-#+HEADER: :dir (or default-directory)
-#+HEADER: :results silent
-#+begin_src sh
-python3 generate-audio.py \
-        --media "timestamps/audios/43-1.flac" \
-        --timestamps "timestamps/audios/43-1.vtt" \
-        --sentences "sentences/43-1.yaml" \
-        --output "output.mp4" \
-        --start-time 00:01:20 \
-        --end-time 00:01:40
-#+end_src
+Generate video.
 
 #+HEADER: :dir (or default-directory)
 #+HEADER: :results silent
 #+begin_src sh
 python3 generate-video.py \
+        --media "timestamps/videos/43-2.webm" \
+        --timestamps "timestamps/videos/43-2.vtt" \
+        --sentences "sentences/43-2.yaml" \
+        --output "43-2-video.mp4"
         --do-color-words True \
-        --media "timestamps/videos/43-1.webm" \
-        --timestamps "timestamps/videos/43-1.vtt" \
-        --sentences "sentences/43-1.yaml" \
-        --output "output.mp4" \
-        --start-time 00:00:30 \
-        --end-time 00:00:40
+        --field-for-subtitles-in-third-line 'es'
 #+end_src
+
+Generate video between start time and end time.
+
+#+HEADER: :dir (or default-directory)
+#+HEADER: :results silent
+#+begin_src sh
+python3 generate-video.py \
+        --media 'timestamps/videos/43-2.webm' \
+        --timestamps 'timestamps/videos/43-2.vtt' \
+        --sentences 'sentences/43-2.yaml' \
+        --output '43-2-video.mp4' \
+        --do-color-words 'True' \
+        --field-for-subtitles-in-third-line 'es' \
+        --start-time '00:01:25' \
+        --end-time '00:01:35'
+#+end_src
+
+* Generate video with subtiles from audio
+:PROPERTIES:
+:CREATED: [2023-07-13 12:04:35 -05]
+:END:
+
+Generate video.
+
+#+HEADER: :dir (or default-directory)
+#+HEADER: :results silent
+#+begin_src sh
+python3 generate-audio.py \
+        --media "timestamps/audios/43-2.flac" \
+        --timestamps "timestamps/audios/43-2.vtt" \
+        --sentences "sentences/43-2.yaml" \
+        --output "43-2-audio.mp4" \
+        --field-for-subtitles-in-third-line 'es'
+#+end_src
+
+Generate video between start time and end time.
+
+#+HEADER: :dir (or default-directory)
+#+HEADER: :results silent
+#+begin_src sh
+python3 generate-audio.py \
+        --media 'timestamps/audios/43-2.flac' \
+        --timestamps 'timestamps/audios/43-2.vtt' \
+        --sentences 'sentences/43-2.yaml' \
+        --output '43-2-audio.mp4' \
+        --field-for-subtitles-in-third-line 'es' \
+        --start-time '00:01:10' \
+        --end-time '00:01:20'
+#+end_src
+
