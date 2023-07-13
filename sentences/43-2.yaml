@@ -55,8 +55,8 @@
   es:
 - id: 3a45b632ca5745e7a6ce0b44d9f9dcbe
   zh-hans: “(1:你)(2:还是)(3:去)(4:参观)一下(5:中国)(6:现代)(7:文学)馆吧。
-  pinyin: “(1:Nǐ) (2:háishì) (3:qù) (4:cānguān) yīxià (5:Zhōngguó) (6:Xiàndài) (7:Wénxué) Guǎn ba.
-  en: “(1:You) (2:had better) (3:go) to (4:visit) the Museum of (6:Modern) (5:Chinese) (7:Literature).
+  pinyin: '"(1:Nǐ) (2:háishì) (3:qù) (4:cānguān) yīxià (5:Zhōngguó) (6:Xiàndài) (7:Wénxué) Guǎn ba.'
+  en: '"(1:You) (2:had better) (3:go) to (4:visit) the Museum of (6:Modern) (5:Chinese) (7:Literature).'
   es:
 - id: 3b2eed3df41a4641bcfe28676b17dc03
   zh-hans: 中国现代有名作家的资料那儿都有。
