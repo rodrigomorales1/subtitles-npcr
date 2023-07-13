@@ -2,16 +2,11 @@
   zh-hans: 我对中国现代文学很感兴趣，
   pinyin: Wǒ duì Zhōngguó xiàndài wénxué hěn gǎn xìngqù,
   en: I am very interested in modern Chinese literature,
-  es: 
-- id: 6373aaa3d8f64570858ffb224fede34a
-  zh-hans: 尤其喜欢鲁迅、
-  pinyin: yóuqí xǐhuan Lǔ Xùn,
-  en: I particularly like Lu Xun,
   es:
-- id: 46e599b2e7654ab7a5a188ae14ff415c
-  zh-hans: 巴金和老舍
-  pinyin: Bā Jīn hé Lǎo Shě,
-  en: Ba Jin and Lao She,
+- id: 6373aaa3d8f64570858ffb224fede34a
+  zh-hans: 尤其喜欢鲁迅、巴金和老舍
+  pinyin: yóuqí xǐhuan Lǔ Xùn, Bā Jīn hé Lǎo Shě,
+  en: I particularly like Lu Xun, Ba Jin and Lao She,
   es:
 - id: 7b02d4066b6942d5a99a122faa859cb1
   zh-hans: 这些著名的作家。
