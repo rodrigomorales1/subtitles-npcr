@@ -259,14 +259,9 @@
   en: “Where is Mr. Ba Jin?”
   es:
 - id: ab1fcf8b2f814135ac84bbd7a447f989
-  zh-hans: 那位讲解员笑着
-  pinyin: Nà wèi jiǎngjiě yuán xiàozhe
-  en: Smiling, the guide
-  es:
-- id: 6798c2ba40c24d91988d44eab75e4e12
-  zh-hans: 把我们送到文学馆门口。
-  pinyin: bǎ wǒmen sòng dào wénxué guǎn ménkǒu.
-  en: took us to the literature musuem entrance.
+  zh-hans: 那位讲解员笑着把我们送到文学馆门口。
+  pinyin: Nà wèi jiǎngjiě yuán xiàozhe bǎ wǒmen sòng dào wénxué guǎn ménkǒu.
+  en: Smiling, the guide took us to the literature musuem entrance.
   es:
 - id: c2df34fb6d204000a21d93e1205499ef
   zh-hans: 她指着门上的铜把手说：
