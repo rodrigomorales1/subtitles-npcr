@@ -14,14 +14,9 @@
   en: these famous writers.
   es:
 - id: e7ec879a8c9544789e247d3c9049781f
-  zh-hans: 来北京以前
-  pinyin: Lái Běijīng yǐqián
-  en: Before coming to Beijing
-  es:
-- id: 3809f9865d884a5aac35c4eb0fa0b8f6
-  zh-hans: 我读过巴金的小说《家》，
-  pinyin: wǒ dúguò Bā Jīn de xiǎoshuō “Jiā”,
-  en: I read Ba Jin’s novel “The Family”,
+  zh-hans: 来北京以前我读过巴金的小说《家》，
+  pinyin: Lái Běijīng yǐqián wǒ dúguò Bā Jīn de xiǎoshuō “Jiā”,
+  en: Before coming to Beijing I read Ba Jin’s novel “The Family”,
   es:
 - id: 5031f10ad3a249089494e2cc22015f3d
   zh-hans: 是翻译成英文的，
