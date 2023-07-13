@@ -59,9 +59,9 @@
   en: '"(1:You) (2:had better) (3:go) to (4:visit) the Museum of (6:Modern) (5:Chinese) (7:Literature).'
   es:
 - id: 3b2eed3df41a4641bcfe28676b17dc03
-  zh-hans: 中国现代有名作家的资料那儿都有。
-  pinyin: Zhōngguó xiàndài yǒumíng zuòjiā de zīliào nàr dōu yǒu.
-  en: There is lots of information there about famous modern Chinese writers.
+  zh-hans: 中国现代有名作家的资料那儿都有。”
+  pinyin: 'Zhōngguó xiàndài yǒumíng zuòjiā de zīliào nàr dōu yǒu."'
+  en: 'There is lots of information there about famous modern Chinese writers."'
   es:
 - id: 1b79a740e75c49e78b2d012d47df5f6e
   zh-hans: 我那天参观了一上午，
