@@ -159,19 +159,9 @@
   en: It is a very ordinary new building,
   es:
 - id: 367bb1407f914964a7f2171c831b9b49
-  zh-hans: 从外边看，
-  pinyin: cóng wàibian kàn,
-  en: looking from the outside,
-  es:
-- id: 6197d1a44aa8488db1f8580fac2f9d8a
-  zh-hans: 平平常常的，
-  pinyin: píngpíng chángcháng de,
-  en: it is very common,
-  es:
-- id: d9cef27bb17b4fa7aa94962390d0b858
-  zh-hans: 简简单单的。
-  pinyin: jiǎn jiǎndān dān de.
-  en: and simple.
+  zh-hans: 从外边看，平平常常的，简简单单的。
+  pinyin: cóng wàibian kàn, píngpíng chángcháng de, jiǎn jiǎndān dān de.
+  en: looking from the outside, it is very common, and simple.
   es:
 - id: 5660b05f48064b21ba8daef5d6b6f56f
   zh-hans: 但是进了大楼，
