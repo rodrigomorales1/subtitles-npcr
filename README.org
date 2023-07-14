@@ -12,7 +12,7 @@ python3 generate-video.py \
         --media "timestamps/videos/43-2.webm" \
         --timestamps "timestamps/videos/43-2.vtt" \
         --sentences "sentences/43-2.yaml" \
-        --output "43-2-video.mp4"
+        --output "43-2-video.mp4" \
         --do-color-words True \
         --field-for-subtitles-in-third-line 'es'
 #+end_src
