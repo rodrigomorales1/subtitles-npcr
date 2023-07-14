@@ -199,10 +199,10 @@
   en: I simultaneously (1:watched), (2:listened), took (3:notes),
   es: Yo (1:observaba), (2:escuchaba) y tomaba (3:notas),
 - id: 2ad8fdcc6c6943ee8255347909b57df5
-  zh-hans: 有时候还向(2:她)提些(1:问题)。
-  pinyin: yǒu shíhou hái xiàng (2:tā) tí xiē (1:wèntí).
-  en: and sometimes also asked (2:her) a few (1:questions).
-  es: a veces (2:le) hacía algunas (1:preguntas).
+  zh-hans: (1:有时候)还向(2:她)提些(3:问题)。
+  pinyin: (1:yǒushíhou) hái xiàng (2:tā) tí xiē (3:wèntí).
+  en: and (1:sometimes) also asked (2:her) a few (3:questions).
+  es: (1:a veces) (2:le) hacía algunas (3:preguntas).
 - id: 5f2a91ad7823441f9a7dea7a15038b87
   zh-hans: 我觉得(1:这样)的(2:参观)很(3:有意思)，
   pinyin: Wǒ juéde (1:zhèyàng) de (2:cānguān) hěn (3:yǒuyìsi),
