@@ -84,10 +84,10 @@
   en: However, I still want to go (1:a few) more (2:times).
   es: Pero, quiero volver a ir (1:unas) (2:veces) más.
 - id: 514454251cb0495bbb85f10b3d1c95b4
-  zh-hans: 我们在北京的时候不去(1:参观参观)，
-  pinyin: Wǒmen zài Běijīng de shíhou bù qù (1:cānguān cānguān),
-  en: If we don’t (1:visit) while we are in Beijing,
-  es: Si no lo (1:visitamos) mientras que estamos en Beijing,
+  zh-hans: (1:我们)在(2:北京)的时候(3:不)(4:去)(5:参观参观)，
+  pinyin: (1:Wǒmen) zài (2:Běijīng) de shíhou (3:bù) (4:qù) (5:cānguān cānguān),
+  en: If (1:we) (3:don’t) (4:go) to (5:visit) it while (1:we) are in (2:Beijing),
+  es: Si (1:nosotros) (3:no) (4:vamos) a (5:visitar)lo cuando estamos en (2:Beijing),
 - id: c2d991f640e64f9c98c236e08bd60b56
   zh-hans: 以后一定会觉得很(1:遗憾)。”
   pinyin: yǐhòu yīdìng huì juéde hěn (1:yíhàn).”
