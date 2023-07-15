@@ -54,6 +54,11 @@ parser.add_argument(
     "--end-time",
     dest = "end_time")
 
+parser.add_argument(
+    "--height",
+    dest = "height",
+    default = "1080")
+
 args = parser.parse_args()
 
 def generate_ass_file(data_timestamps_sentences, do_color_words, field_for_subtitles_in_third_line):
@@ -90,7 +95,7 @@ Dialogue: {start_time}, {end_time}, subtitles_bottom, {data_timestamps_sentences
 
     return temporary_file
 
-def generate_video(media, output, start_time, end_time, field_for_subtitles_in_third_line, do_color_words):
+def generate_video(media, output, start_time, end_time, field_for_subtitles_in_third_line, do_color_words, height):
     import subprocess
     import itertools
 
@@ -100,13 +105,19 @@ def generate_video(media, output, start_time, end_time, field_for_subtitles_in_t
 
     ass_file = generate_ass_file(data_timestamps_sentences, do_color_words, field_for_subtitles_in_third_line)
 
+    height = int(height)
+    # We use integer because a video can have float dimentions
+    width = int(16 * (height/9))
+    # We use int() because, apparently, drawbox only read integers
+    height_background = int((height * 5)/18)
+
     cmd = list(itertools.chain.from_iterable(
         [x for x in [
             ['ffmpeg',
              '-y',
              '-f', 'lavfi',
              # TODO: Accept resolution as parameters
-                      '-i', 'color=c=black:s=1920x1080',
+                      '-i', f'color=c=black:s={width}x{height}',
              '-i', media],
             ['-ss', start_time, '-to', end_time] if start_time and end_time else None,
             # TOOD: The scale should be equal to the
@@ -117,7 +128,7 @@ def generate_video(media, output, start_time, end_time, field_for_subtitles_in_t
             # freedom to the user. Currently, when trying to
             # overlap subtitles, one of the subtitles is
             # automatically moved away.
-            ['-filter_complex', f'[1:v]scale=-1:1080 [ovrl],[0:v][ovrl]overlay=(main_w-overlay_w)/2:0:shortest=1,drawbox=y=ih-300:height=300:t=fill:color=black@0.7,subtitles={ass_file.name}',
+            ['-filter_complex', f'[1:v]scale=-1:{height} [ovrl],[0:v][ovrl]overlay=(main_w-overlay_w)/2:0:shortest=1,drawbox=y=ih-{height_background}:height={height_background}:t=fill:color=black@0.7,subtitles={ass_file.name}',
              output]
         ] if x is not None]))
 
@@ -129,4 +140,5 @@ generate_video(
     start_time = args.start_time,
     end_time = args.end_time,
     do_color_words = args.do_color_words,
-    field_for_subtitles_in_third_line = args.field_for_subtitles_in_third_line)
+    field_for_subtitles_in_third_line = args.field_for_subtitles_in_third_line,
+    height = args.height)
