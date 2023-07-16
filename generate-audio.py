@@ -51,7 +51,7 @@ def generate_metadata_file(data):
 TIMEBASE=1/1000
 START=0
 END=0
-title=（章）\n""")
+title=空白\n""")
 
         for item in data:
             milliseconds_start = utilities.convert_timestamp_to_milliseconds(item['start'])
