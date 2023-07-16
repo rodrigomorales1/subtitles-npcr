@@ -176,7 +176,11 @@ def generate_video(media, output, start_time, end_time, field_for_subtitles_in_t
              '-i', metadata_file.name,
              '-map_metadata', '2'],
             ['-ss', start_time, '-to', end_time] if start_time and end_time else None,
-            ['-vf', f'subtitles={ass_files[0].name},subtitles={ass_files[1].name},subtitles={ass_files[2].name},',
+            ['-filter_complex', ("color=white@1:1920x3 [myline1],"
+                                 + "color=white@1:1920x3 [myline2],"
+                                 + "[0:v][myline1] overlay=0:358:shortest=1 [overlay1],"
+                                 + "[overlay1][myline2] overlay=0:719:shortest=1,"
+                                 + f"subtitles={ass_files[0].name},subtitles={ass_files[1].name},subtitles={ass_files[2].name}"),
              '-c:a', 'copy',
              '-shortest',
              output]
