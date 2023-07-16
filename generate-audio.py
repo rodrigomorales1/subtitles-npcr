@@ -133,11 +133,6 @@ def generate_video(media, output, start_time, end_time, field_for_subtitles_in_t
 
     temporary_files = generate_ass_file(data_timestamps_sentences, field_for_subtitles_in_third_line)
 
-    import shutil
-
-    for t in temporary_files:
-        shutil.copy(t.name, '/home/rdrg/e')
-
     cmd = list(itertools.chain.from_iterable(
         [x for x in [
             ['ffmpeg',
