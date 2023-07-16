@@ -85,9 +85,9 @@ ScriptType: v4.00+
 
 [V4+ Styles]
 Format: Name,               Fontname,                      Fontsize, Outline,     PrimaryColour, Shadow, Bold, Alignment, MarginV
-Style:  group-1-pinyin,     Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         250
-Style:  group-1-zh-hans,    Noto Sans Mono CJK SC Regular, 32,       0,           &HFFFFFF,      0,      0,    2,         215
-Style:  group-1-third-line, Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         195
+Style:  group-1-pinyin,     Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         258
+Style:  group-1-zh-hans,    Noto Sans Mono CJK SC Regular, 32,       0,           &HFFFFFF,      0,      0,    2,         223
+Style:  group-1-third-line, Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         203
 
 [Events]
 Format: Start, End, Style, Text""")
@@ -97,9 +97,9 @@ ScriptType: v4.00+
 
 [V4+ Styles]
 Format: Name,               Fontname,                      Fontsize, Outline,     PrimaryColour, Shadow, Bold, Alignment, MarginV
-Style:  group-2-pinyin,     Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         145
-Style:  group-2-zh-hans,    Noto Sans Mono CJK SC Regular, 32,       0,           &HFFFFFF,      0,      0,    2,         120
-Style:  group-2-third-line, Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         100
+Style:  group-2-pinyin,     Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         154
+Style:  group-2-zh-hans,    Noto Sans Mono CJK SC Regular, 32,       0,           &HFFFFFF,      0,      0,    2,         129
+Style:  group-2-third-line, Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         109
 
 [Events]
 Format: Start, End, Style, Text""")
@@ -109,9 +109,9 @@ ScriptType: v4.00+
 
 [V4+ Styles]
 Format: Name,               Fontname,                      Fontsize, Outline,     PrimaryColour, Shadow, Bold, Alignment, MarginV
-Style:  group-3-pinyin,     Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         55
-Style:  group-3-zh-hans,    Noto Sans Mono CJK SC Regular, 32,       0,           &HFFFFFF,      0,      0,    2,         30
-Style:  group-3-third-line, Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         10
+Style:  group-3-pinyin,     Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         57
+Style:  group-3-zh-hans,    Noto Sans Mono CJK SC Regular, 32,       0,           &HFFFFFF,      0,      0,    2,         32
+Style:  group-3-third-line, Noto Sans,                     18,       0,           &HFFFFFF,      0,      0,    2,         12
 
 [Events]
 Format: Start, End, Style, Text""")
