@@ -39,6 +39,34 @@ parser.add_argument(
 
 args = parser.parse_args()
 
+def generate_metadata_file(data):
+    import tempfile
+
+    temporary_file = tempfile.NamedTemporaryFile(suffix='.txt')
+
+    with open(temporary_file.name, 'w') as f:
+        f.write(""";FFMETADATA1
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=0
+title=（章）\n""")
+
+        for item in data:
+            milliseconds_start = utilities.convert_timestamp_to_milliseconds(item['start'])
+            milliseconds_end = milliseconds_start + 1
+            title = utilities.remove_word_indicators_in_string(item['zh-hans'])
+            f.write(f"""
+[CHAPTER]
+TIMEBASE=1/1000
+START={milliseconds_start}
+END={milliseconds_end}
+title={title}
+""")
+
+    return temporary_file
+
 def generate_ass_file(data_timestamps_sentences, field_for_subtitles_in_third_line):
     import tempfile
 
@@ -131,7 +159,12 @@ def generate_video(media, output, start_time, end_time, field_for_subtitles_in_t
         args.timestamps,
         args.sentences)
 
-    temporary_files = generate_ass_file(data_timestamps_sentences, field_for_subtitles_in_third_line)
+    # We create the metadata file before creating the ass_files
+    # because when creating the ass_files, colors in hexadecimal
+    # notation might be inserted in values in some keys in the
+    # dictionary that contains all the data.
+    metadata_file = generate_metadata_file(data_timestamps_sentences)
+    ass_files = generate_ass_file(data_timestamps_sentences, field_for_subtitles_in_third_line)
 
     cmd = list(itertools.chain.from_iterable(
         [x for x in [
@@ -139,9 +172,11 @@ def generate_video(media, output, start_time, end_time, field_for_subtitles_in_t
              '-y',
              '-f', 'lavfi',
              '-i', 'color=c=black:s=1920x1080',
-             '-i', media],
+             '-i', media,
+             '-i', metadata_file.name,
+             '-map_metadata', '2'],
             ['-ss', start_time, '-to', end_time] if start_time and end_time else None,
-            ['-vf', f'subtitles={temporary_files[0].name},subtitles={temporary_files[1].name},subtitles={temporary_files[2].name},',
+            ['-vf', f'subtitles={ass_files[0].name},subtitles={ass_files[1].name},subtitles={ass_files[2].name},',
              '-c:a', 'copy',
              '-shortest',
              output]
