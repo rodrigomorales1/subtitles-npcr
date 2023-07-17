@@ -151,6 +151,55 @@ Dialogue: {start_time}, {end_time}, group-3-third-line, {data_timestamps_sentenc
 
     return [temporary_file_1, temporary_file_2, temporary_file_3]
 
+def generate_rectangle(data_timestamps_sentences, name_last_overlay):
+    result =""
+    times = []
+
+    for i in data_timestamps_sentences:
+        times.append({
+            'start_time': utilities.convert_timestamp_to_seconds(i['start']),
+            'end_time': utilities.convert_timestamp_to_seconds(i['end'])
+        })
+
+    # Compute position for each rectangle
+    counter = 1
+    for time in times:
+        if counter == 1:
+            time['position'] = 0
+        elif counter == 2:
+            time['position'] = 360
+        elif counter == 3:
+            time['position'] = 720
+        if counter == 3:
+            counter = 1
+        else:
+            counter = counter + 1
+
+    counter_rectangle = 1
+    counter_overlay = 1
+
+    for index, value in enumerate(times):
+        if index == 0:
+            name_current_overlay = f"[overlay{counter_overlay}]"
+            name_previous_overlay = f"[{name_last_overlay}]"
+        elif index == len(times) - 1:
+            name_current_overlay = ""
+            name_previous_overlay = f"[overlay{counter_overlay-1}]"
+        else:
+            name_current_overlay = f"[overlay{counter_overlay}]"
+            name_previous_overlay = f"[overlay{counter_overlay-1}]"
+        name_rectangle = f"[myline{counter_rectangle}]"
+        start_time = value['start_time']
+        end_time = value['end_time']
+
+        result = result + (f""", color=white@0.3:1920x360 {name_rectangle},
+{name_previous_overlay}{name_rectangle} overlay=0:{value['position']}:shortest=1:enable='between(t,{start_time},{end_time})' {name_current_overlay}""")
+
+        counter_rectangle = counter_rectangle + 1
+        counter_overlay = counter_overlay + 1
+
+    return result
+
 def generate_video(media, output, start_time, end_time, field_for_subtitles_in_third_line):
     import subprocess
     import itertools
@@ -164,6 +213,7 @@ def generate_video(media, output, start_time, end_time, field_for_subtitles_in_t
     # notation might be inserted in values in some keys in the
     # dictionary that contains all the data.
     metadata_file = generate_metadata_file(data_timestamps_sentences)
+
     ass_files = generate_ass_file(data_timestamps_sentences, field_for_subtitles_in_third_line)
 
     cmd = list(itertools.chain.from_iterable(
@@ -176,10 +226,11 @@ def generate_video(media, output, start_time, end_time, field_for_subtitles_in_t
              '-i', metadata_file.name,
              '-map_metadata', '2'],
             ['-ss', start_time, '-to', end_time] if start_time and end_time else None,
-            ['-filter_complex', ("color=white@1:1920x3 [myline1],"
-                                 + "color=white@1:1920x3 [myline2],"
-                                 + "[0:v][myline1] overlay=0:358:shortest=1 [overlay1],"
-                                 + "[overlay1][myline2] overlay=0:719:shortest=1,"
+            ['-filter_complex', ("color=white@1:1920x3 [my_group_separator_1],"
+                                 + "color=white@1:1920x3 [my_group_separator_2],"
+                                 + "[0:v][my_group_separator_1] overlay=0:358:shortest=1 [my_overlay_1],"
+                                 + "[my_overlay_1][my_group_separator_2] overlay=0:719:shortest=1 [foo]"
+                                 + generate_rectangle(data_timestamps_sentences, 'foo') + ','
                                  + f"subtitles={ass_files[0].name},subtitles={ass_files[1].name},subtitles={ass_files[2].name}"),
              '-c:a', 'copy',
              '-shortest',
