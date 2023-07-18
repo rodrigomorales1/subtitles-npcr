@@ -19,20 +19,20 @@
   en: I (1:plan) to first go to (2:Taishan), then (2:return home) to see my father and mother.
   es: Yo (1:planeo) ir a (2:Taishan) primero, y luego (3:ir a casa) a ver a mi madre y a mi padre.
 - id: 3b9c1ea2-3b7e-414f-934c-db33cf01dc3d
-  zh-hans: 林娜，你去过泰山没有？
-  pinyin: Lín Nà, nǐ qùguò Tàishān méiyǒu?
-  en: Lin Na, have you been to Taishan?
-  es: Linna, ¿has estado en Taishan?
+  zh-hans: 林娜，你去过(1:泰山)没有？
+  pinyin: Lín Nà, nǐ qùguò (1:Tàishān) méiyǒu?
+  en: Lin Na, have you been to (1:Taishan)?
+  es: Linna, ¿has estado en (1:Taishan)?
 - id: 3a76cb99-ac2d-4561-9761-e98382126af9
-  zh-hans: 泰山我去过一次了。这次我想去海南岛旅行。
-  pinyin: Tàishān wǒ qùguò yīcìle. Zhè cì wǒ xiǎng qù Hǎinán dǎo lǚxíng.
-  en: I’ve been to Taishan once. This time I want to go travelling in Hainan island.
-  es: He estado en Taishan una vez. Esta vez quiero viajar a la isla de Hainan.
+  zh-hans: (1:泰山)我去过一次了。这次我想去(2:海南岛)旅行。
+  pinyin: Tàishān wǒ qùguò yīcìle. Zhè cì wǒ xiǎng qù (2:Hǎinándǎo) lǚxíng.
+  en: I’ve been to Taishan once. This time I want to go travelling in (2:Hainan island).
+  es: He estado en Taishan una vez. Esta vez quiero viajar a la (2:isla de Hainan).
 - id: 351a78e7-3e27-41ed-bdbc-96cca8a44203
-  zh-hans: 你跟宋华一起去吧？
-  pinyin: Nǐ gēn Sòng Huá yīqǐ qù ba?
-  en: You’ll be going together with Song Hua, right?
-  es: Vas a ir con Song Hua, ¿verdad?
+  zh-hans: (1:你)跟(2:宋华)一起去吧？
+  pinyin: (1:Nǐ) gēn (2:Sòng Huá) yīqǐ qù ba?
+  en: (1:You)’ll be going together with (2:Song Hua), right?
+  es: (1:Tú) vas a ir con (2:Song Hua), ¿verdad?
 - id: 10a4123a-8b27-4b02-985a-2313b1e47a44
   zh-hans: 是啊，去海南岛旅行就是他提出来的。
   pinyin: Shì a, qù Hǎinán dǎo lǚxíng jiùshì tā tí chūlái de.
