@@ -1,23 +1,23 @@
 - id: d91226ff-6d77-4db9-a74e-126e7b9212b0
-  zh-hans: 要放假了，同学们有什么打算？
-  pinyin: Yào fàngjiàle, tóngxuémen yǒu shénme dǎsuàn?
-  en: What do the students have planned for the holidays?
-  es: Van a ser vacaciones, ¿qué planes tienen los estudiantes?
+  zh-hans: 要(1:放假)了，(2:同学们)有什么(3:打算)？
+  pinyin: Yào (1:fàngjià) le, (2:tóngxuémen) yǒu shénme (3:dǎsuàn)?
+  en: Holiday is coming up, what plans do the (2:students) have for the the (1:holiday)?
+  es: Las (1::vacaciones) están muy cerca ¿qué planes tienen los estudiantes?
 - id: 2b339f36-d891-4e7e-9ac4-bf6eb7b044c6
-  zh-hans: 有的同学去旅行，有的同学回家。
-  pinyin: Yǒu de tóngxué qù lǚxíng, yǒu de tóngxué huí jiā.
-  en: Some students are going travelling, some students are returning home.
-  es: Algunos estudiantes se van de viaje, otros se van a casa.
+  zh-hans: 有的同学去(1:旅行)，有的同学(2:回家)。
+  pinyin: Yǒu de tóngxué qù (1:lǚxíng), yǒu de tóngxué (2:huíjiā).
+  en: Some students are going (1:travelling), some students are (2:returning home).
+  es: Algunos estudiantes se (1:van de viaje), otros (2:regresan a casa).
 - id: 469e9052-47b1-4172-8680-0eaaa9d604e3
-  zh-hans: 小云，你呢？
-  pinyin: Xiǎo Yún, nǐ ne?
-  en: Xiao Yun, how about you?
+  zh-hans: (1:小云)，(2:你)呢？
+  pinyin: (1:Xiǎo Yún), (2:nǐ) ne?
+  en: (1:Xiao Yun), how about (2:you)?
   es: ¿Y tú, Xiao Yun?
 - id: 8f965076-a99f-499d-bfd2-9ad2f280e22d
-  zh-hans: 我打算先去泰山，再回家看我爸爸妈妈。
-  pinyin: Wǒ dǎsuàn xiān qù Tàishān, zài huí jiā kàn wǒ bàba māmā.
-  en: I plan to first go to Taishan, then return home to see my father and mother.
-  es: Yo planeo ir a Taishan primero, y luego ir a casa a ver a mi madre y a mi padre.
+  zh-hans: 我(1:打算)先去(2:泰山)，再(3:回家)看我爸爸妈妈。
+  pinyin: Wǒ (1:dǎsuàn) xiān qù (2:Tàishān), zài (3:huíjiā) kàn wǒ bàba māmā.
+  en: I (1:plan) to first go to (2:Taishan), then (2:return home) to see my father and mother.
+  es: Yo (1:planeo) ir a (2:Taishan) primero, y luego (3:ir a casa) a ver a mi madre y a mi padre.
 - id: 3b9c1ea2-3b7e-414f-934c-db33cf01dc3d
   zh-hans: 林娜，你去过泰山没有？
   pinyin: Lín Nà, nǐ qùguò Tàishān méiyǒu?
