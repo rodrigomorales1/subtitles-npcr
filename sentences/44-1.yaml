@@ -276,12 +276,12 @@
 - id: de563ad7ab954e93b17535e432547eae
   zh-hans: 为什么要说九十八块钱，
   pinyin: Wèishéme yào shuō jiǔshíbā kuài qián,
-  en: Why did you say 98 dollars, buy one get one free?
+  en: Why did you say 98 dollars,
   es:
 - id: 27fb44e18de74b8583daa8af9371df7a
   zh-hans: 买一送一呢？
   pinyin: mǎi yī sòng yī ne?
-  en:
+  en: buy one get one free?
   es:
 - id: 8cbc466cdc2d4654a44fa740cf958a57
   zh-hans: 一件四十九块，两件不是九十八块吗？
