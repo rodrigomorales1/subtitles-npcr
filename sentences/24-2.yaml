@@ -9,80 +9,80 @@
   en: She said she would be coming with you to Beijing.
   es: Dijo que vendría a Pekín contigo.
 - id: 90aa7456-0f60-4923-a109-e9297e93b918
-  zh-hans: 你舅妈在种温室蔬菜呢。
-  pinyin: Nǐ jiùmā zài zhòng wēnshì shūcài ne.
-  en: You Auntie is planting vegetables in the greenhouse.
-  es: Tu tía está cultivando verduras de invernadero.
+  zh-hans: 你舅妈在(1:种:1)(2:温室:2)蔬菜呢。
+  pinyin: Nǐ jiùmā zài (1:zhòng) (2:wēnshì) shūcài ne.
+  en: You Auntie is (1:planting) vegetables in the (2:greenhouse).
+  es: Tu tía está (1:cultivando) verduras de (2:invernadero).
 - id: 693f05b9-92ce-414c-bd4a-cbb72854e7d4
   zh-hans: 她现在很忙，这次不来了。
   pinyin: Tā xiànzài hěn máng, zhè cì bù láile.
   en: At the moment she is very busy, this time couldn’t come.
   es: Ahora está ocupada, así que no vendrá esta vez.
 - id: c22a4bc3-61b3-43ff-ac9c-4d8aac41c509
-  zh-hans: 现在你们种蔬菜的收入怎么样？
-  pinyin: Xiànzài nǐmen zhòng shūcài de shōurù zěnme yàng?
-  en: How is your income from planting vegetables now?
-  es: ¿Cómo os va con las verduras?
+  zh-hans: 现在你们(1:种:1)蔬菜的(2:收入:3)怎么样？
+  pinyin: Xiànzài nǐmen (1:zhòng) shūcài de (2:shōurù) zěnme yàng?
+  en: How is your (2:income) from (1:planting) vegetables now?
+  es: ¿Cómo les va con las (2:ganancias) del (1:cultivo) de verduras?
 - id: bcde8dab-a425-4778-a936-5575adb33f13
-  zh-hans: 我们种温室蔬菜，收入比以前好多了。
-  pinyin: Wǒmen zhòng wēnshì shūcài, shōurù bǐ yǐqián hǎoduōle.
-  en: Now that we plant the vegetables in the greenhouse, our income is much more than before.
-  es: Cultivamos hortalizas de invernadero y nuestros ingresos son mucho mejores que antes.
+  zh-hans: 我们(1:种)(2:温室:2)蔬菜，(3:收入:3)比以前好多了。
+  pinyin: Wǒmen (1:zhòng) (2:wēnshì) shūcài, (3:shōurù) bǐ yǐqián hǎoduōle.
+  en: Now that we (1:plant) the vegetables in the (2:greenhouse), our (3:income) is much more than before.
+  es: (1:Cultivamos) vegetales de (2:invernadero), nuestros (3:ingresos) son mucho mejores que antes.
 - id: b52b33d5-b721-44a4-93d9-65e13e0432d1
   zh-hans: 家里的生活怎么样？
   pinyin: Jiālǐ de shēnghuó zěnme yàng?
   en: How’s life at home?
   es: ¿Cómo va la vida en casa?
 - id: 00635f8d-cefb-4b61-9663-1c48efd4710a
-  zh-hans: 生活还可以。前年我们盖了一座两层的小楼，
-  pinyin: Shēnghuó hái kěyǐ. Qiánnián wǒmen gàile yīzuò liǎng céng de xiǎo lóu,
-  en: Life is fine. Year before last we built a small two-storey house,
-  es: Bien. El año pasado construimos un edificio de dos plantas.
+  zh-hans: 生活还可以。(1:前年:4)我们(2:盖:5)了一(1:座:6)两层的小楼，
+  pinyin: Shēnghuó hái kěyǐ. (1:Qiánnián) wǒmen (2:gài) le yī (1:zuò) liǎng céng de xiǎo lóu,
+  en: Life is fine. (1:The year before last) we (2:built) a small two-storey house,
+  es: Bien. (1:El año antepasado) (2:construimos) un edificio de dos plantas.
 - id: 2360aa65-4a02-4eeb-a4a4-0b7affe8a067
-  zh-hans: 去年还买了一辆汽车。
-  pinyin: qùnián hái mǎile yī liàng qìchē.
+  zh-hans: 去年还买了一(1:辆:7)汽车。
+  pinyin: qùnián hái mǎile yī (1:liàng) qìchē.
   en: last year we also bought a car.
   es: El año pasado compramos un coche.
 - id: 16833ffb-aa56-415b-8725-7579138358f1
-  zh-hans: 现在我们去别的城市也方便了。
-  pinyin: Xiànzài wǒmen qù bié de chéngshì yě fāngbiànliǎo.
-  en: Now it is much more convenient when we go to other cities.
-  es: Ahora nos resulta fácil ir a otras ciudades.
+  zh-hans: 现在我们去别的(1:城市:8)也(2:方便:9)了。
+  pinyin: Xiànzài wǒmen qù bié de (1:chéngshì) yě (2:fāngbiàn) le.
+  en: Now it is much more (2:convenient) when we go to other (1:cities).
+  es: Ahora nos resulta (2:conveniente) ir a otras (1:ciudades).
 - id: 667d1fde-6d15-4c7e-9a5a-59669372fbc5
   zh-hans: 您的生活水平比城里人的还高。
   pinyin: Xièxiè. Nín de shēnghuó shuǐpíng bǐ chéng lǐ rén de hái gāo.
   en: Your standard of living is higher than the people in the cities.
   es: Vuestro nivel de vida es más alto que el de la gente de ciudad.
 - id: 7e7ac496-2425-4361-bb0e-d0d69cd4354d
-  zh-hans: 我们村吃的、穿的、住的都不比城里差。
-  pinyin: Wǒmen cūn chī de, chuān de, zhù de dōu bùbǐ chéng lǐ chà.
-  en: What we villagers eat, wear, and where we live are all not actually any worse than in the city.
-  es: La comida, la ropa y la vivienda de nuestro pueblo no son peores que las de la ciudad.
+  zh-hans: 我们(1:村:10)吃的、穿的、住的都不比城里差。
+  pinyin: Wǒmen (1:cūn) chī de, chuān de, zhù de dōu bùbǐ chéng lǐ chà.
+  en: In the (1:village), what we eat, wear, and where we live are not worse than in the city.
+  es: En el (1:pueblo), la comida, la ropa y la vivienda no son peores que las de la ciudad.
 - id: 36713a17-af3e-4b2d-aa92-1b012822ab86
-  zh-hans: 问题是我们农民的文化水平
-  pinyin: Wèntí shì wǒmen nóngmín de wénhuà shuǐpíng
-  en: The problem is that the educational level of us, the villagers, is
-  es: El problema es que el nivel cultural de nuestros campesinos
+  zh-hans: 问题是我们农民的(1:文化:11)水平
+  pinyin: Wèntí shì wǒmen nóngmín de (1:wénhuà) shuǐpíng
+  en: The problem is that the (1:educational) level of us, the villagers, is
+  es: El problema es que el nivel (1:educativo) de nuestros campesinos
 - id: 25890da2-6951-4bbe-9f1c-d0987d982648
-  zh-hans: 还比城里人的低一些。
-  pinyin: hái bǐ chéng lǐ rén de dī yīxiē.
-  en: somewhat less than that of the people who live in the cities.
-  es: sigue siendo inferior al de la gente de la ciudad.
+  zh-hans: 还比城里人的(1:低:12)一些。
+  pinyin: hái bǐ chéng lǐ rén de (1:dī) yīxiē.
+  en: somewhat (1:less) than that of the people who live in the cities.
+  es: sigue siendo (1:inferior) al de la gente de la ciudad.
 - id: 74be696d-32aa-4b92-b986-b8cd662dbe0e
   zh-hans: 现在农民没有文化真不行。
   pinyin: Xiànzài nóngmín méiyǒu wénhuà zhēn bùxíng.
-  en: Nowadays villagers really cannot not be educated.
-  es: Hoy en día, los agricultores no pueden prescindir de la cultura.
+  en: Nowadays, it is not good that villagers are not educated.
+  es: Hoy en día, esta mal que hayan campesinos sin educación.
 - id: 4fe84ed4-73de-4102-a63c-9becc219c7b1
-  zh-hans: 你说得很对，农民也都要学习新技术。
-  pinyin: Nǐ shuō de hěn duì, nóngmín yě doū yào xuéxí xīn jìshù.
-  en: What you said is right, villagers also need to study new skills.
-  es: Tienes razón, los agricultores necesitan aprender nuevas técnicas.
+  zh-hans: 你说得很对，农民也都要学习新(1:技术:13)。
+  pinyin: Nǐ shuō de hěn duì, nóngmín yě doū yào xuéxí xīn (1:jìshù).
+  en: What you said is right, villagers also need to study new (1:skills).
+  es: Tienes razón, los agricultores necesitan aprender nuevas (1:habilidades).
 - id: fc547eee-776e-4597-b42d-c271e3a9f239
-  zh-hans: 温室蔬菜是用电脑管理的。
-  pinyin: Wēnshì shūcài shì yòng diànnǎo guǎnlǐ de.
-  en: Computers are used to manage the greenhouse vegetables.
-  es: Las hortalizas de invernadero se gestionan con ordenadores.
+  zh-hans: (1:温室:2)蔬菜是用电脑(2:管理：14)的。
+  pinyin: (1:Wēnshì) shūcài shì yòng diànnǎo (2:guǎnlǐ) de.
+  en: Computers are used to (2:manage) the (1:greenhouse) vegetables.
+  es: Los vegetales que están en el (1:invernadero) son (2:administradas) usando ordenadores.
 - id: 506f6def-cf93-4e7e-96f6-a1cb85f1b80c
   zh-hans: 你舅妈也开始用电脑了。
   pinyin: Nǐ jiùmā yě kāishǐ yòng diànnǎole.

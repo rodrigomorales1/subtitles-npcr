@@ -1,8 +1,8 @@
 - id: 823fb6fa-b4c6-4bd7-b920-a63db74458ba
-  zh-hans: 陈老师、林娜，加油！快上来！
-  pinyin: Chén Lǎoshī, Lín Nà, jiāyóu! Kuài shànglái!
-  en: Teacher Chen, Lin Na, you can do it! Quickly come up!
-  es: ¡Sr. Chan, Linna, vamos! ¡Suban rápido!
+  zh-hans: 陈老师、林娜，(1:加油:1)！快上来！
+  pinyin: Chén Lǎoshī, Lín Nà, (1:jiāyóu)! Kuài shànglái!
+  en: Teacher Chen, Lin Na, (1:you can do it)! Quickly come up!
+  es: ¡Sr. Chan, Linna, (1:vamos)! ¡Suban rápido!
 - id: 4cca8d94-3714-442c-adfb-161ec060fca4
   zh-hans: 力波、大为他们呢？
   pinyin: Lìbō, Dàwéi tāmen ne?
@@ -14,50 +14,50 @@
   en: They have already climbed up.
   es: Ya han subido.
 - id: a6083ca7-ba68-44c3-a29f-87aaf403e48b
-  zh-hans: 咱们也快要到山顶了。
+  zh-hans: 咱们也快nn要到山顶了。
   pinyin: Zánmen yě kuàiyào dào shāndǐngle.
   en: We are also almost at the top.
   es: Estamos casi en la cima.
 - id: 9bf6044a-9c95-42a2-8934-352b580f2230
-  zh-hans: 别着急。我觉得有点儿累，
-  pinyin: Bié zhāojí. Wǒ juéde yǒudiǎnr lèi,
-  en: Don’t worry. I’m feeling a little bit tired,
-  es: No te preocupes. Estoy un poco cansado.
+  zh-hans: 别着急。我觉得有点儿(1:累:2)，
+  pinyin: Bié zhāojí. Wǒ juéde yǒudiǎnr (1:lèi),
+  en: Don’t worry. I’m feeling a little bit (1:tired),
+  es: No te preocupes. Estoy un poco (1:cansado).
 - id: b20c2f20-4806-49e1-a010-afc74d9d8e4f
-  zh-hans: 林娜也累了，咱们就坐下来休息一会儿吧。
-  pinyin: Lín Nà yě lèile, zánmen jiùzuò xiàlái xiūxí yī huǐr ba.
-  en: Lin Na is also tired, we’ll just sit and rest for little while.
-  es: Linna también está cansada. Sentémonos y descansemos un rato.
+  zh-hans: 林娜也(1:累)了，咱们就坐下来休息一会儿吧。
+  pinyin: Lín Nà yě (1:lèi) le, zánmen jiùzuò xiàlái xiūxí yī huǐr ba.
+  en: Lin Na is also (1:tired), we’ll just sit and rest for little while.
+  es: Linna también está (1:cansada). Sentémonos y descansemos un rato.
 - id: e44fd049-af44-428c-b29b-6dbcc6f8f320
   zh-hans: 先喝点儿水再往上爬。这儿的景色多美啊！
   pinyin: Xiān hē diǎnr shuǐ zài wǎng shàng pá. Zhèr de jǐngsè duō měi a!
   en: First drink a little water, then climb up. The scenery here is so beautiful!
   es: Bebamos un poco de agua antes de subir. ¡Qué vista más bonita!
 - id: 7b0ce490-7311-437c-b95e-24b7b9c9d451
-  zh-hans: 长城好像一条龙。
-  pinyin: Chángchéng hǎoxiàng yītiáo lóng.
-  en: The Great Wall looks like a dragon.
-  es: La Gran Muralla parece un dragón.
+  zh-hans: 长城好像一(1:条:3)(2:龙:4)。
+  pinyin: Chángchéng hǎoxiàng yī (1:tiáo) (2:lóng).
+  en: The Great Wall looks like a (2:dragon).
+  es: La Gran Muralla parece un (2:dragón).
 - id: ea811634-9cef-4f2d-9e45-4298389bb060
   zh-hans: 看，下边都是山，火车从山里开出来了。
   pinyin: Kàn, xiàbian dōu shì shān, huǒchē cóng shānli kāi chūláile.
   en: Look, below is all mountains, the train is coming from within the mountain.
   es: Mira, abajo hay montañas. El tren está saliendo de las montañas.
 - id: 1f15c26f-c645-4986-893f-e47d27a4df8d
-  zh-hans: 我要多拍些照片寄回家去。
-  pinyin: Wǒ yào duō pāi xiē zhàopiàn jì huí jiā qù.
-  en: I want to take lots of pictures to send home.
-  es: Haré más fotos y las enviaré a casa.
+  zh-hans: 我要多(1:拍:5)些照片寄回家去。
+  pinyin: Wǒ yào duō (1:pāi) xiē zhàopiàn jì huí jiā qù.
+  en: I want to (1:take) lots of pictures to send home.
+  es: Quiero (1:tomar) más fotos para enviarlas a casa.
 - id: 11f73acf-6042-43b3-8942-2c091589274b
   zh-hans: 你来过这儿吗？
   pinyin: Nǐ láiguò zhèr ma?
   en: Have you been here before?
   es: ¿Has estado aquí antes?
 - id: feccd7d7-47e9-4cd3-a279-5beecf4737cf
-  zh-hans: 来过。是秋天来的。
-  pinyin: Láiguò. Shì qiūtiān lái de.
-  en: Yes. I’ve come in autumn.
-  es: Sí. En otoño.
+  zh-hans: 来过。是(1:秋天:6)来的。
+  pinyin: Láiguò. Shì (1:qiūtiān) lái de.
+  en: Yes. I’ve come in (1:autumn).
+  es: Sí. Vine en (1:otoño).
 - id: 2c260495-51eb-4da0-bffc-e8042e1b1f2c
   zh-hans: 那时候长城的景色跟现在很不一样。
   pinyin: Nà shíhou Chángchéng de jǐngsè gēn xiànzài hěn bù yīyàng.
@@ -69,45 +69,45 @@
   en: That’s right. Now is winter,
   es: Lo era. Es invierno.
 - id: b5ce87f9-8281-492b-8ff3-b0dd6e57c662
-  zh-hans: 今天还是阴天，要下雪了。
-  pinyin: jīntiān háishì yīn tiān, yào xià xuěle.
-  en: and today is a cloudy day, it will snow.
-  es: Todavía está nublado y va a nevar.
+  zh-hans: 今天还是(1:阴天:7)，要(2:下雪:8)了。
+  pinyin: jīntiān háishì (1:yīntiān), yào (2:xià xuě) le.
+  en: and today is a (1:cloudy day), it will (2:snow).
+  es: Todavía está (1:nublado) y va a (2:nevar).
 - id: a00b4c07-50c0-425e-b0eb-e304b9753139
-  zh-hans: 在长城上看下雪，太美了。
-  pinyin: Zài Chángchéng shàng kàn xià xuě, tàiměile.
-  en: Seeing it snow from the Great Wall, so beautiful.
-  es: Es hermoso ver nieve en la Muralla.
+  zh-hans: 在长城上看(1:下雪:8)，太美了。
+  pinyin: Zài Chángchéng shàng kàn (1:xià xuě), tàiměile.
+  en: Seeing (1:snow) from the Great Wall is so beautiful.
+  es: Ver cómo (1:nieva) desde la Muralla es hermoso.
 - id: b4e0dab1-5625-453d-9eb7-fa69e75be888
-  zh-hans: 今天这儿的气温是零下十度。
-  pinyin: Jīntiān zhèr de qìwēn shì língxià shí dù.
-  en: The temperature here today is minus ten degrees.
-  es: Hoy hace diez grados bajo cero.
+  zh-hans: 今天这儿的气温是(1:零下:9)十(2:度:10)。
+  pinyin: Jīntiān zhèr de qìwēn shì (1:língxià) shí (2:dù).
+  en: The temperature here today is (1:minus) ten (2:degrees).
+  es: Hoy hace diez grados (1:bajo cero).
 - id: e9842283-715b-4ae2-9d23-8a14cf4cdaa9
-  zh-hans: 可是你们知道吗？广州今天是零上二十度。
-  pinyin: Kěshì nǐmen zhīdào ma? Guǎngzhōu jīntiān shì líng shàng èrshí dù.
-  en: But do you both know? Today in Guangzhou it is plus twenty degrees.
-  es: ¿Pero sabes qué? Hay 20 grados sobre cero en Guangzhou.
+  zh-hans: 可是你们知道吗？(1:广州:16)今天是(2:零上:9)二十(3:度:10)。
+  pinyin: Kěshì nǐmen zhīdào ma? (1:Guǎngzhōu:16) jīntiān shì (2:líng shàng)  èrshí (3:dù).
+  en: But do you both know? Today in (1:Guangzhou) it is (2:plus) twenty (3:degrees).
+  es: ¿Pero sabes qué? Hay 20 (3:grados) (2:sobre cero) en (1:Guangzhou).
 - id: 22ffaf7d-b3ed-43cf-87ea-ef992fd02ebd
-  zh-hans: 中国真大。北方还是这么冷的冬天，
-  pinyin: Zhōngguó zhēn dà. Běifāng háishì zhème lěng de dōngtiān,
-  en: China is very big. It is still winter in the north, but
-  es: China es tan grande. Todavía es un invierno tan frío en el norte.
+  zh-hans: 中国真大。(1:北方:11)还是这么冷的冬天，
+  pinyin: Zhōngguó zhēn dà. (1:Běifāng) háishì zhème lěng de dōngtiān,
+  en: China is very big. It is still winter in the (1:north), but
+  es: China es tan grande. Todavía es un invierno tan frío en el (1:norte).
 - id: 4aa7213b-29a1-457d-8055-40e405054644
-  zh-hans: 可是春天已经到了南方。
-  pinyin: kěshì chūntiān yǐjīng dàole nánfāng.
-  en: spring has already arrived in the south.
-  es: Pero la primavera ya ha llegado al sur.
+  zh-hans: 可是(1:春天:12)已经到了南方。
+  pinyin: kěshì (1:chūntiān) yǐjīng dàole nánfāng.
+  en: (1:spring) has already arrived in the south.
+  es: pero la (1:primavera) ya ha llegado al sur.
 - id: a01307c0-3d75-45c3-b16f-ef2d4d07fd21
   zh-hans: 你们看，力波怎么走下来了？
   pinyin: Nǐmen kàn, Lìbō zěnme zǒu xiàláile?
   en: Look, how come is Libo walking down?
   es: Mira, Lippo está bajando.
 - id: 3a45f9bc-13a3-4704-accd-d552324827d1
-  zh-hans: 喂，你们怎么还没上来？要帮忙吗？
-  pinyin: Wèi, nǐmen zěnme hái méi shànglái? Yào bāngmáng ma?
-  en: Hey, how come you all have not yet come up? Need help?
-  es: Eh, ¿por qué no estáis aquí arriba todavía? ¿Necesitáis ayuda?
+  zh-hans: 喂，你们怎么还没上来？要(1:帮忙:13)吗？
+  pinyin: Wèi, nǐmen zěnme hái méi shànglái? Yào (1:bāngmáng) ma?
+  en: Hey, how come you all have not yet come up? Need (1:help)?
+  es: Eh, ¿por qué no estáis aquí arriba todavía? ¿Necesitas (1:ayuda)?
 - id: 8ac3eb6d-8cf4-446a-b09a-2ef7e5f5a4f7
   zh-hans: 不用。你不用跑过来，我们自己能上去。
   pinyin: Bùyòng. Nǐ bùyòng pǎo guòlái, wǒmen zìjǐ néng shàngqù.
@@ -119,10 +119,10 @@
   en: Teacher Chen, have you rested enough?
   es: Sr. Chen, ¿ha descansado?
 - id: 32622adb-ec65-4980-915e-a2f3e9d196a9
-  zh-hans: 休息好了。小云，你帮我站起来……
-  pinyin: Xiūxí hǎole. Xiǎo Yún, nǐ bāng wǒ zhàn qǐlái...
-  en: Yes. Xiao Yun, can you help me stand up...
-  es: Estoy descansado. Xiao Yun, ayúdame a levantarme. ......
+  zh-hans: 休息好了。小云，你帮我(1:站:14)(2:起)来……
+  pinyin: Xiūxí hǎole. Xiǎo Yún, nǐ bāng wǒ (1:zhàn) (2:qǐ) lái...
+  en: Yes. Xiao Yun, can you help me (1:stand) (2:up)...
+  es: Estoy descansado. Xiao Yun, ayúdame a (1:levantarme). ......
 - id: 99a7052b-88b5-421e-88b6-58d70971054e
   zh-hans: 啊！我们爬上长城来了！
   pinyin: A! Wǒmen pá shàng Chángchéng láile!

@@ -14,10 +14,10 @@
   en: I do not know what I shoul do?
   es: No sé qué hacer.
 - id: 48241a53-c01b-4adc-9632-3ea4ea082f6a
-  zh-hans: 学习书法要多看、多练。
-  pinyin: Xuéxí shūfǎ yào duō kàn, duō liàn.
-  en: Studying calligraphy requires lots of reading, lots of practice.
-  es: Para aprender caligrafía, tienes que leer y practicar más.
+  zh-hans: 学习书法要多看、多(1:练:1)。
+  pinyin: Xuéxí shūfǎ yào duō kàn, duō (1:liàn).
+  en: Studying calligraphy requires lots of reading, lots of (1:practice).
+  es: Para aprender caligrafía, tienes que leer y (1:practicar) más.
 - id: f717a5e1-b607-4966-9ef8-1047fa16b530
   zh-hans: 人们常说，如果你每天都认认真真地练，
   pinyin: Rénmen cháng shuō, rúguǒ nǐ měitiān doū rèn rènzhēn zhēn de liàn,
@@ -49,10 +49,10 @@
   en: don’t know if this OK or not?
   es: No sé si es posible.
 - id: b1477848-5922-4f04-8b17-b66897ed8e1e
-  zh-hans: 我的字很一般，你应该多看书法家的字。
-  pinyin: Wǒ de zì hěn yībān, nǐ yīnggāi duō kàn shūfǎ jiā de zì.
-  en: My characters are very average, you are better of looking at calligraphy scholar’s characters.
-  es: Mi caligrafía es mediocre. Debería mirar la caligrafía de otros calígrafos.
+  zh-hans: 我的字很一般，你应该多看(1:书法家:2)的字。
+  pinyin: Wǒ de zì hěn yībān, nǐ yīnggāi duō kàn (1:shūfǎjiā) de zì.
+  en: My characters are very average, you should look at the characters drawn by (1:calligraphers).
+  es: Mi caligrafía es mediocre. Debería mirar a los caracteres que dibujan los (1:calígrafos).
 - id: 42b31842-2a0b-4f12-8b6e-777634025490
   zh-hans: 我知道您的书法很有名。
   pinyin: Wǒ zhīdào nín de shūfǎ hěn yǒumíng.
@@ -74,35 +74,38 @@
   en: I just wrote this one today, take a look, what does it say?
   es: Acabo de escribir una hoy. Mira lo que dice.
 - id: b390eb2d-44cd-4222-b48f-2383e36a6691
-  zh-hans: “弟子不必不如师，师不必贤于弟子”。
-  pinyin: “Dìzǐ bùbì bùrú shī, shī bùbì xián yú dìzǐ”.
-  en: “Pupil not necessarily inferior to master, master not necessarily able as pupil”.
-  es: "Un discípulo no necesita ser inferior a su maestro, y un maestro no necesita ser más virtuoso que su discípulo."
+  zh-hans: “(1:弟子:3)(2:不必:3)(3:不如:7)(4:师)，
+  pinyin: “(1:Dìzǐ:3) (2:bùbì:3) (3:bùrú) (4:shī),
+  es: '"Los (1:discípulos) (2:no son necesariamente) (3:inferiores) a sus (4:maestros),'
+- id: a9d12353-8d88-42a1-8e6e-ec8137a59a30
+  zh-hans: (4:师)(1:不必:3)(2:贤)(3:于)(4:弟子:3)”。
+  pinyin: (4:shī) (1:bùbì:3) (2:xián) (3:yú) (4:dìzǐ:3)”.
+  es: ', los (4:maestros) (1:no son necesariamente) más (2:capaces) (3:que) sus (4:discípulos)."'
 - id: fb5f4819-9690-47b7-9bbf-ac51b0dce18a
-  zh-hans: 张教授，请问，这个句子是什么意思？
-  pinyin: Zhāng jiàoshòu, qǐngwèn, zhège jùzi shì shénme yìsi?
-  en: Professor Zhang, may I ask, what does this sentence mean?
-  es: Profesor Zhang, ¿puedo preguntar qué significa esta frase?
+  zh-hans: 张教授，请问，这个(1:句子:5)是什么(2:意思:6)？
+  pinyin: Zhāng jiàoshòu, qǐngwèn, zhège (1:jùzi) shì shénme (2:yìsi)?
+  en: Professor Zhang, may I ask, what's the (2:meaning) of this (1:sentence)?
+  es: Profesor Zhang, ¿puedo preguntar qué (2:significa) esta (1:oración)?
 - id: 3ecfadd8-9b8c-46d3-a7bb-65c6090661d8
-  zh-hans: 这是唐代一位文学家说过的话，
-  pinyin: Zhè shì Táng dài yī wèi wénxué jiā shuōguò dehuà,
-  en: These are the words of a Tang dynasty literary scholar,
-  es: Son las palabras de un erudito literario de la dinastía Tang.
+  zh-hans: 这是唐代一位(1:文学家:9)说过的话，
+  pinyin: Zhè shì Táng dài yī wèi (1:wénxuéjiā) shuōguò dehuà,
+  en: These are the words of a Tang dynasty (1:literary scholar),
+  es: Son las palabras de un (1:literario) de la dinastía Tang.
 - id: 3284b63c-4d3f-46ec-a5c8-c0735e974554
-  zh-hans: 意思是，学生不一定不如老师，
-  pinyin: yìsi shì, xuéshēng bù yīdìng bùrú lǎoshī,
-  en: the meaning is, students are are not necessarily not as good as teachers,
-  es: Significa que un estudiante no tiene por qué ser inferior a su maestro.
+  zh-hans: 意思是，学生不一定(1:不如:7)老师，
+  pinyin: yìsi shì, xuéshēng bù yīdìng (1:bùrú) lǎoshī,
+  en: the meaning is, students are are not necessarily (1:inferiors) to their teachers,
+  es: Significa que un estudiante no tiene por qué (1:ser inferior) a su maestro.
 - id: 88315c16-4146-4cd6-a87c-f36c36720365
-  zh-hans: 老师也不一定比学生高明。
-  pinyin: lǎoshī yě bù yīdìng bǐ xuéshēng gāomíng.
-  en: teachers are also not necessarily smarter than students.
-  es: El maestro no es necesariamente superior al alumno.
+  zh-hans: 老师也不一定比学生(1:高明:8)。
+  pinyin: lǎoshī yě bù yīdìng bǐ xuéshēng (1:gāomíng).
+  en: teachers are also not necessarily (1:smarter) than students.
+  es: El maestro no es necesariamente más (1:sabio) que el alumno.
 - id: 6b220f09-f6e1-4cb8-9dce-c43a473f1051
-  zh-hans: 老师和学生应该互相学习。
-  pinyin: Lǎoshī hé xuéshēng yīnggāi hù xiàng xuéxí.
-  en: Teachers and students should learn from each other.
-  es: Profesores y alumnos deben aprender unos de otros.
+  zh-hans: 老师和学生应该(1:互相:10)学习。
+  pinyin: Lǎoshī hé xuéshēng yīnggāi (1:hùxiāng) xuéxí.
+  en: Teachers and students should learn (1:from each other).
+  es: Profesores y alumnos deben aprender (1:mutuamente).
 - id: f012cc52-e9ff-4400-9209-9632c316c849
   zh-hans: 谢谢您，张教授。这幅字很有意思，
   pinyin: Xièxiè nín, Zhāng jiàoshòu. Zhè fú zì hěn yǒuyìsi,
@@ -134,10 +137,10 @@
   en: “Chinese Calligraphy Art”, thank you.
   es: Es "El arte de la caligrafía china". Gracias.
 - id: 2fd48394-24b4-42cf-baff-2523c293d50c
-  zh-hans: 张教授，您太谦虚了。
-  pinyin: Zhāng jiàoshòu, nín tài qiānxūle.
-  en: Professor Zhang, you are too modest.
-  es: Profesor Zhang, eres demasiado modesto.
+  zh-hans: 张教授，您太(1:谦虚:11)了。
+  pinyin: Zhāng jiàoshòu, nín tài (1:qiānxū) le.
+  en: Professor Zhang, you are too (1:modest).
+  es: Profesor Zhang, eres demasiado (1:modesto).
 - id: 46f625c3-c3ad-4d4e-9f6a-141e00616b44
   zh-hans: 您是老师，我们才学了这么一点儿中文，
   pinyin: Nín shì lǎoshī, wǒmen cáixuéle zhème yīdiǎnr zhōngwén,
@@ -149,12 +152,7 @@
   en: how can we make comments?
   es: ¿Cómo podemos dar consejos?
 - id: 8e9ca931-e7fd-4c32-a2df-5276b13c092f
-  zh-hans: 那位唐代文学家是怎么说的？
-  pinyin: Nà wèi Táng dài wénxué jiā shì zěnme shuō de?
-  en: What did the Tang dynasty literary scholar say?
-  es: ¿Qué dijo ese escritor de la dinastía Tang?
-- id: 9aec5660-b3d9-43e0-ba94-b19d93d072a2
-  zh-hans: “弟子不必不如师，师不必贤于弟子”。
-  pinyin: “Dìzǐ bùbì bùrú shī, shī bùbì xián yú dìzǐ”.
-  en: “Pupil not necessarily inferior to master, master not necessarily able as pupil”.
-  es: "Un discípulo no tiene por qué ser inferior a su maestro, y un maestro no tiene por qué ser más virtuoso que su discípulo. "
+  zh-hans: 那位(1:唐代)(2:文学家:9)是怎么说的？
+  pinyin: Nà wèi (1:Tángdài) (2:wénxué) jiā shì zěnme shuō de?
+  en: What did the (1:Tang dynasty) (2:literary scholar) say?
+  es: ¿Qué dijo ese (2:literario) de la (1:dinastía Tang)?

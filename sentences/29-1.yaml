@@ -1,8 +1,8 @@
 - id: e947281a-544e-401c-9cb7-42f09594af77
-  zh-hans: 你们来了！欢迎，欢迎！快请进。
-  pinyin: Nǐmen láile! Huānyíng, huānyíng! Kuài qǐng jìn.
-  en: You all have come! Welcome, welcome! Please come in.
-  es: ¡Ya estáis aquí! ¡Bienvenidos, bienvenidos! Entra rápido.
+  zh-hans: 你们来了！(1:欢迎:2)，(1:欢迎:2)！快请进。
+  pinyin: Nǐmen láile! (1:Huānyíng), (1:huānyíng)! Kuài qǐng jìn.
+  en: You all have come! (1:Welcome), (1:welcome)! Please come in.
+  es: ¡Ya estáis aquí! ¡(1:Bienvenidos), (1:bienvenidos)! Entra rápido.
 - id: 525c700e-e607-4797-b950-8f125689023f
   zh-hans: 张教授，这是给您的花儿。
   pinyin: Zhāng jiàoshòu, zhè shì gěi nín de huār.
@@ -19,24 +19,24 @@
   en: Please sit, what would you like to drink?
   es: Tome asiento. ¿Qué le gustaría beber?
 - id: ae91c957-e452-4552-b2a0-99d6800028b0
-  zh-hans: 喝茶吧。您的书房很有特色：
-  pinyin: Hē chá bā. Nín de shūfáng hěn yǒu tèsè:
-  en: Let’s drink tea. Your study room is very characteristic:
-  es: Té. Su estudio es muy especial:
+  zh-hans: 喝茶吧。您的(1:书房:3)很有特色：
+  pinyin: Hē chá bā. Nín de (1:shūfáng) hěn yǒu tèsè:
+  en: Let’s drink tea. Your (1:study room) is very characteristic:
+  es: Tomemos té. Su (1:cuarto de estudio) es muy especial:
 - id: cb4fed96-0a6d-4364-9300-bf2ad5d79f48
-  zh-hans: 墙上挂着中国字画，书架上放着这么多古书，
-  pinyin: Qiáng shàng guàzhe Zhōngguó zìhuà, shūjià shàng fàngzhe zhème duō gǔshū,
-  en: Chinese character paintings hang on the wall, lots of old books on the bookcase,
-  es: Pinturas chinas en las paredes, tantos libros antiguos en los estantes.
+  zh-hans: (1:墙:4)上(2:挂:5)着中国(3:字画:6)，(4:书架:7)上放着这么多(5:古书:8)，
+  pinyin: (1:Qiáng) shàng (2:guà) zhe Zhōngguó (3:zìhuà), (4:shūjià) shàng fàngzhe zhème duō (5:gǔshū),
+  en: Chinese (3:calligraphy and paintings) (2:hang) on the (1:wall), lots of (5:old books) on the (4:bookcase),
+  es: (3:pinturas y 3:caligrafía) chinas (2:colgando) en las (1:paredes), tantos (5:libros antiguos) en la (4:estantería).
 - id: ef5b084d-562a-4666-a630-482f62e9a03c
   zh-hans: 桌上放着文房四宝，
   pinyin: zhuō shàng fàngzhe wénfángsìbǎo,
   en: the four treasures of the study on the table,
   es: Sobre la mesa están los Cuatro Tesoros.
 - id: b7ea0571-84da-4c89-acd0-e73a288fe31b
-  zh-hans: 外边还整整齐齐地摆着这么多花儿，
-  pinyin: wàibian hái zhěng zhěngqí qí de bǎizhe zhème duō huār,
-  en: and neatly arranged outside are so many flowers, and pot plants.
+  zh-hans: 外边还(2:整整齐齐)地摆着这么多花儿，
+  pinyin: wàibian hái (2:zhěngzhěngqíqí)  de bǎizhe zhème duō huār,
+  en: and neatly (1:arranged) outside are so many flowers, and pot plants.
   es: Hay muchas flores cuidadosamente dispuestas fuera.
 - id: 73087f53-fb64-4624-98ec-e172a5e9e24d
   zh-hans: 还有盆景呢。这些花儿真漂亮，都是您种的吗？

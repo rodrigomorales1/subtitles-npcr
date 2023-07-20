@@ -1,7 +1,7 @@
 - id: d91226ff-6d77-4db9-a74e-126e7b9212b0
-  zh-hans: 要(1:放假)了，(2:同学们)有什么(3:打算)？
+  zh-hans: 要(1:放假:2)了，(2:同学们)有什么(3:打算:3)？
   pinyin: Yào (1:fàngjià) le, (2:tóngxuémen) yǒu shénme (3:dǎsuàn)?
-  en: Holiday is coming up, what (3:plans) do the (2:students) have for the the (1:holiday)?
+  en: (1:Holiday) is coming up, what (3:plans) do the (2:students) have for the the (1:holiday)?
   es: Las (1:vacaciones) están muy cerca ¿qué (3:planes) tienen los (2:estudiantes)?
 - id: 2b339f36-d891-4e7e-9ac4-bf6eb7b044c6
   zh-hans: 有的同学去(1:旅行)，有的同学(2:回家)。
@@ -14,99 +14,99 @@
   en: (1:Xiao Yun), how about (2:you)?
   es: ¿Y (2:tú), (1:Xiao Yun)?
 - id: 8f965076-a99f-499d-bfd2-9ad2f280e22d
-  zh-hans: 我(1:打算)先去(2:泰山)，再(3:回家)看我(4:爸爸)(5:妈妈)。
+  zh-hans: 我(1:打算:3)先去(2:泰山:18)，再(3:回家)看我(4:爸爸)(5:妈妈)。
   pinyin: Wǒ (1:dǎsuàn) xiān qù (2:Tàishān), zài (3:huíjiā) kàn wǒ (4:bàba) (5:māmā).
   en: I (1:plan) to first go to (2:Taishan), then (2:return home) to see my (4:father) and (5:mother).
   es: Yo (1:planeo) ir a (2:Taishan) primero, y luego (3:ir a casa) a ver a mi (4:padre) y a mi (5:madre).
 - id: 3b9c1ea2-3b7e-414f-934c-db33cf01dc3d
-  zh-hans: 林娜，你去过(1:泰山)没有？
+  zh-hans: 林娜，你去过(1:泰山:18)没有？
   pinyin: Lín Nà, nǐ qùguò (1:Tàishān) méiyǒu?
   en: Lin Na, have you been to (1:Taishan)?
   es: Linna, ¿has estado en (1:Taishan)?
 - id: 3a76cb99-ac2d-4561-9761-e98382126af9
-  zh-hans: (1:泰山)我去过一次了。这次我想去(2:海南岛)旅行。
-  pinyin: Tàishān wǒ qùguò yīcìle. Zhè cì wǒ xiǎng qù (2:Hǎinándǎo) lǚxíng.
-  en: I’ve been to Taishan once. This time I want to go travelling in (2:Hainan island).
-  es: He estado en Taishan una vez. Esta vez quiero viajar a la (2:isla de Hainan).
+  zh-hans: (1:泰山:18)我去过一次了。这次我想去(2:海南岛:19)旅行。
+  pinyin: (1:Tàishān) wǒ qùguò yīcìle. Zhè cì wǒ xiǎng qù (2:Hǎinándǎo) lǚxíng.
+  en: I’ve been to (1:Taishan) once. This time I want to go travelling in (2:Hainan island).
+  es: He estado en (1:Taishan) una vez. Esta vez quiero viajar a la (2:isla de Hainan).
 - id: 351a78e7-3e27-41ed-bdbc-96cca8a44203
   zh-hans: (1:你)跟(2:宋华)一起去吧？
   pinyin: (1:Nǐ) gēn (2:Sòng Huá) yīqǐ qù ba?
   en: (1:You)’ll be going together with (2:Song Hua), right?
   es: (1:Tú) vas a ir con (2:Song Hua), ¿verdad?
 - id: 10a4123a-8b27-4b02-985a-2313b1e47a44
-  zh-hans: 是啊，去(1:海南岛)旅行就是他(2:提)出来的。
+  zh-hans: 是啊，去(1:海南岛:19)旅行就是他(2:提:4)出来的。
   pinyin: Shì a, qù (1:Hǎinán dǎo) lǚxíng jiùshì tā (2:tí) chūlái de.
   en: Yes, it was him who (2:proposed) travelling to (1:Hainan island).
   es: Sí, él (2:propuso) viajar a la (1:isla de Hainan).
 - id: 5c0bae97-34f4-4a7e-b284-66cde8a4389b
-  zh-hans: 你们坐(1:飞机)去还是坐(2:火车)去？
+  zh-hans: 你们坐(1:飞机:5)去还是坐(2:火车)去？
   pinyin: Nǐmen zuò (1:fēijī) qù háishì zuò (2:huǒchē) qù?
   en: Will you two go by (1:plane) or go by (2:train)?
   es: ¿Van en (1:avión) o en (2:tren)?
 - id: 8d8b7e3a-4884-4972-ac05-a9daa64aa09e
-  zh-hans: 坐(1:飞机)去。(2:机票)已经买好了。
+  zh-hans: 坐(1:飞机:5)去。(2:机票)已经买好了。
   pinyin: Zuò (1:fēijī) qù. (2:Jīpiào) yǐjīng mǎihǎole.
   en: We will go by (1:plane). The (2:plane tickets) have already been bought.
   es: En (1:avión). Ya he comprado los (2:boletos de avión).
 - id: 41ee305e-90b7-48d3-b8b4-cbda98298438
-  zh-hans: 力波呢？去不去(1:泰山)？
+  zh-hans: 力波呢？去不去(1:泰山:18)？
   pinyin: Lìbō ne? Qù bù qù (1:Tàishān)?
   en: How about Libo? Is he going to (1:Taishan)?
   es: ¿Y Lippo? ¿Vas al (1:Monte Tai)?
 - id: c96f0797-cb86-4a29-a758-17e31975c736
-  zh-hans: 去。他说他要从(1:山)(2:下)爬上去，
-  pinyin: Qù. Tā shuō tā yào cóng shānxià pá shàngqù,
-  en: He’s going. He said he wants to climb up from the (2:bottom) of the (1:mountain),
-  es: Sí. Dice que subirá desde el (2:pie) de la (1:montaña).
+  zh-hans: 去。他说他要从(1:山:6)(2:下)(3:爬:1)上去，
+  pinyin: Qù. Tā shuō tā yào cóng (1:shān) (2:xià) (3:pá) shàngqù,
+  en: He’s going. He said he wants to (3:climb up) from the (2:bottom) of the (1:mountain),
+  es: Sí. Dice que (3:subirá) desde el (2:pie) de la (1:montaña).
 - id: d0274c6e-1a4c-4b14-9cab-8a296b4d99df
-  zh-hans: 再从(1:山顶)走下来。他还说，
-  pinyin: zài cóng (1:shāndǐng) zǒu xiàlái. Tā hái shuō,
-  en: and then walk down from the (1:top of the mountain). He also said
-  es: Luego bajará desde la (1:cima). También dijo
+  zh-hans: 再从(1:山:6)(2:顶:7)走下来。他还说，
+  pinyin: zài cóng (1:shān)(2:dǐng) zǒu xiàlái. Tā hái shuō,
+  en: and then walk down from the (2:top) of the (1:mountain). He also said
+  es: Luego bajará desde la (2:cima) de la (1:montaña). También dijo
 - id: 4eae0815-a312-4f61-93f6-1334dcb669b2
-  zh-hans: 先爬(1:泰山)，再去参观(2:孔子)教书的地方。
-  pinyin: xiān pá Tàishān, zài qù cānguān (2:Kǒngzǐ) jiāoshū de dìfāng.
-  en: that first he will climb (1:Taishan), and then visit the place where (2:Confucius) taught.
-  es: Dijo que escalaría el (1:Monte Tai) y luego visitaría el lugar donde (2:Confucio) enseñó.
+  zh-hans: 先(1:爬:1)(2:泰山:18)，再去参观(3:孔子:20)(4:教书:8)的地方。
+  pinyin: xiān (1:pá) (2:Tàishān), zài qù cānguān (3:Kǒngzǐ) (4:jiāoshū) de dìfāng.
+  en: that first he will (1:climb) (2:Taishan), and then visit the place where (3:Confucius) (4:taught).
+  es: que (1:escalaría) el (2:Monte Tai) y luego visitaría el lugar donde (3:Confucio) (4:enseñó).
 - id: 45da813c-f44e-4406-918a-331fef43819e
   zh-hans: 对了，(1:大为)想去哪儿？
   pinyin: Duìle, (1:Dàwéi) xiǎng qù nǎr?
   en: By the way, where is (1:Dawei) going?
   es: Por cierto, ¿adónde quería ir (1:Dawei)?
 - id: 0c0c2e77-9846-428d-a603-1ff6560d2434
-  zh-hans: 小燕子(1:建议)大为也去(2:海南岛)。
+  zh-hans: 小燕子(1:建议:9)大为也去(2:海南岛:19)。
   pinyin: Xiǎo Yànzi (1:jiànyì) Dàwéi yě qù (2:Hǎinán dǎo).
   en: Xiao Yanzi (1:suggested) Dawei also go to (2:Hainan island).
   es: La Golondrina (1:sugirió) que Dawei fuera también a la (2:isla de Hainan).
 - id: 077a0a7f-a885-4005-bc9e-be74b8c9e8fb
-  zh-hans: 她说现在那儿天气好，(1:气温)(2:合适)，
+  zh-hans: 她说现在那儿天气好，(1:气温:10)(2:合适)，
   pinyin: Tā shuō xiànzài nàr tiānqì hǎo, (1:qìwēn) (2:héshì),
   en: She said the weather there is good at the moment, (2:suitable) (1:temperature),
   es: Dijo que allí hace buen tiempo y la (1:temperatura) es (2:agradable).
 - id: d320ceed-c74b-49f6-98ab-e8a6354465f0
-  zh-hans: 能去(1:游泳)，还可以看(2:优美)的景色。
-  pinyin: néng qù (1:yóuyǒng), hái kěyǐ kàn (2:yōuměi) de jǐngsè.
-  en: can go (1:swimming), and also look at the (2:beautiful) scenery.
-  es: Se puede ir a (1:nadar) y ver un paisaje (2:precioso).
+  zh-hans: 能去(1:游泳:12)，还可以看(2:优美)的(3:景色:11)。
+  pinyin: néng qù (1:yóuyǒng), hái kěyǐ kàn (2:yōuměi) de (3:jǐngsè).
+  en: can go (1:swimming), and also look at the (2:beautiful) (3:scenery).
+  es: Se puede ir a (1:nadar) y ver un (3:paisaje) (2:precioso).
 - id: 2a3d331c-bfe7-4c31-9e22-1d088c458af3
-  zh-hans: 现在北京是(1:冬天)，可是在(2:海南岛)
+  zh-hans: 现在北京是(1:冬天:13)，可是在(2:海南岛:19)
   pinyin: Xiànzài Běijīng shì (1:dōngtiān), kěshì zài (2:Hǎinán dǎo)
   en: At the moment is it (1:winter) in Beijing, but at (2:Hainan island)
   es: Es (1:invierno) en Pekín, pero en la (2:isla de Hainan)
 - id: 0380c2ef-4310-473a-92b8-2458b255000f
-  zh-hans: 还可以过(1:夏天)的生活，多有意思啊！
+  zh-hans: 还可以过(1:夏天:14)的生活，多有意思啊！
   pinyin: hái kěyǐguò (1:xiàtiān) de shēnghuó, duō yǒuyìsi a!
   en: can still have a (1:summer) life, so great!
   es: todavía se puede vivir el (1:verano), ¡qué interesante!
 - id: d36c0406-bf6d-4414-b481-22d15c60d710
-  zh-hans: (1:小燕子)是(2:导游)小姐，
+  zh-hans: (1:小燕子)是(2:导游:15)小姐，
   pinyin: (1:Xiǎo Yànzi) shì (2:dǎoyóu) xiǎojiě,
   en: (1:Xiao Yanzi) is miss (2:tour guide),
   es: (1:Xiao Yanzi) es (2:guía turística).
 - id: 6625dd74-e06b-4831-ab50-17cae5e27e89
-  zh-hans: (1:旅行)的事儿她知道得很多，应该听她的。
-  pinyin: (1:lǚxíng) de shìr tā zhīdào de hěnduō, yīnggāi tīng tā de.
-  en: she knows much about (1:travelling) matters, should listen to her.
+  zh-hans: (1:旅行)的事儿她知道得很多，(2:应该)听她的。
+  pinyin: (1:lǚxíng) de shìr tā zhīdào de hěnduō, (2:yīnggāi) tīng tā de.
+  en: she knows a lot about (1:travelling) matters, (2:should) listen to her.
   es: Sabe mucho de (1:viajes). Deberíamos escucharla.
 - id: dd65b9b4-0cd8-4e23-8e2b-2865a6203a7f
   zh-hans: (1:大为)可以跟我们一起去。
@@ -114,7 +114,7 @@
   en: (1:Dawei) can also come together with us.
   es: (1:Dawei) puede venir con nosotros.
 - id: d3563837-a5db-4446-845b-23405ef1ae19
-  zh-hans: (1:大为)还(2:建议)(3:放假)(4:以前)咱们一起去(5:长城)。
+  zh-hans: (1:大为)还(2:建议:9)(3:放假:2)(4:以前)咱们一起去(5:长城)。
   pinyin: (1:Dàwéi) hái (2:jiànyì) (3:fàngjià) (4:yǐqián) zánmen yīqǐ qù (5:Chángchéng).
   en: (1:Dawei) also (2:suggested) that (4:before) the (3:holiday) we all go to the (5:Great Wall) together.
   es: (1:Dawei) (2:sugirió) que fuéramos a la (5:Gran Muralla China) (4:antes) de las (3:vacaciones).
@@ -124,7 +124,7 @@
   en: (2:Teacher) (1:Chen), would (3:you) be able to come together with us?
   es: (2:Profesor) (1:Chen), ¿(3:usted) puede venir con nosotros?
 - id: 8bf8b503-dbef-44fb-b2b6-9b4d28b5fa43
-  zh-hans: 行。我很(1:愿意)跟你们一起去爬一次(2:长城)。
-  pinyin: Xíng. Wǒ hěn (1:yuànyì) gēn nǐmen yīqǐ qù pá yīcì (2:Chángchéng).
-  en: Certainly. I am very (1:willing to) go climb the (2:Great Wall) with you.
-  es: Sí. Me (1:encantaría) escalar la (2:Gran Muralla) con ustedes.
+  zh-hans: (1:行:16)。我很(2:愿意)跟你们一起去(4:爬:1)一次(5:长城:17)。
+  pinyin: (1:Xíng). Wǒ hěn (2:yuànyì) gēn nǐmen yīqǐ qù (4:pá) yīcì (5:Chángchéng).
+  en: (1:Certainly). I am very (2:willing to) go (4:climb) the (5:Great Wall) with you.
+  es: (1:Sí). Me (2:encantaría) (4:escalar) la (5:Gran Muralla) con ustedes.

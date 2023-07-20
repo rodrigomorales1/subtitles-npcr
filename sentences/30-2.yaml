@@ -1,8 +1,8 @@
 - id: 3983cfc4-73a7-419c-b8b2-d1150c617841
-  zh-hans: 他们在下棋呢。
-  pinyin: Tāmen zàixià qí ne.
-  en: They are playing chess.
-  es: Están jugando al ajedrez.
+  zh-hans: 他们在(1:下棋:1)呢。
+  pinyin: Tāmen zài (1:xiàqí) ne.
+  en: They are (1:playing chess).
+  es: Están (1:jugando ajedrez).
 - id: 829a5f27-85f9-4f00-a534-01e98aa1eae5
   zh-hans: 宋华，你喜欢下棋吗？
   pinyin: Sòng Huá, nǐ xǐhuan xià qí ma?
@@ -44,30 +44,30 @@
   en: This is very interesting.
   es: ¡Qué interesante!
 - id: 0f9e58e2-f271-49e8-ab45-5edd4f088ab9
-  zh-hans: 东边的立交桥下还有很多人呢。
-  pinyin: Dōngbian de lìjiāoqiáo xià hái yǒu hěnduō rén ne.
-  en: There are lots of people under the flyover bridge on the east side.
-  es: Hay mucha más gente bajo el paso elevado que está en el lado este.
+  zh-hans: 东边的(1:立交桥:2)下还有很多人呢。
+  pinyin: Dōngbian de (1:lìjiāoqiáo) xià hái yǒu hěnduō rén ne.
+  en: There are lots of people under the (1:flyover bridge) on the east side.
+  es: Hay mucha más gente bajo el (1:paso elevado) que está en el lado este.
 - id: e3099bfa-fe5a-487b-8c31-d5cfa3568fa9
-  zh-hans: 你听见了吗？那是唱京剧的。
-  pinyin: Nǐ tīngjiànle ma? Nà shì chàng jīngjù de.
-  en: Do you hear that? It’s Peking opera singing.
-  es: ¿Logras escuchar? Es la compañía de la Ópera de Pekín.
+  zh-hans: 你(1:听见:3)了吗？那是唱京剧的。
+  pinyin: Nǐ (1:tīngjiànle) ma? Nà shì chàng jīngjù de.
+  en: Do you (1:hear) that? It’s Peking opera singing.
+  es: ¿Logras (1:oír)? Es la compañía de la Ópera de Pekín.
 - id: 47e8de61-e067-4c18-91e8-0204a397bbbf
   zh-hans: 京剧团怎么到这儿来唱呢？
   pinyin: Jīngjù tuán zěnme dào zhèr lái chàng ne?
-  en: How come a Peking opera troupe have come here to sing?
-  es: ¿Por qué está cantando aquí la compañía de la Ópera de Pekín?
+  en: How come a group that sing Peking opera have come here?
+  es: ¿Por qué un grupo está aquí cantando la Ópera de Pekín?
 - id: fce3b93d-b579-487e-9d14-d431a85d4486
   zh-hans: 他们不是京剧团的，
   pinyin: Tāmen bùshì jīngjù tuán de,
   en: They are not a Peking opera troupe,
   es: No son de la compañía de la Ópera de Pekín.
 - id: 5b3758ca-a388-488b-9937-b5c1a833317a
-  zh-hans: 他们是这个小区的京剧爱好者，
-  pinyin: tāmen shì zhège xiǎoqū de jīngjù àihào zhě,
-  en: they are this district’s Peking opera enthusiasts,
-  es: Son fans de la Ópera de Pekín de este barrio.
+  zh-hans: 他们是这个小区的京剧(1:爱好者:4)，
+  pinyin: tāmen shì zhège xiǎoqū de jīngjù (1:àihàozhě),
+  en: they are this district’s Peking opera (1:enthusiasts),
+  es: Son (1:aficionados) de la Ópera de Pekín de este barrio.
 - id: 339eb456-e106-43bd-8e0c-c21e2a9d0d13
   zh-hans: 也都是些老人。
   pinyin: yě doū shì xiē lǎorén.
@@ -79,10 +79,10 @@
   en: Before when they were working, so busy they had no time to sing.
   es: Antes, cuando trabajaban, estaban demasiado ocupados para cantar.
 - id: beda0fbf-e5eb-4a82-b098-dd19fa32b292
-  zh-hans: 现在他们人退休了，休闲的时间也多了，
-  pinyin: Xiànzài tāmen rén tuìxiūle, xiūxián de shíjiān yě duōle,
-  en: Now they are retired, have lots of leisure time,
-  es: Ahora que están jubilados, tienen más tiempo libre.
+  zh-hans: 现在他们人(1:退休:5)了，(2:休闲:6)的时间也多了，
+  pinyin: Xiànzài tāmen rén (1:tuìxiū) le, (2:xiūxián) de shíjiān yě duōle,
+  en: Now they are (1:retired), have lots of (2:leisure) time,
+  es: Ahora que están (1:jubilados) tienen mucho tiempo (2:libre).
 - id: 945b12e1-f3cc-4a33-9949-0045660f7b15
   zh-hans: 晚上就来这儿高高兴兴地唱一唱。
   pinyin: wǎnshàng jiù lái zhèr gāo gāoxìng xìng de chàng yī chàng.
@@ -109,20 +109,20 @@
   en: When they listening happily, can also shout “good”!
   es: Cuando están contentos, pueden decir "sí".
 - id: 65ebcfc3-ddb5-4393-b349-f7cd3a4a9d79
-  zh-hans: 这也是他们的一种休闲方式。
-  pinyin: Zhè yěshì tāmen de yī zhǒng xiūxián fāngshì.
-  en: This is also a way that they relax.
-  es: También es una forma de relajarse.
+  zh-hans: 这也是他们的一种(1:休闲:6)(2:方式:7)。
+  pinyin: Zhè yěshì tāmen de yī zhǒng (1:xiūxián) (2:fāngshì).
+  en: This is also a (2:way) that they (1:relax).
+  es: También es una (2:forma) de (1:relajarse).
 - id: 09c1e5f0-ba4d-479c-b4a4-9777cde98b08
   zh-hans: 真有意思。
   pinyin: Zhēn yǒuyìsi.
   en: Really interesting.
   es: Es divertido.
 - id: c501d07e-ce09-4275-b5d6-df1e6545f552
-  zh-hans: 我发现这儿老人的休闲活动有很多特点。
-  pinyin: Wǒ fāxiàn zhèr lǎorén de xiūxián huódòng yǒu hěnduō tèdiǎn.
-  en: I have discovered the leisure activities of the old folk here have many characteristics.
-  es: Me parece que las actividades de ocio de los ancianos aquí se caracterizan por muchos rasgos.
+  zh-hans: 我发现这儿老人的(1:休闲:6)活动有很多特点。
+  pinyin: Wǒ fāxiàn zhèr lǎorén de (1:xiūxián) huódòng yǒu hěnduō tèdiǎn.
+  en: I have discovered the (1:leisure) activities of the old folk here have many characteristics.
+  es: Me parece que las actividades de (1:ocio) de los ancianos aquí se caracterizan por muchos rasgos.
 - id: 7b9dc491-7791-4ece-9b20-b8914ebd0ba4
   zh-hans: 简单地说，第一，他们非常注意锻炼身体；
   pinyin: Jiǎndān de shuō, dì yī, tāmen fēicháng zhùyì duànliàn shēntǐ;
@@ -159,20 +159,20 @@
   en: What you say is correct.
   es: Tiene razón.
 - id: 5a92bf90-a39d-4de7-96a8-e60a2000b682
-  zh-hans: 当然，这儿老人的休闲方式还很多。
-  pinyin: Dāngrán, zhèr lǎorén de xiūxián fāngshì hái hěnduō.
-  en: Of course, old people here have lots of ways to relax.
-  es: Por supuesto, aquí los ancianos tienen muchas otras formas de relajarse.
+  zh-hans: 当然，这儿老人的(1:休闲:6)(2:方式:7)还很多。
+  pinyin: Dāngrán, zhèr lǎorén de (1:xiūxián) (2:fāngshì) hái hěnduō.
+  en: Of course, old people here have lots of (2:ways) to (1:relax).
+  es: Por supuesto, aquí los ancianos tienen muchas otras (2:formas) de (1:relajarse).
 - id: c5e32072-bd51-4bc8-a772-d7e4cdffef84
-  zh-hans: 早上有做操的，有跑步的，有爬山的，
-  pinyin: Zǎoshang yǒu zuò cāo de, yǒu pǎobù de, yǒu páshān de,
-  en: In the morning there is aerobics, running, hiking,
-  es: Hacen ejercicios por la mañana, corren, hacen senderismo, nadan.
+  zh-hans: 早上有(1:做操:8)的，有(2:跑步:9)的，有爬山的，
+  pinyin: Zǎoshang yǒu (1:zuòcāo) de, yǒu (2:pǎobù) de, yǒu páshān de,
+  en: In the morning, they are (1:doing aerobics), (2:running), hiking,
+  es: Por la mañana, (1:hacen gimnasia), (2:corren), hacen senderismo,
 - id: 14e407da-fda1-4e42-995b-e5f07fdba40e
   zh-hans: 有游泳的，也有带着自己的小狗散步的，
   pinyin: yǒu yóuyǒng de, yěyǒu dàizhe zìjǐ de xiǎo gǒu sànbù de,
   en: swimming, also taking one’s dog for a walk,
-  es: hay nadadores, y los que sacan a pasear a sus perros.
+  es: nadan, y sacan a pasear a sus perros.
 - id: d262f4f7-f676-465b-9191-be24e0e42a63
   zh-hans: 还有在家练书法的、养花的。
   pinyin: hái yǒu zàijiā liàn shūfǎ de, yǎng huā de.
@@ -184,22 +184,22 @@
   en: How about young people?
   es: ¿Y los jóvenes?
 - id: 36ef7126-4d4c-4633-995c-f34c2017beb4
-  zh-hans: 年轻人的休闲活动就更多了。
-  pinyin: Niánqīng rén de xiūxián huódòng jiù gèng duōle.
-  en: There are even more activities for young people.
-  es: Hay aún más actividades de ocio para los jóvenes.
+  zh-hans: 年轻人的(1:休闲:6)活动就更多了。
+  pinyin: Niánqīng rén de (1:xiūxián) huódòng jiù gèng duōle.
+  en: There are even more (1:leisure)  activities for young people.
+  es: Hay aún más actividades de (1:ocio) para los jóvenes.
 - id: 88f7b41a-50ab-4559-ada0-deb7fa976062
-  zh-hans: 你看，街对面的网吧门口，
-  pinyin: Nǐ kàn, jiē duìmiàn de wǎngbā ménkǒu,
-  en: Look, across the street at the entrance to the internet café,
-  es: Mira, frente al cibercafé de enfrente.
+  zh-hans: 你看，街(1:对面:10)的(2:网吧:11)(3:门口:12)，
+  pinyin: Nǐ kàn, jiē (1:duìmiàn) de (2:wǎngbā) (3:ménkǒu),
+  en: Look, (1:across) the street at the (3:entrance) to the (2:internet café),
+  es: Mira la (3:entrada) del (2:cibercafé) que está al (1:lado opuesto) de la calle.
 - id: 09da6d1d-4b61-4678-bf56-fbb6793f7302
   zh-hans: 进进出出的都是年轻人，
   pinyin: jìn jìnchū chū de dōu shì niánqīng rén,
   en: the people going in are all young people,
   es: Hay jóvenes que entran y salen.
 - id: 48ee578d-462c-4b90-973e-8487276c1caa
-  zh-hans: 旁边的舞厅里又出来了两个小伙子。
-  pinyin: pángbiān de wǔtīng lǐ yòu chūláile liǎng gè xiǎohuǒzi.
-  en: and two young guys came out of the nightclub to the side.
-  es: otros dos jóvenes salen del salón de baile de al lado.
+  zh-hans: 旁边的(1:舞厅:12)里又出来了两个小伙子。
+  pinyin: pángbiān de (1:wǔtīng) lǐ yòu chūláile liǎng gè xiǎohuǒzi.
+  en: and two young guys came out of the (1:nightclub) to the side.
+  es: otros dos jóvenes salen del (1:salón de baile) de al lado.
