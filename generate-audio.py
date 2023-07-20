@@ -1,6 +1,7 @@
 import re
 import argparse
 import utilities
+import ast
 
 parser = argparse.ArgumentParser()
 
@@ -36,6 +37,16 @@ parser.add_argument(
 parser.add_argument(
     "--end-time",
     dest = "end_time")
+
+parser.add_argument(
+    "--highlight-background-of-sentence-being-read",
+    type = ast.literal_eval,
+    default = False)
+
+parser.add_argument(
+    "--height",
+    dest = "height",
+    default = "1080")
 
 args = parser.parse_args()
 
@@ -200,7 +211,7 @@ def generate_rectangle(data_timestamps_sentences, name_last_overlay):
 
     return result
 
-def generate_video(media, output, start_time, end_time, field_for_subtitles_in_third_line):
+def generate_video(media, output, start_time, end_time, field_for_subtitles_in_third_line, height, highlight_background_of_sentence_being_read):
     import subprocess
     import itertools
 
@@ -216,22 +227,25 @@ def generate_video(media, output, start_time, end_time, field_for_subtitles_in_t
 
     ass_files = generate_ass_file(data_timestamps_sentences, field_for_subtitles_in_third_line)
 
+    height = int(height)
+    width = int(16 * (height/9))
+
     cmd = list(itertools.chain.from_iterable(
         [x for x in [
             ['ffmpeg',
              '-y',
              '-f', 'lavfi',
-             '-i', 'color=c=black:s=1920x1080',
+             '-i', f'color=c=black:s={width}x{height}',
              '-i', media,
              '-i', metadata_file.name,
              '-map_metadata', '2'],
             ['-ss', start_time, '-to', end_time] if start_time and end_time else None,
-            ['-filter_complex', ("color=white@1:1920x3 [my_group_separator_1],"
-                                 + "color=white@1:1920x3 [my_group_separator_2],"
-                                 + "[0:v][my_group_separator_1] overlay=0:358:shortest=1 [my_overlay_1],"
-                                 + "[my_overlay_1][my_group_separator_2] overlay=0:719:shortest=1 [foo]"
-                                 + generate_rectangle(data_timestamps_sentences, 'foo') + ','
-                                 + f"subtitles={ass_files[0].name},subtitles={ass_files[1].name},subtitles={ass_files[2].name}"),
+            ['-filter_complex', ("color=white@1:1920x3 [my_group_separator_1]"
+                                 + ",color=white@1:1920x3 [my_group_separator_2]"
+                                 + ",[0:v][my_group_separator_1] overlay=0:358:shortest=1 [my_overlay_1]"
+                                 + ",[my_overlay_1][my_group_separator_2] overlay=0:719:shortest=1"
+                                 + ('[foo]' + generate_rectangle(data_timestamps_sentences, 'foo') if highlight_background_of_sentence_being_read else "")
+                                 + f",subtitles={ass_files[0].name},subtitles={ass_files[1].name},subtitles={ass_files[2].name}"),
              '-c:a', 'copy',
              '-shortest',
              output]
@@ -244,4 +258,6 @@ generate_video(
     output = args.output,
     start_time = args.start_time,
     end_time = args.end_time,
-    field_for_subtitles_in_third_line = args.field_for_subtitles_in_third_line)
+    field_for_subtitles_in_third_line = args.field_for_subtitles_in_third_line,
+    height = args.height,
+    highlight_background_of_sentence_being_read = args.highlight_background_of_sentence_being_read)
