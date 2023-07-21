@@ -54,10 +54,10 @@
   en: '"Kong Yiji is'
   es: '"Kong Yiji es'
 - id: 5ddb33310ef34e2c83f0c2e226d2d93a
-  zh-hans: 站着喝酒而穿长衫的唯一的人”。
-  pinyin: “zhànzhe hējiǔ ér chuān chángshān de wéiyī de rén.”
-  en: 'the only person drinking alcohol standing up and wearing a long gown."'
-  es: 'la única persona que toma alcohol de pie y viste un vestido largo."'
+  zh-hans: 站着喝酒而穿长衫的唯一的(1:人)”。
+  pinyin: “zhànzhe hējiǔ ér chuān chángshān de wéiyī de (1:rén).”
+  en: 'the only (1:person) drinking alcohol standing up and wearing a long gown."'
+  es: 'la única (1:persona) que toma alcohol de pie y viste un vestido largo."'
 - id: 162ebf9974464f83b3c02025e248141f
   zh-hans: (1:在)(2:这个)(3:句子)里，
   pinyin: (1:Zài) (2:zhège) (3:jùzi) lǐ,
