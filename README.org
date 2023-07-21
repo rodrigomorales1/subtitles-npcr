@@ -23,14 +23,12 @@ Generate video between start time and end time.
 #+HEADER: :results silent
 #+begin_src sh
 python3 generate-video.py \
-        --media 'timestamps/videos/43-2.webm' \
-        --timestamps 'timestamps/videos/43-2.vtt' \
-        --sentences 'sentences/43-2.yaml' \
-        --output '43-2-video.mp4' \
+        --media 'timestamps/videos/28-1.webm' \
+        --timestamps 'timestamps/videos/28-1.vtt' \
+        --sentences 'sentences/28-1.yaml' \
+        --output '28-1-video.mp4' \
         --do-color-words 'True' \
-        --field-for-subtitles-in-third-line 'es' \
-        --start-time '00:01:25' \
-        --end-time '00:01:35'
+        --field-for-subtitles-in-third-line 'es'
 #+end_src
 
 * Generate video with subtiles from audio
@@ -38,29 +36,30 @@ python3 generate-video.py \
 :CREATED: [2023-07-13 12:04:35 -05]
 :END:
 
-Generate video.
+Generate video from audio.
 
 #+HEADER: :dir (or default-directory)
 #+HEADER: :results silent
 #+begin_src sh
 python3 generate-audio.py \
-        --media "timestamps/audios/43-2.flac" \
-        --timestamps "timestamps/audios/43-2.vtt" \
-        --sentences "sentences/43-2.yaml" \
-        --output "43-2-audio.mp4" \
+        --media "timestamps/audios/28-1.flac" \
+        --timestamps "timestamps/audios/28-1.vtt" \
+        --sentences "sentences/28-1.yaml" \
+        --output "28-1-audio.mp4" \
+        --highlight-background-of-sentence-being-read 'True' \
         --field-for-subtitles-in-third-line 'es'
 #+end_src
 
-Generate video between start time and end time.
+Generate video from audio between start time and end time.
 
 #+HEADER: :dir (or default-directory)
 #+HEADER: :results silent
 #+begin_src sh
 python3 generate-audio.py \
-        --media 'timestamps/audios/43-2.flac' \
-        --timestamps 'timestamps/audios/43-2.vtt' \
-        --sentences 'sentences/43-2.yaml' \
-        --output '43-2-audio.mp4' \
+        --media 'timestamps/audios/23-1.flac' \
+        --timestamps 'timestamps/audios/23-1.vtt' \
+        --sentences 'sentences/23-1.yaml' \
+        --output '23-1.mp4' \
         --field-for-subtitles-in-third-line 'es' \
         --start-time '00:01:10' \
         --end-time '00:01:20'
