@@ -203,6 +203,11 @@
   pinyin: Nín gěi gè jià ba?
   en: Can you give a price?
   es:
+- id: e7477680-991e-4925-9a7c-f1ccf8fa2c73
+  zh-hans: 您给个价吧。
+  pinyin: Nín gěi gè jià ba.
+  en: Give me a price.
+  es:
 - id: 285e59d3b7f548d9b90957908cb0770d
   zh-hans: 七十块钱怎么样？
   pinyin: Qīshí kuài qián zěnme yàng?
