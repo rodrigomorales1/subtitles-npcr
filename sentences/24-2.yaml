@@ -19,15 +19,15 @@
   en: At the moment she is very busy, this time couldn’t come.
   es: Ahora está ocupada, así que no vendrá esta vez.
 - id: c22a4bc3-61b3-43ff-ac9c-4d8aac41c509
-  zh-hans: 现在你们(1:种:1)蔬菜的(2:收入:3)怎么样？
-  pinyin: Xiànzài nǐmen (1:zhòng) shūcài de (2:shōurù) zěnme yàng?
-  en: How is your (2:income) from (1:planting) vegetables now?
-  es: ¿Cómo les va con las (2:ganancias) del (1:cultivo) de verduras?
+  zh-hans: 现在你们(1:种:1)(2:蔬菜)的(3:收入:3)怎么样？
+  pinyin: Xiànzài nǐmen (1:zhòng) shūcài de (3:shōurù) zěnme yàng?
+  en: How is your (3:income) from (1:planting) (2:vegetables) now?
+  es: ¿Cómo les va con las (3:ganancias) del (1:cultivo) de (2:verduras)?
 - id: bcde8dab-a425-4778-a936-5575adb33f13
-  zh-hans: 我们(1:种)(2:温室:2)蔬菜，(3:收入:3)比以前好多了。
-  pinyin: Wǒmen (1:zhòng) (2:wēnshì) shūcài, (3:shōurù) bǐ yǐqián hǎoduōle.
-  en: Now that we (1:plant) the vegetables in the (2:greenhouse), our (3:income) is much more than before.
-  es: (1:Cultivamos) vegetales de (2:invernadero), nuestros (3:ingresos) son mucho mejores que antes.
+  zh-hans: 我们(1:种)(2:温室:2)(3:蔬菜)，(4:收入:3)比以前好多了。
+  pinyin: Wǒmen (1:zhòng) (2:wēnshì) (3:shūcài), (4:shōurù) bǐ yǐqián hǎoduōle.
+  en: Now that we (1:plant) the (3:vegetables) in the (2:greenhouse), our (4:income) is much more than before.
+  es: (1:Cultivamos) (3:vegetales) de (2:invernadero), nuestros (4:ingresos) son mucho mejores que antes.
 - id: b52b33d5-b721-44a4-93d9-65e13e0432d1
   zh-hans: 家里的生活怎么样？
   pinyin: Jiālǐ de shēnghuó zěnme yàng?
@@ -76,7 +76,7 @@
 - id: 4fe84ed4-73de-4102-a63c-9becc219c7b1
   zh-hans: 你说得很对，农民也都要学习新(1:技术:13)。
   pinyin: Nǐ shuō de hěn duì, nóngmín yě doū yào xuéxí xīn (1:jìshù).
-  en: What you said is right, villagers also need to study new (1:skills).
+ en: What you said is right, villagers also need to study new (1:skills).
   es: Tienes razón, los agricultores necesitan aprender nuevas (1:habilidades).
 - id: fc547eee-776e-4597-b42d-c271e3a9f239
   zh-hans: (1:温室:2)蔬菜是用电脑(2:管理：14)的。

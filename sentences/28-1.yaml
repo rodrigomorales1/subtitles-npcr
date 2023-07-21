@@ -1,235 +1,235 @@
 - id: 4a7db976-cbfd-47f9-b631-98a7cfbcfc4e
-  zh-hans: 今天是中秋节，
-  pinyin: Jīntiān shì zhōngqiū jié,
-  en: Today is mid-autumn festival,
-  es: Hoy es la Fiesta del Medio Otoño.
+  zh-hans: 今天是(1:中秋节:23)，
+  pinyin: Jīntiān shì (1:Zhōngqiū Jié),
+  en: Today is (1:mid-autumn festival),
+  es: Hoy es el (1:Festival de Otoño).
 - id: 33e08124-fc6f-40c5-88e7-d9fe5a65394a
-  zh-hans: 中国人喜欢全家在一起过这个节日。
-  pinyin: Zhōngguó rén xǐhuan quánjiā zài yīqǐguò zhège jiérì.
-  en: Chinese people like to spend this holiday together.
-  es: A los chinos les gusta pasar este festival en familia.
+  zh-hans: 中国人喜欢全家在一起(1:过)这个(2:节日:2)。
+  pinyin: Zhōngguó rén xǐhuan quánjiā zài yīqǐ (1:guò) zhège (2:jiérì).
+  en: Chinese people like to (1:spend) this (2:holiday) together.
+  es: A los chinos les gusta (1:pasar) este (2:festival) en familia.
 - id: f4d55bee-012f-4a5c-bbf5-49345e57fa14
-  zh-hans: 今天，我们也一起过。 谢谢你，雨平。
-  pinyin: Jīntiān, wǒmen yě yīqǐguò. Xièxiè nǐ, Yǔpíng.
-  en: Today, we also will also spend it together. Thank you, Yuping.
-  es: Hoy también lo pasaremos juntos. Gracias, Yu Ping.
+  zh-hans: (1:今天)，我们(2:也)一起(3:过)。谢谢你，雨平。
+  pinyin: (1:Jīntiān), wǒmen (2:yě) yīqǐ (3:guò). Xièxiè nǐ, Yǔpíng.
+  en: (1:Today), we will (2:also) (3:spend) it together. Thank you, Yuping.
+  es: (1:Hoy) (2:también) lo (3:pasaremos) juntos. Gracias, Yu Ping.
 - id: 26c302b8-163e-43a3-9417-72698335b588
-  zh-hans: 今天我们可以了解一下
-  pinyin: Jīntiān wǒmen kěyǐ liǎo jiè yīxià
-  en: Today we can understand
-  es: Hoy podemos aprender sobre
+  zh-hans: (1:今天)我们可以了解一下
+  pinyin: (1:Jīntiān) wǒmen kěyǐ liǎo jiè yīxià
+  en: (1:Today) we can understand
+  es: (1:Hoy) podemos aprender cómo
 - id: 1b4c1a9d-8ebb-4ece-91da-58de347f4a47
-  zh-hans: 中国人是怎么过中秋节的。
-  pinyin: Zhōngguó rén shì zěnmeguò zhōngqiū jié de.
-  en: how Chinese people spend mid-autumn festival.
-  es: Cómo celebran los chinos la Fiesta del Medio Otoño.
+  zh-hans: 中国人是怎么过(1:中秋节:22)的。
+  pinyin: Zhōngguó rén shì zěnmeguò (1:Zhōngqiū Jié) de.
+  en: how Chinese people spend (1:mid-autumn festival).
+  es: los chinos celebran el (1:Festival de Otoño).
 - id: 8fcb8e70-9bb5-4f9e-b2a6-2e86d741bbe3
-  zh-hans: 中秋节有春节那么热闹吗？
-  pinyin: Zhōngqiū jié yǒu chūnjié nàme rènào ma?
-  en: Is mid-autumn festival as lively as spring festival?
-  es: ¿Es la Fiesta del Medio Otoño tan animada como la Fiesta de la Primavera?
+  zh-hans: (1:中秋节:22)有(2:春节:23)(3:那么:17)热闹吗？
+  pinyin: (1:Zhōngqiū Jié) yǒu (2:chūnjié) (3:nàme) rènào ma?
+  en: (3:Is) (1:mid-autumn festival) (3:as) lively (3:as) (2:spring festival)?
+  es: ¿Es el (1:Festival de Otoño) (3:tan) animado como el (2:Festival de Primavera)?
 - id: 28b955d4-001a-4fdb-9dc4-eb9a9348450e
-  zh-hans: 中秋节虽然没有春节热闹，
-  pinyin: Zhōngqiū jié suīrán méiyǒu chūnjié rènào,
-  en: Although mid-autumn festival is not as lively as spring festival,
-  es: Aunque la Fiesta del Medio Otoño no es tan animada como la Fiesta de la Primavera.
+  zh-hans: (1:中秋节:22)虽然没有(2:春节:23)热闹，
+  pinyin: (1:Zhōngqiū Jié) suīrán méiyǒu (2:Chūn Jié) rènào,
+  en: Although (1:mid-autumn festival) is not as lively as (2:spring festival),
+  es: Aunque el (1:Festival de Otoño) no es tan animado como el (2:Festival de Primavera),
 - id: cde6ca8b-5161-4bb9-86e4-ebd910591e08
-  zh-hans: 但是它也是一个重要的节日。
-  pinyin: dànshì tā yěshì yīgè zhòngyào de jiérì.
-  en: it is also an important holiday.
-  es: Pero también es una fiesta importante.
+  zh-hans: 但是它(1:也)是一个(2:重要)的(3:节日:2)。
+  pinyin: dànshì tā (1:yěshì) yīgè (2:zhòngyào) de (3:jiérì).
+  en: it is (1:also) an (2:important) (3:holiday).
+  es: pero (1:también) es un (3:festival) (2:importante).
 - id: d46540fe-b363-4cfc-9607-a8a0343445f6
-  zh-hans: 我们准备了中秋月饼、水果、茶、啤酒，
-  pinyin: Wǒmen zhǔnbèile zhōngqiū yuèbǐng, shuǐguǒ, chá, píjiǔ,
-  en: We have prepared mid-autumn mooncakes, fruit, tea, beer,
-  es: Hemos preparado pasteles de luna, frutas, té y cerveza para la Fiesta del Medio Otoño.
+  zh-hans: 我们(1:准备:3)了(2:中秋:22)(3:月饼:4)、
+  pinyin: Wǒmen (1:zhǔnbèi) le (2:zhōngqiū) (3:yuèbǐng),
+  en: We have (1:prepared) (2:mid-autumn) (3:mooncakes),
+  es: Hemos (1:preparado) (3:pasteles de luna) del (2:Festival de Otoño),
+- id: 409aadcd-c3f1-4347-bea1-03721c581022
+  zh-hans: (1:水果:5)、茶、(2:啤酒:6)，
+  pinyin: (1:shuǐguǒ), chá, (2:píjiǔ),
+  en: (1:fruit), tea, (2:beer),
+  es: (1:frutas), té y (2:cerveza).
 - id: 3cc3a10e-f3e3-49c5-a6af-c49a43d41ebd
-  zh-hans: 咱们一边吃月饼，一边赏月，怎么样？
-  pinyin: zánmen yībiān chī yuèbǐng, yībiān shǎng yuè, zěnme yàng?
-  en: we can eat mooncakes while watching the moon, how does that sound?
-  es: Comamos pasteles de luna y disfrutemos de la luz de la luna, ¿de acuerdo?
+  zh-hans: 咱们一边吃(1:月饼:4)，一边(2:赏:7)月，怎么样？
+  pinyin: zánmen yībiān chī (1:yuèbǐng), yībiān (2:shǎng) yuè, zěnme yàng?
+  en: we can eat (1:mooncakes) while (2:watching) the moon, how does that sound?
+  es: Comamos (1:pasteles de luna) y (2:disfrutemos) de la luz de la luna, ¿de acuerdo?
 - id: c98cb647-6617-4a6b-81b6-09b190d541ea
   zh-hans: 好啊！对了，
   pinyin: Hǎo a! Duìle,
   en: Great! Oh, by the way,
   es: ¡Genial! Por cierto.
 - id: 503e3279-5089-4876-ba76-066032525e58
-  zh-hans: 我们还有一些小礼物要送给你们。
-  pinyin: wǒmen hái yǒu yīxiē xiǎo lǐwù yào sòng gěi nǐmen.
-  en: we also have a few gifts to give you.
-  es: También tenemos algunos pequeños regalos para ti.
+  zh-hans: 我们还有一些(1:小)(2:礼物)要送给你们。
+  pinyin: wǒmen hái yǒu yīxiē (1:xiǎo) (2:lǐwù) yào sòng gěi nǐmen.
+  en: we also have a few (1:small) (2:gifts) to give you.
+  es: También tenemos algunos (1:pequeños) (2:regalos) para ti.
 - id: a865026c-cb5f-4155-b590-eb0ef8a257b9
-  zh-hans: 我们也要送你们一些小礼物。
-  pinyin: Wǒmen yě yào sòng nǐmen yīxiē xiǎo lǐwù.
-  en: We also have some gifts to give you.
-  es: Te daremos algunos regalos también.
+  zh-hans: 我们也要送你们一些(1:小)(2:礼物)。
+  pinyin: Wǒmen yě yào sòng nǐmen yīxiē (1:xiǎo) (2:lǐwù).
+  en: We also have some (1:small) (2:gifts) to give you.
+  es: Te daremos algunos (1:pequeños) (2:regalos) también.
 - id: 43773251-cfda-4090-8d3a-471022cddfc3
-  zh-hans: 我先来吧。力波，这是我给你的小纪念品，
-  pinyin: Wǒ xiān lái ba. Lìbō, zhè shì wǒ gěi nǐ de xiǎo jìniànpǐn,
-  en: I’ll start. Libo, here is a souvenir for you,
-  es: Yo iré primero. Lippo, este es mi pequeño recuerdo para ti.
+  zh-hans: 我先来吧。力波，这是我给你的小(1:纪念品:8)，
+  pinyin: Wǒ xiān lái ba. Lìbō, zhè shì wǒ gěi nǐ de xiǎo (1:jìniànpǐn),
+  en: I’ll start. Libo, here is a (1:souvenir) for you,
+  es: Yo iré primero. Lippo, este es mi pequeño (1:recuerdo) para ti.
 - id: e1755b3b-323b-49af-993f-6c93829c2d98
-  zh-hans: 希望你喜欢。
-  pinyin: xīwàng nǐ xǐhuan.
-  en: hope you like it.
-  es: Espero que te guste.
+  zh-hans: (1:希望:9)你喜欢。
+  pinyin: (1:xīwàng) nǐ xǐhuan.
+  en: (1:hope) you like it.
+  es: (1:Espero) que te guste.
 - id: 9fac017a-9693-413b-b335-18b5aa910e1c
-  zh-hans: 啊，是毛笔，文房四宝之一，还是名牌的呢！
-  pinyin: A, shì máobǐ, wénfángsìbǎo zhī yī, háishì míngpái de ne!
-  en: Ah, a writing brush, one of the four treasures of the study, and it’s a famous brand!
-  es: Ah, es un pincel, uno de los cuatro tesoros de la literatura, ¡y es de marca!
+  zh-hans: 啊，是(1:毛笔:10)，(2:文房四宝:11)(3:之一:12)，还是(4:名牌:13)的呢！
+  pinyin: A, shì (1:máobǐ), (2:wénfángsìbǎo) (3:zhī yī), háishì (4:míngpái) de ne!
+  en: Ah, a (1:writing brush), (3:one of) the (2:four treasures of the study), and it’s a (4:famous brand)!
+  es: Ah, es un (1:pincel), (3:uno de) los (2:cuatro tesoros del estudio), ¡y es (4:de marca)!
 - id: ddfa2eaf-c9cb-4aed-9a7a-50ae383f4bed
-  zh-hans: 这哪儿是小纪念品？这是一件大礼物。
-  pinyin: Zhè nǎr shì xiǎo jìniànpǐn? Zhè shì yī jiàn dà lǐwù.
-  en: How is this a souvenir? This is a great gift.
-  es: No es un recuerdo. Es un gran regalo.
+  zh-hans: 这(1:哪儿)是(2:小)(3:纪念品:8)？这是一件(4:大)(5:礼物)。
+  pinyin: Zhè (1:nǎr) shì (2:xiǎo) (3:jìniànpǐn)? Zhè shì yī jiàn (4:dà) (5:lǐwù).
+  en: How is this a (2:small) (3:souvenir)? This is a (4:great) (5:gift).
+  es: ¿Por (1:dónde) esto es un (2:pequeño) (3:recuerdo)? Esto es un (4:gran) (5:regalo).
 - id: cd80496c-19ce-40b7-ada8-085957dff5dd
-  zh-hans: 我要把它放在我的桌子上，每天都能看到它。
-  pinyin: Wǒ yào bǎ tā fàng zài wǒ de zhuōzi shàng, měitiān dū néng kàn dào tā.
-  en: I’m going to put this on my table, so that I an see it everyday.
-  es: Lo pondré en mi escritorio y lo veré todos los días.
+  zh-hans: 我要把它放在我的(1:桌子)上，(2:每天)都能看到它。
+  pinyin: Wǒ yào bǎ tā fàng zài wǒ de (1:zhuōzi) shàng, (2:měitiān) dū néng kàn dào tā.
+  en: I’m going to put this on my (1:table), so that I an see it (2:everyday).
+  es: Lo pondré en mi (1:mesa) y lo veré (2:todos los días).
 - id: 818ebc48-c324-42c4-8464-33be97304e47
-  zh-hans: 你不是喜欢中国书法吗？
-  pinyin: Nǐ bùshì xǐhuan Zhōngguó shūfǎ ma?
-  en: Don’t you like Chinese calligraphy?
-  es: ¿No te gusta la caligrafía china?
+  zh-hans: 你不是喜欢中国(1:书法:14)吗？
+  pinyin: Nǐ bùshì xǐhuan Zhōngguó (1:shūfǎ) ma?
+  en: Don’t you like Chinese (1:calligraphy)?
+  es: ¿No te gusta la (1:caligrafía) china?
 - id: f9a8de45-a5e3-4d70-b9dc-94209b4031b6
-  zh-hans: 用了名牌毛笔，你的字一定会写得更好。
-  pinyin: Yòngle míngpái máobǐ, nǐ de zì yīdìng huì xiě de gèng hǎo.
-  en: Using this famous brand writing brush, you definitely can write your Chinese characters better.
-  es: Podrás escribir mejor con un pincel de marca.
+  zh-hans: 用了名牌(1:毛笔:10)，你的(2:字)一定会(3:写)得(4:更好)。
+  pinyin: Yòngle míngpái (1:máobǐ), nǐ de (2:zì) yīdìng huì (3:xiě) de (4:gèng hǎo).
+  en: Using this famous brand (1:writing brush), you definitely can (3:write) your (2:Chinese characters) (4:better).
+  es: Al usar un (1:pincel) de marca, podrás (3:escribir) los (2:caracteres) (4:mejor).
 - id: ab5405cc-ba42-47a6-ad10-5d6e8188144a
-  zh-hans: 林娜，我给你带来了一件小礼物。
-  pinyin: Lín Nà, wǒ gěi nǐ dài láile yī jiàn xiǎo lǐwù.
-  en: Lin Na, I give you this small gift.
-  es: Linna, te he traído un pequeño regalo.
+  zh-hans: 林娜，我给你带来了一件(1:小)(2:礼物)。
+  pinyin: Lín Nà, wǒ gěi nǐ dài láile yī jiàn (1:xiǎo) (2:lǐwù).
+  en: Lin Na, I give you this (1:small) (2:gift).
+  es: Linna, te he traído un (1:pequeño) (2:regalo).
 - id: 4ec6128a-d8c9-4189-9d16-8a6761bd2e78
   zh-hans: 你看看喜欢不喜欢。
   pinyin: Nǐ kàn kàn xǐhuan bù xǐhuan.
   en: Have a look whether you like it or not.
   es: A ver si te gusta.
 - id: 0592aea9-951a-4b92-9fe9-689e7e9b5997
-  zh-hans: 一条围巾，是中国丝绸的！太漂亮了！
-  pinyin: Yītiáo wéijīn, shì Zhōngguó sīchóu de! Tài piàoliangle!
-  en: A scarf, its Chinese silk! So beautiful!
-  es: Un pañuelo. ¡Es seda china! ¡Es precioso!
+  zh-hans: 一条(1:围巾:15)，是(2:中国)(3:丝绸)的！太漂亮了！
+  pinyin: Yītiáo (1:wéijīn), shì (2:Zhōngguó) (3:sīchóu) de! Tài piàoliangle!
+  en: A (1:scarf), its (2:Chinese) (3:silk)! So beautiful!
+  es: Un (1:pañuelo). ¡Es (3:seda) (2:china)! ¡Es precioso!
 - id: f43c0e50-fb76-407b-8823-4d9e8ec95daf
-  zh-hans: 漂亮的林娜，戴上这条漂亮的围巾，
-  pinyin: Piàoliang de Lín Nà, dài shàng zhè tiáo piàoliang de wéijīn,
-  en: Beautiful Lin Na, wearing a beautiful scarf,
-  es: Hermosa Linna, con esta hermosa bufanda.
+  zh-hans: 漂亮的林娜，(1:戴:16)上这条漂亮的(2:围巾:15)，
+  pinyin: Piàoliang de Lín Nà, (1:dài) shàng zhè tiáo piàoliang de (2:wéijīn),
+  en: Beautiful Lin Na, (1:wearing) a beautiful (2:scarf),
+  es: Hermosa Linna, (1:llevando) esta hermosa (2:bufanda).
 - id: 3f69b186-7d21-41fa-af45-01a65cd66569
   zh-hans: 就更漂亮了。
   pinyin: jiù gèng piàoliangle.
   en: will be more beautiful.
   es: Es aún más bonita.
 - id: 1ad60b4e-2e00-46c4-8b99-c41e748074c2
-  zh-hans: 是吗？我哪儿有你说的那么漂亮？
-  pinyin: Shì ma? Wǒ nǎr yǒu nǐ shuō de nàme piàoliang?
-  en: Really? Since when have I heard you speak so beautifully?
-  es: ¿Ah, sí? No soy tan guapa como dices.
+  zh-hans: 是吗？我(1:哪儿)有你说的那么(2:漂亮)？
+  pinyin: Shì ma? Wǒ (1:nǎr) yǒu nǐ shuō de nàme (2:piàoliang)?
+  en: Really? (1:Where) am I (2:beautiful) as you say it?
+  es: ¿Ah, sí? ¿Por (1:dónde) soy tan (2:guapa) como dices?
 - id: eb21586e-2e23-4eba-aae3-1fe4dc81e37c
-  zh-hans: 小云，真谢谢你！
-  pinyin: Xiǎo Yún, zhēn xièxiè nǐ!
-  en: Xiao Yun, thank you so much!
-  es: ¡Yun, muchas gracias!
+  zh-hans: 小云，(1:真)谢谢你！
+  pinyin: Xiǎo Yún, (1:zhēn) xièxiè nǐ!
+  en: Xiao Yun, thank you so (1:much)!
+  es: ¡Yun, (1:muchas) gracias!
 - id: 52a3a4db-a03d-4c38-b1d2-7875b678baff
-  zh-hans: 对我来说，这是最好的礼物。
-  pinyin: Duì wǒ lái shuō, zhè shì zuì hǎo de lǐwù.
-  en: I think this is the best gift!
-  es: Es el mejor regalo para mí.
+  zh-hans: 对我来说，这是(1:最好)的(2:礼物)。
+  pinyin: Duì wǒ lái shuō, zhè shì (1:zuì) hǎo de (2:lǐwù).
+  en: I think this is the (1:best) (2:gift)!
+  es: Es el (1:mejor) (2:regalo) para mí.
 - id: e80308c4-2ced-463f-ab30-8161837901b7
-  zh-hans: 我没有更好的礼物送给大为，
-  pinyin: Wǒ méiyǒu gèng hǎo de lǐwù sòng gěi Dàwéi,
-  en: I do not have a better gift to give Dawei,
-  es: No tengo un regalo mejor para Dawei.
+  zh-hans: 我没有更好的(1:礼物)送给(2:大为)，
+  pinyin: Wǒ méiyǒu gèng hǎo de (1:lǐwù) sòng gěi (2:Dàwéi),
+  en: I do not have a better (1:gift) to give (2:Dawei),
+  es: No tengo un (1:regalo) mejor para (2:Dawei).
 - id: 4213e700-32c0-49d3-b4b0-e5218b9e53f3
-  zh-hans: 我知道他喜欢中国音乐，
-  pinyin: wǒ zhīdào tā xǐhuan Zhōngguó yīnyuè,
-  en: I know he like Chinese music, so
-  es: Sé que le gusta la música china.
+  zh-hans: 我知道他喜欢中国(1:音乐)，
+  pinyin: wǒ zhīdào tā xǐhuan Zhōngguó (1:yīnyuè),
+  en: I know he like Chinese (1:music), so
+  es: Sé que le gusta la (1:música) china.
 - id: 380539cf-0ce6-4e26-a577-c6cd0a38858f
   zh-hans: 就送他一套音乐光盘。
   pinyin: jiù sòng tā yī tào yīnyuè guāngpán.
   en: I’m giving him a set of music CDs.
   es: Así que le regalé un set de CDs de música.
 - id: 468849e2-c942-47f5-b200-a44bbcf59c61
-  zh-hans: 你们看，我收到的礼物最好了，
-  pinyin: Nǐmen kàn, wǒ shōu dào de lǐwù zuì hǎole,
-  en: Look everyone, the gift I received is the best,
-  es: Ya ves, tengo el mejor regalo.
+  zh-hans: 你们看，我(1:收:18)到的礼物最好了，
+  pinyin: Nǐmen kàn, wǒ (1:shōu) dào de lǐwù zuì hǎole,
+  en: Look everyone, the gift I (1:received) is the best,
+  es: Vean, he (1:recibido) el mejor regalo.
 - id: 5302f834-a9b1-4540-8410-bb7e7ef6751b
-  zh-hans: 一套音乐光盘，是中国民乐！
-  pinyin: yī tào yīnyuè guāngpán, shì Zhōngguó mínyuè!
-  en: a set of music CDs, and they’re Chinese folk music!
-  es: Un juego de discos de música, ¡música folclórica china!
+  zh-hans: 一套(1:音乐)(2:光盘)，是中国(3:民乐)！
+  pinyin: yī tào (1:yīnyuè) (2:guāngpán), shì Zhōngguó (3:mínyuè)!
+  en: a set of (1:music) (2:CDs), and they’re Chinese (3:folk) music!
+  es: Un juego de (2:discos) de (1:música), ¡música (3:folclórica) china!
 - id: 2a0ad5fe-1c3c-4d11-ac74-4e2ee8ea33b1
-  zh-hans: 谢谢。 不客气，一点儿小意思。
-  pinyin: Xièxiè. Bù kèqì, yīdiǎnr xiǎoyìsi.
-  en: Thanks. You’re welcome, no need to be so polite.
-  es: Gracias. De nada. De nada, es sólo una pequeña muestra.
+  zh-hans: 谢谢。 不客气，一点儿(1:小意思:19)。
+  pinyin: Xièxiè. Bù kèqì, yīdiǎnr (1:xiǎoyìsi).
+  en: Thanks. No need to be so polite, it's just a (1:small gift).
+  es: Gracias. De nada. De nada, es sólo un (1:pequeño regalo).
 - id: cc3a8603-eab7-4ed2-90f1-d0d13a092294
-  zh-hans: 该我们了吧？我们也有一些礼物送给你们，
-  pinyin: Gāi wǒmenle ba? Wǒmen yěyǒu yīxiē lǐwù sòng gěi nǐmen,
-  en: And now us, right? We also have a few gifts to give you,
-  es: Es nuestro turno, ¿no? Tenemos algunos regalos para ti también.
+  zh-hans: 该我们了吧？(1:我们)也有一些(2:礼物)送给(3:你们)，
+  pinyin: Gāi wǒmenle ba? (1:Wǒmen) yěyǒu yīxiē (2:lǐwù) sòng gěi (3:nǐmen),
+  en: And now us, right? (1:We) also have a few (2:gifts) to give (3:you),
+  es: Es nuestro turno, ¿no? (1:Tenemos) algunos (2:regalos) para (3:ustedes).
 - id: 45e75f3e-7438-4c81-9734-61aba5e1ea29
-  zh-hans: 这是给宋华的。
-  pinyin: zhè shì gěi Sòng Huá de.
-  en: this is Song Hua’s present.
-  es: Esto es para Song Hua.
+  zh-hans: 这是给(1:宋华)的。
+  pinyin: zhè shì gěi (1:Sòng Huá) de.
+  en: this is (1:Song Hua)’s present.
+  es: Esto es para (1:Song Hua).
 - id: 091390eb-fd33-4f8a-85fd-227262575fbb
   zh-hans: 谢谢！
   pinyin: Xièxiè!
   en: Thanks!
   es: Gracias.
 - id: fd4f2549-abd1-47ee-b9f3-02cdc178b1e6
-  zh-hans: 雨平，这是给你的。
-  pinyin: Yǔpíng, zhè shì gěi nǐ de.
-  en: Yuping, this is yours.
-  es: Yuping, esto es para ti.
+  zh-hans: (1:雨平)，这是给(2:你)的。
+  pinyin: (1:Yǔpíng), zhè shì gěi (2:nǐ) de.
+  en: (1:Yuping), this is (2:yours).
+  es: (1:Yuping), esto es para (2:ti).
 - id: 81ee171d-df72-48e9-981b-a5c94662075f
-  zh-hans: 非常感谢！
-  pinyin: Fēicháng gǎnxiè!
-  en: Thank you very much!
-  es: ¡Muchas gracias!
+  zh-hans: (1:非常)(2:感谢)！
+  pinyin: (1:Fēicháng) (2:gǎnxiè)!
+  en: (2:Thank you) (1:very much)!
+  es: ¡(1:Muchas) (2:gracias)!
 - id: 55dcafdf-86c5-452a-97b0-8ea06a8113f5
-  zh-hans: 小云，看看我给你的礼物。
-  pinyin: Xiǎo Yún, kàn kàn wǒ gěi nǐ de lǐwù.
-  en: Xiao Yun, look at the giftt I got for you.
-  es: Yun, mira mi regalo para ti.
+  zh-hans: 小云，看看我给你的(1:礼物)。
+  pinyin: Xiǎo Yún, kàn kàn wǒ gěi nǐ de (1:lǐwù).
+  en: Xiao Yun, look at the (1:gift) I got for you.
+  es: Yun, mira mi (1:regalo) para ti.
 - id: e6e0beee-3dde-4376-8d32-a5e0b7e4def0
   zh-hans: 谢谢你！
   pinyin: Xièxiè nǐ!
   en: Thank you!
   es: ¡Muchas gracias!
 - id: bb7f63f4-3e48-448b-ba8c-fa7f3f59d47c
-  zh-hans: 大家都送完礼物了，
-  pinyin: Dàjiā dōu sòng wán lǐwùle,
-  en: Everyone has now finished giving gifts,
-  es: Todos han terminado de dar regalos.
+  zh-hans: (1:大家)都送完(2:礼物)了，
+  pinyin: (1:Dàjiā) dōu sòng wán (2:lǐwù) le,
+  en: (1:Everyone) has now finished giving (2:gifts),
+  es: (1:Todos) han terminado de dar (2:regalos).
 - id: 63982fdf-f002-4e14-a72a-dbc29c1af4f4
-  zh-hans: 我看，咱们该吃月饼了！
-  pinyin: wǒ kàn, zánmen gāi chī yuèbǐngle!
-  en: I say, let’s eat mooncakes!
-  es: ¡Creo que es hora de comer pasteles de luna!
+  zh-hans: 我看，咱们该吃(1:月饼:4)了！
+  pinyin: wǒ kàn, zánmen gāi chī (1:yuèbǐng) le!
+  en: I say, let’s eat (1:mooncakes)!
+  es: ¡Creo que es hora de comer (1:pasteles de luna)!
 - id: 53ac3605-8c12-4c1e-b947-901561358c90
-  zh-hans: 祝大家中秋快乐！
-  pinyin: Zhù dàjiā zhōngqiū kuàilè!
-  en: Wish everyone a happy mid-autumn!
-  es: ¡Feliz Festival de Medio Otoño!
+  zh-hans: (1:祝)(2:大家)(3:中秋)(4:快乐)！
+  pinyin: (1:Zhù) (2:dàjiā) (3:zhōngqiū) (4:kuàilè)!
+  en: (1:Wish) (2:everyone) a (4:happy) (3:mid-autumn)!
+  es: ¡(1:Deseo) a (2:todos) un (4:Feliz) (3:Festival de Medio Otoño)!
 - id: 27a972b3-52ad-4336-b866-c5078043ceac
-  zh-hans: 干杯！
-  pinyin: Gānbēi!
-  en: Cheers!
-  es: ¡Salud!
-- id: 9b1f6d21-607d-4cb6-9f2f-5fde8caee469
-  zh-hans: 干杯！
-  pinyin: Gānbēi!
-  en: Cheers!
-  es: ¡Salud!
+  zh-hans: (1:干杯:20)！
+  pinyin: (1:Gānbēi)!
+  en: (1:Cheers)!
+  es: ¡(1:Salud)!
 - id: f36b1c50-0d0c-49e8-95de-ca924ea6937d
-  zh-hans: 快来看呢，月亮上来了。今天的月亮多美啊！
-  pinyin: Kuài lái kàn ne, yuèliàng shàngláile. Yuèliàng shàngláile!
-  en: Come quick, look, the moon is out. The moon today is very beautiful!
-  es: Venid a ver, la luna está saliendo. ¡La luna está tan bonita hoy!
+  zh-hans: 快来看呢，(1:月亮:21)上来了。(2:今天)的(3:月亮)多(4:美)啊！
+  pinyin: Kuài lái kàn ne, (1:yuèliàng) shàngláile. (2:Jīntiān) de (3:yuèliàng) duō (4:měi) a!
+  en: Come quick, look, the (1:moon) is out. The (3:moon) (2:today) is very (4:beautiful)!
+  es: Venid a ver, la (1:luna) está saliendo. ¡La (3:luna) está tan (4:bonita) (2:hoy)!
