@@ -76,11 +76,13 @@
 - id: b390eb2d-44cd-4222-b48f-2383e36a6691
   zh-hans: “(1:弟子:3)(2:不必:3)(3:不如:7)(4:师)，
   pinyin: “(1:Dìzǐ:3) (2:bùbì:3) (3:bùrú) (4:shī),
+  en: '"(1:Disciples) are (2:not necessarily) (3:inferior) to their (4:teachers),'
   es: '"Los (1:discípulos) (2:no son necesariamente) (3:inferiores) a sus (4:maestros),'
 - id: a9d12353-8d88-42a1-8e6e-ec8137a59a30
-  zh-hans: (4:师)(1:不必:3)(2:贤)(3:于)(4:弟子:3)”。
-  pinyin: (4:shī) (1:bùbì:3) (2:xián) (3:yú) (4:dìzǐ:3)”.
-  es: ', los (4:maestros) (1:no son necesariamente) más (2:capaces) (3:que) sus (4:discípulos)."'
+  zh-hans: (1:师)(2:不必:3)(3:贤)(4:于)(5:弟子:3)”。
+  pinyin: (1:shī) (2:bùbì:3) (3:xián) (4:yú) (5:dìzǐ:3)”.
+  en: '(1:teachers) are (2:not necessarily) (3:wiser) (4:than) their (5:disciples).'
+  es: ', los (1:maestros) (2:no son necesariamente) más (3:capaces) (4:que) sus (5:discípulos)."'
 - id: fb5f4819-9690-47b7-9bbf-ac51b0dce18a
   zh-hans: 张教授，请问，这个(1:句子:5)是什么(2:意思:6)？
   pinyin: Zhāng jiàoshòu, qǐngwèn, zhège (1:jùzi) shì shénme (2:yìsi)?
