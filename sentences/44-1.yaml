@@ -4,20 +4,20 @@
   en: Come and see!
   es: ¡Vengan rápido a ver!
 - id: ef3cba6471814f75bb19f840aacdaccd
-  zh-hans: 睡衣便宜了，
-  pinyin: Shuìyī piányile,
-  en: Pajamas are cheaper now,
-  es: Las pijamas están baratas,
+  zh-hans: (1:睡衣:2)便宜了，
+  pinyin: (1:Shuìyī) piányile,
+  en: (1:Pajamas) are cheaper now,
+  es: Las (1:pijamas) están baratas,
 - id: 0524e620f03c4bfea4171616d89866c1
-  zh-hans: 绣花的睡衣，
-  pinyin: xiùhuā de shuìyī,
-  en: embroidered pajamas,
-  es: pijamas bordadas,
+  zh-hans: (1:绣花:3)的(2:睡衣:2)，
+  pinyin: (1:xiùhuā) de (2:shuìyī),
+  en: (1:embroidered) (2:pajamas),
+  es: (2:pijamas) (1:bordadas),
 - id: 67a35c0d-1039-4b8d-abd1-870f1843b620
-  zh-hans: 绣花儿的睡衣，
-  pinyin: xiùhuār de shuìyī,
-  en: embroidered pajamas,
-  es: pijamas bordadas,
+  zh-hans: (1:绣花儿:3)的(2:睡衣:2)，
+  pinyin: (1:xiùhuār) de (2:shuìyī),
+  en: (1:embroidered) (2:pajamas),
+  es: (2:pijamas) (1:bordadas),
 - id: a3486a3a3f0040e48a439b4fe703834b
   zh-hans: 您买一件，我送一件！
   pinyin: nín mǎi yī jiàn, wǒ sòng yī jiàn!
@@ -49,20 +49,20 @@
   en: don’t you want one?
   es: ¿no quieres una?
 - id: f3c36074c2574c199b4ee36fb48ff82a
-  zh-hans: 你们看，这两只熊猫绣得多好，
-  pinyin: Nǐmen kàn, zhè liǎng zhī xióngmāo xiù de duō hǎo,
-  en:  Look, these two pandas have been embroided so well,
-  es: Miren, estas dos prendas han sido bordadas muy bien.
+  zh-hans: 你们看，这两只熊猫(1:绣:3)得多好，
+  pinyin: Nǐmen kàn, zhè liǎng zhī xióngmāo (1:xiù) de duō hǎo,
+  en:  Look, these two pandas have been (1:embroided) so well,
+  es: Miren, estas dos prendas han sido (1:bordadas) muy bien.
 - id: cd1ece88465c4d219b305af93c1913aa
-  zh-hans: 眼睛圆圆的，黑黑的，
-  pinyin: yǎnjīng yuán yuán de, hēi hēi de,
-  en: eyes so round, so black,
-  es: los ojos son circulares y negros,
+  zh-hans: 眼睛(1:圆圆:4)的，黑黑的，
+  pinyin: yǎnjīng (1:yuán yuán) de, hēi hēi de,
+  en: eyes so (1:round), so black,
+  es: los ojos son (1:circulares) y negros,
 - id: 22471209ced945c18608621c91b6169a
-  zh-hans: 很适合您穿。
-  pinyin: hěn shìhé nín chuān.
-  en: so suitable for you to wear.
-  es: a ti te queda bien vestirlo.
+  zh-hans: 很(1:适合:5)您穿。
+  pinyin: hěn (1:shìhé) nín chuān.
+  en: so (1:suitable) for you to wear.
+  es: a ti te (1:queda bien) vestirlo.
 - id: e4b8755196b7462aa2f6fba638e37978
   zh-hans: 您穿上它，一定更漂亮。
   pinyin: Nín chuān shàng tā, yīdìng gēng piàoliang.
@@ -74,25 +74,25 @@
   en: Come on, as if it were true.
   es: Escuche lo que ha dicho, como si fuese verdad.
 - id: d85b91eda9344fa8ac3d8cd465e05452
-  zh-hans: 不过，这件睡衣上的花儿绣得真好看。
-  pinyin: Bùguò, zhè jiàn shuìyī shàng de huār xiù de zhēn hǎokàn.
-  en: But, the flowers that have been embroidered on this pajama look really good.
-  es: Pero, el bordado de las flores en esta pijama es muy hermoso.
+  zh-hans: 不过，这件(1:睡衣:2)上的花儿(2:绣:3)得真好看。
+  pinyin: Bùguò, zhè jiàn (1:shuìyī) shàng de huār (2:xiù) de zhēn hǎokàn.
+  en: But, the flowers that have been (2:embroidered) on this (1:pajama) look really good.
+  es: Pero, el (2:bordado) de las flores en esta (1:pijama) es muy hermoso.
 - id: b8bce0454d584056a78608dd7deaa797
   zh-hans: 式样也不错。
   pinyin: Shìyàng yě bùcuò.
   en: The style is not bad either.
   es: El estilo no es tan malo tampoco.
 - id: caef451dc5af46daa9e3d0d699d74d75
-  zh-hans: 要是价钱合适，我就买一件。
-  pinyin: Yàoshi jiàqián héshì, wǒ jiù mǎi yī jiàn.
-  en: If the price is right, I’ll buy one.
-  es: Si el precio es adecuado, compraré una (pijama).
+  zh-hans: 要是(1:价钱:6)合适，我就买一件。
+  pinyin: Yàoshi (1:jiàqián) héshì, wǒ jiù mǎi yī jiàn.
+  en: If the (1:price) is right, I’ll buy one.
+  es: Si el (1:precio) es adecuado, compraré una (pijama).
 - id: 22276fff802c40ddacfb2af0a45729c7
-  zh-hans: 老板，这种睡衣多少钱一件？
-  pinyin: Lǎobǎn, zhè zhǒng shuìyī duōshǎo qián yī jiàn?
-  en: Boss, how much for one of this kind of pajama?
-  es: Jefe, ¿Cuánto cuesta una prenda de este tipo de pijama?
+  zh-hans: 老板，这种(1:睡衣:2)多少钱一件？
+  pinyin: Lǎobǎn, zhè zhǒng (1:shuìyī) duōshǎo qián yī jiàn?
+  en: Boss, how much for one of this kind of (1:pajama)?
+  es: Jefe, ¿Cuánto cuesta una prenda de este tipo de (1:pijama)?
 - id: 228b16a2b0ce44d1a2fc2751f7ee7b31
   zh-hans: 九十八块钱，买一件，送一件。
   pinyin: Jiǔshíbā kuài qián, mǎi yī jiàn, sòng yī jiàn.
@@ -114,35 +114,35 @@
   en: Such a good deal?
   es: ¿Existe algo tan bueno como esto?
 - id: 35e080ac79ff4b8e84263d1b0f3c4143
-  zh-hans: 我不相信，有些商店也说买一送一，
-  pinyin: Wǒ bù xiāngxìn, yǒuxiē shāngdiàn yě shuō mǎi yī sòng yī,
-  en: I don’t believe it, some stores also say buy one get one free,
-  es: No lo creo, otras tiendas también dicen "compra una y llevate otra gratis",
+  zh-hans: 我不(1:相信:9)，有些商店也说买一送一，
+  pinyin: Wǒ bù (1:xiāngxìn), yǒuxiē shāngdiàn yě shuō mǎi yī sòng yī,
+  en: I don’t (1:believe) it, some stores also say buy one get one free,
+  es: No lo (1:creo), otras tiendas también dicen "compra una y llevate otra gratis",
 - id: 5052d602ce6a4867acdfa8ef07b896e6
-  zh-hans: 不是送小梳子，就是送小镜子。
-  pinyin: bùshì sòng xiǎo shūzi, jiùshì sòng xiǎo jìngzi.
-  en: but if it’s not a free small comb, then it’s a free small mirror.
-  es: Si no es un pequeño peine gratis, entonces te doy un pequeño espejo.
+  zh-hans: 不是送小(1:梳子:7)，就是送小(1:镜子:8)。
+  pinyin: bùshì sòng xiǎo (1:shūzi), jiùshì sòng xiǎo (1:jìngzi).
+  en: but if it’s not a free small (1:comb), then it’s a free small (1:mirror).
+  es: Si no es un pequeño (1:peine) gratis, entonces te doy un pequeño (1:espejo).
 - id: fba41b62b7964a4091e2f7d2412c0864
-  zh-hans: 您不相信？
-  pinyin: Nín bù xiāngxìn?
-  en: You don’t believe me?
-  es: ¿No me crees?
+  zh-hans: 您不(1:相信:9)？
+  pinyin: Nín bù (1:xiāngxìn)?
+  en: You don’t (1:believe) me?
+  es: ¿No me (1:crees)?
 - id: 601a9aad96544a8597909240a8af8ce2
-  zh-hans: 我送的东西，可不是梳子，
-  pinyin: Wǒ sòng de dōngxi, kě bùshì shūzi,
-  en: My free stuff, really is not combs,
-  es: Lo que yo doy, realmente no es un peine,
+  zh-hans: 我送的东西，可不是(1:梳子:7)，
+  pinyin: Wǒ sòng de dōngxi, kě bùshì (1:shūzi),
+  en: My free stuff, really is not (1:combs),
+  es: Lo que yo doy, realmente no es un (1:peine),
 - id: f72e950faa5142299f23334ffa20b295
-  zh-hans: 而是跟这件一样的睡衣。
-  pinyin: ér shì gēn zhè jiàn yīyàng de shuìyī.
-  en: rather it’s one of the same pajama.
-  es: sino una misma pijama.
+  zh-hans: 而是跟这件一样的(1:睡衣:2)。
+  pinyin: ér shì gēn zhè jiàn yīyàng de (1:shuìyī).
+  en: rather it’s one of the same (1:pajama).
+  es: sino una misma (1:pijama).
 - id: 4898fbccc0a84bc7801e7022a977a2f9
-  zh-hans: 您自己随便挑选。
-  pinyin: Nín zìjǐ suíbiàn tiāoxuǎn.
-  en: You can choose and take a look at them as your wish.
-  es: Tú mismo escoge como desees.
+  zh-hans: 您自己随便(1:挑选:10)。
+  pinyin: Nín zìjǐ suíbiàn (1:tiāoxuǎn).
+  en: You can (1:choose) and take a look at them as your wish.
+  es: Tú mismo (1:escoge) como desees.
 - id: ccb4301ea6fe42fc8ab7ec99c9800483
   zh-hans: 老板，能不能便宜点儿？
   pinyin: Lǎobǎn, néng bùnéng piányi diǎnr?
@@ -154,35 +154,35 @@
   en: The other stores are all not this expensive!
   es: Otras tiendas no son así de caras.
 - id: ed7b6c04d5224bac9d1db65c59e6e0c4
-  zh-hans: 这您就不知道了，货不一样啊。
-  pinyin: Zhè nín jiù bù zhīdàole, huò bù yīyàng a.
-  en: This you don’t know, the goods are not the same.
-  es: No conoces sobre esto, los productos no son iguales.
+  zh-hans: 这您就不知道了，(1:货:11)不一样啊。
+  pinyin: Zhè nín jiù bù zhīdàole, (1:huò) bù yīyàng a.
+  en: This you don’t know, the (1:goods) are not the same.
+  es: No conoces sobre esto, los (1:productos) no son iguales.
 - id: 536d11a6fb2348ecb5e5a668f3471aa3
-  zh-hans: 这是名牌的，质量比一般的牌子好得多。
-  pinyin: Zhè shì míngpái de, zhìliàng bǐ yībān de páizi hǎo de duō.
-  en: This is a famous brand, the quality is much better than the average brand.
-  es: Esta es una marca famosa, la calidad es mucho mejor que una marca común.
+  zh-hans: 这是名牌的，(1:质量:12)比一般的牌子好得多。
+  pinyin: Zhè shì míngpái de, (1:zhìliàng) bǐ yībān de páizi hǎo de duō.
+  en: This is a famous brand, the (1:quality) is much better than the average brand.
+  es: Esta es una marca famosa, la (1:calidad) es mucho mejor que una marca común.
 - id: c87c7076d1e44599b9bd9bb511d5a323
-  zh-hans: 我们是直接从工厂进的货，
-  pinyin: Wǒmen shì zhíjiē cóng gōngchǎng jìn de huò,
-  en: We get our supply of goods directly from the factory,
-  es: Nosotros compramos nuestros productos directamente a las fábricas,
+  zh-hans: 我们是(1:直接:13)从(2:工厂:14)进的(3:货:11)，
+  pinyin: Wǒmen shì (1:zhíjiē) cóng (2:gōngchǎng) jìn de (3:huò),
+  en: We get our supply of (3:goods) (1:directly) from the (2:factory),
+  es: Nosotros compramos nuestros (3:productos) (1:directamente) a las (2:fábricas),
 - id: beab371d1bd04486bdf5e14635896d27
-  zh-hans: 不直接进货，
-  pinyin: bù zhíjiē jìnhuò,
-  en: if we didn't acquire stock directly from the factory,
-  es: si no comprasemos los productos directamente a las fábricas,
+  zh-hans: 不(1:直接:13)进(2:货:11)，
+  pinyin: bù (1:zhíjiē) jìn(2:huò),
+  en: if we didn't acquire (2:stock) (1:directly) from the factory,
+  es: si no comprasemos los (2:productos) (1:directamente) a las fábricas,
 - id: d6ed8bbe0621485aa2055d67d5da9996
-  zh-hans: 价钱就不会这么便宜。
-  pinyin: jiàqián jiù bù huì zhème piányi.
-  en: the price wouldn’t be so cheap.
-  es: entonces el precio no sería tan barato.
+  zh-hans: (1:价钱:6)就不会这么便宜。
+  pinyin: (1:jiàqián) jiù bù huì zhème piányi.
+  en: the (1:price) wouldn’t be so cheap.
+  es: entonces el (1:precio) no sería tan barato.
 - id: 33b6158066094746964320dd97912141
-  zh-hans: 我不骗您，即使您跑遍了北京城，
-  pinyin: Wǒ bù piàn nín, jíshǐ nín pǎo biànle Běijīng chéng,
-  en: I’m not cheating you, even if you run all over Beijing city,
-  es: No te miento, incluso si recorres todo Beijing,
+  zh-hans: 我不骗您，即使您跑(1:遍:15)了北京城，
+  pinyin: Wǒ bù piàn nín, jíshǐ nín pǎo (1:biàn) le Běijīng chéng,
+  en: I’m not cheating you, even if you run (1:all over) Beijing city,
+  es: No te miento, incluso si recorres (1:todo) Beijing,
 - id: 6e99df8aafcd4bd59b828fcf6dc3da3b
   zh-hans: 也找不着比这儿更便宜的。
   pinyin: yě zhǎo bùzháo bǐ zhèr gèng piányi de.
@@ -219,35 +219,35 @@
   en: 70 and also get one free?
   es: 70 yuanes y encima conseguir uno gratis?
 - id: 85af8daa7dc841efa3f41fb0493a1c71
-  zh-hans: 小姐，您砍价砍得太厉害了。
-  pinyin: Xiǎojiě, nín kǎn jià kǎn de tài lìhàile.
-  en: Miss, you are cutting the price too much.
-  es: Señorita, estás rebajando mucho el precio.
+  zh-hans: 小姐，您(1:砍价砍:16)得太(2:厉害:17)了。
+  pinyin: Xiǎojiě, nín (1:kǎn jià kǎn) de tài (2:lìhài) le.
+  en: Miss, you are (1:cutting the price) (2:too much).
+  es: Señorita, está (1:rebajando) (2fuertemente) el precio.
 - id: 7110df0c7275470a9549429a59ca118c
-  zh-hans: 这么卖，我不但不能赚钱，反而要赔本儿。
-  pinyin: Zhème mài, wǒ bùdàn bùnéng zhuànqián, fǎnr péiběn.
-  en: Selling for such price, not only wouldn’t I make any money, but I would lose money.
-  es: Vender a ese precio, no solo no consigo ganancias, sino también pierdo dinero.
+  zh-hans: 这么卖，我不但不能(1:赚:18)钱，反而要(2:赔本儿:19)。
+  pinyin: Zhème mài, wǒ bùdàn bùnéng (1:zhuàn) qián, fǎnr (2:péiběn).
+  en: Selling for such price, not only wouldn’t I (1:gain) any money, but I would (2:lose money).
+  es: Vender a ese precio, no solo no (1:gano) dinero, sino también (2:pierdo capital).
 - id: aacf7f36f2524d2781bbe32b7e25da6b
-  zh-hans: 我现在卖的价，几乎就是进货价，
-  pinyin: Wǒ xiànzài mài de jià, jīhū jiùshì jìnhuò jià,
-  en: The price I’m selling for at the moment, it’s almost the price with which I buy the products to manufacturers.
-  es: El precio con el que vendo ahora es casí el precio de compra a los proveedores,
+  zh-hans: 我现在卖的价，几乎就是进(1:货:11)价，
+  pinyin: Wǒ xiànzài mài de jià, jīhū jiùshì jìn (1:huò) jià,
+  en: The price I’m selling for at the moment, it’s almost the price with which I buy the (1:products) to manufacturers.
+  es: El precio con el que vendo ahora es casí el precio de compra de (1:productos) a los proveedores,
 - id: 7d7b4cbb284a4d278488078f3dc43000
-  zh-hans: 每件就赚您几块钱。
-  pinyin: měi jiàn jiù zhuàn nín jǐ kuài qián.
-  en: every piece I sell to you only makes me earn a little money.
-  es: todas las prendas que vendo me hacen ganar poco dinero.
+  zh-hans: 每件就(1:赚:18)您几块钱。
+  pinyin: měi jiàn jiù (1:zhuàn) nín jǐ kuài qián.
+  en: every piece I sell to you only makes me (1:earn) a little money.
+  es: todas las prendas que vendo me hacen (1:ganar) poco dinero.
 - id: 3884c428e12b4c0fb55a90e0ce543d62
   zh-hans: 这样吧，您要真想买，九十五块您拿两件。
   pinyin: Zhèyàng ba, nín yào zhēn xiǎng mǎi, jiǔshíwǔ kuài nín ná liǎng jiàn.
   en: How about this, if you really want to buy, 95 yuanes and you take two.
   es: Hagamos esto, ya que tú realmente quieres comprar, 95 yuanes y llevate dos.
 - id: 3adcea4391fe4e05b4461c125b899e84
-  zh-hans: 行了，我就要这件蓝的和那件绣着熊猫的。
-  pinyin: Xíngle, wǒ jiù yào zhè jiàn lán de hé nà jiàn xiùzhe xióngmāo de.
-  en: Alright, I want this blue one and that one with the embroidered panda.
-  es: Está bien, quiero está prenda azul y la que tiene bordado a un panda.
+  zh-hans: 行了，我就要这件(1:蓝:20)的和那件(2:绣:3)着熊猫的。
+  pinyin: Xíngle, wǒ jiù yào zhè jiàn (1:lán) de hé nà jiàn (2:xiù) zhe xióngmāo de.
+  en: Alright, I want this (1:blue) one and that one with the (2:embroidered) panda.
+  es: Está bien, quiero está prenda (1:azul) y la que tiene (2:bordado) a un panda.
 - id: 5e76edaafb0840449041a1ee41faa2c4
   zh-hans: 给你钱，请把它包起来。
   pinyin: Gěi nǐ qián, qǐng bǎ tā bāo qǐlái.
@@ -319,10 +319,10 @@
   en: isn’t this rather good?
   es: ¿acaso eso no es bueno?
 - id: 2dc068f9d60743958635f95c629b2fd4
-  zh-hans: 哦！你要是直说，
-  pinyin: Ó! Nǐ yàoshi zhí shuō,
-  en: Oh! If you said it straight,
-  es: ¡Oh! Si lo decías así de directo,
+  zh-hans: 哦！你要是(1:直:13)说，
+  pinyin: Ó! Nǐ yàoshi (1:zhí) shuō,
+  en: Oh! If you said it (1:straight),
+  es: ¡Oh! Si lo decías así de (1:directo),
 - id: 2090c4cd54064439b8f19658ec0d4ba2
   zh-hans: 我们会一次就买两件吗？
   pinyin: wǒmen huì yīcì jiù mǎi liǎng jiàn ma?
@@ -334,10 +334,10 @@
   en: No wonder people often say,
   es: No es sorpresa porque las personas usualmente dicen,
 - id: 2a95c2b81027446cad64ab3197044671
-  zh-hans: 从南京到北京，买的没有卖的精。
-  pinyin: cóng Nánjīng dào Běijīng, mǎi de méiyǒu mài de jīng.
-  en: from Nanjing to Beijing, the one who buys is not smarter than the one who sells.
-  es: Desde Nanjing hasta Beijing, el que compra no es más astuto que el que vende.
+  zh-hans: 从南京到北京，买的没有卖的(1:精:1)。
+  pinyin: cóng Nánjīng dào Běijīng, mǎi de méiyǒu mài de (1:jīng).
+  en: from Nanjing to Beijing, the one who buys is not (1:smarter) than the one who sells.
+  es: Desde Nanjing hasta Beijing, el que compra no es más (1:astuto) que el que vende.
 - id: 3bb3fb6a4cf6446ca9a47ff0fd5c60d8
   zh-hans: 老板，你真会做生意啊。
   pinyin: Lǎobǎn, nǐ zhēn huì zuò shēngyì a.
