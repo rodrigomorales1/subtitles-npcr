@@ -179,10 +179,10 @@
   en: the (1:price) wouldn’t be so (2:cheap).
   es: entonces el (1:precio) no sería tan (2:barato).
 - id: 33b6158066094746964320dd97912141
-  zh-hans: 我不(1:骗)(2:您)，即使您跑(3:遍:15)了(4:北京)城，
-  pinyin: Wǒ bù (1:piàn) (2:nín), jíshǐ nín pǎo (3:biàn) le (4:Běijīng) chéng,
-  en: I’m not (1:cheating) (2:you), even if you run (3:all over) (4:Beijing) city,
-  es: No le (1:miento), incluso si recorres (3:todo) (4:Beijing),
+  zh-hans: 我不(1:骗)(2:您)，即使(3:您)跑(4:遍:15)了(5:北京)城，
+  pinyin: Wǒ bù (1:piàn) (2:nín), jíshǐ (3:nín) pǎo (4:biàn) le (5:Běijīng) chéng,
+  en: I’m not (1:cheating) (2:you), even if (3:you) run (4:all over) (5:Beijing) city,
+  es: No le (1:miento), incluso si (3:usted) recorre (4:todo) (5:Beijing),
 - id: 6e99df8aafcd4bd59b828fcf6dc3da3b
   zh-hans: 也找不着比(1:这儿)更便宜的。
   pinyin: yě zhǎo bùzháo bǐ (1:zhèr) gèng piányi de.
