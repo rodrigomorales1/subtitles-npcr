@@ -22,7 +22,7 @@
   zh-hans: 您(1:买)一件，我(2:送)一件！
   pinyin: nín (1:mǎi) yī jiàn, wǒ (2:sòng) yī jiàn!
   en: you (1:buy) one, I (2:give) you one more!
-  es: ¡(1:Compras) una, y te (2:regalo) otra!
+  es: ¡(1:Compre) una, y le (2:regalo) otra!
 - id: af80f67dfc4f45ef912bae095b3b3fe3
   zh-hans: (1:就)这几件了。
   pinyin: (1:Jiù) zhè jǐ jiànle.
@@ -44,10 +44,10 @@
   en: (1:Foreign) (2:friend),
   es: (2:Amiga) (1:extranjero),
 - id: f019913be94a448495bdfbae64ecf968
-  zh-hans: 您不(1:想)来一件吗？
-  pinyin: nín bù (1:xiǎng) lái yī jiàn ma?
-  en: don’t you (1:want) one?
-  es: ¿no (1:quieres) una?
+  zh-hans: (1:您)不(2:想)来一件吗？
+  pinyin: (1:nín) bù (2:xiǎng) lái yī jiàn ma?
+  en: don’t (1:you) (2:want) one?
+  es: ¿(1:usted) no (2:quiere) una?
 - id: f3c36074c2574c199b4ee36fb48ff82a
   zh-hans: 你们(1:看)，这(2:两)只(3:熊猫)(4:绣:3)得多好，
   pinyin: Nǐmen (1:kàn), zhè (2:liǎng) zhī (3:xióngmāo) (4:xiù) de duō hǎo,
@@ -59,20 +59,20 @@
   en: (1:eyes) so (2:round), so (3:black),
   es: los (1:ojos) son (2:circulares) y (3:negros),
 - id: 22471209ced945c18608621c91b6169a
-  zh-hans: 很(1:适合:5)您(2:穿)。
-  pinyin: hěn (1:shìhé) nín (2:chuān).
-  en: so (1:suitable) for you to (2:wear).
-  es: a ti te (1:queda bien) (2:vestirlo).
+  zh-hans: 很(1:适合:5)(2:您)(3:穿)。
+  pinyin: hěn (1:shìhé) nín (3:chuān).
+  en: so (1:suitable) for you to (3:wear).
+  es: a (2:usted) le (1:queda bien) (3:vestirlo).
 - id: e4b8755196b7462aa2f6fba638e37978
-  zh-hans: 您(1:穿)上它，(2:一定)更(3:漂亮)。
-  pinyin: Nín (1:chuān) shàng tā, (2:yīdìng) gēng (3:piàoliang).
-  en: When you (1:wear) it, it will (2:definitely) make you look more (3:beautiful).
-  es: Cuando lo (1:vistes), (2:definitivamente) te vas a ver más (3:hermosa).
+  zh-hans: (1:您)(2:穿)上它，(3:一定)更(4:漂亮)。
+  pinyin: (1:Nín) (2:chuān) shàng tā, (3:yīdìng) gēng (4:piàoliang).
+  en: When (1:you) (2:wear) it, it will (3:definitely) make you look more (4:beautiful).
+  es: Cuando (1:usted) lo (2:viste), (3:definitivamente) se va a ver más (4:hermosa).
 - id: a96426eab92f4d1699da33f2c3b5bfc0
-  zh-hans: 看您说的，(1:像)(2:真)的似的。
-  pinyin: Kàn nín shuō de, (1:xiàng) (2:zhēn) de shì de.
-  en: Come on, (1:as if) it were (2:true).
-  es: Escuche lo que ha dicho, (1:como) si fuese (2:verdad).
+  zh-hans: 看(1:您)说的，(2:像)(3:真)的似的。
+  pinyin: Kàn (1:nín) shuō de, (2:xiàng) (3:zhēn) de shì de.
+  en: Come on, (2:as if) it were (3:true).
+  es: Escuche lo que ha dicho, (2:como) si fuese (3:verdad).
 - id: d85b91eda9344fa8ac3d8cd465e05452
   zh-hans: 不过，这件(1:睡衣:2)上的(2:花儿)(3:绣:3)得真(4:好看)。
   pinyin: Bùguò, zhè jiàn (1:shuìyī) shàng de (2:huār) (3:xiù) de zhēn (4:hǎokàn).
@@ -124,10 +124,10 @@
   en: but if it’s not a free (1:small) (2:comb), then it’s a free (3:small) (4:mirror).
   es: no nos dan gratis un (1:pequeño) (2:peine), sino nos dan gratis un (3:pequeño) (4:espejo).
 - id: fba41b62b7964a4091e2f7d2412c0864
-  zh-hans: 您不(1:相信:9)？
-  pinyin: Nín bù (1:xiāngxìn)?
-  en: You don’t (1:believe) me?
-  es: ¿No me (1:crees)?
+  zh-hans: (1:您)不(2:相信:9)？
+  pinyin: (1:Nín) bù (2:xiāngxìn)?
+  en: (1:You) don’t (2:believe) me?
+  es: ¿(1:Usted) no me (2:cree)?
 - id: 601a9aad96544a8597909240a8af8ce2
   zh-hans: 我送的(1:东西)，可不是(2:梳子:7)，
   pinyin: Wǒ sòng de (1:dōngxi), kě bùshì (2:shūzi),
@@ -139,10 +139,10 @@
   en: (1:rather) it’s one of the same (2:pajama).
   es: (1:sino) una misma (2:pijama).
 - id: 4898fbccc0a84bc7801e7022a977a2f9
-  zh-hans: 您自己(1:随便)(2:挑选:10)。
+  zh-hans: (1:您)自己(1:随便)(2:挑选:10)。
   pinyin: Nín zìjǐ (1:suíbiàn) (2:tiāoxuǎn).
-  en: You can (2:choose) and take a look at them (1:as you wish).
-  es: Tú mismo (2:escoge) (1:como desees).
+  en: (1:You) can (2:choose) and take a look at them (1:as you wish).
+  es: (1:Usted) mismo (2:escoja) (1:como desee).
 - id: ccb4301ea6fe42fc8ab7ec99c9800483
   zh-hans: (1:老板)，能不能(2:便宜)点儿？
   pinyin: (1:Lǎobǎn), néng bùnéng (2:piányi) diǎnr?
@@ -154,10 +154,10 @@
   en: The other (1:stores) are all not this (2:expensive)!
   es: Otras (1:tiendas) no son así de (2:caras).
 - id: ed7b6c04d5224bac9d1db65c59e6e0c4
-  zh-hans: 这您就不(1:知道)了，(2:货:11)不一样啊。
-  pinyin: Zhè nín jiù bù (1:zhīdào) le, (2:huò) bù yīyàng a.
-  en: This you don’t (1:know), the (2:goods) are not the same.
-  es: No (1:conoces) sobre esto, los (2:productos) no son iguales.
+  zh-hans: 这(1:您)就不(2:知道)了，(3:货:11)不一样啊。
+  pinyin: Zhè (1:nín) jiù bù (2:zhīdào) le, (3:huò) bù yīyàng a.
+  en: This (1:you) don’t (2:know), the (3:goods) are not the same.
+  es: (1:Usted) no (2:conoce) sobre esto, los (3:productos) no son iguales.
 - id: 536d11a6fb2348ecb5e5a668f3471aa3
   zh-hans: 这是(1:名牌)的，(2:质量:12)比(3:一般)的(4:牌子)好得多。
   pinyin: Zhè shì (1:míngpái) de, (2:zhìliàng) bǐ (3:yībān) de (4:páizi) hǎo de duō.
@@ -179,10 +179,10 @@
   en: the (1:price) wouldn’t be so (2:cheap).
   es: entonces el (1:precio) no sería tan (2:barato).
 - id: 33b6158066094746964320dd97912141
-  zh-hans: 我不(1:骗)您，即使您跑(2:遍:15)了(3:北京)城，
-  pinyin: Wǒ bù (1:piàn) nín, jíshǐ nín pǎo (2:biàn) le (3:Běijīng) chéng,
-  en: I’m not (1:cheating) you, even if you run (2:all over) (3:Beijing) city,
-  es: No te (1:miento), incluso si recorres (2:todo) (3:Beijing),
+  zh-hans: 我不(1:骗)(2:您)，即使您跑(3:遍:15)了(4:北京)城，
+  pinyin: Wǒ bù (1:piàn) (2:nín), jíshǐ nín pǎo (3:biàn) le (4:Běijīng) chéng,
+  en: I’m not (1:cheating) (2:you), even if you run (3:all over) (4:Beijing) city,
+  es: No le (1:miento), incluso si recorres (3:todo) (4:Beijing),
 - id: 6e99df8aafcd4bd59b828fcf6dc3da3b
   zh-hans: 也找不着比(1:这儿)更便宜的。
   pinyin: yě zhǎo bùzháo bǐ (1:zhèr) gèng piányi de.
@@ -192,22 +192,22 @@
   zh-hans: 您就(1:放心)(2:买)吧。
   pinyin: Nín jiù (1:fàngxīn) (2:mǎi) ba.
   en: You can (1:rest assured) to (2:buy) it.
-  es: Usted puede (1:estar tranquilo) (2:comprándolo) acá.
+  es: Usted puede (1:estar tranquila) (2:comprándolo) acá.
 - id: e6e0fad0cd344f8eab39f317fd229a93
-  zh-hans: 您(1:要是)(2:便宜)(3:点儿)，我就买。
-  pinyin: Nín (1:yàoshi) (2:piányi) (3:diǎnr), wǒ jiù mǎi.
-  en: (1:If) you make it a (3:little) (2:cheaper), I’ll buy.
-  es: (1:Sólo) si es un (3:poco) más (2:barato), lo compraré.
+  zh-hans: (1:您)(2:要是)(3:便宜)(4:点儿)，我就买。
+  pinyin: (1:Nín) (2:yàoshi) (3:piányi) (4:diǎnr), wǒ jiù mǎi.
+  en: (2:If) (1:you) make it a (4:little) (3:cheaper), I’ll buy.
+  es: (2:Si) (1:usted) lo pone un (4:poco) más (3:barato), lo compro.
 - id: bedd95d38c9b447c85d1ac796df78868
-  zh-hans: 您(1:给)个(2:价:6)吧？
-  pinyin: Nín (1:gěi) gè (2:jià) ba?
-  en: Can you (1:give) a (2:price)?
-  es: ¿Puedes (1:dar) un (2:precio)?
+  zh-hans: (1:您)(2:给)个(3:价:6)吧？
+  pinyin: (1:Nín) (2:gěi) gè (3:jià) ba?
+  en: Can (1:you) (2:give) a (3:price)?
+  es: ¿(1:Puede) (2:dar) un (3:precio)?
 - id: e7477680-991e-4925-9a7c-f1ccf8fa2c73
-  zh-hans: 您(1:给个)(2:价:6)吧。
-  pinyin: Nín (1:gěi) gè (2:jià) ba.
-  en: (1:Give) me a (2:price).
-  es: (1:Dame) un (2:precio).
+  zh-hans: (1:您)(2:给个)(3:价:6)吧。
+  pinyin: (1:Nín) (2:gěi) gè (3:jià) ba.
+  en: (1:You) (2:give) me a (3:price).
+  es: (1:Usted) (2:deme) un (3:precio).
 - id: 285e59d3b7f548d9b90957908cb0770d
   zh-hans: (1:七十)块钱(2:怎么样)？
   pinyin: (1:Qīshí) kuài qián (2:zěnme yàng)?
@@ -219,10 +219,10 @@
   en: (1:70) and also (2:give) you one free?
   es: (1:70) yuanes y encima (2:darte) uno gratis?
 - id: 85af8daa7dc841efa3f41fb0493a1c71
-  zh-hans: (1:小姐)，您(2:砍价砍:16)得太(3:厉害:17)了。
-  pinyin: (1:Xiǎojiě), nín (2:kǎn jià kǎn) de tài (3:lìhài) le.
-  en: (1:Miss), you are (2:cutting the price) (3:too much).
-  es: (1:Señorita), está (2:rebajando) (3:fuertemente) el precio.
+  zh-hans: (1:小姐)，(2:您)(3:砍价砍:16)得太(4:厉害:17)了。
+  pinyin: (1:Xiǎojiě), (2:nín) (3:kǎn jià kǎn) de tài (4:lìhài) le.
+  en: (1:Miss), (2:you) are (3:cutting the price) (4:too much).
+  es: (1:Señorita), (2:usted) está (3:rebajando) (4:fuertemente) el precio.
 - id: 7110df0c7275470a9549429a59ca118c
   zh-hans: 这么(1:卖)，我不但不能(2:赚:18)钱，反而要(3:赔本儿:19)。
   pinyin: Zhème (1:mài), wǒ bùdàn bùnéng (2:zhuàn) qián, fǎnr (3:péiběn).
@@ -239,20 +239,20 @@
   en: it’s (3:almost) the (5:price) with which I buy the (4:products) to manufacturers.
   es: (3:casí) el (5:precio) de compra de (4:productos) a los proveedores,
 - id: 7d7b4cbb284a4d278488078f3dc43000
-  zh-hans: (1:每)件就(2:赚:18)您几块钱。
-  pinyin: (1:měi) jiàn jiù (2:zhuàn) nín jǐ kuài qián.
-  en: (1:every) piece I sell to you only makes me (2:earn) a little money.
-  es: (1:todas) las prendas que vendo me hacen (2:ganar) poco dinero.
+  zh-hans: (1:每)件就(2:赚:18)(3:您)几块钱。
+  pinyin: (1:měi) jiàn jiù (2:zhuàn) (3:nín) jǐ kuài qián.
+  en: (1:every) piece I sell to (3:you) only makes me (2:earn) a little money.
+  es: (1:todas) las prendas que les doy a (23:ustedes) me hacen (2:ganar) poco dinero.
 - id: 3884c428e12b4c0fb55a90e0ce543d62
-  zh-hans: (1:这样吧)，您要真想买，
-  pinyin: (1:Zhèyàng ba), nín yào zhēn xiǎng mǎi,
-  en: (1:How about this), if you really want to buy,
-  es: (1:Pongámoslo así), ya que tú realmente quieres comprar,
+  zh-hans: (1:这样吧)，(2:您)要真想买，
+  pinyin: (1:Zhèyàng ba), (2:nín) yào zhēn xiǎng mǎi,
+  en: (1:How about this), if (2:you) really want to buy,
+  es: (1:Pongámoslo así), ya que (2:usted) realmente quiere comprar,
 - id: 13923511-2367-4b6c-8b90-fb0d7c0dea03
-  zh-hans: (1:九十五)块您拿(2:两)件。
-  pinyin: (1:jiǔshíwǔ) kuài nín ná (2:liǎng) jiàn.
-  en: (1:95) yuanes and you take (2:two).
-  es: (1:95) yuanes y llevate (2:dos).
+  zh-hans: (1:九十五)块(2:您)拿(3:两)件。
+  pinyin: (1:jiǔshíwǔ) kuài (2:nín) ná (3:liǎng) jiàn.
+  en: (1:95) yuanes and (2:you) take (3:two).
+  es: (1:95) yuanes y (2:usted) llévese (3:dos).
 - id: 3adcea4391fe4e05b4461c125b899e84
   zh-hans: (1:行了)，我就要这件(1:蓝:20)的和那件(2:绣:3)着熊猫的。
   pinyin: (1:Xíngle), wǒ jiù yào zhè jiàn (1:lán) de hé nà jiàn (2:xiù) zhe xióngmāo de.
@@ -264,20 +264,20 @@
   en: Here’s the money, (1:please) (2:wrap it up).
   es:  tiene el dinero, (1:por favor) (2:envuélvalas).
 - id: bd5c91cd7a45449d8ce2135307c0731e
-  zh-hans: 您这是(1:一百)，
-  pinyin: Nín zhè shì (1:yībǎi),
-  en: You gave me (1:100),
-  es: Me has dado (1:100),
+  zh-hans: (1:您)这是(2:一百)，
+  pinyin: (1:Nín) zhè shì (2:yībǎi),
+  en: (1:You) gave me (2:100),
+  es: (1:Usted) me ha dado (2:100),
 - id: 276916ee9d45448a999c4214266797c4
-  zh-hans: 找您(1:五)块。
-  pinyin: zhǎo nín (1:wǔ) kuài.
-  en: I’ll give you (1:5) change.
-  es: Te devuelvo (1:5) yuanes.
+  zh-hans: 找(1:您)(2:五)块。
+  pinyin: zhǎo (1:nín) (2:wǔ) kuài.
+  en: I’ll give (1:you) (2:5) change.
+  es: Le devuelvo a (1:usted) (2:5) yuanes.
 - id: 4b850df1af9d4b9595c7f23de7766f36
-  zh-hans: 我给您(1:包)好。
-  pinyin: Wǒ gěi nín (1:bāo) hǎo.
-  en: I’ll (1:wrap) them for you.
-  es: Los (1:envolveré) para ti.
+  zh-hans: 我给(1:您)(2:包)好。
+  pinyin: Wǒ gěi (1:nín) (2:bāo) hǎo.
+  en: I’ll (2:wrap) them for (1:you).
+  es: Le (2:envolveré) los regalos a (1:usted).
 - id: ea56b722b9f447eb999f0e2aed4978cd
   zh-hans: (1:老板)，
   pinyin: (1:Lǎobǎn),
@@ -309,10 +309,10 @@
   en: (1:Regardless) of how you (2:say) it,
   es: (1:Sin importar) lo que (2:digas),
 - id: dc1f48c4253d4c9985dc68c0014c9aca
-  zh-hans: 我也没有多(1:要)您一(2:分)钱。
-  pinyin: wǒ yě méiyǒu duō (1:yào) nín yī (2:fēn) qián.
-  en: I didn't (1:ask) you for a (2:cent) more of a yuan.
-  es: No te he (1:pedido) ni un (2:centavo) más de yuan.
+  zh-hans: 我也没有多(1:要)(2:您)一(3:分)钱。
+  pinyin: wǒ yě méiyǒu duō (1:yào) (2:nín) yī (3:fēn) qián.
+  en: I didn't (1:ask) (2:you) for a (3:cent) more of a yuan.
+  es: No les he (1:pedido) a (2:ustedes) ni un (3:centavo) más de yuan.
 - id: 117d41cd366f43278ad4d8ac97a688c9
   zh-hans: (1:再说)买(2:两)件可以(3:换)着穿，
   pinyin: (1:Zàishuō) mǎi (2:liǎng) jiàn kěyǐ (3:huàn) zhe chuān,
