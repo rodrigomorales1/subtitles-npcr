@@ -314,10 +314,10 @@
   en: (1:Furthermore), by buying (2:two) you can have a (3:change) to wear,
   es: (1:Además), comprando dos puedes tener dos (2:prendas) para (3:cambiar),
 - id: a71af03ec68044efbe01018c92429e15
-  zh-hans: 也可以做(1:礼物)送朋友，
-  pinyin: yě kěyǐ zuò (1:lǐwù) sòng péngyǒu,
-  en: also can be a (1:gift) for a friend,
-  es: también puede ser un (1:regalo) para darselo a tus amigos,
+  zh-hans: 也可以做(1:礼物)送(2:朋友)，
+  pinyin: yě kěyǐ zuò (1:lǐwù) sòng (2:péngyǒu),
+  en: also can be a (1:gift) for a (2:friend),
+  es: también puede ser un (1:regalo) para darselo a sus (2:amigos),
 - id: c60cf4d146174d27a3a6d896e819b34b
   zh-hans: 这不挺(1:好)吗？
   pinyin: zhè bù tǐng (1:hǎo) ma?
