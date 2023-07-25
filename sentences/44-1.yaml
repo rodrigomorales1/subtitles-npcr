@@ -244,10 +244,15 @@
   en: (1:every) piece I sell to you only makes me (2:earn) a little money.
   es: (1:todas) las prendas que vendo me hacen (2:ganar) poco dinero.
 - id: 3884c428e12b4c0fb55a90e0ce543d62
-  zh-hans: (1:这样吧)，您要真想买，(1:九十五)块您拿(2:两)件。
-  pinyin: (1:Zhèyàng ba), nín yào zhēn xiǎng mǎi, (1:jiǔshíwǔ) kuài nín ná (2:liǎng) jiàn.
-  en: (1:How about this), if you really want to buy, (1:95) yuanes and you take (2:two).
-  es: (1:Pongámoslo así), ya que tú realmente quieres comprar, (1:95) yuanes y llevate (2:dos).
+  zh-hans: (1:这样吧)，您要真想买，
+  pinyin: (1:Zhèyàng ba), nín yào zhēn xiǎng mǎi,
+  en: (1:How about this), if you really want to buy,
+  es: (1:Pongámoslo así), ya que tú realmente quieres comprar,
+- id: 13923511-2367-4b6c-8b90-fb0d7c0dea03
+  zh-hans: (1:九十五)块您拿(2:两)件。
+  pinyin: (1:jiǔshíwǔ) kuài nín ná (2:liǎng) jiàn.
+  en: (1:95) yuanes and you take (2:two).
+  es: (1:95) yuanes y llevate (2:dos).
 - id: 3adcea4391fe4e05b4461c125b899e84
   zh-hans: (1:行了)，我就要这件(1:蓝:20)的和那件(2:绣:3)着熊猫的。
   pinyin: (1:Xíngle), wǒ jiù yào zhè jiàn (1:lán) de hé nà jiàn (2:xiù) zhe xióngmāo de.
@@ -339,10 +344,15 @@
   en: (1:No wonder) (2:people) (3:often) (4:say),
   es: (1:No es sorpresa) porque las (2:personas) (3:usualmente) (4:dicen),
 - id: 2a95c2b81027446cad64ab3197044671
-  zh-hans: 从(1:南京)到(2:北京)，(3:买的)没有(4:卖的)(5:精:1)。
-  pinyin: cóng (1:Nánjīng) dào (2:Běijīng), (3:mǎi de) méiyǒu (4:mài de) (5:jīng).
-  en: from (1:Nanjing) to (2:Beijing), (3:the one who buys) is not (5:smarter) than (4:the one who sells).
-  es: Desde (1:Nanjing) hasta (2:Beijing), (3:el que compra) no es más (5:astuto) que (4:el que vende).
+  zh-hans: 从(1:南京)到(2:北京)，
+  pinyin: cóng (1:Nánjīng) dào (2:Běijīng),
+  en: from (1:Nanjing) to (2:Beijing),
+  es: Desde (1:Nanjing) hasta (2:Beijing),
+- id: ed5a5b27-73ff-43bd-b0fa-78d71ed88792
+  zh-hans: (3:买的)没有(4:卖的)(5:精:1)。
+  pinyin: (3:mǎi de) méiyǒu (4:mài de) (5:jīng).
+  en: (3:the one who buys) is not (5:smarter) than (4:the one who sells).
+  es: (3:el que compra) no es más (5:astuto) que (4:el que vende).
 - id: 3bb3fb6a4cf6446ca9a47ff0fd5c60d8
   zh-hans: (1:老板)，你(2:真)会(3:做)(4:生意)啊。
   pinyin: (1:Lǎobǎn), nǐ (2:zhēn) huì (3:zuò) (4:shēngyì) a.
