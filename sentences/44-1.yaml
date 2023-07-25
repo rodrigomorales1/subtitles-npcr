@@ -72,7 +72,7 @@
   zh-hans: 看(1:您)说的，(2:像)(3:真)的似的。
   pinyin: Kàn (1:nín) shuō de, (2:xiàng) (3:zhēn) de shì de.
   en: Come on, (2:as if) it were (3:true).
-  es: Escuche lo que ha dicho, (2:como) si fuese (3:verdad).
+  es: Escuche lo que (1:usted) ha dicho, (2:como) si fuese (3:verdad).
 - id: d85b91eda9344fa8ac3d8cd465e05452
   zh-hans: 不过，这件(1:睡衣:2)上的(2:花儿)(3:绣:3)得真(4:好看)。
   pinyin: Bùguò, zhè jiàn (1:shuìyī) shàng de (2:huār) (3:xiù) de zhēn (4:hǎokàn).
@@ -139,10 +139,10 @@
   en: (1:rather) it’s one of the same (2:pajama).
   es: (1:sino) una misma (2:pijama).
 - id: 4898fbccc0a84bc7801e7022a977a2f9
-  zh-hans: (1:您)自己(1:随便)(2:挑选:10)。
-  pinyin: (1:Nín) zìjǐ (1:suíbiàn) (2:tiāoxuǎn).
-  en: (1:You) can (2:choose) and take a look at them (1:as you wish).
-  es: (1:Usted) mismo (2:escoja) (1:como desee).
+  zh-hans: (1:您)自己(2:随便)(3:挑选:10)。
+  pinyin: (1:Nín) zìjǐ (2:suíbiàn) (3:tiāoxuǎn).
+  en: (1:You) can (3:choose) and take a look at them (2:as you wish).
+  es: (1:Usted) misma (3:escoja) (2:como desee).
 - id: ccb4301ea6fe42fc8ab7ec99c9800483
   zh-hans: (1:老板)，能不能(2:便宜)点儿？
   pinyin: (1:Lǎobǎn), néng bùnéng (2:piányi) diǎnr?
@@ -187,7 +187,7 @@
   zh-hans: 也(1:找不着)比(2:这儿)更便宜的。
   pinyin: yě (1:zhǎo bùzháo) bǐ (2:zhèr) gèng piányi de.
   en: you will (1:not find) anywhere cheaper than (2:here).
-  es: no (1:encontrará) un lugar más barato que (2:acá).
+  es: (1:no encontrará) un lugar más barato que (2:acá).
 - id: 782932c4075541c1abf3335d6bb2b73e
   zh-hans: 您就(1:放心)(2:买)吧。
   pinyin: Nín jiù (1:fàngxīn) (2:mǎi) ba.
@@ -242,7 +242,7 @@
   zh-hans: (1:每)件就(2:赚:18)(3:您)几块钱。
   pinyin: (1:měi) jiàn jiù (2:zhuàn) (3:nín) jǐ kuài qián.
   en: (1:every) piece I sell to (3:you) only makes me (2:earn) a little money.
-  es: (1:todas) las prendas que les doy a (23:ustedes) me hacen (2:ganar) poco dinero.
+  es: (1:todas) las prendas que les doy a (3:ustedes) me hacen (2:ganar) poco dinero.
 - id: 3884c428e12b4c0fb55a90e0ce543d62
   zh-hans: (1:这样吧)，(2:您)要真想买，
   pinyin: (1:Zhèyàng ba), (2:nín) yào zhēn xiǎng mǎi,
