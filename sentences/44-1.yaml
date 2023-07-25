@@ -60,8 +60,8 @@
   es: los (1:ojos) son (2:circulares) y (3:negros),
 - id: 22471209ced945c18608621c91b6169a
   zh-hans: 很(1:适合:5)(2:您)(3:穿)。
-  pinyin: hěn (1:shìhé) nín (3:chuān).
-  en: so (1:suitable) for you to (3:wear).
+  pinyin: hěn (1:shìhé) (2:nín) (3:chuān).
+  en: so (1:suitable) for (2:you) to (3:wear).
   es: a (2:usted) le (1:queda bien) (3:vestirlo).
 - id: e4b8755196b7462aa2f6fba638e37978
   zh-hans: (1:您)(2:穿)上它，(3:一定)更(4:漂亮)。
@@ -140,7 +140,7 @@
   es: (1:sino) una misma (2:pijama).
 - id: 4898fbccc0a84bc7801e7022a977a2f9
   zh-hans: (1:您)自己(1:随便)(2:挑选:10)。
-  pinyin: Nín zìjǐ (1:suíbiàn) (2:tiāoxuǎn).
+  pinyin: (1:Nín) zìjǐ (1:suíbiàn) (2:tiāoxuǎn).
   en: (1:You) can (2:choose) and take a look at them (1:as you wish).
   es: (1:Usted) mismo (2:escoja) (1:como desee).
 - id: ccb4301ea6fe42fc8ab7ec99c9800483
@@ -202,7 +202,7 @@
   zh-hans: (1:您)(2:给)个(3:价:6)吧？
   pinyin: (1:Nín) (2:gěi) gè (3:jià) ba?
   en: Can (1:you) (2:give) a (3:price)?
-  es: ¿(1:Puede) (2:dar) un (3:precio)?
+  es: ¿(1:Usted) podría (2:darme) un (3:precio)?
 - id: e7477680-991e-4925-9a7c-f1ccf8fa2c73
   zh-hans: (1:您)(2:给个)(3:价:6)吧。
   pinyin: (1:Nín) (2:gěi) gè (3:jià) ba.
