@@ -172,7 +172,7 @@
   zh-hans: 不直接进货，
   pinyin: bù zhíjiē jìnhuò,
   en: if we didn't acquire stock directly from the factory,
-  es: si no lo obtuviesemos de la fábrica,
+  es: si no comprasemos los productos directamente a las fábricas,
 - id: d6ed8bbe0621485aa2055d67d5da9996
   zh-hans: 价钱就不会这么便宜。
   pinyin: jiàqián jiù bù huì zhème piányi.
@@ -212,7 +212,7 @@
   zh-hans: 七十块钱怎么样？
   pinyin: Qīshí kuài qián zěnme yàng?
   en: How about 70 yuanes?
-  es: ¿Qué te parecen 70 yuanes?
+  es: ¿Qué te parece 70 yuanes?
 - id: b6e6dad789f14e5293f99ca13b3d60e2
   zh-hans: 七十块钱还送一件？
   pinyin: Qīshí kuài qián hái sòng yī jiàn?
@@ -232,7 +232,7 @@
   zh-hans: 我现在卖的价，几乎就是进货价，
   pinyin: Wǒ xiànzài mài de jià, jīhū jiùshì jìnhuò jià,
   en: The price I’m selling for at the moment, it’s almost the purchase price,
-  es: El precio con el que vendo ahora es casí el precio de compra de los proveedores,
+  es: El precio con el que vendo ahora es casí el precio de compra a los proveedores,
 - id: 7d7b4cbb284a4d278488078f3dc43000
   zh-hans: 每件就赚您几块钱。
   pinyin: měi jiàn jiù zhuàn nín jǐ kuài qián.
@@ -242,7 +242,7 @@
   zh-hans: 这样吧，您要真想买，九十五块您拿两件。
   pinyin: Zhèyàng ba, nín yào zhēn xiǎng mǎi, jiǔshíwǔ kuài nín ná liǎng jiàn.
   en: How about this, if you really want to buy, 95 yuanes and you take two.
-  es: Hagamos esto, tú realmente quieres comprar, 95 yuanes y llevaré dos.
+  es: Hagamos esto, ya que tú realmente quieres comprar, 95 yuanes y llevate dos.
 - id: 3adcea4391fe4e05b4461c125b899e84
   zh-hans: 行了，我就要这件蓝的和那件绣着熊猫的。
   pinyin: Xíngle, wǒ jiù yào zhè jiàn lán de hé nà jiàn xiùzhe xióngmāo de.
@@ -252,7 +252,7 @@
   zh-hans: 给你钱，请把它包起来。
   pinyin: Gěi nǐ qián, qǐng bǎ tā bāo qǐlái.
   en: Here’s the money, please wrap it up.
-  es: Acá tiene el dinero, por favor envuélvalos.
+  es: Acá tiene el dinero, por favor envuélvalas.
 - id: bd5c91cd7a45449d8ce2135307c0731e
   zh-hans: 您这是一百，
   pinyin: Nín zhè shì yībǎi,
@@ -337,7 +337,7 @@
   zh-hans: 从南京到北京，买的没有卖的精。
   pinyin: cóng Nánjīng dào Běijīng, mǎi de méiyǒu mài de jīng.
   en: from Nanjing to Beijing, the one who buys is not smarter than the one who sells.
-  es: Desde Nanjing hasta Beijing, el que compra no efs más astuto que el que vende.
+  es: Desde Nanjing hasta Beijing, el que compra no es más astuto que el que vende.
 - id: 3bb3fb6a4cf6446ca9a47ff0fd5c60d8
   zh-hans: 老板，你真会做生意啊。
   pinyin: Lǎobǎn, nǐ zhēn huì zuò shēngyì a.
