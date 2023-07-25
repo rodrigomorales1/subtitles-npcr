@@ -184,10 +184,10 @@
   en: I’m not (1:cheating) (2:you), even if (3:you) run (4:all over) (5:Beijing) city,
   es: No le (1:miento), incluso si (3:usted) recorre (4:todo) (5:Beijing),
 - id: 6e99df8aafcd4bd59b828fcf6dc3da3b
-  zh-hans: 也找不着比(1:这儿)更便宜的。
-  pinyin: yě zhǎo bùzháo bǐ (1:zhèr) gèng piányi de.
-  en: you won’t find anywhere cheaper than (1:here).
-  es: no encontrarás un lugar más barato que (1:acá).
+  zh-hans: 也(1:找不着)比(2:这儿)更便宜的。
+  pinyin: yě (1:zhǎo bùzháo) bǐ (2:zhèr) gèng piányi de.
+  en: you will (1:not find) anywhere cheaper than (2:here).
+  es: no (1:encontrará) un lugar más barato que (2:acá).
 - id: 782932c4075541c1abf3335d6bb2b73e
   zh-hans: 您就(1:放心)(2:买)吧。
   pinyin: Nín jiù (1:fàngxīn) (2:mǎi) ba.
