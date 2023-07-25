@@ -90,7 +90,7 @@
   es: Si el (1:precio) es (2:adecuado), compraré una (pijama).
 - id: 22276fff802c40ddacfb2af0a45729c7
   zh-hans: (1:老板)，这(2:种)(3:睡衣:2)多少钱一件？
-  pinyin: (1:Lǎobǎn), zhè zhǒng (3:shuìyī) duōshǎo qián yī jiàn?
+  pinyin: (1:Lǎobǎn), zhè (2:zhǒng) (3:shuìyī) duōshǎo qián yī jiàn?
   en: (1:Boss), how much for one of this (2:kind) of (3:pajama)?
   es: (1:Jefe), ¿Cuánto cuesta una prenda de este (2:tipo) de (3:pijama)?
 - id: 228b16a2b0ce44d1a2fc2751f7ee7b31
@@ -122,7 +122,7 @@
   zh-hans: 不是送(1:小)(2:梳子:7)，就是送(3:小)(4:镜子:8)。
   pinyin: bùshì sòng (1:xiǎo) (2:shūzi), jiùshì sòng (3:xiǎo) (4:jìngzi).
   en: but if it’s not a free (1:small) (2:comb), then it’s a free (3:small) (4:mirror).
-  es: Si no es un pequeño (2:peine) gratis, entonces te doy un (3:pequeño) (4:espejo).
+  es: no nos dan gratis un (1:pequeño) (2:peine), sino nos dan gratis un (3:pequeño) (4:espejo).
 - id: fba41b62b7964a4091e2f7d2412c0864
   zh-hans: 您不(1:相信:9)？
   pinyin: Nín bù (1:xiāngxìn)?
@@ -210,7 +210,7 @@
   es: (1:Dame) un (2:precio).
 - id: 285e59d3b7f548d9b90957908cb0770d
   zh-hans: (1:七十)块钱(2:怎么样)？
-  pinyin: (1:Qīshí) kuài qián zěnme yàng?
+  pinyin: (1:Qīshí) kuài qián (2:zěnme yàng)?
   en: (2:How about) (1:70) yuanes?
   es: ¿(2:Qué te parece) (1:70) yuanes?
 - id: b6e6dad789f14e5293f99ca13b3d60e2
@@ -222,7 +222,7 @@
   zh-hans: (1:小姐)，您(2:砍价砍:16)得太(3:厉害:17)了。
   pinyin: (1:Xiǎojiě), nín (2:kǎn jià kǎn) de tài (3:lìhài) le.
   en: (1:Miss), you are (2:cutting the price) (3:too much).
-  es: (1:Señorita), está (2:rebajando) (2fuertemente) el precio.
+  es: (1:Señorita), está (2:rebajando) (3:fuertemente) el precio.
 - id: 7110df0c7275470a9549429a59ca118c
   zh-hans: 这么(1:卖)，我不但不能(2:赚:18)钱，反而要(3:赔本儿:19)。
   pinyin: Zhème (1:mài), wǒ bùdàn bùnéng (2:zhuàn) qián, fǎnr (3:péiběn).
@@ -305,7 +305,7 @@
   es: (1:Sin importar) lo que (2:digas),
 - id: dc1f48c4253d4c9985dc68c0014c9aca
   zh-hans: 我也没有多(1:要)您一(2:分)钱。
-  pinyin: wǒ yě méiyǒu duō yào nín yī (2:fēn) qián.
+  pinyin: wǒ yě méiyǒu duō (1:yào) nín yī (2:fēn) qián.
   en: I didn't (1:ask) you for a (2:cent) more of a yuan.
   es: No te he (1:pedido) ni un (2:centavo) más de yuan.
 - id: 117d41cd366f43278ad4d8ac97a688c9
