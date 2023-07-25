@@ -149,8 +149,8 @@
   en: (1:Boss), can you make it a little (2:cheaper)?
   es: (1:Jefe) ¿no puede ser más (2:barato)?
 - id: 0235c81d49a046f894ed9359d5c6118e
-  zh-hans: 别的(1:商店)都没有那么(2:贵)啊！
-  pinyin: Bié de (1:shāngdiàn) dōu méiyǒu nàme (2:guì) a!
+  zh-hans: 别的(1:商店)都没有这么(2:贵)啊！
+  pinyin: Bié de (1:shāngdiàn) dōu méiyǒu zhème (2:guì) a!
   en: The other (1:stores) are all not this (2:expensive)!
   es: Otras (1:tiendas) no son así de (2:caras).
 - id: ed7b6c04d5224bac9d1db65c59e6e0c4
