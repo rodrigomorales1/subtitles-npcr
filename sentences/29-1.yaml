@@ -1,3 +1,8 @@
+- id: 7f042e25-de16-4252-bd03-2283a84c5a52
+  zh-hans: 张教授，你好！
+  pinyin: 
+  en: 
+  es: 
 - id: e947281a-544e-401c-9cb7-42f09594af77
   zh-hans: 你们来了！(1:欢迎:2)，(1:欢迎:2)！快请进。
   pinyin: Nǐmen láile! (1:Huānyíng), (1:huānyíng)! Kuài qǐng jìn.
@@ -14,15 +19,25 @@
   en: Thanks. You are too polite.
   es: Muchas gracias. Eres muy amable.
 - id: 8e8769f6-6a3d-4c51-9c42-973f97cf4995
-  zh-hans: 请坐，喝点儿什么？
-  pinyin: Qǐng zuò, hē diǎnr shénme?
-  en: Please sit, what would you like to drink?
-  es: Tome asiento. ¿Qué le gustaría beber?
+  zh-hans: 请坐，
+  pinyin: Qǐng zuò,
+  en: Please sit,
+  es: Por favor siéntense.
+- id: 4166b2ea-ed9f-4311-a8e8-3b7328aa3c0a
+  zh-hans: 喝点儿什么？
+  pinyin: hē diǎnr shénme?
+  en: what would you like to drink?
+  es: ¿Qué le gustaría beber?
 - id: ae91c957-e452-4552-b2a0-99d6800028b0
-  zh-hans: 喝茶吧。您的(1:书房:3)很有特色：
-  pinyin: Hē chá bā. Nín de (1:shūfáng) hěn yǒu tèsè:
-  en: Let’s drink tea. Your (1:study room) is very characteristic:
-  es: Tomemos té. Su (1:cuarto de estudio) es muy especial:
+  zh-hans: 喝茶吧。
+  pinyin: Hē chá bā.
+  en: Let’s drink tea.
+  es: Tomemos té.
+- id: d6521fe5-9366-468d-9c61-b3e1bc7bc6a8
+  zh-hans: 您的(1:书房:3)很有特色：
+  pinyin: Nín de (1:shūfáng) hěn yǒu tèsè:
+  en: Your (1:study room) is very characteristic:
+  es: Su (1:cuarto de estudio) es muy especial:
 - id: cb4fed96-0a6d-4364-9300-bf2ad5d79f48
   zh-hans: (1:墙:4)上(2:挂:5)着中国(3:字画:6)，(4:书架:7)上放着这么多(5:古书:8)，
   pinyin: (1:Qiáng) shàng (2:guà) zhe Zhōngguó (3:zìhuà), (4:shūjià) shàng fàngzhe zhème duō (5:gǔshū),
