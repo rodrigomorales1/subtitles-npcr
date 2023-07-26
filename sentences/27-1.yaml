@@ -39,9 +39,34 @@
   en: They are speaking too loudly.
   es:
 - id: b302f28b-6b4d-4ac4-b3cc-0b5f44b42dfa
-  zh-hans: 茶来了！ 您几位请慢用。
+  zh-hans: 茶来了！
   pinyin: Chá láile! Nín jǐ wèi qǐng màn yòng.
   en: Tea is here! You all please enjoy.
+  es:
+- id: 8b90f6a8-ceed-43da-bc9f-d07101a5a2c6
+  zh-hans: 请茶。
+  pinyin: 
+  en: 
+  es:
+- id: c810fd25-2c51-47dd-ae80-f5326222f44c
+  zh-hans:  谢谢。
+  pinyin: 
+  en: 
+  es:
+- id: 302e8215-d53b-437c-8821-fcbbf03da199
+  zh-hans:  不客气。
+  pinyin: 
+  en: 
+  es:
+- id: 6822437b-7445-454f-bd10-d91085d1612d
+  zh-hans:  先生，请茶。
+  pinyin: 
+  en: 
+  es:
+- id: 76a7b316-24c3-46ca-b173-54f22af2d001
+  zh-hans:  您几位请慢用。
+  pinyin: 
+  en: 
   es:
 - id: cc910833-294c-4a6b-89f1-76a9f43e863b
   zh-hans: 我们正在说声音大，这位服务员的声音更大。
