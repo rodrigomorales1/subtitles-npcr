@@ -134,10 +134,15 @@
   en: please give your comments.
   es: He puesto sus nombres en él.
 - id: dd5dd657-e5fb-451f-833e-7606f4bdf3ec
-  zh-hans: 是《汉字书法艺术》，谢谢您。
-  pinyin: Shì “Hànzì Shūfǎ Yìshù”, xièxiè nín.
-  en: “Chinese Calligraphy Art”, thank you.
-  es: Es "El arte de la caligrafía china". Gracias.
+  zh-hans: 是《汉字书法艺术》，
+  pinyin: Shì “Hànzì Shūfǎ Yìshù”,
+  en: “Chinese Calligraphy Art”,
+  es: Es "El arte de la caligrafía china",
+- id: 9663fef8-c2ee-4b75-a028-7a42cfe0f958
+  zh-hans: 谢谢您。
+  pinyin: xièxiè nín.
+  en: thank you.
+  es: gracias.
 - id: 2fd48394-24b4-42cf-baff-2523c293d50c
   zh-hans: 张教授，您太(1:谦虚:11)了。
   pinyin: Zhāng jiàoshòu, nín tài (1:qiānxū) le.
