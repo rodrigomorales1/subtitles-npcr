@@ -19,20 +19,31 @@
   en: We are also almost at the top.
   es: Estamos casi en la cima.
 - id: 9bf6044a-9c95-42a2-8934-352b580f2230
-  zh-hans: 别着急。我觉得有点儿(1:累:2)，
-  pinyin: Bié zhāojí. Wǒ juéde yǒudiǎnr (1:lèi),
-  en: Don’t worry. I’m feeling a little bit (1:tired),
-  es: No te preocupes. Estoy un poco (1:cansado).
+  
+  zh-hans: 别着急。
+  pinyin: Bié zhāojí.
+  en: Don't be in too much of a hurry.
+  es: No se apresuren mucho.
+- id: 9bcdf959-0a71-4584-85a8-a6b6e65d353c
+  zh-hans: 我觉得有点儿(1:累:2)，
+  pinyin: Wǒ juéde yǒudiǎnr (1:lèi),
+  en: I’m feeling a little bit (1:tired),
+  es: Estoy un poco (1:cansada).
 - id: b20c2f20-4806-49e1-a010-afc74d9d8e4f
   zh-hans: 林娜也(1:累)了，咱们就坐下来休息一会儿吧。
   pinyin: Lín Nà yě (1:lèi) le, zánmen jiùzuò xiàlái xiūxí yī huǐr ba.
   en: Lin Na is also (1:tired), we’ll just sit and rest for little while.
   es: Linna también está (1:cansada). Sentémonos y descansemos un rato.
 - id: e44fd049-af44-428c-b29b-6dbcc6f8f320
-  zh-hans: 先喝点儿水再往上爬。这儿的景色多美啊！
-  pinyin: Xiān hē diǎnr shuǐ zài wǎng shàng pá. Zhèr de jǐngsè duō měi a!
-  en: First drink a little water, then climb up. The scenery here is so beautiful!
-  es: Bebamos un poco de agua antes de subir. ¡Qué vista más bonita!
+  zh-hans: 先喝点儿水再往上爬。
+  pinyin: Xiān hē diǎnr shuǐ zài wǎng shàng pá.
+  en: First drink a little water, then climb up.
+  es: Bebamos un poco de agua antes de subir.
+- id: d605ed8b-19ed-41d1-9efa-b63ab0cc8b63
+  zh-hans: 这儿的景色多美啊！
+  pinyin: Zhèr de jǐngsè duō měi a!
+  en: The scenery here is so beautiful!
+  es: ¡Qué vista más bonita!
 - id: 7b0ce490-7311-437c-b95e-24b7b9c9d451
   zh-hans: 长城好像一(1:条:3)(2:龙:4)。
   pinyin: Chángchéng hǎoxiàng yī (1:tiáo) (2:lóng).
