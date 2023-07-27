@@ -1,150 +1,150 @@
 - id: bb0d15a4-0392-48c3-aceb-e3eb2fbd711b
   zh-hans: 先生，您要什么？
-  pinyin: 
-  en: 
+  pinyin:  Xiānshēng, nín yào shénme? 
+  en: Mr, what would you like? 
   es: 
 - id: cfc966d7-c1de-4b0d-a78c-a4c950dac652
   zh-hans: 你好，师傅。请问，这是什么？
-  pinyin: 
-  en: 
+  pinyin: Nǐ hǎo, shīfù. Qǐngwèn, zhè shì shénme? 
+  en: Hello, sir. May I ask, what is this? 
   es: 
 - id: 2eff9b16-897a-41ee-8dae-28c4ab99b074
   zh-hans: 您不认识吗？这是香蕉苹果。
-  pinyin: 
-  en: 
+  pinyin: Nín bù rènshí ma? Zhè shì xiāngjiāo píngguǒ. 
+  en: You don’t recognise? This is a banana apple. 
   es: 
 - id: f39b368b-e903-4549-be6f-f938b7fd7e95
   zh-hans: 对不起，我是问：这个汉语怎么说？
-  pinyin: 
-  en: 
+  pinyin: Duìbùqǐ, wǒ shì wèn: Zhège Hànyǔ zěnme shuō? 
+  en: Sorry, I want to ask: What is this called in Chinese? 
   es: 
 - id: 437447b6-533a-4511-be1f-941a6280f4b4
   zh-hans: 啊，您是外国人。
-  pinyin: 
-  en: 
+  pinyin: A, nín shì wàiguó rén. 
+  en: Ah, you are a foreigner. 
   es: 
 - id: 098ba8a4-5897-43f9-add2-0ac24130398c
   zh-hans: 您在哪儿工作？
-  pinyin: 
-  en: 
+  pinyin: Nín zài nǎr gōngzuò? 
+  en: Where do you work? 
   es: 
 - id: 34b63f69-bd4a-4780-b081-10c21acfe862
   zh-hans: 我在语言学院学习。
-  pinyin: 
-  en: 
+  pinyin: Wǒ zài Yǔyán Xuéyuàn xuéxí. 
+  en: I am a student at the School of Languages. 
   es: 
 - id: eec74750-90dd-4eab-8a77-bbb9a8125337
   zh-hans: 您学习汉语，是不是？
-  pinyin: 
-  en: 
+  pinyin: Nín xuéxí Hànyǔ, shì bùshì? 
+  en: You’re studying Chinese, right? 
   es: 
 - id: ffb041b4-07ea-4b4e-a5d7-9f2414abef18
   zh-hans: 您跟我学，很容易：
-  pinyin: 
-  en: 
+  pinyin: Nín gēn wǒ xué, hěn róngyì: 
+  en: I’ll teach you, very easy: 
   es: 
 - id: 7216fd72-0c61-4788-97cf-9e305c209553
   zh-hans: 这叫香蕉，这叫香蕉苹果，
-  pinyin: 
-  en: 
+  pinyin: Zhè jiào xiāngjiāo, zhè jiào xiāngjiāo píngguǒ, 
+  en: This is called a banana, this is called a banana apple, 
   es: 
 - id: 4e914b24-e704-4a8a-9463-7639d100d0f4
   zh-hans: 这也是苹果，那是葡萄……
-  pinyin: 
-  en: 
+  pinyin: zhè yěshì píngguǒ, nà shì pútáo…… 
+  en: this is also an apple, those are grapes… 
   es: 
 - id: d25b0346-e118-45da-b287-e3da1bb55b84
   zh-hans: 香蕉，
-  pinyin: 
-  en: 
+  pinyin: Xiāngjiāo, 
+  en: Banana, 
   es: 
 - id: bc3de90b-6dc2-498c-93c5-fced99ab9c91
   zh-hans: 苹果，
-  pinyin: 
-  en: 
+  pinyin: píngguǒ, 
+  en: apple, 
   es: 
 - id: 79681d8f-63ad-4aba-bf45-5b7f76d5e312
   zh-hans: 香蕉苹果……
-  pinyin: 
-  en: 
+  pinyin: xiāngjiāo píngguǒ……
+  en: banana apple… 
   es: 
 - id: 3b56a5ef-0302-49a2-b733-54b9dbb34238
   zh-hans: 一斤苹果多少钱？
-  pinyin: 
-  en: 
+  pinyin: yī jīn píngguǒ duōshǎo qián? 
+  en: how much is 500 grams of apples? 
   es: 
 - id: 9c936dc7-1794-4ec1-a8fc-30d2b637bd1b
   zh-hans: 一斤三块二毛钱。
-  pinyin: 
-  en: 
+  pinyin: Yī jīn sān kuài èrmáo qián. 
+  en: 500 grams is 3 dollars 20 cents. 
   es: 
 - id: 601f54a5-7073-4585-8c05-e3821f6cf6aa
   zh-hans: 您的苹果真贵。
-  pinyin: 
-  en: 
+  pinyin: Nín de píngguǒ zhēn guì. 
+  en: Your apples are really expensive. 
   es: 
 - id: d5bf80d7-5bdb-4a16-a2ab-d336c50fc0d9
   zh-hans: 一斤三块二不贵。
-  pinyin: 
-  en: 
+  pinyin: Yī jīn sān kuài èr bù guì. 
+  en: 500 grams for 3 dollars 20 is not expensive. 
   es: 
 - id: 6c8e8c63-ee3d-43ed-9fc8-5eedf109eb88
   zh-hans: 您看，我的苹果大。
-  pinyin: 
-  en: 
+  pinyin: Nín kàn, wǒ de píngguǒ dà. 
+  en: Look, my apples are very big. 
   es: 
 - id: 0d0ffbf9-c9d8-4bf1-9aa7-995ecd020447
   zh-hans: 好，做个朋友，三块钱一斤。
-  pinyin: 
-  en: 
+  pinyin: Hǎo, zuò gè péngyǒu, sān kuài qián yī jīn. 
+  en: Ok, we’re friends, 3 dollars for 500 grams. 
   es: 
 - id: a5dbab08-9d43-4d8d-bb27-36c8e4956d13
   zh-hans: 一斤香蕉多少钱？
-  pinyin: 
-  en: 
+  pinyin: Yī jīn xiāngjiāo duōshǎo qián? 
+  en: How much is 500 grams of bananas? 
   es: 
 - id: 9ca4b396-123f-402b-947d-3d12274af301
   zh-hans: 两快七毛五分一斤，五块钱两斤。
-  pinyin: 
-  en: 
+  pinyin: Liǎng kuài qī máo wǔ fēn yī jīn, wǔ kuài qián liǎng jīn. 
+  en: 2 dollars 70 cents for 500 grams, 5 dollars for 1 kilogram. 
   es: 
 - id: e2be3dac-7c64-4682-8da6-97edf5d50375
   zh-hans: 我买三斤香蕉和两斤香蕉苹果。
-  pinyin: 
-  en: 
+  pinyin: Wǒ mǎi sān jīn xiāngjiāo hé liǎng jīn xiāngjiāo píngguǒ. 
+  en: I’ll buy 1.5 kilograms of bananas and 1 kilogram of banana apples. 
   es: 
 - id: 37d2bd9a-74ae-4d9b-9d97-dba069621560
   zh-hans: 好。
-  pinyin: 
-  en: 
+  pinyin: Yīgòng, 
+  en: Ok.
   es: 
 - id: 307485a5-eb38-4e2d-a402-dbf35ad582e8
   zh-hans: 一共，十四块钱。
-  pinyin: 
-  en: 
+  pinyin: shísì kuài qián. 
+  en: Altogether 14 dollars. 
   es: 
 - id: 23df1cf1-28fc-4964-8cd3-36e81d1a630d
   zh-hans: 再送您一个苹果。您还要什么？
-  pinyin: 
-  en: 
+  pinyin: Zàisòng nín yīgè píngguǒ. Nín hái yào shénme? 
+  en: I’ll also give you an apple. Would you like anything else. 
   es: 
 - id: 9f411511-fed5-498a-882c-34057e794c26
   zh-hans: 不要了，谢谢。给你钱。
-  pinyin: 
-  en: 
+  pinyin: Bùyàole, xièxiè. Gěi nǐ qián. 
+  en: No, thanks. Here’s your money. 
   es: 
 - id: 7d06396d-7300-4bc8-bfe4-29355545b158
   zh-hans: 好，您给我二十块钱，我找您六块钱。
-  pinyin: 
-  en: 
+  pinyin: Hǎo, nín gěi wǒ èrshí kuài qián, wǒ zhǎo nín liù kuài qián. 
+  en: Ok, you gave me 20 dollars, I’ll give you 6 dollars change. 
   es: 
 - id: 2016c49a-83df-440a-ab59-757d6e535c6e
   zh-hans: 再见。
-  pinyin: 
-  en: 
+  pinyin: Zàijiàn. 
+  en: Goodbye. 
   es: 
 - id: 27215674-4473-4dfc-91c2-b700ca324322
   zh-hans: 再见！
-  pinyin: 
-  en: 
+  pinyin: Zàijiàn!
+  en: Goodbye!
   es: 

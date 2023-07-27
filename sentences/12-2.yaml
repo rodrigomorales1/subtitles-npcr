@@ -1,130 +1,130 @@
 - id: 1ede03be-e8d7-401c-bd29-dd1728c34c03
   zh-hans: 你在这儿休息一下，我去给你挂号。
-  pinyin: 
-  en: 
+  pinyin: Nǐ zài zhèr xiūxí yīxià, wǒ qù gěi nǐ guàhào. 
+  en: You rest here, I’ll go register you. 
   es: 
 - id: ae985950-5f59-4977-a8c6-bf4eb3015cac
   zh-hans: 好。
-  pinyin: 
-  en: 
+  pinyin: Hǎo. 
+  en: Thanks. 
   es: 
 - id: 1d1cc01d-64d7-44c3-9304-c1ba656ad7ea
   zh-hans: 八号，
-  pinyin: 
-  en: 
+  pinyin: Bā hào, 
+  en: Number eight, 
   es: 
 - id: c40184aa-e9f5-40d9-a200-6c279b452fd4
   zh-hans: 八号是谁？
-  pinyin: 
-  en: 
+  pinyin: bā hào shì sheí? 
+  en: who is number eight? 
   es: 
 - id: 09b8fe90-9852-449b-84ca-f1bd25c16b84
   zh-hans: 我是八号。
-  pinyin: 
-  en: 
+  pinyin: Wǒ shì bā hào. 
+  en: I am number eight. 
   es: 
 - id: 52303d0c-ca06-4ebe-b52a-14e3630ee954
   zh-hans: 你看病还是他看病？
-  pinyin: 
-  en: 
+  pinyin: Nǐ kànbìng háishì tā kànbìng? 
+  en: Are you here to see a doctor or his he here to see a doctor? 
   es: 
 - id: 7749fbe8-bd37-42ef-adda-5c5d47b4f0b0
   zh-hans: 他看病。
-  pinyin: 
-  en: 
+  pinyin: Tā kànbìng. 
+  en: He is here to see a doctor. 
   es: 
 - id: 1f51dcd3-cbcd-45ff-ac7b-bfc8dbbfdcbe
   zh-hans: 请坐吧。
-  pinyin: 
-  en: 
+  pinyin: Qǐng zuò ba. 
+  en: Please take a seat. 
   es: 
 - id: cd505fd8-7fc9-4470-88e5-0f4d8c3c8a95
   zh-hans: 你叫马大为，是不是？
-  pinyin: 
-  en: 
+  pinyin: Nǐ jiào Mǎ Dàwéi, shì bùshì? 
+  en: You are Ma Dawei, right? 
   es: 
 - id: c046356c-0959-4fa4-938e-94284aff42e6
   zh-hans: 是，我叫马大为。
-  pinyin: 
-  en: 
+  pinyin: Shì, wǒ jiào Mǎ Dàwéi. 
+  en: Yes, I am Ma Dawei. 
   es: 
 - id: 450557a7-8282-4525-ba52-5d5c9da17dd2
   zh-hans: 你今年多大？
-  pinyin: 
-  en: 
+  pinyin: Nǐ jīnnián duōdà? 
+  en: How old are you this year? 
   es: 
 - id: 259b4f43-65d0-4ca3-b1cc-60e128d1a0e8
   zh-hans: 我今年二十二岁。
-  pinyin: 
-  en: 
+  pinyin: Wǒ jīnnián èrshí’èr suì. 
+  en: I am twenty-two years old. 
   es: 
 - id: 63709d54-5ea5-49cc-9fc9-99132eb0790e
   zh-hans: 你哪儿不舒服？
-  pinyin: 
-  en: 
+  pinyin: Nǐ nǎr bú shūfú? 
+  en: Where are you uncomfortable? 
   es: 
 - id: f02e2509-04e9-4fd3-b9de-cc4dc5709d53
   zh-hans: 我头疼，全身都不舒服。
-  pinyin: 
-  en: 
+  pinyin: Wǒ tóuténg, quánshēn dōu bú shūfú. 
+  en: I have a headache, and I feel uncomfortable all over my body. 
   es: 
 - id: 85169551-9fb9-44a5-b085-5462f7002ecc
   zh-hans: 我看一下。
-  pinyin: 
-  en: 
+  pinyin: Wǒ kàn yīxià. 
+  en: I’ll take a look. 
   es: 
 - id: a1874792-2aeb-47d2-8b08-cd71bb7dae99
   zh-hans: 你嗓子有点儿发炎，
-  pinyin: 
-  en: 
+  pinyin: Nǐ sǎngzi yǒudiǎnr fāyán, 
+  en: Your throat is a little inflamed, 
   es: 
 - id: 3974c47a-de8d-42ff-a595-c09e224ede4e
   zh-hans: 还有点儿发烧，是感冒。
-  pinyin: 
-  en: 
+  pinyin: hái yǒudiǎnr fāshāo, shì gǎnmào. 
+  en: you have a bit of a fever, it’s a cold. 
   es: 
 - id: 402289a2-3aae-493b-9b27-e0a53b5df3af
   zh-hans: 他要不要住院？
-  pinyin: 
-  en: 
+  pinyin: Tā yào bùyào zhùyuàn? 
+  en: Does he need to be hospitalized? 
   es: 
 - id: d02c4d96-026a-4576-8733-f928c8e043bb
   zh-hans: 不用。
-  pinyin: 
-  en: 
+  pinyin: Bùyòng. 
+  en: No need. 
   es: 
 - id: d80020eb-0c6f-4094-b36a-fc4c17292d61
   zh-hans: 你要多喝水，还要吃点儿药。
-  pinyin: 
-  en: 
+  pinyin: Nǐ yào duō hē shuǐ, hái yào chī diǎnr yào. 
+  en: You should drink lots of water and take some medicine. 
   es: 
 - id: 3947fa78-f9cb-4ab6-ab5a-f3b95a3e5c1c
   zh-hans: 你愿意吃中药还是愿意吃西药？
-  pinyin: 
-  en: 
+  pinyin: Nǐ yuànyì chī zhōngyào háishì yuànyì chī xīyào? 
+  en: Are you willing to take Chinese medicine or take Western medicine? 
   es: 
 - id: 6a4b0476-25d8-4fb1-b9b2-3bbd9af21173
   zh-hans: 我愿意吃中药。
-  pinyin: 
-  en: 
+  pinyin: Wǒ yuànyì chī zhōngyào. 
+  en: I’m happy to take Chinese medicine. 
   es: 
 - id: 58d99980-36ed-4c5b-bb83-501ea15a2eaa
   zh-hans: 好，你吃一点儿中药，
-  pinyin: 
-  en: 
+  pinyin: Hǎo, nǐ chī yīdiǎnr zhōngyào, 
+  en: Ok, you take a some Chinese medicine, 
   es: 
 - id: 7245c703-4cc9-4eb0-ba7c-e614fee3085e
   zh-hans: 下星期一再来。
-  pinyin: 
-  en: 
+  pinyin: xià xīngqí yī zàilái. 
+  en: and come back next Monday. 
   es: 
 - id: e3344911-c945-46e7-9302-1e1897f0b64b
   zh-hans: 好。
-  pinyin: 
-  en: 
+  pinyin: Hǎo.
+  en: Ok, 
   es: 
 - id: 68d4ff11-f3b1-4d47-aafb-5bc9f77c795a
   zh-hans: 谢谢。
-  pinyin: 
-  en: 
+  pinyin: Xièxiè.
+  en: thanks.
   es: 
