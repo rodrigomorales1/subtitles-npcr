@@ -2,109 +2,109 @@
   zh-hans: 小姐，我要寄这个包裹。
   pinyin: Xiǎojiě, wǒ yào jì zhège bāoguǒ. 
   en: Miss, I need to send this package. 
-  es: 
+  es: Señorita, quiero enviar este paquete.
 - id: 2b62be68-9fc9-4ed5-ad53-f6b3da093b89
   zh-hans: 好，我看一下。
   pinyin: Hǎo, wǒ kàn yīxià. 
   en: Ok, let me take a look. 
-  es: 
+  es: De acuerdo, echaré un vistazo.
 - id: 5299ba52-2c87-45d2-8472-87857ef83cee
   zh-hans: 这些书都是新的。
   pinyin: Zhèxiē shū dōu shì xīn de. 
   en: These books are all new. 
-  es: 
+  es: Estos libros son todos nuevos.
 - id: 9f387ed4-b878-4028-97f1-3e03562d73cf
   zh-hans: 这四本书是中文的，那两本书是英文的。
   pinyin: Zhè sì běn shū shì zhōngwén de, nà liǎng běn shū shì yīngwén de. 
   en: These four books are Chinese, those two books are English. 
-  es: 
+  es: Estos cuatro libros están en chino y esos dos en inglés.
 - id: 43631f05-fb4a-43ce-8251-b6218682439f
   zh-hans: 这本大词典是旧的……
   pinyin: Zhè běn dà cídiǎn shì jiù de…… 
   en: This large dictionary is old… 
-  es: 
+  es: Este diccionario grande es viejo. ......
 - id: b644895b-631e-45fd-aa37-1b8dcb5d3dcd
   zh-hans: 好了，请包好。
   pinyin: Hǎole, qǐng bāo hǎo. 
   en: Ok, please wrap the package. 
-  es: 
+  es: Bien, por favor, envuélvalo.
 - id: 3ed01483-1660-4f74-bef0-6234b0c13e8c
   zh-hans: 对不起，这是我刚学的课文，我想练习练习。
   pinyin: Duìbùqǐ, zhè shì wǒ gāng xué de kèwén, wǒ xiǎng liànxí liànxí. 
   en: Sorry, I just wanted to practice what I have just learned. 
-  es: 
+  es: Lo siento, es un texto que acabo de aprender, me gustaría practicarlo.
 - id: 41fea7c7-fa1f-4819-9b69-52ac4781d6c4
   zh-hans: 您汉语说得很流利。
   pinyin: Nín Hànyǔ shuō de hěn liúlì. 
   en: Your Chinese is very fluent. 
-  es: 
+  es: Hablas chino con fluidez.
 - id: bbfecb0e-8738-4b37-9e4d-31905e3cb299
   zh-hans: 您要往哪儿寄？
   pinyin: Nín yào wǎng nǎr jì? 
   en: Where do you want to send your package? 
-  es: 
+  es: ¿A dónde lo envías?
 - id: 6b3bb936-c7ec-4284-8c00-ba71d748b22e
   zh-hans: 美国。
   pinyin: Měiguó. 
   en: America. 
-  es: 
+  es: A Estados Unidos.
 - id: f8a7b60a-ea22-4d07-8711-2addf492abba
   zh-hans: 您寄航空还是海运？
   pinyin: Nín jì hángkōng háishì hǎiyùn? 
   en: Would you like to send via airmail or sea freight? 
-  es: 
+  es: ¿Lo envías por aire o por mar?
 - id: 98523ac4-014c-402c-a7a2-19fef10d8528
   zh-hans: 寄航空比海运贵，可是比海运快多了。
   pinyin: Jì hángkōng bǐ hǎiyùn guì, kěshì bǐ hǎiyùn kuài duōle. 
   en: Sending airmail is more expensive than sea freight, but it also much faster than sea freight. 
-  es: 
+  es: El avión es más caro que el barco, pero es mucho más rápido.
 - id: 97e51f4e-7e3b-4acb-a851-cbd442efea19
   zh-hans: 寄航空吧。
   pinyin: Jì hángkōng ba. 
   en: I’ll send airmail. 
-  es: 
+  es: Enviémoslo por aire.
 - id: d7c4797f-3f4b-4aa3-a877-57603fec6ddd
   zh-hans: 邮费是106块。
   pinyin: Yóufèi shì yībǎi líng liù kuài. 
   en: Postage is 106 dollars. 
-  es: 
+  es: El franqueo es de 106 dólares.
 - id: d1d95216-a645-4cdf-95ff-44c5181beadc
   zh-hans: 请在这儿写上您的名字。
   pinyin: Qǐng zài zhèr xiě shàng nín de míngzì. 
   en: Please write your name here. 
-  es: 
+  es: Por favor, escriba su nombre aquí.
 - id: 20c15d39-73d9-4576-9ded-b56df87c7c62
   zh-hans: 小姐，我还要取一个包裹。
   pinyin: Xiǎojiě, wǒ hái yào qǔ yīgè bāoguǒ. 
   en: Miss, I also have to collect a package. 
-  es: 
+  es: Señorita, tengo un paquete que recoger.
 - id: 08f54137-3719-43fb-87e1-5919e3b6d333
   zh-hans: 请把包裹通知单给我。
   pinyin: Qǐng bǎ bāoguǒ tōngzhī dān gěi wǒ. 
   en: Please give me your package form. 
-  es: 
+  es: Por favor, deme el albarán.
 - id: 731dc3b5-d707-4dae-8815-4256088c45f0
   zh-hans: 对不起，您的包裹不在我们邮局取，
   pinyin: Duìbùqǐ, nín de bāoguǒ bùzài wǒmen yóujú qǔ, 
   en: Sorry, your package is not collected from our post office, 
-  es: 
+  es: Lo siento, su paquete no puede ser recogido en nuestra oficina de correos.
 - id: e2762282-58d1-4c3c-af76-09cd9639c034
   zh-hans: 您得去海关取。
   pinyin: nín děi qù hǎiguān qǔ. 
   en: you must go to the customs office. 
-  es: 
+  es: Tiene que ir a la aduana.
 - id: 56eb015e-7c97-4938-a53e-e31f00a76103
   zh-hans: 请问，海关在哪儿？
   pinyin: Qǐngwèn, hǎiguān zài nǎr? 
   en: Can you please tell me where the customs office is? 
-  es: 
+  es: ¿Dónde está la aduana?
 - id: b2ce7df7-c7bf-48b4-a858-755a16c0ef7f
   zh-hans: 在建国门。别忘了把您的护照带去。
   pinyin: Zài Jiànguómén. Bié wàngle bǎ nín de hùzhào dài qù. 
   en: At Jianguomen. Don’t forget to take your passport. 
-  es: 
+  es: En Jianguomen. No olvide traer su pasaporte.
 - id: 8e4657a5-1952-4682-9cd6-a6df1df01118
   zh-hans: 谢谢。不客气。
   pinyin: Xièxiè. Bù kèqì. 
   en: Thanks. You’re welcome. 
-  es: 
+  es: Gracias, señor. De nada.

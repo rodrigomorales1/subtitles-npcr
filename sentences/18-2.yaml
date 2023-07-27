@@ -2,129 +2,129 @@
   zh-hans: 大为，现在该去海关办你的事儿了。
   pinyin: Dàwéi, xiànzài gāi qù hǎiguān bàn nǐ de shìr le. 
   en: Dawei, now let’s go to the customs office for your stuff. 
-  es: 
+  es: Dawei, es hora de ir a la aduana a hacer tus negocios.
 - id: d0b8435f-8c52-41dd-96a1-90e9b5b5458c
   zh-hans: 从这儿怎么去海关？
   pinyin: Cóng zhèr zěnme qù hǎiguān? 
   en: How do we go to the customs office from here? 
-  es: 
+  es: ¿Cómo se llega a la aduana desde aquí?
 - id: 3e9fabc5-94a7-4fed-a4e5-f6f9a8a761ab
   zh-hans: 海关在……我想想，叫什么门。
   pinyin: Hǎiguān zài……wǒ xiǎng xiǎng, jiào shénme mén. 
   en: The customs office is… let me think about it, it is called something-“men”. 
-  es: 
+  es: La aduana está en ...... Veamos, cómo se llama, la puerta.
 - id: 6129caf7-ee14-4fd6-909a-baae04a05eb9
   zh-hans: 看，这儿有803路公共汽车，经过前门。
   pinyin: Kàn, zhèr yǒu bā líng sān lù gōnggòng qìchē, jīngguò Qiánmén. 
   en: Look, the 803 bus goes past Qianmen. 
-  es: 
+  es: Mira, aquí está el autobús número 803, pasa por Qianmen.
 - id: 908db5ab-9933-4f88-8008-f7679cd7a1df
   zh-hans: 对，好像是前门吧。
   pinyin: Duì, hǎoxiàng shì Qiánmén ba. 
   en: Yes, it is probably is Qianmen. 
-  es: 
+  es: Sí, parece que es Qianmen.
 - id: 6c3c2dba-2ac7-438f-bca4-b0363e956171
   zh-hans: 车来了，咱们先上去。
   pinyin: Chē láile, zánmen xiān shàngqù. 
   en: The bus is here, let’s first get on. 
-  es: 
+  es: El autobús está aquí. Subamos primero.
 - id: a2acca04-f7e9-43dd-beb6-8def4fb87108
   zh-hans: 请大家往里走。下一站，前门。
   pinyin: Qǐng dàjiā wǎng lǐ zǒu. Xià yí zhàn, Qiánmén. 
   en: Please everyone step inside. Next stop is Qianmen. 
-  es: 
+  es: Por favor, entren. Próxima parada, Qianmen.
 - id: 977e842c-7c44-4d77-bd12-df37daa79579
   zh-hans: 下车的乘客请拿好自己的东西；
   pinyin: Xià chē de chéngkè qǐng ná hǎo zìjǐ de dōngxi; 
   en: Passengers getting off the bus please collect your belongings; 
-  es: 
+  es: Todos los pasajeros que bajen del autobús, por favor tomen sus cosas;
 - id: c52f4366-97f6-4289-8d5d-aa16c0224267
   zh-hans: 刚上车的请买票。
   pinyin: gāng shàng chē de qǐng mǎi piào. 
   en: those who have just boarded the bus please buy a ticket. 
-  es: 
+  es: Los que acaban de subir al autobús, por favor compren un billete.
 - id: c2272dc9-6674-40ee-b0b7-6b593d5b3a9b
   zh-hans: 小姐，请问海关是不是在前门？
   pinyin: Xiǎojiě, qǐngwèn hǎiguān shì bùshì zài Qiánmén? 
   en: Miss, can you please tell me if the customs office in Qianmen? 
-  es: 
+  es: Señorita, ¿la aduana está en la puerta principal?
 - id: 5ecfbd6f-2337-4223-b840-b9e99aab544c
   zh-hans: 海关是在建国门，不是在前门。
   pinyin: Hǎiguān shì zài Jiànguómén, bùshì zài Qiánmén. 
   en: The customs office is in Jianguomen, not Qianmen. 
-  es: 
+  es: La aduana está en Jianguomen, no en Qianmen.
 - id: eef4de74-6467-4f2f-aed5-b36686aa0705
   zh-hans: 我们坐错车了。
   pinyin: Wǒmen zuò cuòchēle. 
   en: We got on the wrong bus. 
-  es: 
+  es: Estamos en el autobús equivocado.
 - id: dbb20e34-f25a-4014-96a6-5a1a08e5d1a3
   zh-hans: 没关系，您可以在前门下车，
   pinyin: Méiguānxì, nín kěyǐ zài Qiánmén xià chē, 
   en: It’s no problem, you can get off at Qianmen, 
-  es: 
+  es: Está bien. Pueden bajarse en la puerta principal.
 - id: ba7cd616-a3bd-4602-b3a9-d231f17f5796
   zh-hans: 在那儿换地铁到建国门。
   pinyin: zài nàr huàn dìtiě dào Jiànguómén. 
   en: and take the subway from there to Jianguomen. 
-  es: 
+  es: Puede bajarse en Qianmen y cambiar allí al metro.
 - id: b0acdffb-cee2-49d5-b795-8c0fd14f20b3
   zh-hans: 没有坐错？好极了！
   pinyin: Méiyǒu zuò cuò? Hǎo jíle! 
   en: We didn’t get on the wrong bus? That’s great! 
-  es: 
+  es: ¿No hay error? Estupendo.
 - id: ce0bd400-fce8-435e-8487-efa704d97a56
   zh-hans: 买两张到前门的。
   pinyin: Mǎi liǎng zhāng dào Qiánmén de. 
   en: We’d like to buy two tickets to Qianmen. 
-  es: 
+  es: Compra dos billetes a Qianmen.
 - id: ed585e6f-8ea4-4fd1-a954-857f4290fce3
   zh-hans: 一块一张。您这是五块，
   pinyin: Yīkuài yī zhāng. Nín zhè shì wǔ kuài, 
   en: One dollar per ticket. This is your five dollars, 
-  es: 
+  es: Uno por uno. Son cinco yuanes.
 - id: d7ff1016-d6c4-4420-95ec-38f6d5f86fec
   zh-hans: 找您三块。
   pinyin: zhǎo nín sān kuài. 
   en: give you three dollars change. 
-  es: 
+  es: Te daré tres.
 - id: 5adb538c-209c-4318-8978-0caf12e2258c
   zh-hans: 请拿好票。
   pinyin: Qǐng ná hǎo piào. 
   en: Please take your tickets. 
-  es: 
+  es: Por favor, coge los billetes.
 - id: 7b587adc-6b8c-41df-a502-08543e6bb478
   zh-hans: 大为，你说昨天邮局的工作人员告诉你了，
   pinyin: Dàwéi, nǐ shuō zuótiān yóujú de gōngzuò rényuán gàosu nǐle, 
   en: Dawei, you said the post office staff told you yesterday, 
-  es: 
+  es: Dawei, dijiste que el personal de correos te lo dijo ayer.
 - id: f75f7f4e-8994-40f5-9278-e0d6b2be1959
   zh-hans: 你听懂了没有？
   pinyin: nǐ tīng dǒngle méiyǒu? 
   en: did you understand? 
-  es: 
+  es: ¿Lo entendiste?
 - id: 7472c5de-5972-487f-bfe0-18c7ac9b41d7
   zh-hans: 我听懂了，可是记错了。
   pinyin: Wǒ tīng dǒngle, kěshì jì cuòle. 
   en: I understood, but I remembered incorrectly. 
-  es: 
+  es: Sí, pero me acordé mal.
 - id: a6d475e4-f57d-4f5f-9ce5-5342b9aa0810
   zh-hans: 我得查一查：你把护照带来了吗？
   pinyin: Wǒ děi chá yī chá: Nǐ bǎ hùzhào dài láile ma? 
   en: I must check: did you bring your passport? 
-  es: 
+  es: Tengo que comprobarlo: ¿trajiste tu pasaporte?
 - id: 907f360c-6be5-4ed7-a05c-f94a7bae843c
   zh-hans: 当然带来了，你放心吧！
   pinyin: Dāngrán dài láile, nǐ fàngxīn ba! 
   en: Of course I brought it, don’t worry! 
-  es: 
+  es: Claro que lo traje. ¡No te preocupes!
 - id: a4bc90a8-aaea-47de-8a10-26ef963cf344
   zh-hans: 包裹通知单呢？
   pinyin: Bāoguǒ tōngzhī dān ne? 
   en: How about your parcel form? 
-  es: 
+  es: ¿Dónde está la nota del paquete?
 - id: dd5710a9-6ee9-4738-aa9f-2aa39dc6cd26
   zh-hans: 糟糕，我把包裹通知单忘了。
   pinyin: Zāogāo, wǒ bǎ bāoguǒ tōngzhī dān wàngle.
   en: Damn, I forgot my parcel form.
-  es: 
+  es: Mierda, olvidé la nota del paquete.
