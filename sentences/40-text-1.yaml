@@ -41,12 +41,12 @@
 - id: 2f8f7ea9829b49bb8e60da3ea796554d
   zh-hans: 妇女经过了多少个世纪的努力，
   pinyin: Fùnǚ jīngguòle duōshǎo gè shìjì de nǔlì,
-  en: Women struggled for centuries, before
+  en: Women struggled for centuries,
   es: Después de siglos de esfuerzos de las mujeres,
 - id: c82705e25dee4e2abe9f73d04ba56bf6
   zh-hans: 终于从家里走出来，
-  pinyin: zhōngyú cóng jiālǐ zǒu chūlái,
-  en: finally being able to leave the home,
+ pinyin: zhōngyú cóng jiālǐ zǒu chūlái,
+  en: they finally were able to leave from home,
   es: finalmente han salido de las casas,
 - id: 4cf96a65e5b94aa19ce899b9678e1613
   zh-hans: 得到工作的权利，
@@ -56,7 +56,7 @@
 - id: 8b787a7c42e24bf7a2047e6e897e8474
   zh-hans: 而且能发挥“半边天”的作用。
   pinyin: érqiě néng fāhuī “bànbiāntiān” de zuòyòng.
-  en: and moreover unleashing the “half the sky” effect.
+  en: and moreover developing the “half the sky” effect.
   es: además puedan desempeñar el papel de "la mitad del cielo".
 - id: 698b92d6679d45e88bbc1e9c85786c37
   zh-hans: 这是社会的进步。
@@ -101,7 +101,7 @@
 - id: a8de10ebc16d4382a5df01ee731915be
   zh-hans: 没有一个母亲不关心自己的孩子，
   pinyin: Méiyǒu yīgè mǔqīn bù guānxīn zìjǐ de háizi,
-  en: Without a mother there is no taking care of one’s children,
+  en: There's no mother that is not worried of her own children,
   es: No hay madre que no se preocupe por sus hijos.
 - id: 2441d2d35f3440ca98701c5f6ab0df6a
   zh-hans: 要是妇女回家，
@@ -121,7 +121,7 @@
 - id: 53a00f61397d424ca521b0e1dd5050a6
   zh-hans: 而是为了更好得发挥妇女的作用。
   pinyin: ér shì wèile gèng hǎo de fāhuī fùnǚ de zuòyòng.
-  en: rather it’s a better way to unleash the effect of women.
+  en: rather it’s a better way to develop the effect of women.
   es: se trata de aprovechar mejor el papel de la mujer.
 - id: 836e709b05944c4fb108b98eb92ce81c
   zh-hans: 我认为，照顾孩子和做家务不只是妇女的事儿，
@@ -226,7 +226,7 @@
 - id: 6b23c81d0b4d4b0a89d98bdb6a196136
   zh-hans: 重要的是，男女都应该有公平竞争的机会。
   pinyin: Zhòngyào de shì, nánnǚ dōu yīnggāi yǒu gōngpíng jìngzhēng de jīhuì.
-  en: The most important thing, is that both men and women have the same opportunities to compete.
+  en: The most important thing, is that both men and women have fair opportunities to compete. a
   es: Lo importante es que hombres y mujeres deben tener una oportunidad justa de competir.
 - id: a985583dcda84e2e9d2d9d512cf51de9
   zh-hans: 最后，我们不能不谈到这个问题：陈老师，
