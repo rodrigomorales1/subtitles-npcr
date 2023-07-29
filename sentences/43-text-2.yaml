@@ -179,7 +179,7 @@
   en: it felt like we had arrived at a (2:treasure trove) of (1:literature).
   es: sentimos que habíamos llegado a un (2:depósito de tesoros) de la (1:literatura).
 - id: 4a8da2950f0b4703841290c06ebe9a4f
-  zh-hans: 一位(1:讲解员)给我们介绍了
+  zh-hans: 一位(1:讲解员)给我们(2:介绍)了
   pinyin: Yī wèi (1:jiǎngjiě) yuán gěi wǒmen (2:jièshào) le
   en: A (1:guide) gave us an (2:introduction)
   es: Una (1:guía) nos dio una (2:introducción)
@@ -220,7 +220,7 @@
   es: (1:pero también) pude (2:saber) como era la (3:vida) en su (4:época),
 - id: 65f4e6bf2efd4659a2b65b8b0cacc991
   zh-hans: 这对(1:理解)(2:作家)的(3:作品)是很(4:有帮助)的。
-  pinyin: zhè duì (1:lǐjiě) (2:zuòjiā) de (3:zuòpǐn) shì hěn yǒu bāngzhù de.
+  pinyin: zhè duì (1:lǐjiě) (2:zuòjiā) de (3:zuòpǐn) shì hěn (4:yǒu bāngzhù) de.
   en: which is very (4:helpful) for (1:understanding) the (2:writers)’ (3:works).
   es: esto es muy (4:útil) para (1:entender) las (3:obras) de los (2:escritores).
 - id: a23c15bef7c745c895d029af197f5434
@@ -235,7 +235,7 @@
   es: así viendo el (1:museo de literatura) completamente (2:una vez),
 - id: d8bcafadb2564b97aa313a30a39e6868
   zh-hans: (1:已经)快(2:十一)点了。
-  pinyin: (1:yǐjīng) kuài shíyī diǎnle.
+  pinyin: (1:yǐjīng) kuài (2:shíyī) diǎnle.
   en: and it was (1:already) almost (2:11) o’clock.
   es: (1:ya) eran las (2:11):00.
 - id: 4eec766f2db946b4b3cc5e5d2f9fd4e2
@@ -255,7 +255,7 @@
   es: (1:todos) pensaron que esto era (2:extraño),
 - id: f2a91d20765044a290e59b3d732055d9
   zh-hans: “(1:巴金)先生(2:在哪儿)？”
-  pinyin: “(1:Bā Jīn) xiānshēng zài nǎr?”
+  pinyin: “(1:Bā Jīn) xiānshēng (2:zài nǎr)?”
   en: “(2:Where is) Mr. (1:Ba Jin)?”
   es: ¿(2:Dónde está) (1:Ba Jin)?
 - id: ab1fcf8b2f814135ac84bbd7a447f989
