@@ -1,54 +1,4 @@
-import re
-import argparse
 import utilities
-import ast
-
-parser = argparse.ArgumentParser()
-
-parser.add_argument(
-    "--media",
-    dest = "media",
-    required = True)
-
-parser.add_argument(
-    "--sentences",
-    dest = "sentences",
-    required = True)
-
-parser.add_argument(
-    "--timestamps",
-    dest = "timestamps",
-    required = True)
-
-parser.add_argument(
-    "--output",
-    dest = "output",
-    required = True)
-
-parser.add_argument(
-    '--field-for-subtitles-in-third-line',
-    dest = 'field_for_subtitles_in_third_line',
-    default = 'en')
-
-parser.add_argument(
-    "--start-time",
-    dest = "start_time")
-
-parser.add_argument(
-    "--end-time",
-    dest = "end_time")
-
-parser.add_argument(
-    "--highlight-background-of-sentence-being-read",
-    type = ast.literal_eval,
-    default = False)
-
-parser.add_argument(
-    "--height",
-    dest = "height",
-    default = "1080")
-
-args = parser.parse_args()
 
 def generate_metadata_file(data):
     import tempfile
@@ -212,13 +162,24 @@ def generate_rectangle(data_timestamps_sentences, name_last_overlay):
 
     return result
 
-def generate_video(media, output, start_time, end_time, field_for_subtitles_in_third_line, height, highlight_background_of_sentence_being_read):
+def generate_video(media,
+                   output,
+                   start_time,
+                   end_time,
+                   field_for_subtitles_in_third_line,
+                   height,
+                   highlight_background_of_sentence_being_read,
+                   file_path_timestamps,
+                   file_path_sentences):
     import subprocess
     import itertools
 
-    data_timestamps_sentences = utilities.get_data_timestamps_sentences_from_files(
-        args.timestamps,
-        args.sentences)
+    if not field_for_subtitles_in_third_line:
+        field_for_subtitles_in_third_line = 'es'
+    if not highlight_background_of_sentence_being_read:
+        highlight_background_of_sentence_being_read = True
+
+    data_timestamps_sentences = utilities.get_data_timestamps_sentences_from_files(file_path_timestamps, file_path_sentences)
 
     # We create the metadata file before creating the ass_files
     # because when creating the ass_files, colors in hexadecimal
@@ -253,12 +214,3 @@ def generate_video(media, output, start_time, end_time, field_for_subtitles_in_t
         ] if x is not None]))
 
     subprocess.run(cmd)
-
-generate_video(
-    media = args.media,
-    output = args.output,
-    start_time = args.start_time,
-    end_time = args.end_time,
-    field_for_subtitles_in_third_line = args.field_for_subtitles_in_third_line,
-    height = args.height,
-    highlight_background_of_sentence_being_read = args.highlight_background_of_sentence_being_read)
