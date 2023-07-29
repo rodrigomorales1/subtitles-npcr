@@ -124,10 +124,15 @@
   en: rather it’s (1:for) a better (2:development) of the (4:effect) of (3:women).
   es: sino (1:para) (2:desempeñar) mejor el (4:papel) de la (3:mujer).
 - id: 836e709b05944c4fb108b98eb92ce81c
-  zh-hans: 我认为，(1:照顾:4)孩子和做(2:家务:5)(3:不只:11)是(4:妇女:3)的事儿，
-  pinyin: Wǒ rènwéi, (1:zhàogù) háizi hé zuò (2:jiāwù) (3:bùzhǐ) shì (4:fùnǚ) de shìr,
-  en: I think, (1:taking care) of children and doing (2:housework) (3:is not just) a matter for (4:women),
-  es: Creo que (1:cuidar) a los hijos y hacer las (2:tareas domésticas) (3:no es sólo) cosa de (4:mujeres),
+  zh-hans: 我认为，(1:照顾:4)孩子和做(2:家务:5)
+  pinyin: Wǒ rènwéi, (1:zhàogù) háizi hé zuò (2:jiāwù)
+  en: I think, (1:taking care) of children and doing (2:housework)
+  es: Creo que (1:cuidar) a los hijos y hacer las (2:tareas domésticas)
+- id: ad903e6a-4b80-459c-99d0-bf264a294eb4
+  zh-hans: (3:不只:11)是(4:妇女:3)的事儿，
+  pinyin: (3:bùzhǐ) shì (4:fùnǚ) de shìr,
+  en: (3:is not just) a matter for (4:women),
+  es: (3:no es sólo) cosa de (4:mujeres),
 - id: 23c55a4c5eaf4ef282ad8acf85617afc
   zh-hans: 也是(1:男人:6)的事儿。应该 (2:男女:18)都一样：
   pinyin: 'yěshì (1:nánrén) de shìr. Yīnggāi (2:nánnǚ) dōu yīyàng:'
@@ -174,10 +179,15 @@
   en: this problem becomes relatively easier to solve.
   es: este problema es fácil de resolver.
 - id: d361aaebcbac420c8972f76ccd752e79
-  zh-hans: (1:为了:17)解决(2:就业:19)问题，就必须让(3:妇女:3)回家吗？
-  pinyin: (1:Wèile) jiějué (2:jiùyè) wèntí, jiù bìxū ràng (3:fùnǚ) huí jiā ma?
-  en: In order (1:to) solve (2:employment) problems, (3:women) must be made to stay at home?
-  es: (1:Para) resolver el (2:problema del empleo), ¿tenemos que dejar que las (3:mujeres) se vayan a casa?
+  zh-hans: (1:为了:17)解决(2:就业:19)问题，
+  pinyin: (1:Wèile) jiějué (2:jiùyè) wèntí,
+  en: In order (1:to) solve (2:employment) problems,
+  es: (1:Para) resolver el (2:problema del empleo),
+- id: 7736079d-74e0-4978-a3b7-ecf40c5b2870
+  zh-hans: 就必须让(3:妇女:3)回家吗？
+  pinyin: jiù bìxū ràng (3:fùnǚ) huí jiā ma?
+  en: (3:women) must be made to stay at home?
+  es: ¿tenemos que dejar que las (3:mujeres) se vayan a casa?
 - id: 798d97e49a92402b8e6990d10399d6c2
   zh-hans: 这不(1:公平:20)。
   pinyin: Zhè bù (1:gōngpíng).
@@ -189,10 +199,15 @@
   en: I think,
   es: En mi opinión,
 - id: 88b1be3e15e94374b47999173170fab9
-  zh-hans: 现在首先要解决(1:就业:19)中的(2:男女:18)(3:平等:21)问题。
-  pinyin: xiànzài shǒuxiān yào jiějué (1:jiùyè) zhōng de (2:nánnǚ) (3:píngděng) wèntí.
-  en: we first need to solve the problem of (3:equality) between (2:men and women) in (1:employment).
-  es: creo que lo primero que tenemos que hacer ahora es resolver el problema de la (3:igualdad) entre (2:hombres y mujeres) en el (1:empleo).
+  zh-hans: 现在首先要解决
+  pinyin: xiànzài shǒuxiān yào jiějué
+  en: we first need to solve
+  es: lo primero que tenemos que hacer ahora es resolver
+- id: 9f22c334-f95e-47c2-aee3-f7c458f80dec
+  zh-hans: (1:就业:19)中的(2:男女:18)(3:平等:21)问题。
+  pinyin: (1:jiùyè) zhōng de (2:nánnǚ) (3:píngděng) wèntí.
+  en: the problem of (3:equality) between (2:men and women) in (1:employment).
+  es: el problema de la (3:igualdad) entre (2:hombres y mujeres) en el (1:empleo).
 - id: 38ed452e20fe4bd9bb1175b550e51c81
   zh-hans: 比如说，有的工作(1:男女:18)都可以干，
   pinyin: Bǐrú shuō, yǒu de gōngzuò (1:nánnǚ) dōu kěyǐ gàn,
@@ -224,25 +239,40 @@
   en: but there are also some jobs that (1:women) do better than (2:men).
   es: Pero también hay trabajos que las (1:mujeres) hacen mejor que los (2:hombres).
 - id: 6b23c81d0b4d4b0a89d98bdb6a196136
-  zh-hans: 重要的是，(1:男女:18)都应该有(2:公平:20)(3:竞争:23)的(4:机会:24)。
-  pinyin: Zhòngyào de shì, (1:nánnǚ) dōu yīnggāi yǒu (2:gōngpíng) (3:jìngzhēng) de (4:jīhuì).
-  en: The most important thing, is that both (1:men and women) have (2:fair) (4:opportunities) to (3:compete).
-  es: Lo importante es que (1:hombres y mujeres) deben tener una (4:oportunidad) (2:justa) de (3:competir).
+  zh-hans: 重要的是，
+  pinyin: Zhòngyào de shì,
+  en: The most important thing is that
+  es: Lo importante es que
+- id: 5aebebf4-375e-4382-9110-718612504e0b
+  zh-hans: (1:男女:18)都应该有(2:公平:20)(3:竞争:23)的(4:机会:24)。
+  pinyin: (1:nánnǚ) dōu yīnggāi yǒu (2:gōngpíng) (3:jìngzhēng) de (4:jīhuì).
+  en: both (1:men and women) have (2:fair) (4:opportunities) to (3:compete).
+  es: (1:hombres y mujeres) deben tener una (4:oportunidad) (2:justa) de (3:competir).
 - id: a985583dcda84e2e9d2d9d512cf51de9
   zh-hans: 最后，我们不能不谈到这个问题：陈老师，
   pinyin: 'Zuìhòu, wǒmen bùnéng bù tán dào zhège wèntí: Chén lǎoshī'
   en: 'Finally, we cannot not discuss this question: Teacher Chen,'
   es: 'Por último, no podemos dejar de hablar de esta cuestión: Profesora Chan,'
 - id: fe3eb2abdddb4a509a5bf4e366d4f1fc
-  zh-hans: 你认为究竟应该怎样才能实现(1:男女:18)(2:平等:21)呢？
-  pinyin: Chén lǎoshī, nǐ rènwéi jiùjìng yīnggāi zěnyàng cáinéng shíxiàn (1:nánnǚ) (2:píngděng) ne?
-  en: how exactly do you think (2:equality) between (1:men and women) can be achieved?
-  es: ¿Qué cree exactamente que hay que hacer para lograr la (2:igualdad) entre (1:hombres y mujeres)?
+  zh-hans: 你认为究竟应该怎样
+  pinyin: nǐ rènwéi jiùjìng yīnggāi zěnyàng
+  en: how exactly do you think
+  es: ¿Qué cree exactamente que hay que hacere para
+- id: 5989ab8b-7141-4db1-9aff-f31a148ca3be
+  zh-hans: 才能实现(1:男女:18)(2:平等:21)呢？
+  pinyin: cáinéng shíxiàn (1:nánnǚ) (2:píngděng) ne?
+  en: can we achieve the (2:equality) between (1:men and women)?
+  es: poder lograr la (2:igualdad) entre (1:hombres y mujeres)?
 - id: 1f547303368f44278a5421820577fcfe
-  zh-hans: (1:只有:25)在各个(2:方面:26)(3:男女:18)都享受(4:同样:27)的(5:权利:7)，
-  pinyin: (1:Zhǐyǒu) zài gège (2:fāngmiàn) (3:nánnǚ) dōu xiǎngshòu (4:tóngyàng) de (5:quánlì),
-  en: (1:Only) when, in every (2:aspect), (3:men and women) enjoy (4:equal) (5:rights),
-  es: (1:Sólo) cuando, en todos los (2:aspectos), (3:hombres y mujeres) gocen de los (4:mismos) (5:derechos),
+  zh-hans: (1:只有:25)在各个(2:方面:26)
+  pinyin: (1:Zhǐyǒu) zài gège (2:fāngmiàn)
+  en: (1:Only) when, in every (2:aspect),
+  es: (1:Sólo) cuando, en todos los (2:aspectos),
+- id: 1f547303368f44278a5421820577fcfe
+  zh-hans: (3:男女:18)都享受(4:同样:27)的(5:权利:7)，
+  pinyin: (3:nánnǚ) dōu xiǎngshòu (4:tóngyàng) de (5:quánlì),
+  en: (3:men and women) enjoy (4:equal) (5:rights),
+  es: (3:hombres y mujeres) gocen de los (4:mismos) (5:derechos),
 - id: 7d05ee3c88f5430ab039e819aa027717
   zh-hans: (1:男女:18)才能(2:平等:21)。
   pinyin: (1:nánnǚ) cáinéng (2:píngděng).
