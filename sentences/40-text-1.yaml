@@ -45,7 +45,7 @@
   es: Después de siglos de esfuerzos de las (1:mujeres),
 - id: c82705e25dee4e2abe9f73d04ba56bf6
   zh-hans: 终于从家里走出来，
- pinyin: zhōngyú cóng jiālǐ zǒu chūlái,
+  pinyin: zhōngyú cóng jiālǐ zǒu chūlái,
   en: they finally were able to leave from home,
   es: finalmente han salido de las casas,
 - id: 4cf96a65e5b94aa19ce899b9678e1613
@@ -130,9 +130,9 @@
   es: Creo que (1:cuidar) a los hijos y hacer las (2:tareas domésticas) (3:no es sólo) cosa de (4:mujeres),
 - id: 23c55a4c5eaf4ef282ad8acf85617afc
   zh-hans: 也是(1:男人:6)的事儿。应该 (2:男女:18)都一样：
-  pinyin: yěshì (1:nánrén) de shìr. Yīnggāi (2:nánnǚ) dōu yīyàng:
-  en: it is also a matter for (1:men). (2:Men and women) should be the same:
-  es: también es tarea de los (1:hombres). Debería ser igual para (2:hombres y mujeres):
+  pinyin: 'yěshì (1:nánrén) de shìr. Yīnggāi (2:nánnǚ) dōu yīyàng:'
+  en: 'it is also a matter for (1:men). (2:Men and women) should be the same:'
+  es: 'también es tarea de los (1:hombres). Debería ser igual para (2:hombres y mujeres):'
 - id: 8cbb821b82e14328badd2fd5e9704962
   zh-hans: (1:要是:15)愿意回家(2:照顾:4)孩子，就回家照顾孩子；
   pinyin: (1:Yàoshi) yuànyì huí jiā (2:zhàogù) háizi, jiù huí jiā zhàogù háizi;
@@ -230,9 +230,9 @@
   es: Lo importante es que (1:hombres y mujeres) deben tener una (4:oportunidad) (2:justa) de (3:competir).
 - id: a985583dcda84e2e9d2d9d512cf51de9
   zh-hans: 最后，我们不能不谈到这个问题：陈老师，
-  pinyin: Zuìhòu, wǒmen bùnéng bù tán dào zhège wèntí:
-  en: Finally, we cannot not discuss this question: Teacher Chen,
-  es: Por último, no podemos dejar de hablar de esta cuestión: Profesora Chan,
+  pinyin: 'Zuìhòu, wǒmen bùnéng bù tán dào zhège wèntí: Chén lǎoshī'
+  en: 'Finally, we cannot not discuss this question: Teacher Chen,'
+  es: 'Por último, no podemos dejar de hablar de esta cuestión: Profesora Chan,'
 - id: fe3eb2abdddb4a509a5bf4e366d4f1fc
   zh-hans: 你认为究竟应该怎样才能实现(1:男女:18)(2:平等:21)呢？
   pinyin: Chén lǎoshī, nǐ rènwéi jiùjìng yīnggāi zěnyàng cáinéng shíxiàn (1:nánnǚ) (2:píngděng) ne?
