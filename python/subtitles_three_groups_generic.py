@@ -1,8 +1,6 @@
-import re
 import argparse
-import utilities
 import ast
-import subtitles_three_lines
+import subtitles_three_groups
 
 parser = argparse.ArgumentParser()
 
@@ -51,11 +49,11 @@ parser.add_argument(
 
 args = parser.parse_args()
 
-subtitles_three_lines.generate_video(
-    media = args.media,
-    output = args.output,
+subtitles_three_groups.generate_video(
+    file_path_media = args.media,
     file_path_timestamps = args.timestamps,
     file_path_sentences = args.sentences,
+    file_path_output = args.output,
     start_time = args.start_time,
     end_time = args.end_time,
     field_for_subtitles_in_third_line = args.field_for_subtitles_in_third_line,

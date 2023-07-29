@@ -1,65 +1,4 @@
-# Examples
-#
-# $ python3 generate-video.py -p 46-1 -i ./timestamps/46-1.webm -o output.mp4
-
-import argparse
 import utilities
-import ast
-
-parser = argparse.ArgumentParser()
-
-parser.add_argument(
-    "-m",
-    "--media",
-    dest = "media",
-    required = True)
-
-parser.add_argument(
-    "-s",
-    "--sentences",
-    dest = "sentences",
-    required = True)
-
-parser.add_argument(
-    "-t",
-    "--timestamps",
-    dest = "timestamps",
-    required = True)
-
-parser.add_argument(
-    "-o",
-    "--output",
-    dest = "output",
-    required = True)
-
-parser.add_argument(
-    '-c',
-    '--do-color-words',
-    dest='do_color_words',
-    type = ast.literal_eval,
-    default = True)
-
-parser.add_argument(
-    '--field-for-subtitles-in-third-line',
-    dest = 'field_for_subtitles_in_third_line',
-    default = 'en')
-
-parser.add_argument(
-    "-ss",
-    "--start-time",
-    dest = "start_time")
-
-parser.add_argument(
-    "-to",
-    "--end-time",
-    dest = "end_time")
-
-parser.add_argument(
-    "--height",
-    dest = "height",
-    default = "1080")
-
-args = parser.parse_args()
 
 def generate_ass_file(data_timestamps_sentences, do_color_words, field_for_subtitles_in_third_line):
     import tempfile
@@ -79,9 +18,9 @@ ScriptType: v4.00+
 
 [V4+ Styles]
 Format: Name,             Fontname,                      Fontsize, Outline, PrimaryColour,                Spacing, Shadow, Bold, Alignment, MarginV
-Style:  pinyin,           Noto Sans,                     20,       0,       &HFFFFFF,                     0,       0,      0,    2,         56
+Style:  pinyin,           Noto Sans,                     18,       0,       &HFFFFFF,                     0,       0,      0,    2,         56
 Style:  zh-hans,          Noto Sans Mono CJK SC Regular, 32,       0,       &H{chinese_characters_color}, 2,       0,      1,    2,         25
-Style:  subtitles_bottom, Noto Sans,                     19,       0,       &HFFFFFF,                     0,       0,      0,    2,         6
+Style:  subtitles_bottom, Noto Sans,                     18,       0,       &HFFFFFF,                     0,       0,      0,    2,         6
 
 [Events]
 Format: Start, End, Style, Text""")
@@ -95,13 +34,26 @@ Dialogue: {start_time}, {end_time}, subtitles_bottom, {data_timestamps_sentences
 
     return temporary_file
 
-def generate_video(media, output, start_time, end_time, field_for_subtitles_in_third_line, do_color_words, height):
+def generate_video(file_path_media,
+                   file_path_timestamps,
+                   file_path_sentences,
+                   file_path_output,
+                   start_time,
+                   end_time,
+                   field_for_subtitles_in_third_line,
+                   height,
+                   do_color_words):
     import subprocess
     import itertools
 
-    data_timestamps_sentences = utilities.get_data_timestamps_sentences_from_files(
-        args.timestamps,
-        args.sentences)
+    if not field_for_subtitles_in_third_line:
+        field_for_subtitles_in_third_line = 'en'
+    if not do_color_words:
+        do_color_words = True
+    if not height:
+        height = '1080'
+
+    data_timestamps_sentences = utilities.get_data_timestamps_sentences_from_files(file_path_timestamps, file_path_sentences)
 
     ass_file = generate_ass_file(data_timestamps_sentences, do_color_words, field_for_subtitles_in_third_line)
 
@@ -118,7 +70,7 @@ def generate_video(media, output, start_time, end_time, field_for_subtitles_in_t
              '-f', 'lavfi',
              # TODO: Accept resolution as parameters
                       '-i', f'color=c=black:s={width}x{height}',
-             '-i', media],
+             '-i', file_path_media],
             ['-ss', start_time, '-to', end_time] if start_time and end_time else None,
             # TOOD: The scale should be equal to the
             # resolution of the background.
@@ -129,16 +81,7 @@ def generate_video(media, output, start_time, end_time, field_for_subtitles_in_t
             # overlap subtitles, one of the subtitles is
             # automatically moved away.
             ['-filter_complex', f'[1:v]scale=-1:{height} [ovrl],[0:v][ovrl]overlay=(main_w-overlay_w)/2:0:shortest=1,drawbox=y=ih-{height_background}:height={height_background}:t=fill:color=black@0.7,subtitles={ass_file.name}',
-             output]
+             file_path_output]
         ] if x is not None]))
 
     subprocess.run(cmd)
-
-generate_video(
-    media = args.media,
-    output = args.output,
-    start_time = args.start_time,
-    end_time = args.end_time,
-    do_color_words = args.do_color_words,
-    field_for_subtitles_in_third_line = args.field_for_subtitles_in_third_line,
-    height = args.height)

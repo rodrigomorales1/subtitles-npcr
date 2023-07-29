@@ -113,9 +113,10 @@ Format: Start, End, Style, Text""")
             temporary_file_8,
             temporary_file_9]
 
-def generate_rectangle(data_timestamps_sentences, name_last_overlay):
+def generate_rectangle(data_timestamps_sentences, name_last_overlay, width, height):
     result =""
     times = []
+    height_step = int(height/3)
 
     for i in data_timestamps_sentences:
         times.append({
@@ -129,9 +130,9 @@ def generate_rectangle(data_timestamps_sentences, name_last_overlay):
         if counter == 1:
             time['position'] = 0
         elif counter == 2:
-            time['position'] = 360
+            time['position'] = height_step
         elif counter == 3:
-            time['position'] = 720
+            time['position'] = height_step * 2
         if counter == 3:
             counter = 1
         else:
@@ -154,7 +155,7 @@ def generate_rectangle(data_timestamps_sentences, name_last_overlay):
         start_time = value['start_time']
         end_time = value['end_time']
 
-        result = result + (f""", color=white@0.3:1920x360 {name_rectangle},
+        result = result + (f""", color=white@0.3:{width}x{height_step} {name_rectangle},
 {name_previous_overlay}{name_rectangle} overlay=0:{value['position']}:shortest=1:enable='between(t,{start_time},{end_time})' {name_current_overlay}""")
 
         counter_rectangle = counter_rectangle + 1
@@ -162,15 +163,27 @@ def generate_rectangle(data_timestamps_sentences, name_last_overlay):
 
     return result
 
-def generate_video(media,
-                   output,
+def group_separators(width, height):
+    # Thickness must be an integer and greater and equal than
+    # 2. Otherwise, ffmpeg complains.
+    thickness = 2
+    position_1 = height/3.0 - thickness/2.0
+    position_2 = height/3.0 + height/3.0 - thickness/2.0
+
+    return (f"color=white@1:{width}x{thickness} [my_group_separator_1]"
+            + f",color=white@1:{width}x{thickness} [my_group_separator_2]"
+            + f",[0:v][my_group_separator_1] overlay=0:{position_1}:shortest=1 [my_overlay_1]"
+            + f",[my_overlay_1][my_group_separator_2] overlay=0:{position_2}:shortest=1")
+
+def generate_video(file_path_media,
+                   file_path_timestamps,
+                   file_path_sentences,
+                   file_path_output,
                    start_time,
                    end_time,
                    field_for_subtitles_in_third_line,
                    height,
-                   highlight_background_of_sentence_being_read,
-                   file_path_timestamps,
-                   file_path_sentences):
+                   highlight_background_of_sentence_being_read):
     import subprocess
     import itertools
 
@@ -198,19 +211,16 @@ def generate_video(media,
              '-y',
              '-f', 'lavfi',
              '-i', f'color=c=black:s={width}x{height}',
-             '-i', media,
+             '-i', file_path_media,
              '-i', metadata_file.name,
              '-map_metadata', '2'],
             ['-ss', start_time, '-to', end_time] if start_time and end_time else None,
-            ['-filter_complex', ("color=white@1:1920x3 [my_group_separator_1]"
-                                 + ",color=white@1:1920x3 [my_group_separator_2]"
-                                 + ",[0:v][my_group_separator_1] overlay=0:358:shortest=1 [my_overlay_1]"
-                                 + ",[my_overlay_1][my_group_separator_2] overlay=0:719:shortest=1"
-                                 + ('[foo]' + generate_rectangle(data_timestamps_sentences, 'foo') if highlight_background_of_sentence_being_read else "")
+            ['-filter_complex', (group_separators(width, height)
+                                 + ('[foo]' + generate_rectangle(data_timestamps_sentences, 'foo', width, height) if highlight_background_of_sentence_being_read else "")
                                  + ',' + subtitles),
              '-c:a', 'copy',
              '-shortest',
-             output]
+             file_path_output]
         ] if x is not None]))
 
     subprocess.run(cmd)
