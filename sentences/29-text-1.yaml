@@ -35,9 +35,9 @@
   es: Tomemos té.
 - id: d6521fe5-9366-468d-9c61-b3e1bc7bc6a8
   zh-hans: 您的(1:书房:3)很有特色：
-  pinyin: Nín de (1:shūfáng) hěn yǒu tèsè:
-  en: Your (1:study room) is very characteristic:
-  es: Su (1:cuarto de estudio) es muy especial:
+  pinyin: 'Nín de (1:shūfáng) hěn yǒu tèsè:'
+  en: 'Your (1:study room) is very characteristic:'
+  es: 'Su (1:cuarto de estudio) es muy especial:'
 - id: cb4fed96-0a6d-4364-9300-bf2ad5d79f48
   zh-hans: (1:墙:4)上(2:挂:5)着中国(3:字画:6)，(4:书架:7)上放着这么多(5:古书:8)，
   pinyin: (1:Qiáng) shàng (2:guà) zhe Zhōngguó (3:zìhuà), (4:shūjià) shàng fàngzhe zhème duō (5:gǔshū),

@@ -15,9 +15,9 @@
   es: ¿No lo reconoce? Esto es manzana banana.
 - id: f39b368b-e903-4549-be6f-f938b7fd7e95
   zh-hans: 对不起，我是问：这个汉语怎么说？
-  pinyin: Duìbùqǐ, wǒ shì wèn: Zhège Hànyǔ zěnme shuō? 
-  en: Sorry, I want to ask: What is this called in Chinese? 
-  es: Disculpe, le pregunto: ¿cómo se dice esto en chino?
+  pinyin: 'Duìbùqǐ, wǒ shì wèn: Zhège Hànyǔ zěnme shuō?'
+  en: 'Sorry, I want to ask: What is this called in Chinese?'
+  es: 'Disculpe, le pregunto: ¿cómo se dice esto en chino?'
 - id: 437447b6-533a-4511-be1f-941a6280f4b4
   zh-hans: 啊，您是外国人。
   pinyin: A, nín shì wàiguó rén. 
@@ -40,9 +40,9 @@
   es: Estudias chino, ¿no?
 - id: ffb041b4-07ea-4b4e-a5d7-9f2414abef18
   zh-hans: 您跟我学，很容易：
-  pinyin: Nín gēn wǒ xué, hěn róngyì: 
-  en: I’ll teach you, very easy: 
-  es: Es fácil para ti aprender de mí:
+  pinyin: 'Nín gēn wǒ xué, hěn róngyì:'
+  en: 'I’ll teach you, very easy:'
+  es: 'Es fácil para ti aprender de mí:'
 - id: 7216fd72-0c61-4788-97cf-9e305c209553
   zh-hans: 这叫香蕉，这叫香蕉苹果，
   pinyin: Zhè jiào xiāngjiāo, zhè jiào xiāngjiāo píngguǒ, 

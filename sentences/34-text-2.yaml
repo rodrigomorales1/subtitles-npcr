@@ -55,34 +55,34 @@
   es: ¡Las Tres Gargantas son tan hermosas!
 - id: 3f2bcc66-b368-40d0-b586-c52b2079717c
   zh-hans: 李白的一首诗我记住了两句：
-  pinyin: Libái de yī shǒu shī wǒ jì zhùle liǎng jù: 
-  en: I remember two lines from Libai’s poem: 
-  es: He memorizado dos líneas de un poema de Li Bai:
+  pinyin: 'Libái de yī shǒu shī wǒ jì zhùle liǎng jù:'
+  en: 'I remember two lines from Libai’s poem:'
+  es: 'He memorizado dos líneas de un poema de Li Bai:'
 - id: 0ba3bb1c-62b2-4a2b-9e9c-dade3aff51d3
   zh-hans: “两岸猿声啼不住，
   pinyin: “Liǎng’àn yuán shēng tí bù zhù, 
   en: “By the time the apes on both sides have stopped crying, 
-  es: "Los monos a ambos lados del río no pueden dejar de llorar.
+  es: '"Los monos a ambos lados del río no pueden dejar de llorar.'
 - id: 674df052-7df3-4367-89ac-2781c8f7182c
   zh-hans: 轻舟已过万重山。”
   pinyin: qīngzhōu yǐguò wàn chóngshān.” 
   en: the boat has already sailed by the mountain ten thousand times.” 
-  es: El barco ligero ha cruzado diez mil montañas".
+  es: 'El barco ligero ha cruzado diez mil montañas".'
 - id: f05023cb-2609-4eee-85b2-ae7646116266
   zh-hans: 我看应该说
   pinyin: Wǒ kàn yīnggāi shuō 
-  en: I think it should say: 
-  es: Creo que debería decir.
+  en: I think it should say
+  es: Creo que debería decir
 - id: 0a84382a-7e45-418e-a4e0-b64e2565e111
   zh-hans: “大为头晕止不住，
   pinyin: “Dàwéi tóuyūn zhǐ bù zhù, 
   en: “By the time Dawei is no longer dizzy, 
-  es: "No puedo detener el mareo.
+  es: '"No puedo detener el mareo.'
 - id: ebc04b72-0d14-434d-b4b7-badd7fe55f62
   zh-hans: 游船已过万重山。”
   pinyin: yóuchuán yǐguò wàn chóngshān.” 
   en: the cruise ship has already sailed by the mountain ten thousand times.” 
-  es: El barco ha cruzado diez mil montañas".
+  es: 'El barco ha cruzado diez mil montañas".'
 - id: 7620fda7-c0b3-4165-ba02-d3bd90c029d5
   zh-hans: 小燕子，你又开玩笑了。
   pinyin: Xiǎo Yànzi, nǐ yòu kāiwánxiàole. 
@@ -147,7 +147,7 @@
   zh-hans: “穿在水中走，人在画中游”。
   pinyin: “chuān zài shuǐzhōng zǒu, rén zài huà zhōngyóu”. 
   en: “passing through on the middle of the water, people travel through the middle of a painting.” 
-  es: "Caminar en el agua, nadar en la pintura".
+  es: '"Caminar en el agua, nadar en la pintura".'
 - id: 5cdd6f16-83eb-4da5-9cc9-b891780402cc
   zh-hans: 过几年你再来游览三峡，
   pinyin: Guò jǐ nián nǐ zàilái yóulǎn Sānxiá, 

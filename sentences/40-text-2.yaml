@@ -1,8 +1,8 @@
 - id: 7ec525a42c2f45e093bd06c368dfbb40
   zh-hans: 各位老师，各位同学：
-  pinyin: Gèwèi lǎoshī, gèwèi tóngxué:
-  en: Teachers and students:
-  es: Profesores, alumnos:
+  pinyin: 'Gèwèi lǎoshī, gèwèi tóngxué:'
+  en: 'Teachers and students:'
+  es: 'Profesores, alumnos:'
 - id: 88c90d0c286f46ccbe368e251e390b4a
   zh-hans: 我很高兴有机会跟大家谈谈
   pinyin: Wǒ hěn gāoxìng yǒu jīhuì gēn dàjiā tán tán
@@ -215,9 +215,9 @@
   es: Ahora el marido tiene que desempeñar el papel de "medio cielo" en casa.
 - id: 4ed7cf8daca240ecb2ffea9bcf66192f
   zh-hans: 很多家庭的家务事都有了分工：
-  pinyin: Hěnduō jiātíng de jiāwù shì dōu yǒule fēngōng:
-  en: Many families divide the household chores:
-  es: En muchas familias hay un reparto de tareas domésticas:
+  pinyin: 'Hěnduō jiātíng de jiāwù shì dōu yǒule fēngōng:'
+  en: 'Many families divide the household chores:'
+  es: 'En muchas familias hay un reparto de tareas domésticas:'
 - id: ebe5649b1fe04ee19be78ed569999e7d
   zh-hans: 常常是丈夫买菜，妻子做饭；
   pinyin: Chángcháng shì zhàngfū mǎi cài, qīzi zuò fàn;

@@ -47,7 +47,7 @@
   zh-hans: “这几年我几乎没有休假。
   pinyin: “Zhè jǐ nián wǒ jīhū méiyǒu xiūjià.
   en: “These past few years I’ve hardly taken any time off.
-  es: "Apenas he tomado vacaciones estos años.
+  es: '"Apenas he tomado vacaciones estos años.'
 - id: 644da6e79c5a4a8ead6d8edbf62cbd5a
   zh-hans: 现在，我想去休两个月假。
   pinyin: Xiànzài, wǒ xiǎng qù xiū liǎng gè yuè jiǎ.
@@ -67,7 +67,7 @@
   zh-hans: 不要打电话给我。”
   pinyin: bùyào dǎ diànhuà gěi wǒ.”
   en: do not call me.”
-  es: No me llames".
+  es: 'No me llames".'
 - id: 76de411a04364c7480d3dc19dad01652
   zh-hans: “好的，您放心去休假吧。”
   pinyin: “Hǎo de, nín fàngxīn qù xiūjià ba.”
@@ -102,7 +102,7 @@
   zh-hans: 他想，能当一回演员多好啊！
   pinyin: Tā xiǎng, néng dāng yī huí yǎnyuán duō hǎo a!
   en: He thinks, being able to be an actor would be so great!
-  es: Pensó: "¡Sería genial ser actor!
+  es: 'Pensó: "¡Sería genial ser actor!'
 - id: 97d1b20703a64a84af1f1892dde77ec1
   zh-hans: 要是他出了名，
   pinyin: Yàoshi tā chūle míng,
@@ -182,7 +182,7 @@
   zh-hans: “当然是真的。
   pinyin: “Dāngrán shì zhēn de.
   en: “Of course really.
-  es: "Claro que es verdad.
+  es: '"Claro que es verdad.'
 - id: f3cf909ac38542378377aba15889d5e1
   zh-hans: 只要您同意，我们就这么决定了。
   pinyin: Zhǐyào nín tóngyì, wǒmen jiù zhème juédìngle.
@@ -217,17 +217,17 @@
   zh-hans: “可以。”
   pinyin: “Kěyǐ.”
   en: “No problem.”
-  es: "De acuerdo."
+  es: '"De acuerdo."'
 - id: 612940ae5a134c22a0350b05edb11f6a
   zh-hans: “好了，请把您的电话号码给我，
   pinyin: “Hǎole, qǐng bǎ nín de diànhuà hàomǎ gěi wǒ,
   en: “Ok, please give me your phone number, and
-  es: "De acuerdo, por favor dame tu número de teléfono.
+  es: '"De acuerdo, por favor dame tu número de teléfono.'
 - id: ff79de89347141b5a2f51eacbf176885
   zh-hans: 两星期之内，我通知您到哪儿上班。”
   pinyin: liǎng xīngqí zhī nèi, wǒ tōngzhī nín dào nǎr shàngbān.”
   en: within two weeks, I’ll let you know where to go to work.”
-  es: Te haré saber dónde trabajar en quince días".
+  es: 'Te haré saber dónde trabajar en quince días".'
 - id: 16efab573b6b4052a30224dcdde4aa7d
   zh-hans: “好……”
   pinyin: “Hǎo……”
@@ -272,22 +272,22 @@
   zh-hans: “不行，我也有重要的事儿。
   pinyin: “Bùxíng, wǒ yěyǒu zhòngyào de shìr.
   en: “No, I also have an important matter.
-  es: "No, yo también tengo algo importante.
+  es: '"No, yo también tengo algo importante.'
 - id: bc2be6fa40e34fbcab699449fcc798a8
   zh-hans: 公司的事情由你们讨论决定吧。”
   pinyin: Gōngsī de shìqíng yóu nǐmen tǎolùn juédìng ba.”
   en: Company matters you should discuss and resolve.”
-  es: Deje que discuta y decida sobre los asuntos de la empresa".
+  es: 'Deje que discuta y decida sobre los asuntos de la empresa".'
 - id: bd976cbdfecc4c938ebc699d60c9fecb
   zh-hans: “这个问题非常重要，
   pinyin: “Zhège wèntí fēicháng zhòngyào,
   en: “This issue is very important,
-  es: "Este asunto es muy importante.
+  es: '"Este asunto es muy importante.'
 - id: fc9e13cef1e340969f9b40e2224a3de1
   zh-hans: 您不能不参加讨论。”
   pinyin: nín bùnéng bùcānjiā tǎolùn.”
   en: you cannot not participate in the discussion.”
-  es: No puedes quedarte fuera de la discusión".
+  es: 'No puedes quedarte fuera de la discusión".'
 - id: d8bf2056945e4a388a9f904b3e2f0f6c
   zh-hans: 张山把导演让他当男主角的事儿跟副总说了。
   pinyin: Zhāng Shān bǎ dǎoyǎn ràng tā dāng nán zhǔjiǎo de shìr gēn fù zǒng shuōle.
@@ -297,7 +297,7 @@
   zh-hans: “噢！我明白了。
   pinyin: “Ō! Wǒ míngbáile.
   en: “Oh! I see.
-  es: "¡Oh! Ya veo.
+  es: '"¡Oh! Ya veo.'
 - id: 8745619834ae41baa2f91650476ef085
   zh-hans: 派出所也在打电话找您呢，
   pinyin: Pàichūsuǒ yě zài dǎ diànhuà zhǎo nín ne,
@@ -312,7 +312,7 @@
   zh-hans: 听说那是个大骗子。”
   pinyin: tīng shuō nà shìgè dà piànzi.”
   en: apparently it was a big fraud.”
-  es: He oído que era un gran mentiroso".
+  es: 'He oído que era un gran mentiroso".'
 - id: e2f4aea8413a4cfeb7a0651a2e5fb6db
   zh-hans: “啊！大骗子？
   pinyin: “A! Dà piànzi?

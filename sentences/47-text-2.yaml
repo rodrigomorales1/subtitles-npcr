@@ -25,9 +25,9 @@
   es: El restaurante era pequeño, tenía dos plantas y estaba muy bien decorado.
 - id: b74b9fb7630e479686525f548f8056e2
   zh-hans: 我每周在这儿打两次工：
-  pinyin: Wǒ měi zhōu zài zhèr dǎ liǎng cì gōng:
-  en: I worked here twice a week:
-  es: Trabajaba aquí dos veces por semana:
+  pinyin: 'Wǒ měi zhōu zài zhèr dǎ liǎng cì gōng:'
+  en: 'I worked here twice a week:'
+  es: 'Trabajaba aquí dos veces por semana:'
 - id: ae21ec1565514a3db649e11414281815
   zh-hans: 星期五和星期六
   pinyin: Xīngqíwǔ hé xīngqíliù
@@ -117,7 +117,7 @@
   zh-hans: 当时我想，人要是多长几只手就好了。
   pinyin: dāngshí wǒ xiǎng, rén yàoshi duō zhǎng jǐ zhī shǒu jiù hǎole.
   en: at that time I thought, it would be good if people could grow a few more hands.
-  es: Pensé: "Ojalá tuviera más manos".
+  es: 'Pensé: "Ojalá tuviera más manos".'
 - id: 17d0e952a46941778baf94982457b14c
   zh-hans: 我常常干到一点多钟，
   pinyin: Wǒ chángcháng gān dào yīdiǎn duō zhōng,
@@ -165,9 +165,9 @@
   es: Ya no aguanto más.
 - id: 768bad4f888842aca86f02c3b547f4fb
   zh-hans: 有时候我也想：
-  pinyin: Yǒu shíhou wǒ yě xiǎng:
-  en: Sometimes I also wonder:
-  es: A veces me pregunto:
+  pinyin: 'Yǒu shíhou wǒ yě xiǎng:'
+  en: 'Sometimes I also wonder:'
+  es: 'A veces me pregunto:'
 - id: 36b8af9dfa6944108d41f881821091d2
   zh-hans: 我为什么要出国吃这么大的苦呢？
   pinyin: Wǒ wèishéme yào chūguó chī zhème dà de kǔ ne?
@@ -240,9 +240,9 @@
   es: Quiero que tengan una vejez feliz.
 - id: 23a7199cf75a4d4c8320e8e86dc477ff
   zh-hans: 爸爸妈妈对我说过：“出国以后，
-  pinyin: Bàba māmā duì wǒ shuōguò: “Chūguó yǐhòu,
-  en: Father and mother said to me: “After going abroad,
-  es: Mamá y papá me dijeron: "Cuando te vayas al extranjero.
+  pinyin: 'Bàba māmā duì wǒ shuōguò: “Chūguó yǐhòu,'
+  en: 'Father and mother said to me: “After going abroad,'
+  es: 'Mamá y papá me dijeron: "Cuando te vayas al extranjero.'
 - id: f9dc31b4380f4b2c9eb90cfe1400c0f9
   zh-hans: 什么工作最苦最累，
   pinyin: shénme gōngzuò zuì kǔ zuì lèi,
@@ -262,7 +262,7 @@
   zh-hans: 以后什么苦你也不会怕了。”
   pinyin: yǐhòu shénme kǔ nǐ yě bù huì pàle.”
   en: afterwards you will not be afraid of any pain.”
-  es: No tendrás miedo de ninguna dificultad en el futuro".
+  es: 'No tendrás miedo de ninguna dificultad en el futuro".'
 - id: 511067e31040457db3cac8f8c73959a4
   zh-hans: 所以，在最艰苦时候，我就好像听见
   pinyin: Suǒyǐ, zài zuì jiānkǔ shíhou, wǒ jiù hǎoxiàng tīngjiàn
@@ -270,14 +270,14 @@
   es: Así que, cuando estaba en el momento más difícil, podía oír a
 - id: eae6fd20b2d341439f0e35daa431250b
   zh-hans: 妈妈在旁边给我加油：
-  pinyin: māmā zài pángbiān gěi wǒ jiāyóu:
-  en: mother besides me cheering me on:
-  es: Mamá animándome:
+  pinyin: 'māmā zài pángbiān gěi wǒ jiāyóu:'
+  en: 'mother besides me cheering me on:'
+  es: 'Mamá animándome:'
 - id: 6c5bb09aadec4db5aeff76bd4b59b320
   zh-hans: “坚持下去！坚持就是胜利。”
   pinyin: “Jiānchí xiàqù! Jiānchí jiùshì shènglì.”
   en: “Stick at it! Persistance will lead to victory.”
-  es: "¡Aguanta! La persistencia es la victoria".
+  es: '"¡Aguanta! La persistencia es la victoria".'
 - id: 22d71411459141e2bcb126cdeaf74334
   zh-hans: 二零零三年我终于读完了大学，
   pinyin: Èr líng líng sān nián wǒ zhōngyú dú wánliǎo dàxué,
@@ -305,19 +305,19 @@
   es: Mamá señaló mis gastados zapatos de viaje y
 - id: a9fb3f129f5f4979996fd3a22c80ebca
   zh-hans: 难过地问我：
-  pinyin: nánguò de wèn wǒ:
-  en: and sadly asks me:
-  es: y me preguntó con tristeza:
+  pinyin: 'nánguò de wèn wǒ:'
+  en: 'and sadly asks me:'
+  es: 'y me preguntó con tristeza:'
 - id: 80febc89897143f4a6b9272fbd751453
   zh-hans: “孩子，是不是一点钱都没有了？”
   pinyin: “Háizi, shì bùshì yīdiǎn qián dōu méiyǒule?”
   en: “Child, do you not have any money left at all?”
-  es: "Hijo, ¿es que no tienes dinero?".
+  es: '"Hijo, ¿es que no tienes dinero?".'
 - id: 6a80290c282d4c9da10ed495dff2e808
   zh-hans: “妈，我有钱。
   pinyin: “Mā, wǒ yǒu qián.
   en: “Mother, I have money.
-  es: "Mamá, tengo dinero.
+  es: '"Mamá, tengo dinero.'
 - id: 6365c95bef874e27ba78fedc0a7a388a
   zh-hans: 我把你们寄给我的钱和打工挣的钱
   pinyin: Wǒ bǎ nǐmen jì gěi wǒ de qián hé dǎgōng zhēng de qián
@@ -337,7 +337,7 @@
   zh-hans: 我可以靠打工来完成自己的学习。”
   pinyin: Wǒ kěyǐ kào dǎgōng lái wánchéng zìjǐ de xuéxí.”
   en: I can depend on working part-time to finish my studies.”
-  es: Puedo terminar mis estudios trabajando a tiempo parcial".
+  es: 'Puedo terminar mis estudios trabajando a tiempo parcial".'
 - id: dd1b7559e61d455b94163f9eb07fdffd
   zh-hans: 爸爸妈妈看着我，满意地笑了。
   pinyin: Bàba māmā kànzhe wǒ, mǎnyì dì xiàole.

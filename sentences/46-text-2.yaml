@@ -72,7 +72,7 @@
   zh-hans: “真的，妈妈你太好了。”
   pinyin: “Zhēn de, māmā nǐ tài hǎole.”
   en: “Really, Mum you are so great.”
-  es: "De verdad, mamá, eres muy amable".
+  es: '"De verdad, mamá, eres muy amable".'
 - id: 9bdcda64c5204ebd8491d082f7bbcad8
   zh-hans: 可是家里的人都反对。
   pinyin: Kěshì jiālǐ de rén dōu fǎnduì.
@@ -207,7 +207,7 @@
   zh-hans: “你别高兴得太早，
   pinyin: “Nǐ bié gāoxìng de tài zǎo,
   en: “Don’t be happy too soon,
-  es: "No te alegres demasiado...
+  es: '"No te alegres demasiado...'
 - id: fa20a8feea93496c808d4cae658ba00e
   zh-hans: 我还有几个条件呢。
   pinyin: wǒ hái yǒu jǐ gè tiáojiàn ne.
@@ -222,17 +222,17 @@
   zh-hans: 要么你就别去了。”
   pinyin: yàome nǐ jiù bié qùle.”
   en: or you do not go.”
-  es: O no vas".
+  es: 'O no vas".'
 - id: abb783313d2a442c9b850a8497b71309
   zh-hans: “妈妈，什么条件？您快说。”
   pinyin: “Māmā, shénme tiáojiàn? Nín kuài shuō.”
   en: “Mum, what are the conditions? Speak.”
-  es: "Mamá, ¿qué condiciones? Dímelas".
+  es: '"Mamá, ¿qué condiciones? Dímelas".'
 - id: e008d501f87f4593b6c9eaa52e159021
   zh-hans: “第一，要听老师的话。
   pinyin: “Dì yī, yào tīng lǎoshī dehuà.
   en: “Firstly, must listen to the teacher.
-  es: "Primero, escucha a tu profesor.
+  es: '"Primero, escucha a tu profesor.'
 - id: 4fda13295c074903b5ee420925e6b34e
   zh-hans: 第二，要跟同学团结。
   pinyin: Dì èr, yào gēn tóngxué tuánjié.
@@ -252,7 +252,7 @@
   zh-hans: “你们放心，这四条我保证做到。”
   pinyin: “Nǐmen fàngxīn, zhè sìtiáo wǒ bǎozhèng zuò dào.”
   en: “You rest assured, I will ensure these four conditions are met.”
-  es: "No te preocupes, prometo cumplir estas cuatro".
+  es: '"No te preocupes, prometo cumplir estas cuatro".'
 - id: 8678648d7ec341f5948e056ddf08918b
   zh-hans: 她把这四条写在一张纸上，
   pinyin: Tā bǎ zhè sìtiáo xiě zài yī zhāng zhǐ shàng,
@@ -390,14 +390,14 @@
   es: Cuando iba a comprar fruta, aprendió a rebajar el precio.
 - id: 7102e014972d47bd8386a697d106f6bc
   zh-hans: 爷爷奶奶听了，满意地说：
-  pinyin: Yéye nǎinai tīngle, mǎnyì de shuō:
-  en: Grandparents heard this, and satisfactorily said:
-  es: Los abuelos se alegraron:
+  pinyin: 'Yéye nǎinai tīngle, mǎnyì de shuō:'
+  en: 'Grandparents heard this, and satisfactorily said:'
+  es: 'Los abuelos se alegraron:'
 - id: 8c7561a8fcaa4d3d932ce49a7188b7fe
   zh-hans: 好，又学会洗衣服，
   pinyin: “Hǎo, yòu xuéhuì xǐ yīfú,
   en: “Good, learned to wash clothes,
-  es: "Bien, ha aprendido a lavar la ropa.
+  es: '"Bien, ha aprendido a lavar la ropa.'
 - id: d97cf81054d9489ea72dfa63c8d4acf4
   zh-hans: 又学会唱英语歌，
   pinyin: yòu xuéhuì chàng Yīngyǔ gē,
@@ -407,6 +407,6 @@
   zh-hans: 以后这样的活动可以多参加。
   pinyin: yǐhòu zhèyàng de huódòng kěyǐ duō cānjiā.”
   en: in the future you can join more of these sort of activities.”
-  es: Puedes participar en más actividades como esta en el futuro".
+  es: 'Puedes participar en más actividades como esta en el futuro".'
 
 

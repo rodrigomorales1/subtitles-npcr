@@ -40,24 +40,24 @@
   es: Echemos un vistazo.
 - id: 3b5c7fdac1f54b3eac9c263832388c0a
   zh-hans: 哦，在这儿呢：
-  pinyin: Ó, zài zhèr ne:
-  en: Oh, here it is:
-  es: Oh, aquí está:
+  pinyin: 'Ó, zài zhèr ne:'
+  en: 'Oh, here it is:'
+  es: 'Oh, aquí está:'
 - id: 4ebb645bf1d942989efba5dbfad1f9fc
   zh-hans: “这次发射成功，
-  pinyin: “Zhè cì fāshè chénggōng,
-  en: “The success of this launch,
-  es: "El exitoso lanzamiento.
+  pinyin: '"Zhè cì fāshè chénggōng,'
+  en: '"The success of this launch,'
+  es: '"El exitoso lanzamiento.'
 - id: fb8ddd294d3f40e2b59fbb27923480cf
   zh-hans: 说明中国载人航天事业
   pinyin: shuōmíng Zhōngguó zài rén hángtiān shìyè
   en: shows that China’s manned aerospace industry
-  es: "significa que el programa espacial tripulado de China
+  es: significa que el programa espacial tripulado de China
 - id: 6524f1d5a55e4b03bf9ec0ad3a848ce6
   zh-hans: 已经跨出了重要的一步。
   pinyin: yǐjīng kuà chūle zhòngyào de yībù.
   en: has already crossed an important step.
-  es: "ha dado un importante paso adelante.
+  es: ha dado un importante paso adelante.
 - id: 15417e8f78dc4a8697bade31f21174f4
   zh-hans: 从此，中国航天事业的历史
   pinyin: Cóngcǐ, Zhōngguó hángtiān shìyè de lìshǐ
@@ -65,9 +65,9 @@
   es: A partir de ahora, una nueva página en la historia del programa espacial de China
 - id: 41f135bdfda542ff95199b747cd44d08
   zh-hans: 开始了新的一页。”
-  pinyin: kāishǐle xīn de yī yè.”
-  en: is beginning a new chapter.”
-  es: "ha comenzado una nueva página en la historia de la industria espacial de China."
+  pinyin: 'kāishǐle xīn de yī yè."'
+  en: 'is beginning a new chapter."'
+  es: 'ha comenzado una nueva página en la historia de la industria espacial de China."'
 - id: 92b17a105f4e404c99e57827f64fb729
   zh-hans: 简直太棒了！
   pinyin: Jiǎnzhí tài bàngle!

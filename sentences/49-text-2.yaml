@@ -25,14 +25,14 @@
   es: "Hola."
 - id: b06b22a49c14442e9b1bff1a6f6c7a0d
   zh-hans: “来把你的手拿上来，
-  pinyin: “Lái bǎ nǐ de shǒu ná shànglái,
-  en: “Hold out your hand,
-  es: "Ven y levanta la mano.
+  pinyin: '"Lái bǎ nǐ de shǒu ná shànglái,'
+  en: '"Hold out your hand,'
+  es: '"Ven y levanta la mano.'
 - id: 401c24453e5946ff93e6ae3d7d4c709a
   zh-hans: 反过来。”
-  pinyin: fǎn guòlái.”
-  en: turn it over.”
-  es: Gírala".
+  pinyin: 'fǎn guòlái."'
+  en: 'turn it over."'
+  es: 'Gírala".'
 - id: 6edb342c79964b02b81688d88b80822c
   zh-hans: 那位老先生给林娜号了号脉，
   pinyin: Nà wèi lǎo xiānshēng gěi Lín Nà hàole hàomài,
@@ -50,14 +50,14 @@
   es: le hizo algunas preguntas, y luego bajó la vista para escribir una receta.
 - id: 1f2ff54fe8364560aae1aba0a911c1de
   zh-hans: “大夫，我得了什么病，得吃点儿什么中药？”
-  pinyin: “Dàifū, wǒ dé le shénme bìng, de chī diǎnr shénme zhōngyào?”
-  en: “Doctor, what illness have I got, what Chinese medicine should I take?”
-  es: "Doctor, ¿qué tipo de enfermedad tengo y qué tipo de hierbas medicinales debo tomar?".
+  pinyin: '"Dàifū, wǒ dé le shénme bìng, de chī diǎnr shénme zhōngyào?"'
+  en: '"Doctor, what illness have I got, what Chinese medicine should I take?"'
+  es: '"Doctor, ¿qué tipo de enfermedad tengo y qué tipo de hierbas medicinales debo tomar?".'
 - id: 60b2bb604b884822b729dfdba48f6b6c
   zh-hans: “您没有什么大的病，
-  pinyin: “Nín méiyǒu shé me dà de bìng,
-  en: “You do not have any great illness,
-  es: "No estás gravemente enferma.
+  pinyin: '“Nín méiyǒu shé me dà de bìng,'
+  en: '“You do not have any great illness,'
+  es: '"No estás gravemente enferma.'
 - id: b6194674894a428599d487a7fe8e56aa
   zh-hans: 不要紧的。
   pinyin: bùyàojǐn de.
@@ -65,14 +65,14 @@
   es: No es nada grave.
 - id: 25093756b7de4ca89edfa1c1193a9da1
   zh-hans: 可能最近学习比较紧张吧？”
-  pinyin: Kěnéng zuìjìn xuéxí bǐjiào jǐnzhāng ba?”
-  en: Perhaps your studies have been relatively stressful lately?”
-  es: ¿Quizá has estudiado mucho últimamente?".
+  pinyin: 'Kěnéng zuìjìn xuéxí bǐjiào jǐnzhāng ba?"'
+  en: 'Perhaps your studies have been relatively stressful lately?"'
+  es: '¿Quizá has estudiado mucho últimamente?".'
 - id: 5b3c88999caf4cf8b763fe067b27de14
   zh-hans: “您自己到市场上去买两斤山楂，
   pinyin: “Nín zìjǐ dào shìchǎng shàngqù mǎi liǎng jīn shānchá,
   en: “Take yourself to the market to buy two jin of hawthorn,
-  es: "Ve al mercado y compra un kilo de espino.
+  es: '"Ve al mercado y compra un kilo de espino.'
 - id: 62ca76738236490ead0e908562884a2b
   zh-hans: 有空儿就吃几个。
   pinyin: yǒu kòngr jiù chī jǐ gè.
@@ -97,7 +97,7 @@
   zh-hans: 过几天你就会好的。”
   pinyin: Guò jǐ tiān nǐ jiù huì hǎo de.”
   en: In a few days you will feel better.”
-  es: Estarás bien en unos días".
+  es: 'Estarás bien en unos días".'
 - id: e2e7cb19fc9b4986a46b115e4fb024b6
   zh-hans: 他的话，林娜都听懂了，
   pinyin: Tā dehuà, Lín Nà dōu tīng dǒngle,
@@ -171,13 +171,13 @@
 - id: 37de67fc380a4dc697abd16096d72396
   zh-hans: 就把看中医的事儿对他说了，
   pinyin: jiù bǎ kàn zhòng yī de shìr duì tā shuōle,
-  en: told him about seeing the Chinese Medicine doctor:
+  en: 'told him about seeing the Chinese Medicine doctor:'
   es: Le contó su visita al médico chino.
 - id: c188d387257145d78965c84dd83e00d3
   zh-hans: “我觉得很奇怪，
   pinyin: “Wǒ juéde hěn qíguài,
   en: “I felt it was very strange,
-  es: "Creo que es extraño que
+  es: '"Creo que es extraño que'
 - id: 1aab242fe1774f6988553e6275e91fe5
   zh-hans: 那位老中医没让我吃中药，
   pinyin: nà wèi lǎo zhōngyī méi ràng wǒ chī zhōngyào,
@@ -187,12 +187,12 @@
   zh-hans: 只要我吃山楂，还要我多运动。”
   pinyin: zhǐyào wǒ chī shānchá, hái yào wǒ duō yùndòng.”
   en: only asked me to eat hawthorn, and also do more exercise.”
-  es: Sólo quería que comiera espino y hiciera más ejercicio".
+  es: 'Sólo quería que comiera espino y hiciera más ejercicio".'
 - id: 5b486b34f9f64eeb84e6f8355a3b7461
   zh-hans: “山楂就是药。
   pinyin: “Shānchá jiùshì yào.
   en: “Hawthorn is a medicine.
-  es: "El espino blanco es medicina.
+  es: '"El espino blanco es medicina.'
 - id: b89c3dbd1c2542fc9220f89bef30b263
   zh-hans: 因为你的病是消化不好，
   pinyin: Yīnwèi nǐ de bìng shì xiāohuà bù hǎo,
@@ -207,7 +207,7 @@
   zh-hans: 是山楂把你的胃病治好了。”
   pinyin: Shì shānchá bǎ nǐ de wèibìng zhì hǎole.”
   en: It’s hawthorn that cured your stomach problems.”
-  es: El espino curó tu problema de estómago".
+  es: 'El espino curó tu problema de estómago".'
 - id: ae0474d3b3f44908afd80d4223248f2b
   zh-hans: “山楂怎么会是药呢？”
   pinyin: “Shānchá zěnme huì shì yào ne?”
@@ -217,7 +217,7 @@
   zh-hans: “中医用的药叫“中药”。
   pinyin: “Zhōngyī yòng de yào jiào “zhōngyào”.
   en: “The medicine that Chinese Medicine uses is called “Chinese medicine”.
-  es: "Los medicamentos utilizados en la medicina china se denominan "hierbas medicinales".
+  es: '"Los medicamentos utilizados en la medicina china se denominan "hierbas medicinales".'
 - id: e631b9c7e1db4491b8a11a625df479dd
   zh-hans: 很多中药取自植物、动物和矿物，
   pinyin: Hěnduō zhōngyào qǔ zì zhíwù, dòngwù hé kuàngwù,
@@ -242,7 +242,7 @@
   zh-hans: “中医中药治病，就这么简单？”
   pinyin: “Zhōngyī zhōngyào zhì bìng, jiù zhème jiǎndān?”
   en: “Chinese Medicine cures illness, is it that simple?”
-  es: "¿Tan sencillo es que la medicina china cure enfermedades?".
+  es: '"¿Tan sencillo es que la medicina china cure enfermedades?".'
 - id: b932c8b818df459f850de74042957942
   zh-hans: 宋华告诉她，
   pinyin: Sòng Huá gàosu tā,

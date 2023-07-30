@@ -85,9 +85,9 @@
   es: No hay huecos en las pinturas al óleo, pero siempre hay huecos en las pinturas chinas.
 - id: fe4fff4f-039f-423d-a0b0-b7daee3020f9
   zh-hans: 你看这幅徐悲鸿的画儿：
-  pinyin: Nǐ kàn zhè fú Xú Bēihóng de huàr: 
-  en: Look at this Xu Beihong painting: 
-  es: Mira este cuadro de Xu Beihong:
+  pinyin: 'Nǐ kàn zhè fú Xú Bēihóng de huàr:'
+  en: 'Look at this Xu Beihong painting:'
+  es: 'Mira este cuadro de Xu Beihong:'
 - id: 2e7746a5-5b07-4bda-a092-6cdd4da60b1d
   zh-hans: 画家只画了一匹马，没有画别的。
   pinyin: Huàjiā zhǐ huàle yī pǐ mǎ, méiyǒu huà bié de. 
@@ -100,9 +100,9 @@
   es: Pero creemos que hay algo más.
 - id: a49d6332-2b59-41af-91f5-097ceabd5f78
   zh-hans: 让我们来想象一下：
-  pinyin: Ràng wǒmen lái xiǎngxiàng yīxià: 
-  en: Let’s think about it for a moment: 
-  es: Imaginemos:
+  pinyin: 'Ràng wǒmen lái xiǎngxiàng yīxià:'
+  en: 'Let’s think about it for a moment:'
+  es: 'Imaginemos:'
 - id: b0b0fb8e-7395-47c9-87b5-73e52f34dff7
   zh-hans: 那匹马往咱们这儿跑来了，
   pinyin: Nà pǐ mǎ wǎng zánmen zhèr pǎo láile, 

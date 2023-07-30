@@ -8,12 +8,11 @@ Generate video.
 #+HEADER: :dir (or default-directory)
 #+HEADER: :results silent
 #+begin_src sh
-python3 generate-video.py \
-        --media "timestamps/videos/43-2.webm" \
-        --timestamps "timestamps/videos/43-2.vtt" \
-        --sentences "sentences/43-2.yaml" \
-        --output "43-2-video.mp4" \
-        --do-color-words True \
+python3 'python/subtitles_three_lines_generic.py' \
+        --media 'videos/43-text-2.webm' \
+        --timestamps 'timestamps/videos/43-text-2.vtt' \
+        --sentences 'sentences/43-text-2.yaml' \
+        --output '43-text-2-audio.mp4' \
         --field-for-subtitles-in-third-line 'es'
 #+end_src
 

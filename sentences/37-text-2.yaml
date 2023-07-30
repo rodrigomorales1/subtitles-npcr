@@ -90,14 +90,14 @@
   es: En este punto, el gerente del hotel nos dio la bienvenida a todos.
 - id: b217df86-69f7-4517-b15f-37bf815311f0
   zh-hans: 他说：
-  pinyin: Tā shuō: 
-  en: He said: 
-  es: Dijo:
+  pinyin: 'Tā shuō:'
+  en: 'He said:'
+  es: 'Dijo:'
 - id: be2d6279-31f7-41d2-827d-4e3640bce7f1
   zh-hans: “欢迎各国的朋友来我们内蒙草原旅游。
   pinyin: “Huānyíng gèguó de péngyǒu lái wǒmen Nèiméng cǎoyuán lǚyóu. 
   en: “Friends from every country are welcome to come travelling to our Mongolian grasslands. 
-  es: "Bienvenidos amigos de todos los países a nuestra pradera de Mongolia Interior.
+  es: '"Bienvenidos amigos de todos los países a nuestra pradera de Mongolia Interior.'
 - id: 0c4af9fc-65e3-451f-a5a1-e528cf5072f8
   zh-hans: 今天晚上，请大家按蒙族的习惯吃烤全羊。
   pinyin: Jīntiān wǎnshàng, qǐng dàjiā àn měngzú de xíguàn chī kǎo quán yáng. 
@@ -122,7 +122,7 @@
   zh-hans: 吃第一块烤羊肉。”
   pinyin: chī dì yī kuài kǎo yángròu.” 
   en: and eat the first piece of roast mutton. 
-  es: coma el primer trozo de cordero asado".
+  es: 'coma el primer trozo de cordero asado".'
 - id: 2e441437-d466-4f8e-af30-eb224d6a9731
   zh-hans: 谁喝了第一杯酒？
   pinyin: Sheí hēle dì yī bēi jiǔ? 
