@@ -121,8 +121,8 @@
 - id: 5052d602ce6a4867acdfa8ef07b896e6
   zh-hans: 不是送(1:小)(2:梳子:7)，就是送(3:小)(4:镜子:8)。
   pinyin: bùshì sòng (1:xiǎo) (2:shūzi), jiùshì sòng (3:xiǎo) (4:jìngzi).
-  en: but if it’s not a free (1:small) (2:comb), then it’s a free (3:small) (4:mirror).
-  es: no nos dan gratis un (1:pequeño) (2:peine), sino nos dan gratis un (3:pequeño) (4:espejo).
+  en: it's either a (1:small) (2:comb) or a (3:small) (4:mirror).
+  es: o nos dan un (1:pequeño) (2:peine) o un (3:pequeño) (4:espejo).
 - id: fba41b62b7964a4091e2f7d2412c0864
   zh-hans: (1:您)不(2:相信:9)？
   pinyin: (1:Nín) bù (2:xiāngxìn)?
