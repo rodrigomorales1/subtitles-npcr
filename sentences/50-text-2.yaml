@@ -16,13 +16,13 @@
 - id: b879456220d84a9d9e7c73e1c628fed3
   zh-hans: 更让我觉得奇怪的是，
   pinyin: Gèng ràng wǒ juéde qíguài de shì,
-  en: What I think is even more strange,
+  en: What I think is even more strange is that
   es: Lo que me parece aún más extraño es que
 - id: 8a1c6f801b8d4919bb9d69db8e99a0ef
   zh-hans: 这儿公蟹比母蟹受欢迎，
   pinyin: zhèr gōng xiè bǐ mǔ xiè shòu huānyíng,
-  en: is that here male crabs are more popular than female crabs,
-  es: los cangrejos macho son más populares que los cangrejos hembra aquí.
+  en: here male crabs are more popular than female crabs,
+  es: aquí los cangrejos macho son más populares que los cangrejos hembra.
 - id: 5ddc564ee0374ca982980c16e36008a4
   zh-hans: 公蟹的价钱要比母蟹贵一倍。
   pinyin: gōng xiè de jiàqián yào bǐ mǔ xiè guì yī bèi.
@@ -37,12 +37,12 @@
   zh-hans: 不管他们是怎么想的，
   pinyin: Bùguǎn tāmen shì zěnme xiǎng de,
   en: No matter what they think,
-  es: Lo que ellos piensen.
+  es: Sin importar lo que ellos piensen,
 - id: 61693b7923ad4c4f8582168fbd2649fa
   zh-hans: 我们能用公蟹一半的价钱买母蟹，
   pinyin: wǒmen néng yòng gōng xiè yībàn de jiàqián mǎi mǔ xiè,
   en: we can buy female crabs for half the price of male crabs,
-  es: Podemos comprar un cangrejo hembra por la mitad de precio que un cangrejo macho.
+  es: podemos comprar un cangrejo hembra por la mitad de precio que un cangrejo macho.
 - id: 23b81186f84446fea1611c9887ec4aff
   zh-hans: 当然很高兴。
   pinyin: dāngrán hěn gāoxìng.
@@ -52,12 +52,12 @@
   zh-hans: 每次吃完蟹以后，
   pinyin: Měi cì chī wán xiè yǐhòu,
   en: Everytime we finish eating crab,
-  es: Cada vez después de comer cangrejos.
+  es: Cada vez después de comer cangrejos,
 - id: 3d28f91d9b004f9190fd411554a7339b
   zh-hans: 我和我的中国朋友们都要说：
   pinyin: 'wǒ hé wǒ de Zhōngguó péngyǒumen dōu yào shuō:'
   en: 'me and my Chinese friends always say:'
-  es: 'Mis amigos chinos y yo decíamos:'
+  es: 'mis amigos chinos y yo decimos:'
 - id: d42052ea086643dc9e6385b8b6ad1441
   zh-hans: “美国人真不会吃！”
   pinyin: “Měiguó rén zhēn bù huì chī!”
@@ -67,22 +67,22 @@
   zh-hans: 有一天，
   pinyin: Yǒu yītiān,
   en: One day,
-  es: Un día.
+  es: Un día,
 - id: c1388dabe7344f10b6d335f3f83c9cca
   zh-hans: 一位美国朋友请我们到他家去做客。
   pinyin: yī wèi Měiguó péngyǒu qǐng wǒmen dào tā jiā qù zuòkè.
   en: an American friend invited us over to his house.
-  es: Un amigo americano nos invitó a su casa.
+  es: un amigo americano nos invitó a su casa.
 - id: fa18f27d256c480d83bbd9e238151fd9
   zh-hans: 主人知道中国人爱吃蟹，
   pinyin: Zhǔrén zhīdào Zhōngguó rén ài chī xiè,
   en: The host knew that Chinese love to eat crab,
-  es: El anfitrión sabía que a los chinos les encantan los cangrejos.
+  es: El anfitrión sabía que a los chinos les encantan los cangrejos y
 - id: b9d8761853454c71a45f0cd7c1d71786
   zh-hans: 就买了一大袋。
   pinyin: jiù mǎile yī dàdài.
   en: and so he bought a big bag.
-  es: Compró una bolsa grande.
+  es: compró una bolsa grande.
 - id: ba5eb806e7ea43598fc4f2220660fbf0
   zh-hans: 我开玩笑地问他：
   pinyin: 'Wǒ kāiwánxiào de wèn tā:'
@@ -102,22 +102,22 @@
   zh-hans: “你们中国人最爱吃母蟹，
   pinyin: '"Nǐmen Zhōngguó rén zuì ài chī mǔ xiè,'
   en: '"You Chinese most love to eat female crab,'
-  es: '"A los chinos os gustan los cangrejos hembra.'
+  es: '"A ustedes, los chinos, les gustan los cangrejos hembra,'
 - id: c2ba6619704947a694b0bf6455316ec1
   zh-hans: 我们美国人却爱吃公蟹。
   pinyin: wǒmen Měiguó rén què ài chī gōng xiè.
   en: however us Americans love to eat male crab.
-  es: A los americanos nos gustan los machos.
+  es: A los americanos nos gustan los cangrejos machos.
 - id: 19b7b9886b254c3eae5a701e1b8d8b9a
   zh-hans: 今天我们好好地比较一下，
   pinyin: Jīntiān wǒmen hǎohǎo de bǐjiào yīxià,
   en: Today, let’s do a good comparison, and
-  es: Vamos a compararlos hoy.
+  es: Hoy, los vamos a comparar y
 - id: 482458a265f14005bef1a4415e7a46bf
   zh-hans: 看看究竟哪种好吃。”
   pinyin: 'kàn kàn jiùjìng nǎ zhǒng hào chī."'
   en: 'see exactly which tastes better."'
-  es: 'A ver cuál es mejor".'
+  es: 'veremos cuál es el mejor".'
 - id: e3fe00e22d50412a86ae847c3ce46316
   zh-hans: 因为他去过中国，所以他知道中国人的爱好。
   pinyin: Yīnwèi tā qùguò Zhōngguó, suǒyǐ tā zhīdào Zhōngguó rén de àihào.
@@ -132,17 +132,17 @@
   zh-hans: 主人吃着公蟹说：“好香啊！”
   pinyin: 'Zhǔrén chīzhe gōng xiè shuō: "Hǎo xiāng a!"'
   en: 'The host said while eating male crab: "So tasty!"'
-  es: 'El maestro comió el cangrejo macho y dijo: "¡Qué bien huele!".'
+  es: 'El anfitrión comió el cangrejo macho y dijo: "¡Qué bien huele!".'
 - id: f3fdae61e34c4f8f8a1afded092460e6
   zh-hans: 他还解释说，
   pinyin: Tā hái jiěshì shuō,
   en: He also expained,
-  es: Y explicó.
+  es: Y explicó
 - id: 7cdf5c4f96c24e64b4004ef50393d5c9
   zh-hans: 他喜欢公蟹肉又多又嫩，
   pinyin: tā xǐhuan gōng xiè ròu yòu duō yòu nèn,
   en: he likes that male crabs have more meat and the meat is more tender,
-  es: Le gusta que los cangrejos macho sean carnosos y tiernos.
+  es: que le gusta que los cangrejos machos sean carnosos y tiernos.
 - id: 05beec19bb0e44489a74ebf6727bf730
   zh-hans: 母蟹不但肉少，而且也不香。
   pinyin: mǔ xiè bùdàn ròu shǎo, érqiě yě bù xiāng.
@@ -157,27 +157,27 @@
   zh-hans: 营养都到孩子那儿去了。
   pinyin: yíngyǎng dōu dào háizi nàr qùle.
   en: all of their nutrients go to the children.
-  es: Todos los nutrientes van al bebé.
+  es: todos los nutrientes van al bebé.
 - id: ff8baa26179f47409ed1e1fc9638d6fc
   zh-hans: 我们听了，都笑了起来。
   pinyin: Wǒmen tīngle, dōu xiàole qǐlái.
   en: When we heard this, we all started laughing.
-  es: Todos nos reímos.
+  es: Cuando escuchamos eso, Todos nos reímos.
 - id: fdbd2cdeaca84e85abb9b12f06e63d38
   zh-hans: 主人看了看我们，有接着说：
   pinyin: 'Zhǔrén kànle kàn wǒmen, yǒu jiēzhe shuō:'
   en: 'The host looked at us, and then said:'
-  es: 'El maestro nos miró y dijo:'
+  es: 'El anfitrión nos miró y luego dijo:'
 - id: 1fd70a3efdde46b09fae1d3dfcee07aa
   zh-hans: “你们觉得我们美国人不会吃，
   pinyin: '"Nǐmen juéde wǒmen Měiguó rén bù huì chī,'
   en: '"You think that us Americans don’t know how to eat,'
-  es: '"Creéis que los americanos no sabemos comer.'
+  es: '"Creen que los americanos no sabemos comer,'
 - id: 85d1e926f8ce4414ab0a9d2e580c326a
   zh-hans: 我还觉得你们中国人吃得怪呢！
   pinyin: wǒ hái juéde nǐmen Zhōngguó rén chī de guài ne!
   en: I think you Chinese eat strange too!
-  es: Yo también creo que los chinos coméis raro.
+  es: ¡yo también creo que los chinos comen raro!
 - id: 9bdadd3a0ec7407f9867f8a94c2e1c69
   zh-hans: 其实这是因为习惯不同。”
   pinyin: 'Qíshí zhè shì yīnwèi xíguàn bùtóng."'
@@ -187,22 +187,22 @@
   zh-hans: 听了主人对吃蟹的看法，
   pinyin: Tīngle zhǔrén duì chī xiè de kànfǎ,
   en: Hearing the host’s views on eating crab,
-  es: Después de escuchar las opiniones del maestro sobre comer cangrejos.
+  es: Después de escuchar las opiniones del anfitrión sobre comer cangrejos,
 - id: 950a6763dc4c4fe0a9b328f45ff64690
   zh-hans: 我觉得他说的很有道理。
   pinyin: wǒ juéde tā shuō de hěn yǒu dàolǐ.
   en: I thought what he said what quite reasonable.
-  es: Creo que lo que dijo tiene sentido.
+  es: creo que lo que dijo tiene sentido.
 - id: b1ce39e2c2364dd7998e3612d8292d42
   zh-hans: 中国人生活在东半球，
   pinyin: Zhōngguó rén shēnghuó zài dōngbànqiú,
   en: Chinese people live in the eastern hemisphere,
-  es: Los chinos viven en el hemisferio oriental.
+  es: Los chinos viven en el hemisferio oriental,
 - id: 55cb3fd8d59e4e5a93aaff77b2eab120
   zh-hans: 美国人生活在西半球，
   pinyin: Měiguó rén shēnghuó zài xībànqiú,
   en: Americans live in the western hemisphere,
-  es: Los americanos viven en el hemisferio occidental.
+  es: Los americanos viven en el hemisferio occidental,
 - id: f1d3334a33784d9f8785156de4b12522
   zh-hans: 吃的习惯不同，
   pinyin: chī de xíguàn bùtóng,
@@ -217,7 +217,7 @@
   zh-hans: 这是很自然的。
   pinyin: zhè shì hěn zìrán de.
   en: this is only quite natural.
-  es: Es natural.
+  es: Esto es muy natural.
 - id: 121fa992350e4f27879b093fad049b6f
   zh-hans: 地球上有这么多国家和民族，
   pinyin: Dìqiú shàng yǒu zhème duō guójiā hé mínzú,
@@ -227,32 +227,32 @@
   zh-hans: 有这么多不同的文化，
   pinyin: yǒu zhème duō bùtóng de wénhuà,
   en: with so many different cultures,
-  es: Hay tantas culturas diferentes.
+  es: hay tantas culturas diferentes,
 - id: 1de56645f6754013b56d87df3668170f
   zh-hans: 世界本来就是多样化的。
   pinyin: shìjiè běnlái jiùshì duōyàng huà de.
   en: so the world is inherently diverse.
-  es: El mundo es intrínsecamente diverso.
+  es: el mundo es originalmente diverso.
 - id: 23c155e000c94f749428d93608b43cc4
   zh-hans: 如果我们尊重这种不同，
   pinyin: Rúguǒ wǒmen zūnzhòng zhè zhǒng bùtóng,
   en: If we respect these sorts of differences,
-  es: Si respetamos esas diferencias.
+  es: Si respetamos esas diferencias,
 - id: 77d483a343ee4ad495e63a2b7728d644
   zh-hans: 大家就能和平、友好的相处；
   pinyin: dàjiā jiù néng hépíng, yǒuhǎo de xiāngchǔ;
   en: everyone can live together in peace, and friendship;
-  es: podemos vivir todos juntos en paz y amistad;
+  es: podemos vivir todos juntos en paz e interactuar en amistad;
 - id: d9cc01a50da44ce1bc0ea5e79a5c29cf
   zh-hans: 如果我们能很好地利用这种不同，
   pinyin: rúguǒ wǒmen néng hěn hǎo dì lìyòng zhè zhǒng bùtóng,
   en: if we can put to good use these sorts of differences,
-  es: Si podemos hacer un buen uso de tales diferencias.
+  es: Si podemos hacer un buen uso de tales diferencias,
 - id: e7083f4b3c6241e6ac87bb2fbbd976dd
   zh-hans: 加强经济合作，
   pinyin: jiāqiáng jīngjì hézuò,
   en: and strengthen economic cooperation,
-  es: reforzar la cooperación económica.
+  es: reforzar la cooperación económica,
 - id: 020f40b6fd3249a2988a589ea671ebae
   zh-hans: 大家都有可能生活得更好。
   pinyin: dàjiā dōu yǒu kěnéng shēnghuó de gèng hǎo.
@@ -262,27 +262,27 @@
   zh-hans: 比如说，美国人不吃鸡爪，
   pinyin: Bǐrú shuō, Měiguó rén bù chī jī zhuǎ,
   en: For example, Americans do not eat chicken feet,
-  es: Por ejemplo, los estadounidenses no comen patas de pollo.
+  es: Por ejemplo, los estadounidenses no comen patas de pollo,
 - id: 893dc4e8091f4756bcb5c7357a285ec2
   zh-hans: 可是在中国，
   pinyin: kěshì zài Zhōngguó,
   en: however in China,
-  es: Pero en China.
+  es: pero en China,
 - id: 37b85cbf5951412aaad87747721956b6
   zh-hans: 鸡爪的价钱比鸡肉还贵。
   pinyin: jī zhuǎ de jiàqián bǐ jīròu hái guì.
   en: the price of chicken feet is more expensive than chicken meat.
-  es: Las patas de pollo son más caras que el pollo.
+  es: Las patas de pollo son más caras que la carne de pollo.
 - id: 6a8b38b6d29f4a11a1075c9f1e4126da
   zh-hans: 中国每年都要从美国进口很多的鸡爪，
   pinyin: Zhōngguó měinián dōu yào cóng Měiguó jìnkǒu hěnduō de jī zhuǎ,
   en: China every year imports a lot of chicken feet from America, and
-  es: China importa cada año muchas patas de pollo de Estados Unidos.
+  es: China importa cada año muchas patas de pollo de Estados Unidos,
 - id: b05e599f67c44829941d05eaa745a2f5
   zh-hans: 美国人赚了钱很高兴；
   pinyin: Měiguó rén zhuànle qián hěn gāoxìng;
   en: Americans happily earn money;
-  es: Los estadounidenses están contentos de ganar dinero;
+  es: los estadounidenses están contentos de ganar dinero;
 - id: bce35ec3fe974983bf8480c599929c85
   zh-hans: 中国人吃到便宜的鸡爪，也很高兴。
   pinyin: Zhōngguó rén chī dào piányi de jī zhuǎ, yě hěn gāoxìng.
@@ -292,9 +292,9 @@
   zh-hans: 既然是大家都高兴的事儿，
   pinyin: Jìrán shì dàjiā dōu gāoxìng de shìr,
   en: Since this is something that makes everyone happy,
-  es: Ya que es algo de lo que todos estamos contentos.
+  es: Ya que es algo de lo que todos estamos contentos,
 - id: 4ca8b9ee421a4e10bf69e30c59178d48
   zh-hans: 为什么不多做呢？
   pinyin: wèishéme bù duō zuò ne?
   en: why not do more?
-  es: ¿Por qué no hacemos más?
+  es: ¿Por qué no hacemos más de estas acciones?
