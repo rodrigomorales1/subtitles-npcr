@@ -28,9 +28,29 @@
   pinyin: Hǎo de, nǐmen děng(1:zhe), wǒ (2:mǎshàng) jiù lái.
   en: Ok, you two wait there, I’ll come (2:immediately).
   es: Vale, espera aquí. Voy (2:inmediatamente).
+- id: aea6a98f-f046-438e-a809-665b0708cef7
+  zh-hans: 没事儿吧？
+  pinyin: Méishìr ba?
+  en: It's nothing, right?
+  es: No pasa nada ¿cierto?
+- id: 594b639b-ed35-4d39-8bfb-2512c048d547
+  zh-hans: 嗯。
+  pinyin: ǹg.
+  en: Yes.
+  es: Sí.
+- id: 51849688-670d-4f6d-b007-6249a4f7d0ea
+  zh-hans: 坐一会儿。
+  pinyin: Méishìr ba. Zuò yīhuǐr.
+  en: It's nothing, right? Sit a moment.
+  es: No pasa nada, siéntate un momento.
+- id: 47c36cce-aedb-4dd4-a825-e920ed49cbcd
+  zh-hans: 疼吗？
+  pinyin: Téng ma?
+  en: Does it hurt?
+  es: ¿Te duele?
 - id: 5debcbb2-dced-43aa-85ce-19f4f3b261ce
   zh-hans: 林娜，你怎么样？伤得(1:重:8)不(2:重:8)？
-  pinyin: Méishìr ba. Zuò yīhuǐr. Téng ma? Lín Nà, nǐ zěnme yàng? Shāng de (1:zhòng) bù (2:zhòng)?
+  pinyin: Lín Nà, nǐ zěnme yàng? Shāng de (1:zhòng) bù (2:zhòng)?
   en: Lin Na, how are you? Is the injury (1:serious)?
   es: Linna, ¿cómo estás? ¿La herida es (1:grave)?
 - id: 1a862e80-c1ad-4ac3-8f8a-27b59adb9c50
