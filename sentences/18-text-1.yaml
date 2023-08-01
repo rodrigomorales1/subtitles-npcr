@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: 1e223cae-9f1a-4da0-b68c-d6ab3d0f96bd
   zh-hans: 小姐，我要寄这个包裹。
   pinyin: Xiǎojiě, wǒ yào jì zhège bāoguǒ. 

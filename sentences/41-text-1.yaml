@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: 256ab023579147a98d15d13fcaec780b
   zh-hans: 宋华，毕业以后，
   pinyin: Sòng Huá, bìyè yǐhòu,

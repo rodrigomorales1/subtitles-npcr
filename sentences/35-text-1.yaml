@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: 4b123a56-6564-44a5-a785-52d71a091db1
   zh-hans: 妈，开始工作以后，我就要买汽车。
   pinyin: Mā, kāishǐ gōngzuò yǐhòu, wǒ jiù yāomǎi qìchē. 

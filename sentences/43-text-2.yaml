@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: 388f94e9544a43359aaa55cbf2bb5fbb
   zh-hans: 我对(1:中国)(2:现代)(3:文学)很感兴趣，
   pinyin: Wǒ duì (1:Zhōngguó) (2:xiàndài) (3:wénxué) hěn gǎn xìngqù,

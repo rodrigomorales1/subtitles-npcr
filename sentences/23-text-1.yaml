@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: d91226ff-6d77-4db9-a74e-126e7b9212b0
   zh-hans: 要(1:放假:2)了，(2:同学们)有什么(3:打算:3)？
   pinyin: Yào (1:fàngjià) le, (2:tóngxuémen) yǒu shénme (3:dǎsuàn)?

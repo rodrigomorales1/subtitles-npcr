@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: 7d7eb963-76a3-47c3-80dd-449deb9c195b
   zh-hans: 大为，刚才有人给你打电话了。
   pinyin: Dàwéi, gāngcái yǒurén gěi nǐ dǎ diànhuàle. 

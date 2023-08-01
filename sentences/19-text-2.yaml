@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: a061cf5d-35bc-4008-968e-03888705d92e
   zh-hans: 咱们已经看了一个半小时的画儿了，
   pinyin: Zánmen yǐjīng kànle yīgè bàn xiǎoshí de huàr le, 

@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: 385097cc66c14c13bafe30e590dc6ad2
   zh-hans: 王小云给林娜讲了一个故事。
   pinyin: Wáng Xiǎoyún gěi Lín Nà jiǎngle yīgè gùshì.

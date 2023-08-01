@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: 5cef81d6-1e2d-4c20-a695-8c6c41c11904
   zh-hans: 力波，上午十点半，你妈妈给你打一个电话。
   pinyin: Lìbō, shàngwǔ shí diǎn bàn, nǐ māmā gěi nǐ dǎ yīgè diànhuà. 

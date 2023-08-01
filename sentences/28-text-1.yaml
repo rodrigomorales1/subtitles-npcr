@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: 4a7db976-cbfd-47f9-b631-98a7cfbcfc4e
   zh-hans: 今天是(1:中秋节:23)，
   pinyin: Jīntiān shì (1:Zhōngqiū Jié),

@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: 30a212f0-2925-42c3-88ae-9f1dd02a85c8
   zh-hans: 你好！我是语言学院的学生，
   pinyin: Nǐ hǎo! Wǒ shì Yǔyán Xuéyuàn de xuéshēng, 

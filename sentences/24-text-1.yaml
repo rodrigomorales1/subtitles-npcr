@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: 120f80fc-4c9e-42a1-b9d2-17d116e43cbb
   zh-hans: 小云，火车快到了吧？
   pinyin: Xiǎo Yún, huǒchē kuài dàole ba?

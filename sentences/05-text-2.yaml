@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: c009addd-1c51-4c47-8010-e84f4ebee092
   zh-hans: 小姐，请问餐厅在哪儿？
   pinyin: Xiǎojiě, qǐngwèn cāntīng zài nǎ’er? 

@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: 6a67432c-9368-426e-88bf-b4dee3ff4b50
   zh-hans: 大为，听说你得了感冒，现在你身体怎么样？
   pinyin: Dàwéi, tīng shuō nǐ dé le gǎnmào, xiànzài nǐ shēntǐ zěnme yàng? 

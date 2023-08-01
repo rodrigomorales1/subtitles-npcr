@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: 8bd57715-bb48-4545-8388-e93cd24d45d3
   zh-hans: 杨老师，明天您有时间吗？
   pinyin: Yáng Lǎoshī, míngtiān nín yǒu shíjiān ma? 

@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: 3824db3c-634d-4124-9591-17b58b6e7d68
   zh-hans: 杰克，到了我家，见了我父母，
   pinyin: Jiékè, dàole wǒjiā, jiànle wǒ fùmǔ, 

@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: 64a5c054-c794-40d8-8a7f-7bf7396c5dc8
   zh-hans: 大为，现在该去海关办你的事儿了。
   pinyin: Dàwéi, xiànzài gāi qù hǎiguān bàn nǐ de shìr le. 

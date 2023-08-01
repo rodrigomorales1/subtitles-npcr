@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: 611ac386ee964b4e9cc711908580068f
   zh-hans: 我们都知道母蟹比公蟹好吃。
   pinyin: Wǒmen dōu zhīdào mǔ xiè bǐ gōng xiè hǎo chī.

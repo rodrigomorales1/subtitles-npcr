@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: 5c6f60ea-60f5-4e24-9d8a-596c26bf90cd
   zh-hans: 舅妈呢？怎么没有来？
   pinyin: Jiùmā ne? Zěnme méiyǒu lái?

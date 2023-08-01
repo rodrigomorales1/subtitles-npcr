@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: ceaf380a-3754-4fae-b5ff-34ff7f36a8d9
   zh-hans: 小云，哪儿卖中式衣服？
   pinyin: Xiǎo Yún, nǎr mài zhōngshì yīfú? 

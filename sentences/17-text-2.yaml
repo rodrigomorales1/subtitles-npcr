@@ -1,3 +1,14 @@
+metadata:
+  quantity-of-new-words: null
+  is-reviewed-pinyin: False
+  is-reviewed-zh-hans: False
+  is-reviewed-es: False
+  is-reviewed-en: False
+  vocabulary-is-grouped-pinyin: False
+  vocabulary-is-grouped-zh-hans: False
+  vocabulary-is-grouped-es: False
+  vocabulary-is-grouped-en: False
+sentences:
 - id: 05c53f50-b205-4933-a67e-4dc93c4762af
   zh-hans: 两个小时过去了，你要的衣服还没买。
   pinyin: Liǎng gè xiǎoshí guòqùle, nǐ yào de yīfú hái méi mǎi. 
