@@ -11,88 +11,88 @@ metadata:
 sentences:
 - id: a156ba15-3c40-49fe-9b0a-807c6aa65b20
   zh-hans: 唉，这边儿。
-  pinyin: Āi, zhè biānr. 
-  en: Hey, over here. 
+  pinyin: Āi, zhè biānr.
+  en: Hey, over here.
   es: Por aquí.
 - id: 028586f0-3a01-489c-9fe2-c3cbc23ab36c
   zh-hans: 林娜，那是谁？
-  pinyin: Lín Nà, nà shì sheí? 
-  en: Lin Na, who is that? 
+  pinyin: Lín Nà, nà shì sheí?
+  en: Lin Na, who is that?
   es: Linna, ¿quién es ese?
 - id: 05c7aa39-cc87-4c97-b3e7-eede6218849a
   zh-hans: 那是马大为。你认识不认识他？
-  pinyin: Nà shì Mǎ Dàwéi. Nǐ rèn shì bù rènshí tā? 
-  en: That is Ma Dawei. Do you know him? 
+  pinyin: Nà shì Mǎ Dàwéi. Nǐ rèn shì bù rènshí tā?
+  en: That is Ma Dawei. Do you know him?
   es: Es Dawei Ma. ¿Lo conoces?
 - id: 7047a008-9eaf-4375-addd-91b1e855f620
   zh-hans: 我不认识他。
-  pinyin: Wǒ bù rènshí tā. 
-  en: I don’t know him. 
+  pinyin: Wǒ bù rènshí tā.
+  en: I don’t know him.
   es: No lo conozco.
 - id: 133901d3-d51a-4fe9-9a04-31f8ec691d07
   zh-hans: 我来介绍一下。
-  pinyin: Wǒ lái jièshào yīxià. 
-  en: Let me introduce you. 
+  pinyin: Wǒ lái jièshào yīxià.
+  en: Let me introduce you.
   es: Deja que te lo presente.
 - id: d7c2e10a-63c9-4760-bf4b-cd0fbe6e48f9
   zh-hans: 你好，大为，这是我朋友。
-  pinyin: Nǐ hǎo, Dàwéi, zhè shì wǒ péngyǒu. 
-  en: Hello, Dawei, this is my friend. 
+  pinyin: Nǐ hǎo, Dàwéi, zhè shì wǒ péngyǒu.
+  en: Hello, Dawei, this is my friend.
   es: Hola, Dawei. Éste es mi amigo.
 - id: c5a51bb5-be38-43d0-a79d-2f5c492c8656
   zh-hans: 你好！我姓丁，叫丁力波。
-  pinyin: Nǐ hǎo! Wǒ xìng Dīng, jiào Dīng Lìbō. 
-  en: Hello! My surname is Ding, I am called Ding Libo. 
+  pinyin: Nǐ hǎo! Wǒ xìng Dīng, jiào Dīng Lìbō.
+  en: Hello! My surname is Ding, I am called Ding Libo.
   es: Mucho gusto. Me llamo Ding, Ding Lipo.
 - id: 6db16a85-e4b1-4a93-bfa9-006167c593ea
   zh-hans: 请问，你叫什么名字？
-  pinyin: Qǐngwèn, nǐ jiào shénme míngzì? 
-  en: May I ask, what is your name? 
+  pinyin: Qǐngwèn, nǐ jiào shénme míngzì?
+  en: May I ask, what is your name?
   es: Disculpe, ¿cómo se llama?
 - id: 58c319a4-09ef-4d17-ae45-98cbf790148f
   zh-hans: 我的中文名字叫马大为。
-  pinyin: Wǒ de zhōngwén míngzì jiào Mǎ Dàwéi. 
-  en: My Chinese name is Ma Dawei. 
+  pinyin: Wǒ de zhōngwén míngzì jiào Mǎ Dàwéi.
+  en: My Chinese name is Ma Dawei.
   es: Mi nombre chino es Ma Dawei.
 - id: 2f854f65-91a1-4c88-8028-8d2b686ecd0a
   zh-hans: 你是不是中国人？
-  pinyin: Nǐ shì bùshì Zhōngguó rén? 
-  en: Are you Chinese? 
+  pinyin: Nǐ shì bùshì Zhōngguó rén?
+  en: Are you Chinese?
   es: ¿Eres chino?
 - id: 2e17215f-f308-46b5-a805-1d1039c9462c
   zh-hans: 我是加拿大人。我妈妈是中国人，
-  pinyin: Wǒ shì Jiānádà rén. Wǒ māmā shì Zhōngguó rén, 
-  en: I am Canadian. My mother is Chinese, 
+  pinyin: Wǒ shì Jiānádà rén. Wǒ māmā shì Zhōngguó rén,
+  en: I am Canadian. My mother is Chinese,
   es: Soy canadiense. Mi mamá es china.
 - id: 6e91c2e2-246c-4f00-9d5f-bc3545866f7a
   zh-hans: 我爸爸是加拿大人。
-  pinyin: wǒ bàba shì Jiānádà rén. 
-  en: my father is Canadian. 
+  pinyin: wǒ bàba shì Jiānádà rén.
+  en: my father is Canadian.
   es: Mi padre es canadiense.
 - id: a429fd40-e3f4-46e4-babb-0af459bb9679
   zh-hans: 你也是加拿大人吗？
-  pinyin: Nǐ yěshì Jiānádà rén ma? 
-  en: Are you also Canadian? 
+  pinyin: Nǐ yěshì Jiānádà rén ma?
+  en: Are you also Canadian?
   es: ¿Tú también eres canadiense?
 - id: 5bc1930f-bf43-47fb-a032-3e5c008bba50
   zh-hans: 不是，我不是加拿大人，我是美国人。
-  pinyin: Bùshì, wǒ bùshì Jiānádà rén, wǒ shì Měiguó rén. 
-  en: No, I am not Canadian, I am American. 
+  pinyin: Bùshì, wǒ bùshì Jiānádà rén, wǒ shì Měiguó rén.
+  en: No, I am not Canadian, I am American.
   es: No, no soy canadiense, soy estadounidense.
 - id: da8b60aa-97f9-42f8-a208-4d6622ab634e
   zh-hans: 你学习什么专业？
-  pinyin: Nǐ xuéxí shénme zhuānyè? 
-  en: What major are you studying? 
+  pinyin: Nǐ xuéxí shénme zhuānyè?
+  en: What major are you studying?
   es: ¿Qué estudias?
 - id: 4f26cec3-33b4-48f7-b1ea-9f0cc9f1fdb6
   zh-hans: 我学习美术专业。你呢？
-  pinyin: Wǒ xuéxí měishù zhuānyè. Nǐ ne? 
-  en: I am an art major. And you? 
+  pinyin: Wǒ xuéxí měishù zhuānyè. Nǐ ne?
+  en: I am an art major. And you?
   es: Estudio Bellas Artes. ¿Y tú?
 - id: 6da0cdb6-c317-4a63-b7ea-50fa6f35e711
   zh-hans: 我学习文学专业。现在我学习汉语。
-  pinyin: Wǒ xuéxí wénxué zhuānyè. Xiànzài wǒ xuéxí Hànyǔ. 
-  en: My major is literature. At the moment I am studying Chinese language. 
+  pinyin: Wǒ xuéxí wénxué zhuānyè. Xiànzài wǒ xuéxí Hànyǔ.
+  en: My major is literature. At the moment I am studying Chinese language.
   es: Estudié literatura. Ahora estudio chino.
 - id: 2702e021-5978-4c2d-9701-b040e3d27f6a
   zh-hans: 现在我们都学习汉语，也都是汉语系的学生。

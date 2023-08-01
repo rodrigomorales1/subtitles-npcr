@@ -11,18 +11,18 @@ metadata:
 sentences:
 - id: bb0d15a4-0392-48c3-aceb-e3eb2fbd711b
   zh-hans: 先生，您要什么？
-  pinyin:  Xiānshēng, nín yào shénme? 
-  en: Mr, what would you like? 
+  pinyin:  Xiānshēng, nín yào shénme?
+  en: Mr, what would you like?
   es: ¿Qué se le ofrece, señor?
 - id: cfc966d7-c1de-4b0d-a78c-a4c950dac652
   zh-hans: 你好，师傅。请问，这是什么？
-  pinyin: Nǐ hǎo, shīfù. Qǐngwèn, zhè shì shénme? 
-  en: Hello, sir. May I ask, what is this? 
+  pinyin: Nǐ hǎo, shīfù. Qǐngwèn, zhè shì shénme?
+  en: Hello, sir. May I ask, what is this?
   es: Hola, amo. Disculpe, ¿qué es esto?
 - id: 2eff9b16-897a-41ee-8dae-28c4ab99b074
   zh-hans: 您不认识吗？这是香蕉苹果。
-  pinyin: Nín bù rènshí ma? Zhè shì xiāngjiāo píngguǒ. 
-  en: You don’t recognise? This is a banana apple. 
+  pinyin: Nín bù rènshí ma? Zhè shì xiāngjiāo píngguǒ.
+  en: You don’t recognise? This is a banana apple.
   es: ¿No lo reconoce? Esto es manzana banana.
 - id: f39b368b-e903-4549-be6f-f938b7fd7e95
   zh-hans: 对不起，我是问：这个汉语怎么说？
@@ -31,23 +31,23 @@ sentences:
   es: 'Disculpe, le pregunto: ¿cómo se dice esto en chino?'
 - id: 437447b6-533a-4511-be1f-941a6280f4b4
   zh-hans: 啊，您是外国人。
-  pinyin: A, nín shì wàiguó rén. 
-  en: Ah, you are a foreigner. 
+  pinyin: A, nín shì wàiguó rén.
+  en: Ah, you are a foreigner.
   es: Ah, eres extranjero.
 - id: 098ba8a4-5897-43f9-add2-0ac24130398c
   zh-hans: 您在哪儿工作？
-  pinyin: Nín zài nǎr gōngzuò? 
-  en: Where do you work? 
+  pinyin: Nín zài nǎr gōngzuò?
+  en: Where do you work?
   es: ¿Dónde trabajas?
 - id: 34b63f69-bd4a-4780-b081-10c21acfe862
   zh-hans: 我在语言学院学习。
-  pinyin: Wǒ zài Yǔyán Xuéyuàn xuéxí. 
-  en: I am a student at the School of Languages. 
+  pinyin: Wǒ zài Yǔyán Xuéyuàn xuéxí.
+  en: I am a student at the School of Languages.
   es: Estudio en un instituto de idiomas.
 - id: eec74750-90dd-4eab-8a77-bbb9a8125337
   zh-hans: 您学习汉语，是不是？
-  pinyin: Nín xuéxí Hànyǔ, shì bùshì? 
-  en: You’re studying Chinese, right? 
+  pinyin: Nín xuéxí Hànyǔ, shì bùshì?
+  en: You’re studying Chinese, right?
   es: Estudias chino, ¿no?
 - id: ffb041b4-07ea-4b4e-a5d7-9f2414abef18
   zh-hans: 您跟我学，很容易：
@@ -56,103 +56,103 @@ sentences:
   es: 'Es fácil para ti aprender de mí:'
 - id: 7216fd72-0c61-4788-97cf-9e305c209553
   zh-hans: 这叫香蕉，这叫香蕉苹果，
-  pinyin: Zhè jiào xiāngjiāo, zhè jiào xiāngjiāo píngguǒ, 
-  en: This is called a banana, this is called a banana apple, 
+  pinyin: Zhè jiào xiāngjiāo, zhè jiào xiāngjiāo píngguǒ,
+  en: This is called a banana, this is called a banana apple,
   es: Se llama plátano. Se llama plátano-manzana.
 - id: 4e914b24-e704-4a8a-9463-7639d100d0f4
   zh-hans: 这也是苹果，那是葡萄……
-  pinyin: zhè yěshì píngguǒ, nà shì pútáo…… 
-  en: this is also an apple, those are grapes… 
+  pinyin: zhè yěshì píngguǒ, nà shì pútáo……
+  en: this is also an apple, those are grapes…
   es: Esto también es una manzana. Eso es una uva. ......
 - id: d25b0346-e118-45da-b287-e3da1bb55b84
   zh-hans: 香蕉，
-  pinyin: Xiāngjiāo, 
-  en: Banana, 
+  pinyin: Xiāngjiāo,
+  en: Banana,
   es: Plátano.
 - id: bc3de90b-6dc2-498c-93c5-fced99ab9c91
   zh-hans: 苹果，
-  pinyin: píngguǒ, 
-  en: apple, 
+  pinyin: píngguǒ,
+  en: apple,
   es: Manzana.
 - id: 79681d8f-63ad-4aba-bf45-5b7f76d5e312
   zh-hans: 香蕉苹果……
   pinyin: xiāngjiāo píngguǒ……
-  en: banana apple… 
+  en: banana apple…
   es: Plátano manzana ......
 - id: 3b56a5ef-0302-49a2-b733-54b9dbb34238
   zh-hans: 一斤苹果多少钱？
-  pinyin: yī jīn píngguǒ duōshǎo qián? 
-  en: how much is 500 grams of apples? 
+  pinyin: yī jīn píngguǒ duōshǎo qián?
+  en: how much is 500 grams of apples?
   es: ¿Cuánto cuesta una gatera de manzanas?
 - id: 9c936dc7-1794-4ec1-a8fc-30d2b637bd1b
   zh-hans: 一斤三块二毛钱。
-  pinyin: Yī jīn sān kuài èrmáo qián. 
-  en: 500 grams is 3 dollars 20 cents. 
+  pinyin: Yī jīn sān kuài èrmáo qián.
+  en: 500 grams is 3 dollars 20 cents.
   es: Tres dólares y veinte centavos la catty.
 - id: 601f54a5-7073-4585-8c05-e3821f6cf6aa
   zh-hans: 您的苹果真贵。
-  pinyin: Nín de píngguǒ zhēn guì. 
-  en: Your apples are really expensive. 
+  pinyin: Nín de píngguǒ zhēn guì.
+  en: Your apples are really expensive.
   es: Tus manzanas son caras.
 - id: d5bf80d7-5bdb-4a16-a2ab-d336c50fc0d9
   zh-hans: 一斤三块二不贵。
-  pinyin: Yī jīn sān kuài èr bù guì. 
-  en: 500 grams for 3 dollars 20 is not expensive. 
+  pinyin: Yī jīn sān kuài èr bù guì.
+  en: 500 grams for 3 dollars 20 is not expensive.
   es: Tres dólares y dos centavos la catty no es caro.
 - id: 6c8e8c63-ee3d-43ed-9fc8-5eedf109eb88
   zh-hans: 您看，我的苹果大。
-  pinyin: Nín kàn, wǒ de píngguǒ dà. 
-  en: Look, my apples are very big. 
+  pinyin: Nín kàn, wǒ de píngguǒ dà.
+  en: Look, my apples are very big.
   es: Verás, mis manzanas son grandes.
 - id: 0d0ffbf9-c9d8-4bf1-9aa7-995ecd020447
   zh-hans: 好，做个朋友，三块钱一斤。
-  pinyin: Hǎo, zuò gè péngyǒu, sān kuài qián yī jīn. 
-  en: Ok, we’re friends, 3 dollars for 500 grams. 
+  pinyin: Hǎo, zuò gè péngyǒu, sān kuài qián yī jīn.
+  en: Ok, we’re friends, 3 dollars for 500 grams.
   es: Vale, seamos amigos. Tres dólares la cateta.
 - id: a5dbab08-9d43-4d8d-bb27-36c8e4956d13
   zh-hans: 一斤香蕉多少钱？
-  pinyin: Yī jīn xiāngjiāo duōshǎo qián? 
-  en: How much is 500 grams of bananas? 
+  pinyin: Yī jīn xiāngjiāo duōshǎo qián?
+  en: How much is 500 grams of bananas?
   es: ¿Cuánto cuesta un catty de plátanos?
 - id: 9ca4b396-123f-402b-947d-3d12274af301
   zh-hans: 两快七毛五分一斤，五块钱两斤。
-  pinyin: Liǎng kuài qī máo wǔ fēn yī jīn, wǔ kuài qián liǎng jīn. 
-  en: 2 dollars 70 cents for 500 grams, 5 dollars for 1 kilogram. 
+  pinyin: Liǎng kuài qī máo wǔ fēn yī jīn, wǔ kuài qián liǎng jīn.
+  en: 2 dollars 70 cents for 500 grams, 5 dollars for 1 kilogram.
   es: Dos setenta y cinco centavos por catty, cinco dólares por dos catties.
 - id: e2be3dac-7c64-4682-8da6-97edf5d50375
   zh-hans: 我买三斤香蕉和两斤香蕉苹果。
-  pinyin: Wǒ mǎi sān jīn xiāngjiāo hé liǎng jīn xiāngjiāo píngguǒ. 
-  en: I’ll buy 1.5 kilograms of bananas and 1 kilogram of banana apples. 
+  pinyin: Wǒ mǎi sān jīn xiāngjiāo hé liǎng jīn xiāngjiāo píngguǒ.
+  en: I’ll buy 1.5 kilograms of bananas and 1 kilogram of banana apples.
   es: Compraré tres catties de bananas y dos catties de manzanas bananas.
 - id: 37d2bd9a-74ae-4d9b-9d97-dba069621560
   zh-hans: 好。
-  pinyin: Yīgòng, 
+  pinyin: Yīgòng,
   en: Ok.
   es: De acuerdo.
 - id: 307485a5-eb38-4e2d-a402-dbf35ad582e8
   zh-hans: 一共，十四块钱。
-  pinyin: shísì kuài qián. 
-  en: Altogether 14 dollars. 
+  pinyin: shísì kuài qián.
+  en: Altogether 14 dollars.
   es: Catorce dólares en total.
 - id: 23df1cf1-28fc-4964-8cd3-36e81d1a630d
   zh-hans: 再送您一个苹果。您还要什么？
-  pinyin: Zàisòng nín yīgè píngguǒ. Nín hái yào shénme? 
-  en: I’ll also give you an apple. Would you like anything else. 
+  pinyin: Zàisòng nín yīgè píngguǒ. Nín hái yào shénme?
+  en: I’ll also give you an apple. Would you like anything else.
   es: Te daré otra manzana. ¿Qué más quieres?
 - id: 9f411511-fed5-498a-882c-34057e794c26
   zh-hans: 不要了，谢谢。给你钱。
-  pinyin: Bùyàole, xièxiè. Gěi nǐ qián. 
-  en: No, thanks. Here’s your money. 
+  pinyin: Bùyàole, xièxiè. Gěi nǐ qián.
+  en: No, thanks. Here’s your money.
   es: No, gracias. Aquí tienes tu dinero.
 - id: 7d06396d-7300-4bc8-bfe4-29355545b158
   zh-hans: 好，您给我二十块钱，我找您六块钱。
-  pinyin: Hǎo, nín gěi wǒ èrshí kuài qián, wǒ zhǎo nín liù kuài qián. 
-  en: Ok, you gave me 20 dollars, I’ll give you 6 dollars change. 
+  pinyin: Hǎo, nín gěi wǒ èrshí kuài qián, wǒ zhǎo nín liù kuài qián.
+  en: Ok, you gave me 20 dollars, I’ll give you 6 dollars change.
   es: Vale, tú me das 20 yuanes, yo te doy 6 yuanes.
 - id: 2016c49a-83df-440a-ab59-757d6e535c6e
   zh-hans: 再见。
-  pinyin: Zàijiàn. 
-  en: Goodbye. 
+  pinyin: Zàijiàn.
+  en: Goodbye.
   es: Hasta luego.
 - id: 27215674-4473-4dfc-91c2-b700ca324322
   zh-hans: 再见！

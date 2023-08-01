@@ -16,108 +16,108 @@ sentences:
   es: 'También tengo que preguntaros:'
 - id: 10106f70-8080-4b8d-bdd7-2e53c71271bd
   zh-hans: 你们去看大为租的房子了没有？
-  pinyin: Nǐmen qù kàn Dàwéi zū de fángzile méiyǒu? 
-  en: Have you two been to the apartment Dawei is renting? 
+  pinyin: Nǐmen qù kàn Dàwéi zū de fángzile méiyǒu?
+  en: Have you two been to the apartment Dawei is renting?
   es: ¿Han visto la casa que alquiló Dawei?
 - id: 579c8ee4-eed3-4d7e-a594-4d9d34aa2b20
   zh-hans: 房子在哪儿？
-  pinyin: Fángzi zài nǎr? 
-  en: Where is the apartment? 
+  pinyin: Fángzi zài nǎr?
+  en: Where is the apartment?
   es: ¿Dónde está?
 - id: 7f1df914-8a15-434b-ac38-613fbb6adab3
   zh-hans: 去了，房子在学校东边，离学校不太远。
-  pinyin: Qùle, fángzi zài xuéxiào dōngbian, lí xuéxiào bù tài yuǎn. 
-  en: Yes, the house is on the east of the apartment, not far from the school. 
+  pinyin: Qùle, fángzi zài xuéxiào dōngbian, lí xuéxiào bù tài yuǎn.
+  en: Yes, the house is on the east of the apartment, not far from the school.
   es: Sí, está en el lado este, no muy lejos de la escuela.
 - id: d0ed0f6a-9f12-4da8-babc-92de5959cf58
   zh-hans: 那儿叫花园小区，大为住八号楼。
-  pinyin: Nàr jiào Huāyuán Xiǎoqū, Dàwéi zhù bā hào lóu. 
-  en: It is called Garden District, Dawei lives in building number eight. 
+  pinyin: Nàr jiào Huāyuán Xiǎoqū, Dàwéi zhù bā hào lóu.
+  en: It is called Garden District, Dawei lives in building number eight.
   es: Se llama Garden District. Dawei vive en el edificio 8.
 - id: 37506d3c-b29a-4f43-b33c-849a2387ddb7
   zh-hans: 你们是怎么去的？
-  pinyin: Nǐmen shì zěnme qù de? 
-  en: How did you two go there? 
+  pinyin: Nǐmen shì zěnme qù de?
+  en: How did you two go there?
   es: ¿Cómo llegaron allí?
 - id: ede40759-da88-4cb4-8b55-8365867c391f
   zh-hans: 我们是坐公共汽车去的。车站就在小区前边。
-  pinyin: Wǒmen shì zuò gōnggòng qìchē qù de. Chēzhàn jiù zài xiǎoqū qiánbian. 
-  en: It was by bus that we both went there. The bus stop is just at the front of the school. 
+  pinyin: Wǒmen shì zuò gōnggòng qìchē qù de. Chēzhàn jiù zài xiǎoqū qiánbian.
+  en: It was by bus that we both went there. The bus stop is just at the front of the school.
   es: Cogimos un autobús. La parada está justo enfrente del barrio.
 - id: ce757ebc-4096-494c-97f1-0d059a44abe3
   zh-hans: 下车以后先往右拐，再往前走三分钟，
-  pinyin: Xià chē yǐhòu xiān wǎng yòu guǎi, zài wǎng qián zǒu sān fēnzhōng, 
-  en: After getting off the bus turn right, walk about three minutes, 
+  pinyin: Xià chē yǐhòu xiān wǎng yòu guǎi, zài wǎng qián zǒu sān fēnzhōng,
+  en: After getting off the bus turn right, walk about three minutes,
   es: Cuando bajes del autobús, gira a la derecha y camina tres minutos.
 - id: 3a874fa3-0e02-49ad-beb4-5ace43f481ce
   zh-hans: 就到八号楼了。
-  pinyin: jiù dào bā hào lóule. 
-  en: and should arrive at building number eight. 
+  pinyin: jiù dào bā hào lóule.
+  en: and should arrive at building number eight.
   es: Entonces llegarás al Edificio 8.
 - id: 913c8281-4aad-4b5e-8b9a-54e3bfbf66c9
   zh-hans: 那儿怎么样？
-  pinyin: Nàr zěnme yàng? 
-  en: What is it like there? 
+  pinyin: Nàr zěnme yàng?
+  en: What is it like there?
   es: ¿Qué tal está?
 - id: 4675e3f7-d500-459e-add8-023d5240933a
   zh-hans: 很好。八号楼下边是一个小花园，
-  pinyin: Hěn hǎo. Bā hào lóu xiàbian shì yīgè xiǎo huāyuán, 
-  en: Very nice. At the bottom of building number eight is a small garden, 
+  pinyin: Hěn hǎo. Bā hào lóu xiàbian shì yīgè xiǎo huāyuán,
+  en: Very nice. At the bottom of building number eight is a small garden,
   es: Es bonito. Hay un pequeño jardín abajo.
 - id: ad13b1c3-4518-4e02-8349-4e94a9c72f29
   zh-hans: 左边有一个商店，商店旁边是书店。
-  pinyin: zuǒbiān yǒu yīgè shāngdiàn, shāngdiàn pángbiān shì shūdiàn. 
-  en: to the left is a shop, besides the shop is a bookstore. 
+  pinyin: zuǒbiān yǒu yīgè shāngdiàn, shāngdiàn pángbiān shì shūdiàn.
+  en: to the left is a shop, besides the shop is a bookstore.
   es: Hay una tienda a la izquierda y una librería al lado.
 - id: 778bc3e6-883d-49df-b4b1-79fa1164d3bb
   zh-hans: 右边是银行和邮局。
-  pinyin: Yòubiān shì yínháng hé yóujú. 
-  en: To the right is a bank and post office. 
+  pinyin: Yòubiān shì yínháng hé yóujú.
+  en: To the right is a bank and post office.
   es: A la derecha está el banco y la oficina de correos.
 - id: 2dedec08-e278-4ea2-a08a-785b696e61d6
   zh-hans: 大为的房子在八号楼九层，上边还有六层。
-  pinyin: Dàwéi de fángzi zài bā hào lóu jiǔ céng, shàngbian hái yǒu liù céng. 
-  en: Dawei’s apartment is on level nine of building number eight, above him are six floors. 
+  pinyin: Dàwéi de fángzi zài bā hào lóu jiǔ céng, shàngbian hái yǒu liù céng.
+  en: Dawei’s apartment is on level nine of building number eight, above him are six floors.
   es: La casa de Dawei está en la novena planta del número ocho, con seis pisos por encima.
 - id: 3223fe7d-3db1-44b7-afc6-2aacab28abd1
   zh-hans: 房子不大吧？
-  pinyin: Fángzi bù dà ba? 
-  en: His apartment is not big? 
+  pinyin: Fángzi bù dà ba?
+  en: His apartment is not big?
   es: No es una casa grande, ¿verdad?
 - id: ebc11ce6-9b9b-4af1-b14e-19462f131097
   zh-hans: 那套房子一共有五十六平方米。
-  pinyin: Nà tào fángzi yīgòng yǒu wǔshíliù píngfāng mǐ. 
-  en: The apartment is altogether fifty-six square meters. 
+  pinyin: Nà tào fángzi yīgòng yǒu wǔshíliù píngfāng mǐ.
+  en: The apartment is altogether fifty-six square meters.
   es: Tiene cincuenta y seis metros cuadrados.
 - id: c412cd8a-3716-4d6f-a835-5b51edfb313a
   zh-hans: 进门以后，左边是卫生间，右边是客厅。
-  pinyin: Jìnmén yǐhòu, zuǒbiān shì wèishēngjiān, yòubiān shì kètīng. 
-  en: After entering, to the left is the bathroom, to the right is the living room. 
+  pinyin: Jìnmén yǐhòu, zuǒbiān shì wèishēngjiān, yòubiān shì kètīng.
+  en: After entering, to the left is the bathroom, to the right is the living room.
   es: Al entrar, hay un baño a la izquierda y un salón a la derecha.
 - id: 519d05e5-4083-4a3e-842d-dbf557994ab1
   zh-hans: 厨房在哪儿？
-  pinyin: Chúfáng zài nǎr? 
-  en: Where is the kitchen? 
+  pinyin: Chúfáng zài nǎr?
+  en: Where is the kitchen?
   es: ¿Dónde está la cocina?
 - id: 3a57d75f-3280-472c-8090-2f0e0fbe27e8
   zh-hans: 厨房在客厅北边，卧室在客厅东边。
-  pinyin: Chúfáng zài kètīng běibian, wòshì zài kètīng dōngbian. 
-  en: The kitchen is to the north of the living room, the bedroom is to the east of the living room. 
+  pinyin: Chúfáng zài kètīng běibian, wòshì zài kètīng dōngbian.
+  en: The kitchen is to the north of the living room, the bedroom is to the east of the living room.
   es: La cocina estaba al norte del salón y el dormitorio al este del salón.
 - id: dbde34cb-aff1-412a-b06c-deea612d0e94
   zh-hans: 卧室外边有一个大阳台。
-  pinyin: Wòshì wàibian yǒu yīgè dà yángtái. 
-  en: Outside the bedroom is a large balcony. 
+  pinyin: Wòshì wàibian yǒu yīgè dà yángtái.
+  en: Outside the bedroom is a large balcony.
   es: Hay un gran balcón fuera del dormitorio.
 - id: ae34ed4b-baf8-42f7-80ce-5c1b3e841fb6
   zh-hans: 记者先生，你问了很多问题，
-  pinyin: Jìzhě xiānshēng, nǐ wènle hěnduō wèntí, 
-  en: Mr reporter, you have asked many questions, 
+  pinyin: Jìzhě xiānshēng, nǐ wènle hěnduō wèntí,
+  en: Mr reporter, you have asked many questions,
   es: Sr. Reportero, ha hecho muchas preguntas.
 - id: 07d376b0-b254-47f1-a6a0-fa63badda111
   zh-hans: 你也要写一篇文章介绍马大为租的房子吧？
-  pinyin: nǐ yě yào xiě yī piān wénzhāng jièshào Mǎ Dàwéi zū de fángzi ba? 
-  en: are you also going to write an article about the apartmet Dawei is renting? 
+  pinyin: nǐ yě yào xiě yī piān wénzhāng jièshào Mǎ Dàwéi zū de fángzi ba?
+  en: are you also going to write an article about the apartmet Dawei is renting?
   es: Va a escribir un artículo sobre la casa de Ma Dawei, ¿verdad?
 - id: 6fc4b434-9fa7-4e0c-b0d8-f1f0c0a150e1
   zh-hans: 问问题是记者的职业习惯啊。

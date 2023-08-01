@@ -11,88 +11,88 @@ metadata:
 sentences:
 - id: a061cf5d-35bc-4008-968e-03888705d92e
   zh-hans: 咱们已经看了一个半小时的画儿了，
-  pinyin: Zánmen yǐjīng kànle yīgè bàn xiǎoshí de huàr le, 
-  en: We have already look at paintings for half and hour, 
+  pinyin: Zánmen yǐjīng kànle yīgè bàn xiǎoshí de huàr le,
+  en: We have already look at paintings for half and hour,
   es: Llevamos hora y media mirando cuadros.
 - id: 9bf134f0-0989-41e5-b339-8de17e77b733
   zh-hans: 二楼的还没有看呢。
-  pinyin: èr lóu de hái méiyǒu kàn ne. 
-  en: but still have not seen the second floor. 
+  pinyin: èr lóu de hái méiyǒu kàn ne.
+  en: but still have not seen the second floor.
   es: Ni siquiera hemos visto los del primer piso.
 - id: 89c17538-a4ed-439e-8913-863c5c5b90e6
   zh-hans: 现在是不是坐电梯上楼去？
-  pinyin: Xiànzài shì bùshì zuò diàntī shàng lóu qù? 
-  en: Shall we take the elevator to go up to the next level? 
+  pinyin: Xiànzài shì bùshì zuò diàntī shàng lóu qù?
+  en: Shall we take the elevator to go up to the next level?
   es: ¿Tomamos el ascensor ahora?
 - id: 8b1b2dd4-bffa-4e48-a218-f6d698cc1d21
   zh-hans: 好吧。
-  pinyin: Hǎo ba. 
-  en: Ok. 
+  pinyin: Hǎo ba.
+  en: Ok.
   es: Sí, claro.
 - id: 39b9dffd-efef-4161-a065-5bf615de050e
   zh-hans: 力波，你觉得中国画跟油画一样不一样？
-  pinyin: Lìbō, nǐ juéde Zhōngguóhuà gēn yóuhuà yīyàng bù yīyàng? 
-  en: Libo, do you think Chinese paintings and oil paintings are the same or not? 
+  pinyin: Lìbō, nǐ juéde Zhōngguóhuà gēn yóuhuà yīyàng bù yīyàng?
+  en: Libo, do you think Chinese paintings and oil paintings are the same or not?
   es: Lippo, ¿crees que las pinturas chinas son iguales que las pinturas al óleo?
 - id: 4e43a7ad-2a0b-4b46-bdf5-5e78babb8ce8
   zh-hans: 当然一样，都是画儿啊。
-  pinyin: Dāngrán yīyàng, dōu shì huàr a. 
-  en: Of course they are the same, both are paintings. 
+  pinyin: Dāngrán yīyàng, dōu shì huàr a.
+  en: Of course they are the same, both are paintings.
   es: Por supuesto que es lo mismo. Ambos son pinturas.
 - id: 8286c02b-926d-499a-aaed-1d3a8800c417
   zh-hans: 别开玩笑。
-  pinyin: Bié kāiwánxiào. 
-  en: Stop joking around. 
+  pinyin: Bié kāiwánxiào.
+  en: Stop joking around.
   es: No bromees.
 - id: 85b44aff-bfa9-4e28-8843-2fc72148180c
   zh-hans: 我没有开玩笑，我是说中国画跟油画一样美。
-  pinyin: Wǒ méiyǒu kāiwánxiào, wǒ shì shuō Zhōngguóhuà gēn yóuhuà yīyàng měi. 
-  en: I am not joking, what I mean is Chinese paintings just as beautiful as oil paintings. 
+  pinyin: Wǒ méiyǒu kāiwánxiào, wǒ shì shuō Zhōngguóhuà gēn yóuhuà yīyàng měi.
+  en: I am not joking, what I mean is Chinese paintings just as beautiful as oil paintings.
   es: No estoy bromeando. Estoy diciendo que las pinturas chinas son tan hermosas como las pinturas al óleo.
 - id: f5fe97c4-92b5-4b9c-93fd-ce646796939e
   zh-hans: 你说说哪儿不一样？
-  pinyin: Nǐ shuō shuō nǎr bù yīyàng? 
-  en: Tell me what are the differences? 
+  pinyin: Nǐ shuō shuō nǎr bù yīyàng?
+  en: Tell me what are the differences?
   es: Dime cuál es la diferencia.
 - id: 4470dd39-4e8b-44f3-ad12-d1a84aceee52
   zh-hans: 你找对人了，我来告诉你吧。
-  pinyin: Nǐ zhǎo duì rénle, wǒ lái gàosu nǐ ba. 
-  en: You’ve found the right person, I’ll tell you. 
+  pinyin: Nǐ zhǎo duì rénle, wǒ lái gàosu nǐ ba.
+  en: You’ve found the right person, I’ll tell you.
   es: Has venido a la persona adecuada. Te lo diré.
 - id: f05d9768-3f12-4f04-827c-b5954ae33294
   zh-hans: 中国画和油画用的材料不一样。
-  pinyin: Zhōngguóhuà hé yóuhuà yòng de cáiliào bù yīyàng. 
-  en: Chinese paintings and oil paintings use different materials. 
+  pinyin: Zhōngguóhuà hé yóuhuà yòng de cáiliào bù yīyàng.
+  en: Chinese paintings and oil paintings use different materials.
   es: La pintura china y la pintura al óleo utilizan materiales diferentes.
 - id: 098e426d-551c-495f-98e8-9c69ab857bc2
   zh-hans: 怎么不一样？
-  pinyin: Zěnme bù yīyàng? 
-  en: How are they different? 
+  pinyin: Zěnme bù yīyàng?
+  en: How are they different?
   es: ¿Por qué son diferentes?
 - id: bef162c9-25ef-42fd-889a-7a93462ca641
   zh-hans: 中国画用纸，油画常常用布；
-  pinyin: Zhōngguóhuà yòng zhǐ, yóuhuà chángcháng yòng bù; 
-  en: Chinese paintings use paper, oil paintings usually use canvas; 
+  pinyin: Zhōngguóhuà yòng zhǐ, yóuhuà chángcháng yòng bù;
+  en: Chinese paintings use paper, oil paintings usually use canvas;
   es: La pintura china utiliza papel, la pintura al óleo suele utilizar tela;
 - id: f08f8f76-4785-4d07-a2fd-0828ded93d75
   zh-hans: 中国画主要用墨和水画，
-  pinyin: Zhōngguóhuà zhǔyào yòng mò hé shuǐ huà, 
-  en: Chinese paintings mainly use ink and water, 
+  pinyin: Zhōngguóhuà zhǔyào yòng mò hé shuǐ huà,
+  en: Chinese paintings mainly use ink and water,
   es: La pintura china utiliza tinta y agua.
 - id: 8e5350e7-0db5-4ba0-b0cf-2c57d2786349
   zh-hans: 油画一定要用油彩画。
-  pinyin: yóuhuà yīdìng yào yòng yóucǎi huà. 
-  en: oil paintings must use oil paint. 
+  pinyin: yóuhuà yīdìng yào yòng yóucǎi huà.
+  en: oil paintings must use oil paint.
   es: La pintura al óleo debe pintarse con colores al óleo.
 - id: 33e6ab1b-70ec-413d-a547-98262ef54c44
   zh-hans: 对，还有别的吗？
-  pinyin: Duì, hái yǒu bié de ma? 
-  en: Correct, anything else? 
+  pinyin: Duì, hái yǒu bié de ma?
+  en: Correct, anything else?
   es: Bien. ¿Algo más?
 - id: 08dcd13f-02b8-4988-b16b-73a305877322
   zh-hans: 油画没有空白，中国画常常有空白。
-  pinyin: Yóuhuà méiyǒu kòngbái, Zhōngguóhuà chángcháng yǒu kòngbái. 
-  en: Oil paintings do not have any empty space, Chinese paintings usually have empty space. 
+  pinyin: Yóuhuà méiyǒu kòngbái, Zhōngguóhuà chángcháng yǒu kòngbái.
+  en: Oil paintings do not have any empty space, Chinese paintings usually have empty space.
   es: No hay huecos en las pinturas al óleo, pero siempre hay huecos en las pinturas chinas.
 - id: fe4fff4f-039f-423d-a0b0-b7daee3020f9
   zh-hans: 你看这幅徐悲鸿的画儿：
@@ -101,13 +101,13 @@ sentences:
   es: 'Mira este cuadro de Xu Beihong:'
 - id: 2e7746a5-5b07-4bda-a092-6cdd4da60b1d
   zh-hans: 画家只画了一匹马，没有画别的。
-  pinyin: Huàjiā zhǐ huàle yī pǐ mǎ, méiyǒu huà bié de. 
-  en: the painter has only painted a horse, has not painted anything else. 
+  pinyin: Huàjiā zhǐ huàle yī pǐ mǎ, méiyǒu huà bié de.
+  en: the painter has only painted a horse, has not painted anything else.
   es: El artista sólo pintó un caballo, nada más.
 - id: 7178d579-5f30-434a-9eee-f2a44c67c2f3
   zh-hans: 可是我们觉得还有别的东西。
-  pinyin: Kěshì wǒmen juéde hái yǒu bié de dōngxi. 
-  en: But we can think of the other things. 
+  pinyin: Kěshì wǒmen juéde hái yǒu bié de dōngxi.
+  en: But we can think of the other things.
   es: Pero creemos que hay algo más.
 - id: a49d6332-2b59-41af-91f5-097ceabd5f78
   zh-hans: 让我们来想象一下：
@@ -116,43 +116,43 @@ sentences:
   es: 'Imaginemos:'
 - id: b0b0fb8e-7395-47c9-87b5-73e52f34dff7
   zh-hans: 那匹马往咱们这儿跑来了，
-  pinyin: Nà pǐ mǎ wǎng zánmen zhèr pǎo láile, 
-  en: this horse is running towards us here, 
+  pinyin: Nà pǐ mǎ wǎng zánmen zhèr pǎo láile,
+  en: this horse is running towards us here,
   es: El caballo corre hacia nosotros.
 - id: 7acb6487-cbe3-4c24-878d-e9947d639609
   zh-hans: 我觉得它跑得非常快，好像还有风。
-  pinyin: wǒ juéde tā pǎo de fēicháng kuài, hǎoxiàng hái yǒu fēng. 
-  en: I think it is running quickly, like the wind. 
+  pinyin: wǒ juéde tā pǎo de fēicháng kuài, hǎoxiàng hái yǒu fēng.
+  en: I think it is running quickly, like the wind.
   es: Creo que corre muy rápido, como si hubiera viento.
 - id: 6b17dacb-b336-4673-b52b-6a3c2a0407d4
   zh-hans: 对了。这就跟齐白石画的虾一样，
-  pinyin: Duìle. Zhè jiù gēn Qí Báishí huà de xiā yīyàng, 
-  en: Right. This is just like Qi Baishi’s painting of the shrimp, 
+  pinyin: Duìle. Zhè jiù gēn Qí Báishí huà de xiā yīyàng,
+  en: Right. This is just like Qi Baishi’s painting of the shrimp,
   es: Así es. Es como los camarones de Qi Baishi.
 - id: 2c5075cf-cb15-4d29-a428-518b22804824
   zh-hans: 它们游来游去，真可爱！
-  pinyin: tāmen yóu lái yóu qù, zhēn kě’ài! 
-  en: they are swimming about, very cute! 
+  pinyin: tāmen yóu lái yóu qù, zhēn kě’ài!
+  en: they are swimming about, very cute!
   es: Están nadando alrededor. ¡Son tan monos!
 - id: 98d8a8ec-d5e5-4249-81c6-53f636a558ab
   zh-hans: 你看，画家画水了吗？
-  pinyin: Nǐ kàn, huàjiā huà shuǐle ma? 
-  en: Look, has the painter painted any water? 
+  pinyin: Nǐ kàn, huàjiā huà shuǐle ma?
+  en: Look, has the painter painted any water?
   es: ¿El artista pintó el agua?
 - id: 4613eb5b-d010-452b-9e95-5c8e63180fd0
   zh-hans: 没画，可是我觉得有水。
-  pinyin: Méi huà, kěshì wǒ juéde yǒu shuǐ. 
-  en: No, but we can imagine the water. 
+  pinyin: Méi huà, kěshì wǒ juéde yǒu shuǐ.
+  en: No, but we can imagine the water.
   es: No, pero creo que hay agua.
 - id: 4b711a41-62d5-476c-9cfb-e4a3680c4272
   zh-hans: 中国画是不是跟油画很不一样？
-  pinyin: Zhōngguóhuà shì bùshì gēn yóuhuà hěn bù yīyàng? 
-  en: Are Chinese paintings are very different from oil paintings? 
+  pinyin: Zhōngguóhuà shì bùshì gēn yóuhuà hěn bù yīyàng?
+  en: Are Chinese paintings are very different from oil paintings?
   es: ¿No es la pintura china muy diferente de la pintura al óleo?
 - id: 3a411993-a2a4-4c63-8382-559e88341ab0
   zh-hans: 谢谢你的介绍。
-  pinyin: Xièxiè nǐ de jièshào. 
-  en: Thank you for your introduction. 
+  pinyin: Xièxiè nǐ de jièshào.
+  en: Thank you for your introduction.
   es: Gracias por tu introducción.
 - id: 81ea9f61-f6b3-4adb-a829-2cc774f9e861
   zh-hans: 可是我还想看看“老画家”画的马怎么样。

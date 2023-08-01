@@ -11,153 +11,153 @@ metadata:
 sentences:
 - id: 05c53f50-b205-4933-a67e-4dc93c4762af
   zh-hans: 两个小时过去了，你要的衣服还没买。
-  pinyin: Liǎng gè xiǎoshí guòqùle, nǐ yào de yīfú hái méi mǎi. 
-  en: It’s been two hours, you still have not bought the clothes you want. 
+  pinyin: Liǎng gè xiǎoshí guòqùle, nǐ yào de yīfú hái méi mǎi.
+  en: It’s been two hours, you still have not bought the clothes you want.
   es: Han pasado dos horas y no te has comprado la ropa que querías.
 - id: f004132e-d5e5-468f-81aa-cc3ff173145b
   zh-hans: 谁说我没有买？我已经买了衬衫了。
-  pinyin: Sheí shuō wǒ méiyǒu mǎi? Wǒ yǐjīng mǎile chènshānle. 
-  en: Who says I have not bought anything? I have already bought a shirt. 
+  pinyin: Sheí shuō wǒ méiyǒu mǎi? Wǒ yǐjīng mǎile chènshānle.
+  en: Who says I have not bought anything? I have already bought a shirt.
   es: ¿Quién dice que no las he comprado? Ya he comprado la camisa.
 - id: 7109c4dc-81c8-41aa-80e9-0aefd5441f5e
   zh-hans: 你要的旗袍呢？
-  pinyin: Nǐ yào de qípáo ne? 
-  en: What about the Qipao you want? 
+  pinyin: Nǐ yào de qípáo ne?
+  en: What about the Qipao you want?
   es: ¿Y los cheongsams que querías?
 - id: a6cc9608-bc3f-4cb4-ac39-f00f8fd36b5d
   zh-hans: 刚才看的旗袍都不错，我真想都买了。
-  pinyin: Gāngcái kàn de qípáo dōu bùcuò, wǒ zhēn xiǎng dōu mǎile. 
-  en: The Qipao I just looked at are not bad, I really would like buy them all 
+  pinyin: Gāngcái kàn de qípáo dōu bùcuò, wǒ zhēn xiǎng dōu mǎile.
+  en: The Qipao I just looked at are not bad, I really would like buy them all
   es: Los cheongsams que acabo de ver son todos bonitos, me los quiero comprar todos.
 - id: d50cb699-7559-4cb7-9deb-d9ed52ed5620
   zh-hans: 我们还有时间，可以再多看看。
-  pinyin: Wǒmen hái yǒu shíjiān, kěyǐ zài duō kàn kàn. 
-  en: We still have some time, can still look around more. 
+  pinyin: Wǒmen hái yǒu shíjiān, kěyǐ zài duō kàn kàn.
+  en: We still have some time, can still look around more.
   es: Aún tenemos tiempo, podemos mirar un poco más.
 - id: 5dbb0c55-3bf2-44fe-a3d8-2f2116cbfe74
   zh-hans: 这件绿的怎么样？
-  pinyin: Zhè jiàn lǜ de zěnme yàng? 
-  en: What do you think of this green one? 
+  pinyin: Zhè jiàn lǜ de zěnme yàng?
+  en: What do you think of this green one?
   es: ¿Qué te parece este verde?
 - id: 2013684d-c5e3-4398-b8c1-3c97713c5ef1
   zh-hans: 啊，这件漂亮极了，颜色、样子都比刚才看的旗袍好。
-  pinyin: A, zhè jiàn piàoliang jíle, yánsè, yàngzi dōu bǐ gāngcái kàn de qípáo hǎo. 
-  en: Ah, this one is very beautiful, both the colour and style are better than the ones I just looked at. 
+  pinyin: A, zhè jiàn piàoliang jíle, yánsè, yàngzi dōu bǐ gāngcái kàn de qípáo hǎo.
+  en: Ah, this one is very beautiful, both the colour and style are better than the ones I just looked at.
   es: Ah, es precioso. El color y el aspecto son mejores que los que acabamos de ver.
 - id: 76ac5816-84f0-4834-ab91-b0613d716d4d
   zh-hans: 您可以试一试。
-  pinyin: Nín kěyǐ shì yī shì. 
-  en: You can try it on. 
+  pinyin: Nín kěyǐ shì yī shì.
+  en: You can try it on.
   es: Puedes probártelo.
 - id: e0cb0f8a-5dd4-486a-a785-8bef076aa9a5
   zh-hans: 好。
-  pinyin: Hǎo. 
-  en: Ok. 
+  pinyin: Hǎo.
+  en: Ok.
   es: Creo que es un poco grande, ¿no?
 - id: d9fb1eaa-0ac6-4638-a7e6-2c12d0996232
   zh-hans: 我觉得这件大点儿，是不是？
-  pinyin: Wǒ juédé zhè jiàn dà diǎnr, shì bùshì? 
-  en: I think this one is a little big, don’t you think? 
+  pinyin: Wǒ juédé zhè jiàn dà diǎnr, shì bùshì?
+  en: I think this one is a little big, don’t you think?
   es: Creo que es un poco grande, ¿no?
 - id: 2ed8ce54-5984-4df9-9fbd-fa1080e45c57
   zh-hans: 我给您换一件小的。
-  pinyin: Wǒ gěi nín huàn yī jiàn xiǎo de. 
-  en: I’ll change it for a smaller size. 
+  pinyin: Wǒ gěi nín huàn yī jiàn xiǎo de.
+  en: I’ll change it for a smaller size.
   es: Te traeré uno más pequeño.
 - id: 78c12c1a-f0b0-4cec-ad71-0136080cdcc0
   zh-hans: 这件是三十八号，比那件小两号。
-  pinyin: Zhè jiàn shì sānshíbā hào, bǐ nà jiàn xiǎo liǎng hào. 
-  en: This one is size 38, two sizes smaller than that one. 
+  pinyin: Zhè jiàn shì sānshíbā hào, bǐ nà jiàn xiǎo liǎng hào.
+  en: This one is size 38, two sizes smaller than that one.
   es: Este es talla 38, dos tallas menos que ese.
 - id: 1eee3bac-3e48-4bb6-a1cd-0cea03c51810
   zh-hans: 您再拿去试试吧。
-  pinyin: Nín zài ná qù shì shì ba. 
-  en: You can take it to try on. 
+  pinyin: Nín zài ná qù shì shì ba.
+  en: You can take it to try on.
   es: Puedes probártelo otra vez.
 - id: 2b0c5ee9-28ad-4973-ad7f-ad99af1743cc
   zh-hans: 好。
-  pinyin: Hǎo. 
-  en: Ok. 
+  pinyin: Hǎo.
+  en: Ok.
   es: ESTA BIEN.
 - id: 5ec3cf36-8241-4b37-84e7-a1ff63164fab
   zh-hans: 这件比那件适合，宋华，你看怎么样？
-  pinyin: Zhè jiàn bǐ nèi jiàn shìhé, Sòng Huá, nǐ kàn zěnme yàng? 
-  en: This one is more suitable than that one, Song Hua, how do you think it looks? 
+  pinyin: Zhè jiàn bǐ nèi jiàn shìhé, Sòng Huá, nǐ kàn zěnme yàng?
+  en: This one is more suitable than that one, Song Hua, how do you think it looks?
   es: Este te queda mejor que ese. Song Hua, ¿qué piensas?
 - id: d026bd4b-ed5d-4d86-97ae-0ac027ccfa09
   zh-hans: 我觉得这件太短了。
-  pinyin: Wǒ juédé zhè jiàn tài duǎnle. 
-  en: I think this one is too short. 
+  pinyin: Wǒ juédé zhè jiàn tài duǎnle.
+  en: I think this one is too short.
   es: Creo que es demasiado corto.
 - id: fa76c726-4c75-4aca-b66b-d08b2e228c23
   zh-hans: 对，您比我高，
-  pinyin: Duì, nín bǐ wǒ gāo, 
-  en: Yes, you are taller than me, 
+  pinyin: Duì, nín bǐ wǒ gāo,
+  en: Yes, you are taller than me,
   es: Sí, eres más alto que yo.
 - id: 2717a822-2000-4a6e-911d-4da087fd3d85
   zh-hans: 得穿长点儿的，我再给您找找。
-  pinyin: děi chuān cháng diǎnr de, wǒ zài gěi nín zhǎo zhǎo. 
-  en: should wear one that is a little longer, I’ll go find one for you. 
+  pinyin: děi chuān cháng diǎnr de, wǒ zài gěi nín zhǎo zhǎo.
+  en: should wear one that is a little longer, I’ll go find one for you.
   es: Eres más alto que yo, necesitas algo más largo. Voy a buscar otra cosa.
 - id: 58f6b34e-460c-4402-a7de-8ad3e24215fc
   zh-hans: 有了，这件红的比那件绿的长两公分。
-  pinyin: Yǒule, zhè jiàn hóng de bǐ nà jiàn lǜ de cháng liǎng gōngfēn. 
-  en: Here we go, this red one is two centimeters longer than the green one. 
+  pinyin: Yǒule, zhè jiàn hóng de bǐ nà jiàn lǜ de cháng liǎng gōngfēn.
+  en: Here we go, this red one is two centimeters longer than the green one.
   es: Aquí, este rojo es dos centímetros más largo que el verde.
 - id: 9b58ae90-abcc-43d9-97fe-d967ad7ced96
   zh-hans: 您再试一试这件。
-  pinyin: Nín zài shì yī shì zhè jiàn. 
-  en: You can try this one on. 
+  pinyin: Nín zài shì yī shì zhè jiàn.
+  en: You can try this one on.
   es: Pruebe con éste otra vez.
 - id: bcdfea7e-b07f-4363-bc47-406f2d5a99f7
   zh-hans: 小姐，太麻烦您了，真不好意思。
-  pinyin: Xiǎojiě, tài máfan nínle, zhēn bù hǎoyìsi. 
-  en: Miss, sorry to cause you such trouble. 
+  pinyin: Xiǎojiě, tài máfan nínle, zhēn bù hǎoyìsi.
+  en: Miss, sorry to cause you such trouble.
   es: Señorita, siento molestarla.
 - id: f0009f1c-45bc-4a6f-9b46-5136584dbe9c
   zh-hans: 这件很合适。
-  pinyin: Zhè jiàn hěn héshì. 
-  en: This one is fits very well. 
+  pinyin: Zhè jiàn hěn héshì.
+  en: This one is fits very well.
   es: Este me queda perfecto.
 - id: 6d393c96-9dda-4f6f-805d-85f765abfe65
   zh-hans: 这件红旗袍比那件绿的漂亮。
-  pinyin: Zhè jiàn hóng qípáo bǐ nèi jiàn lǜ de piàoliang. 
-  en: This red Qipao is more beautiful than that green one. 
+  pinyin: Zhè jiàn hóng qípáo bǐ nèi jiàn lǜ de piàoliang.
+  en: This red Qipao is more beautiful than that green one.
   es: Este cheongsam rojo es más bonito que el verde.
 - id: d2007d4a-e7ba-4b76-8b45-5e029cc1603d
   zh-hans: 可是也贵多了。
-  pinyin: Kěshì yě guì duōle. 
-  en: But it is much more expensive. 
+  pinyin: Kěshì yě guì duōle.
+  en: But it is much more expensive.
   es: Pero es mucho más caro.
 - id: cbe44538-8bfd-4ad6-a899-67317ae81f5e
   zh-hans: 比那件贵多少？
-  pinyin: Bǐ nèi jiàn guì duōshǎo? 
-  en: How much more expensive than that one is it? 
+  pinyin: Bǐ nèi jiàn guì duōshǎo?
+  en: How much more expensive than that one is it?
   es: ¿Cuánto más caro?
 - id: acb08adf-af87-49c8-a2f7-a12bedac3a7f
   zh-hans: 贵九十块钱。
-  pinyin: Guì jiǔshí kuài qián. 
-  en: 90 dollars. 
+  pinyin: Guì jiǔshí kuài qián.
+  en: 90 dollars.
   es: Noventa dólares.
 - id: 6012fbbc-3cfa-41df-9516-59a45fe4e34b
   zh-hans: 丝绸的当然贵一点儿。
-  pinyin: Sīchóu de dàng rán guì yīdiǎnr. 
-  en: Of course, silk is going to be a little more expensive. 
+  pinyin: Sīchóu de dàng rán guì yīdiǎnr.
+  en: Of course, silk is going to be a little more expensive.
   es: La seda es más cara.
 - id: d6e03ae9-cfbc-4e70-9ef4-e19285158c10
   zh-hans: 好吧，我就买这件。
-  pinyin: Hǎo ba, wǒ jiù mǎi zhè jiàn. 
-  en: Ok then, I’ll buy this one. 
+  pinyin: Hǎo ba, wǒ jiù mǎi zhè jiàn.
+  en: Ok then, I’ll buy this one.
   es: Bueno, me quedo con este.
 - id: 6bd96d8f-01e7-44fd-a093-124307135b86
   zh-hans: 宋华，现在该去买你的了。
-  pinyin: Sòng Huá, xiànzài gāi qù mǎi nǐ dele. 
-  en: Song Hua, now let’s go buy yours. 
+  pinyin: Sòng Huá, xiànzài gāi qù mǎi nǐ dele.
+  en: Song Hua, now let’s go buy yours.
   es: Song Hua, es hora de comprar el tuyo.
 - id: 67c47811-1b19-444d-a52c-a072b933f1eb
   zh-hans: 你穿多大号的？想不想试试那套西服？
-  pinyin: Nǐ chuān duōdà hào de? Xiǎng bùxiǎng shì shì nà tào xīfú? 
-  en: What size do you wear? Do you want to try Western-clothing? 
+  pinyin: Nǐ chuān duōdà hào de? Xiǎng bùxiǎng shì shì nà tào xīfú?
+  en: What size do you wear? Do you want to try Western-clothing?
   es: ¿Qué talla usas? ¿Quieres probarte el traje?
 - id: b099e533-cbb6-40b8-89c7-581a1f68d163
   zh-hans: 好啊，走。

@@ -11,13 +11,13 @@ metadata:
 sentences:
 - id: 8f9a6ccd-4057-49db-8324-6b257d726761
   zh-hans: 林娜 ，你好吗？
-  pinyin: Lín Nà, nǐ hǎo ma? 
-  en: Lin Na, how are you? 
+  pinyin: Lín Nà, nǐ hǎo ma?
+  en: Lin Na, how are you?
   es: Linna, ¿cómo estás?
 - id: 347eb0ef-99f4-463b-869e-4cc24faa693f
   zh-hans: 我很好，你呢？
-  pinyin: Wǒ hěn hǎo, nǐ ne? 
-  en: I’m good, and you? 
+  pinyin: Wǒ hěn hǎo, nǐ ne?
+  en: I’m good, and you?
   es: Estoy bien. ¿Y tú?
 - id: 95429117-52de-414a-895d-3a761418413f
   zh-hans: 也很好。

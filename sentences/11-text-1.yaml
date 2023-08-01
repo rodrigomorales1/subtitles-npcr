@@ -11,161 +11,161 @@ metadata:
 sentences:
 - id: 0d982aeb-83ab-4afd-a5ce-ab6693967f18
   zh-hans: 小姐，您去哪儿？
-  pinyin: Xiǎojiě, nín qù nǎr? 
-  en: Miss, where are you going? 
+  pinyin: Xiǎojiě, nín qù nǎr?
+  en: Miss, where are you going?
   es: ¿Adónde va, señorita?
 - id: a188e134-9917-4556-b559-3cee7a81852d
   zh-hans: 我去语言学院。
-  pinyin: Wǒ qù Yǔyán Xuéyuàn. 
-  en: I’m going to the School of Languages. 
+  pinyin: Wǒ qù Yǔyán Xuéyuàn.
+  en: I’m going to the School of Languages.
   es: Voy a la escuela de idiomas.
 - id: 304411e4-64c0-4334-91c9-23a9d2f88b9f
   zh-hans: 好。
-  pinyin: Hǎo. 
-  en: Ok. 
+  pinyin: Hǎo.
+  en: Ok.
   es: Muy bien.
 - id: 56a12103-1f7d-414e-9b89-45640ae7888e
   zh-hans: 师傅，请问现在几点？
-  pinyin: Shīfù, qǐngwèn xiànzài jǐ diǎn? 
-  en: Sir, may I ask what the time is now? 
+  pinyin: Shīfù, qǐngwèn xiànzài jǐ diǎn?
+  en: Sir, may I ask what the time is now?
   es: Maestro, ¿qué hora es?
 - id: cfb51442-bfa6-4c81-899c-d4ed8ac83dba
   zh-hans: 差一刻八点。
-  pinyin: Chà yīkè bā diǎn. 
-  en: Quarter-to-eight. 
+  pinyin: Chà yīkè bā diǎn.
+  en: Quarter-to-eight.
   es: Las ocho menos cuarto.
 - id: 61360881-ea3c-425a-bdc2-040f0f4a44eb
   zh-hans: 您会说汉语啊！
-  pinyin: Nín huì shuō Hànyǔ a! 
-  en: You can speak Chinese! 
+  pinyin: Nín huì shuō Hànyǔ a!
+  en: You can speak Chinese!
   es: ¡Hablas chino!
 - id: a456af8c-e30d-4bc6-b7a7-d32b0bcf8399
   zh-hans: 我会说一点儿汉语。
-  pinyin: Wǒ huì shuō yīdiǎnr Hànyǔ. 
-  en: I can speak a little Chinese. 
+  pinyin: Wǒ huì shuō yīdiǎnr Hànyǔ.
+  en: I can speak a little Chinese.
   es: Hablo un poco de chino.
 - id: 2a680a31-abef-41f0-9ea7-62f059f67231
   zh-hans: 我是学生，现在回学院上课。
-  pinyin: Wǒ shì xuéshēng, xiànzài huí xuéyuàn shàngkè. 
-  en: I am a student, returning to campus now. 
+  pinyin: Wǒ shì xuéshēng, xiànzài huí xuéyuàn shàngkè.
+  en: I am a student, returning to campus now.
   es: Soy estudiante. Ahora vuelvo a la escuela.
 - id: 1df3a2a3-58c3-4683-b628-a8d4908caed9
   zh-hans: 你们几点上课？
-  pinyin: Nǐmen jǐ diǎn shàngkè? 
-  en: What time is you class? 
+  pinyin: Nǐmen jǐ diǎn shàngkè?
+  en: What time is you class?
   es: ¿A qué hora son tus clases?
 - id: ca4e99b4-85be-493d-8432-c8f3b38e7dd4
   zh-hans: 八点上课。
-  pinyin: Bā diǎn shàngkè. 
-  en: Eight o’clock. 
+  pinyin: Bā diǎn shàngkè.
+  en: Eight o’clock.
   es: A las ocho.
 - id: 196eb6ee-7b3b-4afa-9c26-c1dd8ace5c48
   zh-hans: 师傅，我们八点能到吗？
-  pinyin: Shīfù, wǒmen bā diǎn néng dào ma? 
-  en: Sir, are we able to arrive at eight o’clock? 
+  pinyin: Shīfù, wǒmen bā diǎn néng dào ma?
+  en: Sir, are we able to arrive at eight o’clock?
   es: Maestro, ¿podemos estar allí a las ocho?
 - id: dafda52e-c458-4533-82ac-57d62f10dc95
   zh-hans: 能到。您的汉语很好。
-  pinyin: Néng dào. Nín de Hànyǔ hěn hǎo. 
-  en: Yes. Your Chinese is very good. 
+  pinyin: Néng dào. Nín de Hànyǔ hěn hǎo.
+  en: Yes. Your Chinese is very good.
   es: Sí. Tu chino es muy bueno.
 - id: 22a874a4-f9eb-4b5b-a5d2-6b41c48ec7fb
   zh-hans: 哪里，我的汉语不太好。
-  pinyin: Nǎlǐ, wǒ de Hànyǔ bù tài hǎo. 
-  en: Your too kind, my Chinese is not that good. Can 
+  pinyin: Nǎlǐ, wǒ de Hànyǔ bù tài hǎo.
+  en: Your too kind, my Chinese is not that good. Can
   es: No, mi chino no es bueno.
 - id: ba1c53d8-8f1f-4289-b4f8-b1efee3a1cb7
   zh-hans: 您会不会说英语？
-  pinyin: Nín huì bù huì shuō Yīngyǔ? 
-  en: you speak English? 
+  pinyin: Nín huì bù huì shuō Yīngyǔ?
+  en: you speak English?
   es: ¿Hablas inglés?
 - id: 3b5e2250-d8ce-41c6-a936-e688d4ac4fd4
   zh-hans: 我不会说英语。
-  pinyin: Wǒ bù huì shuō Yīngyǔ. 
-  en: I cannot speak English. 
+  pinyin: Wǒ bù huì shuō Yīngyǔ.
+  en: I cannot speak English.
   es: No hablo inglés.
 - id: 7001b966-5154-41bb-b2cc-151bc28e21a8
   zh-hans: 我也喜欢外语，常常在家学点儿英语。
-  pinyin: Wǒ yě xǐhuān wàiyǔ, chángcháng zàijiā xué diǎnr Yīngyǔ. 
-  en: I also like foreign languages, at home I often study a little English. 
+  pinyin: Wǒ yě xǐhuān wàiyǔ, chángcháng zàijiā xué diǎnr Yīngyǔ.
+  en: I also like foreign languages, at home I often study a little English.
   es: A mí también me gustan las lenguas extranjeras. Suelo aprender inglés en casa.
 - id: 06281328-d126-4200-982b-358a31223e80
   zh-hans: 谁教你英语？
-  pinyin: Sheí jiāo nǐ Yīngyǔ? 
-  en: Who teaches you English? 
+  pinyin: Sheí jiāo nǐ Yīngyǔ?
+  en: Who teaches you English?
   es: ¿Quién te ha enseñado inglés?
 - id: eb2a6da3-0bba-43f4-95d7-c555e680ead8
   zh-hans: 我孙女儿。
-  pinyin: Wǒ sūn nǚ’ér. 
-  en: My granddaughter. 
+  pinyin: Wǒ sūn nǚ’ér.
+  en: My granddaughter.
   es: Mi nieta.
 - id: 8658ee93-8e6f-4568-abc8-02ae883c9f2f
   zh-hans: 真有意思。
-  pinyin: Zhēn yǒuyìsi. 
-  en: How interesting. 
+  pinyin: Zhēn yǒuyìsi.
+  en: How interesting.
   es: Tiene gracia.
 - id: 20832ba2-1092-4209-85af-f9f369ef2656
   zh-hans: 她今年几岁？
-  pinyin: Tā jīnnián jǐ suì? 
-  en: How old is she this year? 
+  pinyin: Tā jīnnián jǐ suì?
+  en: How old is she this year?
   es: ¿Cuántos años tiene?
 - id: 2c157144-039b-4162-8a26-0cf7164eb233
   zh-hans: 六岁。我的岁数太大了，学英语不容易。
-  pinyin: Liù suì. Wǒ de suìshu tài dàle, xué Yīngyǔ bù róngyì. 
-  en: Six years old. I am too old, learning English is not easy. 
+  pinyin: Liù suì. Wǒ de suìshu tài dàle, xué Yīngyǔ bù róngyì.
+  en: Six years old. I am too old, learning English is not easy.
   es: Seis. Soy demasiado mayor para aprender inglés.
 - id: b63498c0-288c-4f5b-8d8a-b3d63aff91e2
   zh-hans: 您今年多大岁数？
-  pinyin: Nín jīnnián duōdà suìshu? 
-  en: How old are you this year? 
+  pinyin: Nín jīnnián duōdà suìshu?
+  en: How old are you this year?
   es: ¿Cuántos años tienes?
 - id: 2b7248ba-aca1-4833-8367-f34335466e23
   zh-hans: 我今年五十二。
-  pinyin: Wǒ jīnnián wǔshí’èr. 
-  en: This year I am 52 years old. 
+  pinyin: Wǒ jīnnián wǔshí’èr.
+  en: This year I am 52 years old.
   es: Tengo cincuenta y dos.
 - id: b923efa3-a224-42ca-af43-22965bf4fc75
   zh-hans: 语言学院到了。
-  pinyin: Yǔyán Xuéyuàn dàole. 
-  en: We’ve arrived at the School of Languages. 
+  pinyin: Yǔyán Xuéyuàn dàole.
+  en: We’ve arrived at the School of Languages.
   es: La escuela de idiomas está aquí.
 - id: b7cedb90-ea2d-48f4-bbcc-942d67a987e6
   zh-hans: 现在差五分八点，您还有五分钟。
-  pinyin: Xiànzài chà wǔ fēn bā diǎn, nín hái yǒu wǔ fēnzhōng. 
-  en: It’s now five-to-eight, you still have five minutes. 
+  pinyin: Xiànzài chà wǔ fēn bā diǎn, nín hái yǒu wǔ fēnzhōng.
+  en: It’s now five-to-eight, you still have five minutes.
   es: Faltan cinco minutos para las ocho. Tienes cinco minutos.
 - id: 7c45311d-09f3-47d9-8eb1-01343ee20bf1
   zh-hans: 谢谢，
-  pinyin: Xièxiè, 
-  en: Thanks, 
+  pinyin: Xièxiè,
+  en: Thanks,
   es: Gracias.
 - id: 3070f319-9968-46ff-8841-4f3401cb1359
   zh-hans: 给您钱。
-  pinyin: gěi nín qián. 
-  en: here is your money. 
+  pinyin: gěi nín qián.
+  en: here is your money.
   es: Aquí tiene su dinero.
 - id: 6737a682-c6eb-4a63-bcc6-6466b500a5cc
   zh-hans: 您给我二十，找您五块四，OK？
-  pinyin: Nín gěi wǒ èrshí, zhǎo nín wǔ kuài sì, OK? 
-  en: You gave me 20, here’s five dollars 40 change, OK? 
+  pinyin: Nín gěi wǒ èrshí, zhǎo nín wǔ kuài sì, OK?
+  en: You gave me 20, here’s five dollars 40 change, OK?
   es: Tú me das 20, yo te doy 5,40, ¿de acuerdo?
 - id: 9a108b84-28b4-45cb-ab26-581ff2e94e76
   zh-hans: 您会说英语！
-  pinyin: Nín huì shuō Yīngyǔ! 
-  en: You can speak English! 
+  pinyin: Nín huì shuō Yīngyǔ!
+  en: You can speak English!
   es: ¡Hablas inglés!
 - id: d1743512-f631-4c0b-9f21-afe72e6d2cde
   zh-hans: 我也会点儿。
-  pinyin: Wǒ yě huì diǎnr. 
-  en: I also can speak a little. 
+  pinyin: Wǒ yě huì diǎnr.
+  en: I also can speak a little.
   es: Yo también.
 - id: 143a0c21-57c3-4d25-81b6-91df9b2748a6
   zh-hans: 拜拜！
-  pinyin: Bàibài! 
-  en: Byebye! 
+  pinyin: Bàibài!
+  en: Byebye!
   es: ¡Adiós!
 - id: 26afb338-59ee-47a1-8c25-9e3bc18e7416
   zh-hans: 拜拜！
-  pinyin: Bàibài! 
-  en: Byebye! 
+  pinyin: Bàibài!
+  en: Byebye!
   es: ¡Adiós!

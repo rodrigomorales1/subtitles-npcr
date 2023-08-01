@@ -11,216 +11,216 @@ metadata:
 sentences:
 - id: ba8c55b0-5226-4fd0-b355-782069e811cb
   zh-hans: 小云、力波、宋华，
-  pinyin: Xiǎo Yún, Lìbō, Sòng Huá, 
-  en: Xiao Yun, Libo, Song Hua, 
+  pinyin: Xiǎo Yún, Lìbō, Sòng Huá,
+  en: Xiao Yun, Libo, Song Hua,
   es: Xiao Yun, Li Bo, Song Hua.
 - id: 6a73b89e-d4f7-457a-b9fd-b4d38bf33f2b
   zh-hans: 你们今天晚上都有空儿吗？
-  pinyin: nǐmen jīntiān wǎnshàng dōu yǒu kòngr ma? 
-  en: you are all free tonight? 
+  pinyin: nǐmen jīntiān wǎnshàng dōu yǒu kòngr ma?
+  en: you are all free tonight?
   es: ¿Estáis todos libres esta noche?
 - id: b1bd8584-47a6-4cb8-9fc9-c1f29b6008c0
   zh-hans: 咱们到外边吃晚饭去。
-  pinyin: Zánmen dào wàibian chī wǎnfàn qù. 
-  en: We should go outside to eat dinner. 
+  pinyin: Zánmen dào wàibian chī wǎnfàn qù.
+  en: We should go outside to eat dinner.
   es: Salgamos a cenar.
 - id: fb778a2d-0091-4751-848f-bd8cd00092b8
   zh-hans: 好啊，我们都去，人越多越热闹。
-  pinyin: Hǎo a, wǒmen dōu qù, rén yuè duō yuè rènào. 
-  en: Definitely, we should all go, more people more lively. 
+  pinyin: Hǎo a, wǒmen dōu qù, rén yuè duō yuè rènào.
+  en: Definitely, we should all go, more people more lively.
   es: Claro, iremos todos. Cuanta más gente, mejor.
 - id: 690947c8-b10a-4e03-bce6-9e55fd6926b9
   zh-hans: 去哪家饭馆呢？
-  pinyin: Qù nǎ jiā fànguǎn ne? 
-  en: Go to which restaurant? 
+  pinyin: Qù nǎ jiā fànguǎn ne?
+  en: Go to which restaurant?
   es: ¿A qué restaurante?
 - id: ec2c6f10-4ba3-4a9c-9a03-7344cf6bc2a5
   zh-hans: 去哪家都行。
-  pinyin: Qù nǎ jiā dōu xíng. 
-  en: Any restaurant is ok. 
+  pinyin: Qù nǎ jiā dōu xíng.
+  en: Any restaurant is ok.
   es: Cualquier restaurante servirá.
 - id: 6b64cb5e-8d4c-45ae-a857-5c4b3f466702
   zh-hans: 对，只要不是学校餐厅的菜，我什么都想吃。
-  pinyin: Duì, zhǐyào bùshì xuéxiào cāntīng de cài, wǒ shénme dōu xiǎng chī. 
-  en: Yes, as long as not as school dining hall food, I can eat anything. 
+  pinyin: Duì, zhǐyào bùshì xuéxiào cāntīng de cài, wǒ shénme dōu xiǎng chī.
+  en: Yes, as long as not as school dining hall food, I can eat anything.
   es: Sí, comeré cualquier cosa que no sea de la cafetería de la escuela.
 - id: c9629575-7ee1-4128-adc3-ddacf25d13bb
   zh-hans: 咱们走吧。
-  pinyin: Zánmen zǒu ba. 
-  en: Let’s go. 
+  pinyin: Zánmen zǒu ba.
+  en: Let’s go.
   es: Vámonos.
 - id: 3c89c806-451c-482a-ad98-416a15118c5d
   zh-hans: 走。
-  pinyin: Zǒu. 
-  en: Let’s go. 
+  pinyin: Zǒu.
+  en: Let’s go.
   es: Vámonos.
 - id: 05a77907-84f8-4079-b77f-21da1fbab84a
   zh-hans: 大为，你再来一点儿。
-  pinyin: Dàwéi, nǐ zàilái yīdiǎnr. 
-  en: Dawei, you have some more. 
+  pinyin: Dàwéi, nǐ zàilái yīdiǎnr.
+  en: Dawei, you have some more.
   es: Dawei, come un poco más.
 - id: c65043cf-19a9-4a8e-b78c-816789278d52
   zh-hans: 今天的菜味道好极了，
-  pinyin: Jīntiān de cài wèidào hào jíle, 
-  en: Today’s food tasted excellent, 
+  pinyin: Jīntiān de cài wèidào hào jíle,
+  en: Today’s food tasted excellent,
   es: La comida de hoy sabe tan bien.
 - id: 62f55924-a07d-42c5-b942-1dcb6b6444f7
   zh-hans: 我吃得太多，实在吃不下了。
-  pinyin: wǒ chī de tài duō, shízài chī bùxiàle. 
-  en: I eat too much, honestly cannot eat anymore. 
+  pinyin: wǒ chī de tài duō, shízài chī bùxiàle.
+  en: I eat too much, honestly cannot eat anymore.
   es: He comido demasiado. No puedo comer más.
 - id: 2b669cbc-cd18-4b4f-9dbc-b29252da50f7
   zh-hans: 大家都吃好了吧，
-  pinyin: Dàjiā dōu chī hǎole ba, 
-  en: Ok everyone’s full, 
+  pinyin: Dàjiā dōu chī hǎole ba,
+  en: Ok everyone’s full,
   es: Todos han terminado de comer.
 - id: 9eba6cb1-71b2-4aaf-b473-1ee470fe1ba1
   zh-hans: 服务员，埋单。
-  pinyin: fúwùyuán, máidān. 
-  en: waiter, the bill. 
+  pinyin: fúwùyuán, máidān.
+  en: waiter, the bill.
   es: Camarero, pague la cuenta.
 - id: 955728cb-f047-4c06-b83a-98996d075150
   zh-hans: 好，这是账单。
-  pinyin: Hǎo, zhè shì zhàngdān. 
-  en: Ok, this is the bill. 
+  pinyin: Hǎo, zhè shì zhàngdān.
+  en: Ok, this is the bill.
   es: Bien, aquí está la cuenta.
 - id: 58f8ae1e-34d3-4df5-8fe9-e525bf02e2e5
   zh-hans: 账单来给我。
-  pinyin: Zhàngdān lái gěi wǒ. 
-  en: Give me the bill. 
+  pinyin: Zhàngdān lái gěi wǒ.
+  en: Give me the bill.
   es: Dame la cuenta.
 - id: d820fd4a-9306-4ea1-aee8-35b6cfff5184
   zh-hans: 我来付。
-  pinyin: Wǒ lái fù. 
-  en: I’ll pay. 
+  pinyin: Wǒ lái fù.
+  en: I’ll pay.
   es: Yo la pago.
 - id: 2b33bf75-08a6-479c-ba0c-422668b30ad6
   zh-hans: 谢谢，您这是二百，请稍等。
-  pinyin: Xièxiè, nín zhè shì èrbǎi, qǐng shāo děng. 
-  en: Thanks, this is your 200, please wait a moment. 
+  pinyin: Xièxiè, nín zhè shì èrbǎi, qǐng shāo děng.
+  en: Thanks, this is your 200, please wait a moment.
   es: Gracias. Son 200 para ti. Por favor, espera.
 - id: be159fd4-f9a8-4ce3-b8fc-6b5f19f243f9
   zh-hans: 怎么回事儿？我请你们吃晚饭，
-  pinyin: Zěnme huí shìr? Wǒ qǐng nǐmen chī wǎnfàn, 
-  en: What’s going on? I treat you dinner, 
+  pinyin: Zěnme huí shìr? Wǒ qǐng nǐmen chī wǎnfàn,
+  en: What’s going on? I treat you dinner,
   es: ¿Qué pasa? Te invité a cenar.
 - id: ccdaa255-5c86-4e65-ace8-82ff3051574a
   zh-hans: 你们怎么都抢着埋单？
-  pinyin: nǐmen zěnme dōu qiǎngzhe máidān? 
-  en: how come you all scramble to pay the bill? 
+  pinyin: nǐmen zěnme dōu qiǎngzhe máidān?
+  en: how come you all scramble to pay the bill?
   es: ¿Por qué se apresuran a pagar la cuenta?
 - id: b9c3d95e-8eb7-49ce-96bf-ee34a940c357
   zh-hans: 你们还比我动作快！
-  pinyin: Nǐmen hái bǐ wǒ dòngzuò kuài! 
-  en: You all move faster than me! 
+  pinyin: Nǐmen hái bǐ wǒ dòngzuò kuài!
+  en: You all move faster than me!
   es: ¡Sois más rápidos que yo!
 - id: 93abc264-bbe8-42ea-9202-1453af902a76
   zh-hans: 谁埋单都一样。
-  pinyin: Sheí máidān dōu yīyàng. 
-  en: Whoever pays is all the same. 
+  pinyin: Sheí máidān dōu yīyàng.
+  en: Whoever pays is all the same.
   es: No importa quién pague la cuenta.
 - id: 71ec56bb-d0ae-4c4d-afb4-5b05a6cc94c6
   zh-hans: 今天是我约大家来的，就应该由我付钱。
-  pinyin: Jīntiān shì wǒ yuē dàjiā lái de, jiù yīnggāi yóu wǒ fù qián. 
-  en: Today it was me who invited everyone, so it should be who pays. 
+  pinyin: Jīntiān shì wǒ yuē dàjiā lái de, jiù yīnggāi yóu wǒ fù qián.
+  en: Today it was me who invited everyone, so it should be who pays.
   es: Yo soy el que te invitó aquí hoy, así que yo debería pagar.
 - id: 0151fac9-5cb2-4673-a62d-5da21312fde2
   zh-hans: 你就下回再付吧。
-  pinyin: Nǐ jiù xià huí zài fù ba. 
-  en: You can pay next time, ok. 
+  pinyin: Nǐ jiù xià huí zài fù ba.
+  en: You can pay next time, ok.
   es: Puedes pagar la próxima vez.
 - id: 657c1e93-f501-4dc8-a11f-e7c639197ef7
   zh-hans: 我怎么也不明白，为什么你们人人都要埋单？
-  pinyin: Wǒ zěnme yě bù míngbái, wèishéme nǐmen rén rén dōu yào máidān? 
-  en: I also don’t quite understand, why do you all want to pay the bill? 
+  pinyin: Wǒ zěnme yě bù míngbái, wèishéme nǐmen rén rén dōu yào máidān?
+  en: I also don’t quite understand, why do you all want to pay the bill?
   es: No entiendo por qué todos ustedes tienen que pagar la cuenta.
 - id: f2d9e8bc-45ab-48c0-b9f4-a05465eae437
   zh-hans: 好吧，咱们就AA制吧。
-  pinyin: Hǎo ba, zánmen jiù AA zhì ba. 
-  en: In fact, let us split the bill. 
+  pinyin: Hǎo ba, zánmen jiù AA zhì ba.
+  en: In fact, let us split the bill.
   es: Bien, vamos AA.
 - id: 4c6b9d57-73cf-45e0-9e88-d768aa04f637
   zh-hans: 不行，这次我来，下次再AA制。
-  pinyin: Bùxíng, zhè cì wǒ lái, xià cì zài AA zhì. 
-  en: No way, this time it’s on me, next time split the bill. 
+  pinyin: Bùxíng, zhè cì wǒ lái, xià cì zài AA zhì.
+  en: No way, this time it’s on me, next time split the bill.
   es: No, yo lo haré esta vez. Lo haremos la próxima vez.
 - id: beeb3503-f16d-43b9-add9-acc64f31867e
   zh-hans: 为什么？小云，
-  pinyin: Wèishéme? Xiǎo Yún, 
-  en: Why? Xiao Yun, 
+  pinyin: Wèishéme? Xiǎo Yún,
+  en: Why? Xiao Yun,
   es: ¿Por qué? Xiao Yun.
 - id: 7a99e47e-f89e-4519-8cf8-66c55193174a
   zh-hans: 我请客，你埋单，这不成了笑话了吗？
-  pinyin: wǒ qǐngkè, nǐ máidān, zhè bùchéngle xiàohuàle ma? 
-  en: I treat, you pay, is this not becoming a joke? 
+  pinyin: wǒ qǐngkè, nǐ máidān, zhè bùchéngle xiàohuàle ma?
+  en: I treat, you pay, is this not becoming a joke?
   es: Yo invito y tú pagas. ¿No es una broma?
 - id: 1e520bbd-f18d-4043-a4d7-2f3a86d50c8d
   zh-hans: 你要听笑话，我可以给你们讲一个。有人说，
-  pinyin: Nǐ yào tīng xiàohuà, wǒ kěyǐ gěi nǐmen jiǎng yīgè. Yǒurén shuō, 
-  en: You want to hear a joke, I’ll tell you all one. Someone said, 
+  pinyin: Nǐ yào tīng xiàohuà, wǒ kěyǐ gěi nǐmen jiǎng yīgè. Yǒurén shuō,
+  en: You want to hear a joke, I’ll tell you all one. Someone said,
   es: Si quieres un chiste, puedo contarte uno. Alguien dijo.
 - id: 184ab594-df1f-433f-bb37-7940fdf803ed
   zh-hans: 要是看见很多人在球场上抢一个橄榄球，
-  pinyin: yàoshi kànjiàn hěnduō rén zài qiúchǎng shàng qiǎng yīgè gǎnlǎnqiú, 
-  en: if you see a lot people on the field grabbing a football, 
+  pinyin: yàoshi kànjiàn hěnduō rén zài qiúchǎng shàng qiǎng yīgè gǎnlǎnqiú,
+  en: if you see a lot people on the field grabbing a football,
   es: Si ves a un montón de gente agarrando un balón en el campo.
 - id: 5f5614eb-bfc5-403f-8b9f-f1f017cb19b5
   zh-hans: 那可能是美国人；
-  pinyin: nà kěnéng shì měiguó rén; 
-  en: that is probably Americans; 
+  pinyin: nà kěnéng shì měiguó rén;
+  en: that is probably Americans;
   es: Probablemente son americanos;
 - id: df2d89ae-5573-48b8-bc93-1deb2df7e8bc
   zh-hans: 要是看见很多人在饭馆里抢一张纸，
-  pinyin: yàoshi kànjiàn hěnduō rén zài fànguǎn lǐ qiǎng yī zhāng zhǐ, 
-  en: if you see a lot of people in a restaurant grabbing a piece of paper, 
+  pinyin: yàoshi kànjiàn hěnduō rén zài fànguǎn lǐ qiǎng yī zhāng zhǐ,
+  en: if you see a lot of people in a restaurant grabbing a piece of paper,
   es: Si ves a mucha gente agarrando un trozo de papel en un restaurante.
 - id: 564669e4-076b-479c-87fa-11d480f29f07
   zh-hans: 那就很可能是中国人。
-  pinyin: nà jiù hěn kěnéng shì Zhōngguó rén. 
-  en: that really is probably Chinese. 
+  pinyin: nà jiù hěn kěnéng shì Zhōngguó rén.
+  en: that really is probably Chinese.
   es: Probablemente sean chinos.
 - id: e5544c4f-9148-472e-ae25-10d682d7bbeb
   zh-hans: 为什么中国人喜欢这样做呢？
-  pinyin: Wèishéme Zhōngguó rén xǐhuan zhèyàng zuò ne? 
-  en: Why do Chinese people like to act like this? 
+  pinyin: Wèishéme Zhōngguó rén xǐhuan zhèyàng zuò ne?
+  en: Why do Chinese people like to act like this?
   es: ¿Por qué les gusta hacer esto a los chinos?
 - id: ba9b6dad-2eac-4f3d-9e57-12da23545894
   zh-hans: 我们跟朋友在一起的时候，
-  pinyin: Wǒmen gēn péngyǒu zài yīqǐ de shíhou, 
-  en: When we are together with friends, 
+  pinyin: Wǒmen gēn péngyǒu zài yīqǐ de shíhou,
+  en: When we are together with friends,
   es: Cuando estamos con nuestros amigos.
 - id: ce9eb9e8-8569-4148-97aa-c10edb90133e
   zh-hans: 一般不希望给别人添麻烦，
-  pinyin: yībān bù xīwàng gěi biérén tiān máfan, 
-  en: generally do not wish to give others trouble, 
+  pinyin: yībān bù xīwàng gěi biérén tiān máfan,
+  en: generally do not wish to give others trouble,
   es: Normalmente no queremos causar problemas a los demás.
 - id: 550c8bd5-8147-4253-a8a9-c24a786524ca
   zh-hans: 都愿意自己多拿出一些。
-  pinyin: dōu yuànyì zìjǐ duō ná chū yīxiē. 
-  en: so we are always willing to attend to more ourselves. 
+  pinyin: dōu yuànyì zìjǐ duō ná chū yīxiē.
+  en: so we are always willing to attend to more ourselves.
   es: Queremos sacar más para nosotros.
 - id: 9a613444-1b03-4775-8b97-d53ded37372e
   zh-hans: 当然有的人也可能是想表示自己大方。
-  pinyin: Dāngrán yǒu de rén yě kěnéng shì xiǎng biǎoshì zìjǐ dàfāng. 
-  en: Of course, some people also may wish to display their generosity. 
+  pinyin: Dāngrán yǒu de rén yě kěnéng shì xiǎng biǎoshì zìjǐ dàfāng.
+  en: Of course, some people also may wish to display their generosity.
   es: Por supuesto, algunas personas también quieren mostrar su generosidad.
 - id: 9c6e0b84-e183-4283-bbbd-d92e03e4ea6b
   zh-hans: 所以，如果几个中国人一起在饭馆吃饭，
-  pinyin: Suǒyǐ, rúguǒ jǐ gè Zhōngguó rén yīqǐ zài fànguǎn chīfàn, 
-  en: So, if a few Chinese people are eating together in a restaurant, 
+  pinyin: Suǒyǐ, rúguǒ jǐ gè Zhōngguó rén yīqǐ zài fànguǎn chīfàn,
+  en: So, if a few Chinese people are eating together in a restaurant,
   es: Así, si varios chinos comen juntos en un restaurante.
 - id: 447640b9-6e54-45b0-ba2f-b4a6a4a3a78a
   zh-hans: 事先没说清楚由谁请客，
-  pinyin: shìxiān méi shuō qīngchu yóu sheí qǐngkè, 
-  en: and noone says in advance who will pay, 
+  pinyin: shìxiān méi shuō qīngchu yóu sheí qǐngkè,
+  en: and noone says in advance who will pay,
   es: No dejan claro de antemano quién va a pagar la comida.
 - id: f8faa20f-d969-4703-bf98-1dd218f5ae6a
   zh-hans: 最后大家就会抢着埋单。
-  pinyin: zuìhòu dàjiā jiù huì qiǎngzhe máidān. 
-  en: in the end everyone will scramble to pay the bill. 
+  pinyin: zuìhòu dàjiā jiù huì qiǎngzhe máidān.
+  en: in the end everyone will scramble to pay the bill.
   es: Acabarán cogiendo la cuenta.
 - id: 1f7e84c7-3198-4e9f-8a7a-c6a559d6ae0f
   zh-hans: 你们看，对面的那几位抢得比我们还热闹呢。
-  pinyin: Nǐmen kàn, duìmiàn dì nà jǐ wèi qiǎng de bǐ wǒmen hái rènào ne. 
-  en: Look, those people opposite are much more lively than us. 
+  pinyin: Nǐmen kàn, duìmiàn dì nà jǐ wèi qiǎng de bǐ wǒmen hái rènào ne.
+  en: Look, those people opposite are much more lively than us.
   es: Mira, esos de enfrente están cogiendo más que nosotros.

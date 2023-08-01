@@ -11,23 +11,23 @@ metadata:
 sentences:
 - id: 8bd57715-bb48-4545-8388-e93cd24d45d3
   zh-hans: 杨老师，明天您有时间吗？
-  pinyin: Yáng Lǎoshī, míngtiān nín yǒu shíjiān ma? 
-  en: Teacher Yang, do you have any time tomorrow? 
+  pinyin: Yáng Lǎoshī, míngtiān nín yǒu shíjiān ma?
+  en: Teacher Yang, do you have any time tomorrow?
   es: Sr. Yang, ¿tiene tiempo mañana?
 - id: 0bb618d9-6162-4bd6-b202-cdc5df2b7245
   zh-hans: 对不起，请再说一遍。
-  pinyin: Duìbùqǐ, qǐng zàishuō yībiàn. 
-  en: Sorry, could you say that again? 
+  pinyin: Duìbùqǐ, qǐng zàishuō yībiàn.
+  en: Sorry, could you say that again?
   es: Lo siento, por favor repita.
 - id: a7b1782e-777f-47ab-a245-7c0aafa12b2c
   zh-hans: 明天您有时间吗？我们去打球，好吗？
-  pinyin: Míngtiān nín yǒu shíjiān ma? Wǒmen qù dǎqiú, hǎo ma? 
-  en: Do you have any time tomorrow? How about we go play ball? Very sorry, 
+  pinyin: Míngtiān nín yǒu shíjiān ma? Wǒmen qù dǎqiú, hǎo ma?
+  en: Do you have any time tomorrow? How about we go play ball? Very sorry,
   es: ¿Tiene tiempo mañana? Vamos a jugar a la pelota, ¿vale?
 - id: 871123e4-be79-4930-9632-a5dc38d88ba1
   zh-hans: 很抱歉，明天我很忙，恐怕不行。
-  pinyin: Hěn bàoqiàn, míngtiān wǒ hěn máng, kǒngpà bùxíng. 
-  en: I’m very busy tomorrow, afraid I cannot. 
+  pinyin: Hěn bàoqiàn, míngtiān wǒ hěn máng, kǒngpà bùxíng.
+  en: I’m very busy tomorrow, afraid I cannot.
   es: Lo siento, mañana estoy ocupado. Me temo que no puedo.
 - id: 23a1551d-1b68-4614-8cf8-450ba15d51dc
   zh-hans: 谢谢你。
