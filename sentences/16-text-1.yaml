@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: False, issue_id: null}
-  review-pinyin: {finished: False, issue_id: null}
-  review-en: {finished: False, issue_id: null}
-  review-es: {finished: False, issue_id: null}
-  add-groups-zh-hans: {finished: False, issue_id: null}
-  add-groups-pinyin: {finished: False, issue_id: null}
-  add-groups-en: {finished: False, issue_id: null}
-  add-groups-es: {finished: False, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: null}
+  review-pinyin: {finished: false, issue_id: null}
+  review-en: {finished: false, issue_id: null}
+  review-es: {finished: false, issue_id: null}
+  add-groups-zh-hans: {finished: false, issue_id: null}
+  add-groups-pinyin: {finished: false, issue_id: null}
+  add-groups-en: {finished: false, issue_id: null}
+  add-groups-es: {finished: false, issue_id: null}
 sentences:
 - id: ed4b5080-8cb2-4a5b-83a4-4617e562d1ee
   zh-hans: 这是北京图书馆。我们进去吧。

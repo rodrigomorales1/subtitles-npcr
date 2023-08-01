@@ -1,17 +1,17 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: False, issue_id: null}
-  review-pinyin: {finished: False, issue_id: null}
-  review-en: {finished: False, issue_id: null}
-  review-es: {finished: False, issue_id: null}
-  add-groups-zh-hans: {finished: False, issue_id: null}
-  add-groups-pinyin: {finished: False, issue_id: null}
-  add-groups-en: {finished: False, issue_id: null}
-  add-groups-es: {finished: False, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: null}
+  review-pinyin: {finished: false, issue_id: null}
+  review-en: {finished: false, issue_id: null}
+  review-es: {finished: false, issue_id: null}
+  add-groups-zh-hans: {finished: false, issue_id: null}
+  add-groups-pinyin: {finished: false, issue_id: null}
+  add-groups-en: {finished: false, issue_id: null}
+  add-groups-es: {finished: false, issue_id: null}
 sentences:
 - id: bb0d15a4-0392-48c3-aceb-e3eb2fbd711b
   zh-hans: 先生，您要什么？
-  pinyin:  Xiānshēng, nín yào shénme?
+  pinyin: Xiānshēng, nín yào shénme?
   en: Mr, what would you like?
   es: ¿Qué se le ofrece, señor?
 - id: cfc966d7-c1de-4b0d-a78c-a4c950dac652

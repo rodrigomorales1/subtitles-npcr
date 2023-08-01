@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: False, issue_id: null}
-  review-pinyin: {finished: False, issue_id: null}
-  review-en: {finished: False, issue_id: null}
-  review-es: {finished: False, issue_id: null}
-  add-groups-zh-hans: {finished: False, issue_id: null}
-  add-groups-pinyin: {finished: False, issue_id: null}
-  add-groups-en: {finished: False, issue_id: null}
-  add-groups-es: {finished: False, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: null}
+  review-pinyin: {finished: false, issue_id: null}
+  review-en: {finished: false, issue_id: null}
+  review-es: {finished: false, issue_id: null}
+  add-groups-zh-hans: {finished: false, issue_id: null}
+  add-groups-pinyin: {finished: false, issue_id: null}
+  add-groups-en: {finished: false, issue_id: null}
+  add-groups-es: {finished: false, issue_id: null}
 sentences:
 - id: 3824db3c-634d-4124-9591-17b58b6e7d68
   zh-hans: 杰克，到了我家，见了我父母，

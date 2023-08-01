@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: False, issue_id: null}
-  review-pinyin: {finished: False, issue_id: null}
-  review-en: {finished: False, issue_id: null}
-  review-es: {finished: False, issue_id: null}
-  add-groups-zh-hans: {finished: False, issue_id: null}
-  add-groups-pinyin: {finished: False, issue_id: null}
-  add-groups-en: {finished: False, issue_id: null}
-  add-groups-es: {finished: False, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: null}
+  review-pinyin: {finished: false, issue_id: null}
+  review-en: {finished: false, issue_id: null}
+  review-es: {finished: false, issue_id: null}
+  add-groups-zh-hans: {finished: false, issue_id: null}
+  add-groups-pinyin: {finished: false, issue_id: null}
+  add-groups-en: {finished: false, issue_id: null}
+  add-groups-es: {finished: false, issue_id: null}
 sentences:
 - id: 763d0348-d73d-480c-bac8-be54c2d6fbc0
   zh-hans: 大为，吃饭了。
