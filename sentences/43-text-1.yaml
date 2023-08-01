@@ -296,7 +296,7 @@ sentences:
   es: su altura es alta,
 - id: ff629111ed104d079f4167f569069997
   zh-hans: 头发长长的，
-  pinyin:  tóufǎ zhǎng zhǎng de,
+  pinyin: tóufǎ zhǎng zhǎng de,
   en: his hair is quite long,
   es: su cabello es algo largo,
 - id: fe7d34b988524699bed747bede3adc27
@@ -311,12 +311,12 @@ sentences:
   es: se para al frente del mostrador y
 - id: 5974021c633a49d69e50d2e0859ee539
   zh-hans: 问店里的小伙计：
-  pinyin:  'wèn diàn lǐ de xiǎo huǒjì:'
+  pinyin: 'wèn diàn lǐ de xiǎo huǒjì:'
   en: 'and ask the waiter of the hotel:'
   es: 'le pregunta al camarero del hotel:'
 - id: 9d9c9af13fdb4861bbc655c3fd3a574f
   zh-hans: 你读过书吗？
-  pinyin:  Nǐ dúguò shū ma?
+  pinyin: Nǐ dúguò shū ma?
   en: Have you read any books?
   es: ¿Has leído algún libro?
 - id: 4b238231c6604036972d4a8c7d0d94e0

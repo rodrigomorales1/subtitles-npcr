@@ -55,7 +55,7 @@ sentences:
   en: No need to be nervous.
 - id: 149da4c8e85b425fb88cf7ddd2f9b881
   zh-hans: 你们只要认真准备，
-  pinyin:  Nǐmen zhǐyào rènzhēn zhǔnbèi,
+  pinyin: Nǐmen zhǐyào rènzhēn zhǔnbèi,
   en: As long as you both prepare seriously,
 - id: e93a6882570a4e61b03cf8bc24a01e2f
   zh-hans: 就一定会得到好的成绩。
@@ -71,7 +71,7 @@ sentences:
   en: Ok.
 - id: 325c5c4ea12b4100aae90b6e6b240feb
   zh-hans: 我先问你们一个问题：
-  pinyin:  "Wǒ xiān wèn nǐmen yīgè wèntí:"
+  pinyin: "Wǒ xiān wèn nǐmen yīgè wèntí:"
   en: "I'll first ask you a question:"
 - id: 265c05d4b5bc4216b3fbcac5190c4d37
   zh-hans: 中国很大，有多大呢？
@@ -83,7 +83,7 @@ sentences:
   en: China's area is 9.6 million square kilometers,
 - id: 3ba4dcdb4d0949b182c4c0360c8bd244
   zh-hans: 从东到西，
-  pinyin:  cóng dōng dào xi,
+  pinyin: cóng dōng dào xi,
   en: from east to west,
 - id: 782aa610e89f40f8b97b2017d3521b64
   zh-hans: 有五千多公里，
@@ -159,15 +159,15 @@ sentences:
   en: What is the name of the world's highest mountain peak?
 - id: 04bad704d3a64b80913a5cc6d048cddd
   zh-hans: 它有多高？
-  pinyin:  Tā yǒu duō gāo?
-  en:  How high is it?
+  pinyin: Tā yǒu duō gāo?
+  en: How high is it?
 - id: 715bfdafb7164ffb9a73588a421d3259
   zh-hans: 世界上最高的山峰叫珠穆朗玛峰，
   pinyin: Shìjiè shàng zuìgāo de shānfēng jiào Zhūmùlǎngmǎ fēng,
   en: The world's tallest mountain peak is called Mt. Everest,
 - id: a467f1896ec644528a11890b87888215
   zh-hans: 它有八千八百多米高。
-  pinyin:  tā yǒu bāqiān bābǎi duō mǐ gāo.
+  pinyin: tā yǒu bāqiān bābǎi duō mǐ gāo.
   en: it is more than eight thousand eight hundred meters tall.
 - id: b08f164bdf9b4a7ca406b6cd7a76a315
   zh-hans: 中国最长的河是不是黄河？
@@ -183,7 +183,7 @@ sentences:
   en: it is more than six thousand three hundred kilometers long.
 - id: ee6fcbdd8b3f41199390661600f0884f
   zh-hans: 它也是世界第三大河。
-  pinyin:  Tā yěshì shìjiè dì sān dàhé.
+  pinyin: Tā yěshì shìjiè dì sān dàhé.
   en: It is also the world's third longest river.
 - id: 2b8d36ca38124c5bb324db1926f5fbaa
   zh-hans: 黄河是中国第二大河，

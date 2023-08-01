@@ -62,7 +62,7 @@ sentences:
 - id: f3c36074c2574c199b4ee36fb48ff82a
   zh-hans: 你们(1:看)，这(2:两)只(3:熊猫)(4:绣:3)得多好，
   pinyin: Nǐmen (1:kàn), zhè (2:liǎng) zhī (3:xióngmāo) (4:xiù) de duō hǎo,
-  en:  (1:Look), these (2:two) (3:pandas) have been (4:embroided) so well,
+  en: (1:Look), these (2:two) (3:pandas) have been (4:embroided) so well,
   es: (1:Miren), estos (2:dos) (3:pandas) han sido (4:bordados) muy bien.
 - id: cd1ece88465c4d219b305af93c1913aa
   zh-hans: (1:眼睛)(2:圆圆:4)的，(3:黑黑)的，
@@ -273,7 +273,7 @@ sentences:
   zh-hans: 给你钱，(1:请)把它(2:包起来)。
   pinyin: Gěi nǐ qián, (1:qǐng) bǎ tā (2:bāo qǐlái).
   en: Here’s the money, (1:please) (2:wrap it up).
-  es:  tiene el dinero, (1:por favor) (2:envuélvalas).
+  es: tiene el dinero, (1:por favor) (2:envuélvalas).
 - id: bd5c91cd7a45449d8ce2135307c0731e
   zh-hans: (1:您)这是(2:一百)，
   pinyin: (1:Nín) zhè shì (2:yībǎi),
