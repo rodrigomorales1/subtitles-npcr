@@ -168,7 +168,7 @@ sentences:
   zh-hans: “我们试了一百多人了，
   pinyin: “Wǒmen shìle yībǎi duō rén le,
   en: “We have tried out more than 100 people,
-  es: "Hemos audicionado a más de cien personas.
+  es: '"Hemos audicionado a más de cien personas.'
 - id: fbd9653e4b3b4d60909829333df2d4ed
   zh-hans: 只有您才跟我想象的男主角一样。
   pinyin: zhǐyǒu nín cái gēn wǒ xiǎngxiàng de nán zhǔjiǎo yīyàng.
@@ -183,12 +183,12 @@ sentences:
   zh-hans: 祝贺您，男主角就是您了。”
   pinyin: zhùhè nín, nán zhǔjiǎo jiùshì nínle.”
   en: Congratulations, the male lead role is you.”
-  es: Enhorabuena, el protagonista eres tú."
+  es: 'Enhorabuena, el protagonista eres tú."'
 - id: a242cbb729374195ace22c606de2c493
   zh-hans: “真的？”
   pinyin: “Zhēn de?”
   en: “Really?”
-  es: "¿De verdad?"
+  es: '"¿De verdad?"'
 - id: 97970c762bdd4c9abaf1c091e03bc5b7
   zh-hans: “当然是真的。
   pinyin: “Dāngrán shì zhēn de.
