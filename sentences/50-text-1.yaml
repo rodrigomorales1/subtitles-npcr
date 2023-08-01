@@ -2,8 +2,8 @@ metadata:
   new-words: {quantity: null}
   review-zh-hans: {finished: false, issue_id: 453}
   review-pinyin: {finished: false, issue_id: 454}
-  review-en: {finished: false, issue_id: 455}
-  review-es: {finished: false, issue_id: 456}
+  review-en: {finished: true, issue_id: 455}
+  review-es: {finished: true, issue_id: 456}
   add-groups-zh-hans: {finished: false, issue_id: 457}
   add-groups-pinyin: {finished: false, issue_id: 458}
   add-groups-en: {finished: false, issue_id: 459}

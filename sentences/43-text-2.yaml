@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: 830}
-  review-pinyin: {finished: false, issue_id: 831}
-  review-en: {finished: false, issue_id: 832}
-  review-es: {finished: false, issue_id: 833}
-  add-groups-zh-hans: {finished: false, issue_id: 834}
-  add-groups-pinyin: {finished: false, issue_id: 835}
-  add-groups-en: {finished: false, issue_id: 836}
-  add-groups-es: {finished: false, issue_id: 837}
+  review-zh-hans: {finished: true, issue_id: 830}
+  review-pinyin: {finished: true, issue_id: 831}
+  review-en: {finished: true, issue_id: 832}
+  review-es: {finished: true, issue_id: 833}
+  add-groups-zh-hans: {finished: true, issue_id: 834}
+  add-groups-pinyin: {finished: true, issue_id: 835}
+  add-groups-en: {finished: true, issue_id: 836}
+  add-groups-es: {finished: true, issue_id: 837}
 sentences:
 - id: 388f94e9544a43359aaa55cbf2bb5fbb
   zh-hans: 我对(1:中国)(2:现代)(3:文学)很感兴趣，

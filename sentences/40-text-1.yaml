@@ -2,12 +2,12 @@ metadata:
   new-words: {quantity: null}
   review-zh-hans: {finished: false, issue_id: 774}
   review-pinyin: {finished: false, issue_id: 775}
-  review-en: {finished: false, issue_id: 776}
-  review-es: {finished: false, issue_id: 777}
-  add-groups-zh-hans: {finished: false, issue_id: 778}
-  add-groups-pinyin: {finished: false, issue_id: 779}
-  add-groups-en: {finished: false, issue_id: 780}
-  add-groups-es: {finished: false, issue_id: 781}
+  review-en: {finished: true, issue_id: 776}
+  review-es: {finished: true, issue_id: 777}
+  add-groups-zh-hans: {finished: true, issue_id: 778}
+  add-groups-pinyin: {finished: true, issue_id: 779}
+  add-groups-en: {finished: true, issue_id: 780}
+  add-groups-es: {finished: true, issue_id: 781}
 sentences:
 - id: 83707ba210f642358d2f856b3fb63c38
   zh-hans: 有人提出(1:妇女:3)结婚以后，

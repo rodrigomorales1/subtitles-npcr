@@ -1,7 +1,7 @@
 metadata:
   new-words: {quantity: null}
   review-zh-hans: {finished: false, issue_id: 537}
-  review-pinyin: {finished: false, issue_id: 538}
+  review-pinyin: {finished: true, issue_id: 538}
   review-en: {finished: false, issue_id: 539}
   review-es: {finished: false, issue_id: 540}
   add-groups-zh-hans: {finished: false, issue_id: 541}
