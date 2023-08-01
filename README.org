@@ -1,66 +1,106 @@
-* Generate video with subtitles from video
-:PROPERTIES:
-:CREATED: [2023-07-13 12:04:28 -05]
-:END:
+* Current progress
 
-Generate video.
+# THIS SECTION IS AUTOMATICALLY GENERATED. DON'T EDIT IT MANUALLY.
+# 4e503f2a-ffbe-4704-9c03-153a4bd446ac-start
 
-#+HEADER: :dir (or default-directory)
-#+HEADER: :results silent
-#+begin_src sh
-python3 'python/subtitles_three_lines_generic.py' \
-        --media 'videos/43-text-2.webm' \
-        --timestamps 'timestamps/videos/43-text-2.vtt' \
-        --sentences 'sentences/43-text-2.yaml' \
-        --output '43-text-2-audio.mp4' \
-        --field-for-subtitles-in-third-line 'es'
-#+end_src
+| Text | [[https://github.com/rdrg109/subtitles-npcr/issues?q=is%3Aopen+label%3Areview-field+label%3Azh-hans][review-field zh-hans]] | [[https://github.com/rdrg109/subtitles-npcr/issues?q=is%3Aopen+label%3Areview-field+label%3Apinyin][review-field pinyin]] | [[https://github.com/rdrg109/subtitles-npcr/issues?q=is%3Aopen+label%3Areview-field+label%3Aen][review-field en]] | [[https://github.com/rdrg109/subtitles-npcr/issues?q=is%3Aopen+label%3Areview-field+label%3Aes][review-field es]] | [[https://github.com/rdrg109/subtitles-npcr/issues?q=is%3Aopen+label%3Areview-field+label%3Azh-hans][add-groups zh-hans]] | [[https://github.com/rdrg109/subtitles-npcr/issues?q=is%3Aopen+label%3Areview-field+label%3Apinyin][add-groups pinyin]] | [[https://github.com/rdrg109/subtitles-npcr/issues?q=is%3Aopen+label%3Areview-field+label%3Aen][add-groups en]] | [[https://github.com/rdrg109/subtitles-npcr/issues?q=is%3Aopen+label%3Areview-field+label%3Aes][add-groups es]] |
+|-+-+-+-+-+-+-+-+-|
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/01-text-1.yaml][01-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/01-text-2.yaml][01-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/02-text-1.yaml][02-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/02-text-2.yaml][02-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/03-text-1.yaml][03-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/03-text-2.yaml][03-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/04-text-1.yaml][04-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/04-text-2.yaml][04-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/05-text-1.yaml][05-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/05-text-2.yaml][05-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/06-text-1.yaml][06-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/06-text-2.yaml][06-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/07-text-1.yaml][07-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/07-text-2.yaml][07-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/08-text-1.yaml][08-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/08-text-2.yaml][08-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/09-text-1.yaml][09-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/09-text-2.yaml][09-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/10-text-1.yaml][10-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/10-text-2.yaml][10-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/11-text-1.yaml][11-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/11-text-2.yaml][11-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/12-text-1.yaml][12-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/12-text-2.yaml][12-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/13-text-1.yaml][13-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/13-text-2.yaml][13-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/14-text.yaml][14-text]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/15-text-1.yaml][15-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/15-text-2.yaml][15-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/16-text-1.yaml][16-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/16-text-2.yaml][16-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/17-text-1.yaml][17-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/17-text-2.yaml][17-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/18-text-1.yaml][18-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/18-text-2.yaml][18-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/19-text-1.yaml][19-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/19-text-2.yaml][19-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/20-text.yaml][20-text]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/21-text-1.yaml][21-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/21-text-2.yaml][21-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/22-text-1.yaml][22-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/22-text-2.yaml][22-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/23-text-1.yaml][23-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/23-text-2.yaml][23-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/24-text-1.yaml][24-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/24-text-2.yaml][24-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/25-text-1.yaml][25-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/25-text-2.yaml][25-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/26-text.yaml][26-text]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/27-text-1.yaml][27-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/27-text-2.yaml][27-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/28-text-1.yaml][28-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/28-text-2.yaml][28-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/29-text-1.yaml][29-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/29-text-2.yaml][29-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/30-text-1.yaml][30-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/30-text-2.yaml][30-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/31-text-1.yaml][31-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/31-text-2.yaml][31-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/32-text-1.yaml][32-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/32-text-2.yaml][32-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/33-text-1.yaml][33-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/33-text-2.yaml][33-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/34-text-1.yaml][34-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/34-text-2.yaml][34-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/35-text-1.yaml][35-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/35-text-2.yaml][35-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/36-text-1.yaml][36-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/36-text-2.yaml][36-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/37-text-1.yaml][37-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/37-text-2.yaml][37-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/38-text-1.yaml][38-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/38-text-2.yaml][38-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/39-text-1.yaml][39-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/39-text-2.yaml][39-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/40-text-1.yaml][40-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/40-text-2.yaml][40-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/41-text-1.yaml][41-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/41-text-2.yaml][41-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/42-text-1.yaml][42-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/42-text-2.yaml][42-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/43-text-1.yaml][43-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/43-text-2.yaml][43-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/44-text-1.yaml][44-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/44-text-2.yaml][44-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/45-text-1.yaml][45-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/45-text-2.yaml][45-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/46-text-1.yaml][46-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/46-text-2.yaml][46-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/47-text-1.yaml][47-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/47-text-2.yaml][47-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/48-text-1.yaml][48-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/48-text-2.yaml][48-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/49-text-1.yaml][49-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/49-text-2.yaml][49-text-2]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/50-text-1.yaml][50-text-1]] |  |  |   |  |  |  |  |  |
+| [[https://github.com/rdrg109/subtitles-npcr/blob/main/sentences/50-text-2.yaml][50-text-2]] |  |  |   |  |  |  |  |  |
 
-Generate video between start time and end time.
-
-#+HEADER: :dir (or default-directory)
-#+HEADER: :results silent
-#+begin_src sh
-python3 generate-video.py \
-        --media 'timestamps/videos/28-1.webm' \
-        --timestamps 'timestamps/videos/28-1.vtt' \
-        --sentences 'sentences/28-1.yaml' \
-        --output '28-1-video.mp4' \
-        --do-color-words 'True' \
-        --field-for-subtitles-in-third-line 'es'
-#+end_src
-
-* Generate video with subtiles from audio
-:PROPERTIES:
-:CREATED: [2023-07-13 12:04:35 -05]
-:END:
-
-Generate video from audio.
-
-#+HEADER: :dir (or default-directory)
-#+HEADER: :results silent
-#+begin_src sh
-python3 generate-audio.py \
-        --media "timestamps/audios/28-1.flac" \
-        --timestamps "timestamps/audios/28-1.vtt" \
-        --sentences "sentences/28-1.yaml" \
-        --output "28-1-audio.mp4" \
-        --highlight-background-of-sentence-being-read 'True' \
-        --field-for-subtitles-in-third-line 'es'
-#+end_src
-
-Generate video from audio between start time and end time.
-
-#+HEADER: :dir (or default-directory)
-#+HEADER: :results silent
-#+begin_src sh
-python3 generate-audio.py \
-        --media 'timestamps/audios/23-1.flac' \
-        --timestamps 'timestamps/audios/23-1.vtt' \
-        --sentences 'sentences/23-1.yaml' \
-        --output '23-1.mp4' \
-        --field-for-subtitles-in-third-line 'es' \
-        --start-time '00:01:10' \
-        --end-time '00:01:20'
-#+end_src
-
+# 4e503f2a-ffbe-4704-9c03-153a4bd446ac-end
