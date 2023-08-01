@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 718}
+  review-pinyin: {finished: false, issue_id: 719}
+  review-en: {finished: false, issue_id: 720}
+  review-es: {finished: false, issue_id: 721}
+  add-groups-zh-hans: {finished: false, issue_id: 722}
+  add-groups-pinyin: {finished: false, issue_id: 723}
+  add-groups-en: {finished: false, issue_id: 724}
+  add-groups-es: {finished: false, issue_id: 725}
 sentences:
 - id: 5faecaff-2aa4-408d-bcfa-f55ed6741555
   zh-hans: 小云，你在读什么书呢？

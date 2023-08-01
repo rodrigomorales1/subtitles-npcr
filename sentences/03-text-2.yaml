@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 150}
+  review-pinyin: {finished: false, issue_id: 151}
+  review-en: {finished: false, issue_id: 152}
+  review-es: {finished: false, issue_id: 153}
+  add-groups-zh-hans: {finished: false, issue_id: 154}
+  add-groups-pinyin: {finished: false, issue_id: 155}
+  add-groups-en: {finished: false, issue_id: 156}
+  add-groups-es: {finished: false, issue_id: 157}
 sentences:
 - id: 0122fa4a-cfa6-404d-b5ab-cb0ed44f12ae
   zh-hans: 陈老师，您好！

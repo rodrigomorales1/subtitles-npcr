@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 214}
+  review-pinyin: {finished: false, issue_id: 215}
+  review-en: {finished: false, issue_id: 216}
+  review-es: {finished: false, issue_id: 217}
+  add-groups-zh-hans: {finished: false, issue_id: 218}
+  add-groups-pinyin: {finished: false, issue_id: 219}
+  add-groups-en: {finished: false, issue_id: 220}
+  add-groups-es: {finished: false, issue_id: 221}
 sentences:
 - id: a156ba15-3c40-49fe-9b0a-807c6aa65b20
   zh-hans: 唉，这边儿。

@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 295}
+  review-pinyin: {finished: false, issue_id: 296}
+  review-en: {finished: false, issue_id: 297}
+  review-es: {finished: false, issue_id: 298}
+  add-groups-zh-hans: {finished: false, issue_id: 299}
+  add-groups-pinyin: {finished: false, issue_id: 300}
+  add-groups-en: {finished: false, issue_id: 301}
+  add-groups-es: {finished: false, issue_id: 302}
 sentences:
 - id: 1ede03be-e8d7-401c-bd29-dd1728c34c03
   zh-hans: 你在这儿休息一下，我去给你挂号。

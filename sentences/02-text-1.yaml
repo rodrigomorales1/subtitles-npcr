@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 126}
+  review-pinyin: {finished: false, issue_id: 127}
+  review-en: {finished: false, issue_id: 128}
+  review-es: {finished: false, issue_id: 129}
+  add-groups-zh-hans: {finished: false, issue_id: 130}
+  add-groups-pinyin: {finished: false, issue_id: 131}
+  add-groups-en: {finished: false, issue_id: 132}
+  add-groups-es: {finished: false, issue_id: 133}
 sentences:
 - id: 5f21c657-7059-4311-94f3-da99279c8520
   zh-hans: 陆雨平，你好吗？

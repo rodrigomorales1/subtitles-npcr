@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 351}
+  review-pinyin: {finished: false, issue_id: 352}
+  review-en: {finished: false, issue_id: 353}
+  review-es: {finished: false, issue_id: 354}
+  add-groups-zh-hans: {finished: false, issue_id: 355}
+  add-groups-pinyin: {finished: false, issue_id: 356}
+  add-groups-en: {finished: false, issue_id: 357}
+  add-groups-es: {finished: false, issue_id: 358}
 sentences:
 - id: ceaf380a-3754-4fae-b5ff-34ff7f36a8d9
   zh-hans: 小云，哪儿卖中式衣服？

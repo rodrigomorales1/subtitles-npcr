@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 886}
+  review-pinyin: {finished: false, issue_id: 887}
+  review-en: {finished: false, issue_id: 888}
+  review-es: {finished: false, issue_id: 889}
+  add-groups-zh-hans: {finished: false, issue_id: 890}
+  add-groups-pinyin: {finished: false, issue_id: 891}
+  add-groups-en: {finished: false, issue_id: 411}
+  add-groups-es: {finished: false, issue_id: 412}
 sentences:
 - id: bd20877737fe4931bb38ef5cc4e80e0b
   zh-hans: 中国的大学生打工吗？

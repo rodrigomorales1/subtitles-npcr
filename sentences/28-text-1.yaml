@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 582}
+  review-pinyin: {finished: false, issue_id: 583}
+  review-en: {finished: false, issue_id: 584}
+  review-es: {finished: false, issue_id: 585}
+  add-groups-zh-hans: {finished: false, issue_id: 586}
+  add-groups-pinyin: {finished: false, issue_id: 587}
+  add-groups-en: {finished: false, issue_id: 588}
+  add-groups-es: {finished: false, issue_id: 589}
 sentences:
 - id: 4a7db976-cbfd-47f9-b631-98a7cfbcfc4e
   zh-hans: 今天是(1:中秋节:23)，

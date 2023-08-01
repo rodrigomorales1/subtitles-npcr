@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 854}
+  review-pinyin: {finished: false, issue_id: 855}
+  review-en: {finished: false, issue_id: 856}
+  review-es: {finished: false, issue_id: 857}
+  add-groups-zh-hans: {finished: false, issue_id: 858}
+  add-groups-pinyin: {finished: false, issue_id: 859}
+  add-groups-en: {finished: false, issue_id: 860}
+  add-groups-es: {finished: false, issue_id: 861}
 sentences:
 - id: 76c945c9e00548389289d95c6cc62f81
   zh-hans: 请问，您是钱总经理吗？

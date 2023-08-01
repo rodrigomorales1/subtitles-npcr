@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 606}
+  review-pinyin: {finished: false, issue_id: 607}
+  review-en: {finished: false, issue_id: 608}
+  review-es: {finished: false, issue_id: 609}
+  add-groups-zh-hans: {finished: false, issue_id: 610}
+  add-groups-pinyin: {finished: false, issue_id: 611}
+  add-groups-en: {finished: false, issue_id: 612}
+  add-groups-es: {finished: false, issue_id: 613}
 sentences:
 - id: 1b56fa06-f275-4b7c-904d-c8f0bff5454c
   zh-hans: 张教授，我很喜欢中国书法，

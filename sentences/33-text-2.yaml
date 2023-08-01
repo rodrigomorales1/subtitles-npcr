@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 670}
+  review-pinyin: {finished: false, issue_id: 671}
+  review-en: {finished: false, issue_id: 672}
+  review-es: {finished: false, issue_id: 673}
+  add-groups-zh-hans: {finished: false, issue_id: 674}
+  add-groups-pinyin: {finished: false, issue_id: 675}
+  add-groups-en: {finished: false, issue_id: 676}
+  add-groups-es: {finished: false, issue_id: 677}
 sentences:
 - id: 362cadfc-9964-4e83-8c00-54c93d20570e
   zh-hans: 今天的报纸来了，

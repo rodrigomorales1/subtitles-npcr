@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 545}
+  review-pinyin: {finished: false, issue_id: 546}
+  review-en: {finished: false, issue_id: 547}
+  review-es: {finished: false, issue_id: 548}
+  add-groups-zh-hans: {finished: false, issue_id: 549}
+  add-groups-pinyin: {finished: false, issue_id: 550}
+  add-groups-en: {finished: false, issue_id: 551}
+  add-groups-es: {finished: false, issue_id: 552}
 sentences:
 - id: 40f9fe8f-31e9-4544-8d08-c6756fe120d6
   zh-hans: 宋华，你来帮我们一下，好吗？

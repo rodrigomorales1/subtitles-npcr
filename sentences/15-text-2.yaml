@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 327}
+  review-pinyin: {finished: false, issue_id: 328}
+  review-en: {finished: false, issue_id: 329}
+  review-es: {finished: false, issue_id: 330}
+  add-groups-zh-hans: {finished: false, issue_id: 331}
+  add-groups-pinyin: {finished: false, issue_id: 332}
+  add-groups-en: {finished: false, issue_id: 333}
+  add-groups-es: {finished: false, issue_id: 334}
 sentences:
 - id: 46567616-9f5e-4fb0-9943-4c7c2facc056
   zh-hans: 林娜，早！好久不见，

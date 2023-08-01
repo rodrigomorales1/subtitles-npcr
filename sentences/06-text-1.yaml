@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 190}
+  review-pinyin: {finished: false, issue_id: 191}
+  review-en: {finished: false, issue_id: 192}
+  review-es: {finished: false, issue_id: 193}
+  add-groups-zh-hans: {finished: false, issue_id: 194}
+  add-groups-pinyin: {finished: false, issue_id: 195}
+  add-groups-en: {finished: false, issue_id: 196}
+  add-groups-es: {finished: false, issue_id: 197}
 sentences:
 - id: 32fc6954-77c3-4832-8f09-5ee3e92f0857
   zh-hans: 谢谢。

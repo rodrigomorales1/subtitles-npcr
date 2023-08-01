@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 343}
+  review-pinyin: {finished: false, issue_id: 344}
+  review-en: {finished: false, issue_id: 345}
+  review-es: {finished: false, issue_id: 346}
+  add-groups-zh-hans: {finished: false, issue_id: 347}
+  add-groups-pinyin: {finished: false, issue_id: 348}
+  add-groups-en: {finished: false, issue_id: 349}
+  add-groups-es: {finished: false, issue_id: 350}
 sentences:
 - id: 7a1176f9-0436-4237-8e7f-36340e9f3e1b
   zh-hans: 我们借书证办了多长时间？

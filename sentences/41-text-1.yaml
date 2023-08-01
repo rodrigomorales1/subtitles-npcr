@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 790}
+  review-pinyin: {finished: false, issue_id: 791}
+  review-en: {finished: false, issue_id: 792}
+  review-es: {finished: false, issue_id: 793}
+  add-groups-zh-hans: {finished: false, issue_id: 794}
+  add-groups-pinyin: {finished: false, issue_id: 795}
+  add-groups-en: {finished: false, issue_id: 796}
+  add-groups-es: {finished: false, issue_id: 797}
 sentences:
 - id: 256ab023579147a98d15d13fcaec780b
   zh-hans: 宋华，毕业以后，

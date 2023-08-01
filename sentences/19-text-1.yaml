@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 383}
+  review-pinyin: {finished: false, issue_id: 384}
+  review-en: {finished: false, issue_id: 385}
+  review-es: {finished: false, issue_id: 386}
+  add-groups-zh-hans: {finished: false, issue_id: 387}
+  add-groups-pinyin: {finished: false, issue_id: 388}
+  add-groups-en: {finished: false, issue_id: 389}
+  add-groups-es: {finished: false, issue_id: 390}
 sentences:
 - id: 12a734e6-06a2-48e6-9b72-64e240819e4d
   zh-hans: 咱们来早了，

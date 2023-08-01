@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 230}
+  review-pinyin: {finished: false, issue_id: 231}
+  review-en: {finished: false, issue_id: 232}
+  review-es: {finished: false, issue_id: 233}
+  add-groups-zh-hans: {finished: false, issue_id: 234}
+  add-groups-pinyin: {finished: false, issue_id: 235}
+  add-groups-en: {finished: false, issue_id: 236}
+  add-groups-es: {finished: false, issue_id: 237}
 sentences:
 - id: b41e8e08-dbc3-4136-9821-984cdefac6dd
   zh-hans: 语言学院大不大？

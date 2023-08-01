@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 311}
+  review-pinyin: {finished: false, issue_id: 312}
+  review-en: {finished: false, issue_id: 313}
+  review-es: {finished: false, issue_id: 314}
+  add-groups-zh-hans: {finished: false, issue_id: 315}
+  add-groups-pinyin: {finished: false, issue_id: 316}
+  add-groups-en: {finished: false, issue_id: 317}
+  add-groups-es: {finished: false, issue_id: 318}
 sentences:
 - id: f29a17be-2e2c-49a0-a5fe-89e2f417a32d
   zh-hans: 那间房子房租太贵，

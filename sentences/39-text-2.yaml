@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 766}
+  review-pinyin: {finished: false, issue_id: 767}
+  review-en: {finished: false, issue_id: 768}
+  review-es: {finished: false, issue_id: 769}
+  add-groups-zh-hans: {finished: false, issue_id: 770}
+  add-groups-pinyin: {finished: false, issue_id: 771}
+  add-groups-en: {finished: false, issue_id: 772}
+  add-groups-es: {finished: false, issue_id: 773}
 sentences:
 - id: 385097cc66c14c13bafe30e590dc6ad2
   zh-hans: 王小云给林娜讲了一个故事。

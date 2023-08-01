@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 271}
+  review-pinyin: {finished: false, issue_id: 272}
+  review-en: {finished: false, issue_id: 273}
+  review-es: {finished: false, issue_id: 274}
+  add-groups-zh-hans: {finished: false, issue_id: 275}
+  add-groups-pinyin: {finished: false, issue_id: 276}
+  add-groups-en: {finished: false, issue_id: 277}
+  add-groups-es: {finished: false, issue_id: 278}
 sentences:
 - id: 0d982aeb-83ab-4afd-a5ce-ab6693967f18
   zh-hans: 小姐，您去哪儿？

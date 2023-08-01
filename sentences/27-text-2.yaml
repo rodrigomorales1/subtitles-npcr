@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 574}
+  review-pinyin: {finished: false, issue_id: 575}
+  review-en: {finished: false, issue_id: 576}
+  review-es: {finished: false, issue_id: 577}
+  add-groups-zh-hans: {finished: false, issue_id: 578}
+  add-groups-pinyin: {finished: false, issue_id: 579}
+  add-groups-en: {finished: false, issue_id: 580}
+  add-groups-es: {finished: false, issue_id: 581}
 sentences:
 - id: 1da8f151-3454-4883-bd9d-142fa7ce8c1d
   zh-hans: 我们把自己的看法说出来，你们会不高兴吗？

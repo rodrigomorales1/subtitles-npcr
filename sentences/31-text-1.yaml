@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 630}
+  review-pinyin: {finished: false, issue_id: 631}
+  review-en: {finished: false, issue_id: 632}
+  review-es: {finished: false, issue_id: 633}
+  add-groups-zh-hans: {finished: false, issue_id: 634}
+  add-groups-pinyin: {finished: false, issue_id: 635}
+  add-groups-en: {finished: false, issue_id: 636}
+  add-groups-es: {finished: false, issue_id: 637}
 sentences:
 - id: dd58918315744da2a4ea24fb47ce5c73
   zh-hans: 宋华，

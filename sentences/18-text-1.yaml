@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 367}
+  review-pinyin: {finished: false, issue_id: 368}
+  review-en: {finished: false, issue_id: 369}
+  review-es: {finished: false, issue_id: 370}
+  add-groups-zh-hans: {finished: false, issue_id: 371}
+  add-groups-pinyin: {finished: false, issue_id: 372}
+  add-groups-en: {finished: false, issue_id: 373}
+  add-groups-es: {finished: false, issue_id: 374}
 sentences:
 - id: 1e223cae-9f1a-4da0-b68c-d6ab3d0f96bd
   zh-hans: 小姐，我要寄这个包裹。

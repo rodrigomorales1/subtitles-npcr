@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 429}
+  review-pinyin: {finished: false, issue_id: 430}
+  review-en: {finished: false, issue_id: 431}
+  review-es: {finished: false, issue_id: 432}
+  add-groups-zh-hans: {finished: false, issue_id: 433}
+  add-groups-pinyin: {finished: false, issue_id: 434}
+  add-groups-en: {finished: false, issue_id: 435}
+  add-groups-es: {finished: false, issue_id: 436}
 sentences:
 - id: 6730805e743e49e2b8bfa77712d42697
   zh-hans: 在中国农村，

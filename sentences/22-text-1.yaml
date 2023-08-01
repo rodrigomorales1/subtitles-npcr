@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 498}
+  review-pinyin: {finished: false, issue_id: 499}
+  review-en: {finished: false, issue_id: 500}
+  review-es: {finished: false, issue_id: 501}
+  add-groups-zh-hans: {finished: false, issue_id: 502}
+  add-groups-pinyin: {finished: false, issue_id: 503}
+  add-groups-en: {finished: false, issue_id: 504}
+  add-groups-es: {finished: false, issue_id: 505}
 sentences:
 - id: 0e056066-be10-43db-b604-3e537b53fae7
   zh-hans: 林娜！

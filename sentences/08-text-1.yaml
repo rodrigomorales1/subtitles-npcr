@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 222}
+  review-pinyin: {finished: false, issue_id: 223}
+  review-en: {finished: false, issue_id: 224}
+  review-es: {finished: false, issue_id: 225}
+  add-groups-zh-hans: {finished: false, issue_id: 226}
+  add-groups-pinyin: {finished: false, issue_id: 227}
+  add-groups-en: {finished: false, issue_id: 228}
+  add-groups-es: {finished: false, issue_id: 229}
 sentences:
 - id: 3560c4bc-7e74-47ac-8a5a-783df0fed718
   zh-hans: 这是不是你们家的照片？

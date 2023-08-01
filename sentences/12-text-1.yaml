@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 287}
+  review-pinyin: {finished: false, issue_id: 288}
+  review-en: {finished: false, issue_id: 289}
+  review-es: {finished: false, issue_id: 290}
+  add-groups-zh-hans: {finished: false, issue_id: 291}
+  add-groups-pinyin: {finished: false, issue_id: 292}
+  add-groups-en: {finished: false, issue_id: 293}
+  add-groups-es: {finished: false, issue_id: 294}
 sentences:
 - id: 30fd4199-fea9-4689-985c-cb09afc3601c
   zh-hans: 大为，

@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 399}
+  review-pinyin: {finished: false, issue_id: 400}
+  review-en: {finished: false, issue_id: 401}
+  review-es: {finished: false, issue_id: 402}
+  add-groups-zh-hans: {finished: false, issue_id: 403}
+  add-groups-pinyin: {finished: false, issue_id: 404}
+  add-groups-en: {finished: false, issue_id: 405}
+  add-groups-es: {finished: false, issue_id: 406}
 sentences:
 - id: c8a7b67c-1abd-4c32-bac4-f8a24f57dd91
   zh-hans: 听说上星期你们留学生队赢了一场足球比赛。

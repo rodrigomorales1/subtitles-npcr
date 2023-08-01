@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 375}
+  review-pinyin: {finished: false, issue_id: 376}
+  review-en: {finished: false, issue_id: 377}
+  review-es: {finished: false, issue_id: 378}
+  add-groups-zh-hans: {finished: false, issue_id: 379}
+  add-groups-pinyin: {finished: false, issue_id: 380}
+  add-groups-en: {finished: false, issue_id: 381}
+  add-groups-es: {finished: false, issue_id: 382}
 sentences:
 - id: 64a5c054-c794-40d8-8a7f-7bf7396c5dc8
   zh-hans: 大为，现在该去海关办你的事儿了。

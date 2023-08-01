@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 391}
+  review-pinyin: {finished: false, issue_id: 392}
+  review-en: {finished: false, issue_id: 393}
+  review-es: {finished: false, issue_id: 394}
+  add-groups-zh-hans: {finished: false, issue_id: 395}
+  add-groups-pinyin: {finished: false, issue_id: 396}
+  add-groups-en: {finished: false, issue_id: 397}
+  add-groups-es: {finished: false, issue_id: 398}
 sentences:
 - id: a061cf5d-35bc-4008-968e-03888705d92e
   zh-hans: 咱们已经看了一个半小时的画儿了，

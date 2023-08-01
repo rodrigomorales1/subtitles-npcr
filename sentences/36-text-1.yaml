@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 710}
+  review-pinyin: {finished: false, issue_id: 711}
+  review-en: {finished: false, issue_id: 712}
+  review-es: {finished: false, issue_id: 713}
+  add-groups-zh-hans: {finished: false, issue_id: 714}
+  add-groups-pinyin: {finished: false, issue_id: 715}
+  add-groups-en: {finished: false, issue_id: 716}
+  add-groups-es: {finished: false, issue_id: 717}
 sentences:
 - id: 0a93dfb9-75c9-4991-b4c1-8a8547accf23
   zh-hans: 小燕子，我有个朋友要来中国旅游，

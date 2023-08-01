@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 513}
+  review-pinyin: {finished: false, issue_id: 514}
+  review-en: {finished: false, issue_id: 515}
+  review-es: {finished: false, issue_id: 516}
+  add-groups-zh-hans: {finished: false, issue_id: 517}
+  add-groups-pinyin: {finished: false, issue_id: 518}
+  add-groups-en: {finished: false, issue_id: 519}
+  add-groups-es: {finished: false, issue_id: 520}
 sentences:
 - id: d91226ff-6d77-4db9-a74e-126e7b9212b0
   zh-hans: 要(1:放假:2)了，(2:同学们)有什么(3:打算:3)？

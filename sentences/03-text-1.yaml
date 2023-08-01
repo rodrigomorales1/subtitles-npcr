@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 142}
+  review-pinyin: {finished: false, issue_id: 143}
+  review-en: {finished: false, issue_id: 144}
+  review-es: {finished: false, issue_id: 145}
+  add-groups-zh-hans: {finished: false, issue_id: 146}
+  add-groups-pinyin: {finished: false, issue_id: 147}
+  add-groups-en: {finished: false, issue_id: 148}
+  add-groups-es: {finished: false, issue_id: 149}
 sentences:
 - id: 3b71ccfc-634a-4f11-81f6-4b8379a9d535
   zh-hans: 力波，那是谁？

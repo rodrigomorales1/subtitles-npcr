@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 553}
+  review-pinyin: {finished: false, issue_id: 554}
+  review-en: {finished: false, issue_id: 555}
+  review-es: {finished: false, issue_id: 556}
+  add-groups-zh-hans: {finished: false, issue_id: 557}
+  add-groups-pinyin: {finished: false, issue_id: 558}
+  add-groups-en: {finished: false, issue_id: 559}
+  add-groups-es: {finished: false, issue_id: 560}
 sentences:
 - id: 99f2eaea-8e96-4903-8305-edd1edfefee9
   zh-hans: 大为，林娜宿舍的门开着，

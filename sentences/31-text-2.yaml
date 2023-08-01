@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 638}
+  review-pinyin: {finished: false, issue_id: 639}
+  review-en: {finished: false, issue_id: 640}
+  review-es: {finished: false, issue_id: 641}
+  add-groups-zh-hans: {finished: false, issue_id: 642}
+  add-groups-pinyin: {finished: false, issue_id: 643}
+  add-groups-en: {finished: false, issue_id: 644}
+  add-groups-es: {finished: false, issue_id: 645}
 sentences:
 - id: 7d7eb963-76a3-47c3-80dd-449deb9c195b
   zh-hans: 大为，刚才有人给你打电话了。

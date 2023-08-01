@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 702}
+  review-pinyin: {finished: false, issue_id: 703}
+  review-en: {finished: false, issue_id: 704}
+  review-es: {finished: false, issue_id: 705}
+  add-groups-zh-hans: {finished: false, issue_id: 706}
+  add-groups-pinyin: {finished: false, issue_id: 707}
+  add-groups-en: {finished: false, issue_id: 708}
+  add-groups-es: {finished: false, issue_id: 709}
 sentences:
 - id: e268102b-6062-49b8-a344-d4c2ab0e3cd3
   zh-hans: 贷款不就是借债吗？你为买车借债？

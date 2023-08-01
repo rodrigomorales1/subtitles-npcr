@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 506}
+  review-pinyin: {finished: false, issue_id: 507}
+  review-en: {finished: false, issue_id: 508}
+  review-es: {finished: false, issue_id: 509}
+  add-groups-zh-hans: {finished: false, issue_id: 410}
+  add-groups-pinyin: {finished: false, issue_id: 510}
+  add-groups-en: {finished: false, issue_id: 511}
+  add-groups-es: {finished: false, issue_id: 512}
 sentences:
 - id: fa2e1fed-1283-42f0-9da5-c6c427d090b9
   zh-hans: 请坐。

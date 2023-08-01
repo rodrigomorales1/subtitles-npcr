@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 838}
+  review-pinyin: {finished: false, issue_id: 839}
+  review-en: {finished: false, issue_id: 840}
+  review-es: {finished: false, issue_id: 841}
+  add-groups-zh-hans: {finished: false, issue_id: 842}
+  add-groups-pinyin: {finished: false, issue_id: 843}
+  add-groups-en: {finished: false, issue_id: 844}
+  add-groups-es: {finished: false, issue_id: 845}
 sentences:
 - id: 1d328d440f1e4f84bf267e0af991b97a
   zh-hans: 快(1:来)(2:看)啊！

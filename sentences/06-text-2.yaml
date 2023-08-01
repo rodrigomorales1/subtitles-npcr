@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 198}
+  review-pinyin: {finished: false, issue_id: 199}
+  review-en: {finished: false, issue_id: 200}
+  review-es: {finished: false, issue_id: 201}
+  add-groups-zh-hans: {finished: false, issue_id: 260}
+  add-groups-pinyin: {finished: false, issue_id: 203}
+  add-groups-en: {finished: false, issue_id: 204}
+  add-groups-es: {finished: false, issue_id: 205}
 sentences:
 - id: 8bd57715-bb48-4545-8388-e93cd24d45d3
   zh-hans: 杨老师，明天您有时间吗？

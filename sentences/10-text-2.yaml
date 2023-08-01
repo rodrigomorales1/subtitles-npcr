@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 263}
+  review-pinyin: {finished: false, issue_id: 264}
+  review-en: {finished: false, issue_id: 265}
+  review-es: {finished: false, issue_id: 266}
+  add-groups-zh-hans: {finished: false, issue_id: 267}
+  add-groups-pinyin: {finished: false, issue_id: 268}
+  add-groups-en: {finished: false, issue_id: 269}
+  add-groups-es: {finished: false, issue_id: 270}
 sentences:
 - id: bb0d15a4-0392-48c3-aceb-e3eb2fbd711b
   zh-hans: 先生，您要什么？

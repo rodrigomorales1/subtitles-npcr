@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 614}
+  review-pinyin: {finished: false, issue_id: 615}
+  review-en: {finished: false, issue_id: 616}
+  review-es: {finished: false, issue_id: 617}
+  add-groups-zh-hans: {finished: false, issue_id: 618}
+  add-groups-pinyin: {finished: false, issue_id: 619}
+  add-groups-en: {finished: false, issue_id: 620}
+  add-groups-es: {finished: false, issue_id: 621}
 sentences:
 - id: 24394190-da71-40f7-a1fa-5b104eed94d2
   zh-hans: 现在八点半了，

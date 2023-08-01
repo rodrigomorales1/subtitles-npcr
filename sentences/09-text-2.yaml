@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 246}
+  review-pinyin: {finished: false, issue_id: 247}
+  review-en: {finished: false, issue_id: 248}
+  review-es: {finished: false, issue_id: 249}
+  add-groups-zh-hans: {finished: false, issue_id: 250}
+  add-groups-pinyin: {finished: false, issue_id: 251}
+  add-groups-en: {finished: false, issue_id: 252}
+  add-groups-es: {finished: false, issue_id: 253}
 sentences:
 - id: 3135f325-36a7-4355-afeb-67e0a74241cd
   zh-hans: 嗨！你们好！

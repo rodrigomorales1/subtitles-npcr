@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 421}
+  review-pinyin: {finished: false, issue_id: 422}
+  review-en: {finished: false, issue_id: 423}
+  review-es: {finished: false, issue_id: 424}
+  add-groups-zh-hans: {finished: false, issue_id: 425}
+  add-groups-pinyin: {finished: false, issue_id: 426}
+  add-groups-en: {finished: false, issue_id: 427}
+  add-groups-es: {finished: false, issue_id: 428}
 sentences:
 - id: 36ed89bbbaa545ce955971939cbefc9d
   zh-hans: 大为，你的信。

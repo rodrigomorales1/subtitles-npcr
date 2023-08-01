@@ -1,13 +1,13 @@
 metadata:
   new-words: {quantity: null}
-  review-zh-hans: {finished: false, issue_id: null}
-  review-pinyin: {finished: false, issue_id: null}
-  review-en: {finished: false, issue_id: null}
-  review-es: {finished: false, issue_id: null}
-  add-groups-zh-hans: {finished: false, issue_id: null}
-  add-groups-pinyin: {finished: false, issue_id: null}
-  add-groups-en: {finished: false, issue_id: null}
-  add-groups-es: {finished: false, issue_id: null}
+  review-zh-hans: {finished: false, issue_id: 303}
+  review-pinyin: {finished: false, issue_id: 304}
+  review-en: {finished: false, issue_id: 305}
+  review-es: {finished: false, issue_id: 306}
+  add-groups-zh-hans: {finished: false, issue_id: 307}
+  add-groups-pinyin: {finished: false, issue_id: 308}
+  add-groups-en: {finished: false, issue_id: 309}
+  add-groups-es: {finished: false, issue_id: 310}
 sentences:
 - id: 6a67432c-9368-426e-88bf-b4dee3ff4b50
   zh-hans: 大为，听说你得了感冒，现在你身体怎么样？
