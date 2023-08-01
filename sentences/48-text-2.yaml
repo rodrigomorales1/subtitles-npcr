@@ -1,14 +1,3 @@
-metadata:
-  quantity-of-new-words: null
-  is-reviewed-pinyin: False
-  is-reviewed-zh-hans: False
-  is-reviewed-es: False
-  is-reviewed-en: False
-  vocabulary-is-grouped-pinyin: False
-  vocabulary-is-grouped-zh-hans: False
-  vocabulary-is-grouped-es: False
-  vocabulary-is-grouped-en: False
-sentences:
 - id: 6730805e743e49e2b8bfa77712d42697
   zh-hans: 在中国农村，
   pinyin: Zài Zhōngguó nóngcūn,

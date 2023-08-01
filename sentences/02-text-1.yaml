@@ -1,14 +1,3 @@
-metadata:
-  quantity-of-new-words: null
-  is-reviewed-pinyin: False
-  is-reviewed-zh-hans: False
-  is-reviewed-es: False
-  is-reviewed-en: False
-  vocabulary-is-grouped-pinyin: False
-  vocabulary-is-grouped-zh-hans: False
-  vocabulary-is-grouped-es: False
-  vocabulary-is-grouped-en: False
-sentences:
 - id: 5f21c657-7059-4311-94f3-da99279c8520
   zh-hans: 陆雨平，你好吗？
   pinyin: Lù Yǔpíng, nǐ hǎo ma? 

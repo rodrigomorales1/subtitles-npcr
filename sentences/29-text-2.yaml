@@ -1,14 +1,3 @@
-metadata:
-  quantity-of-new-words: null
-  is-reviewed-pinyin: False
-  is-reviewed-zh-hans: False
-  is-reviewed-es: False
-  is-reviewed-en: False
-  vocabulary-is-grouped-pinyin: False
-  vocabulary-is-grouped-zh-hans: False
-  vocabulary-is-grouped-es: False
-  vocabulary-is-grouped-en: False
-sentences:
 - id: 1b56fa06-f275-4b7c-904d-c8f0bff5454c
   zh-hans: 张教授，我很喜欢中国书法，
   pinyin: Zhāng jiàoshòu, wǒ hěn xǐhuan Zhōngguó shūfǎ,

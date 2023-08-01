@@ -1,14 +1,3 @@
-metadata:
-  quantity-of-new-words: null
-  is-reviewed-pinyin: False
-  is-reviewed-zh-hans: False
-  is-reviewed-es: False
-  is-reviewed-en: False
-  vocabulary-is-grouped-pinyin: False
-  vocabulary-is-grouped-zh-hans: False
-  vocabulary-is-grouped-es: False
-  vocabulary-is-grouped-en: False
-sentences:
 - id: 1ede03be-e8d7-401c-bd29-dd1728c34c03
   zh-hans: 你在这儿休息一下，我去给你挂号。
   pinyin: Nǐ zài zhèr xiūxí yīxià, wǒ qù gěi nǐ guàhào. 

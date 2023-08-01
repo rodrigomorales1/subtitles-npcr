@@ -1,14 +1,3 @@
-metadata:
-  quantity-of-new-words: null
-  is-reviewed-pinyin: False
-  is-reviewed-zh-hans: False
-  is-reviewed-es: False
-  is-reviewed-en: False
-  vocabulary-is-grouped-pinyin: False
-  vocabulary-is-grouped-zh-hans: False
-  vocabulary-is-grouped-es: False
-  vocabulary-is-grouped-en: False
-sentences:
 - id: 3135f325-36a7-4355-afeb-67e0a74241cd
   zh-hans: 嗨！你们好！
   pinyin: Hāi! Nǐmen hǎo! 

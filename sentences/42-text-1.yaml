@@ -1,14 +1,3 @@
-metadata:
-  quantity-of-new-words: null
-  is-reviewed-pinyin: False
-  is-reviewed-zh-hans: False
-  is-reviewed-es: False
-  is-reviewed-en: False
-  vocabulary-is-grouped-pinyin: False
-  vocabulary-is-grouped-zh-hans: False
-  vocabulary-is-grouped-es: False
-  vocabulary-is-grouped-en: False
-sentences:
 - id: 5a19562ab55b4babbdccfec6a0571685
   zh-hans: 欢迎杰克和玉兰回家过春节。
   pinyin: Huānyíng Jiékè hé Yùlán huí jiāguò chūnjié.

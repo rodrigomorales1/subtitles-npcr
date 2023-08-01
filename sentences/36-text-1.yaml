@@ -1,14 +1,3 @@
-metadata:
-  quantity-of-new-words: null
-  is-reviewed-pinyin: False
-  is-reviewed-zh-hans: False
-  is-reviewed-es: False
-  is-reviewed-en: False
-  vocabulary-is-grouped-pinyin: False
-  vocabulary-is-grouped-zh-hans: False
-  vocabulary-is-grouped-es: False
-  vocabulary-is-grouped-en: False
-sentences:
 - id: 0a93dfb9-75c9-4991-b4c1-8a8547accf23
   zh-hans: 小燕子，我有个朋友要来中国旅游，
   pinyin: Xiǎo Yànzi, wǒ yǒu gè péngyǒu yào lái Zhōngguó lǚyóu, 

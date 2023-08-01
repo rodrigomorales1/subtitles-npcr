@@ -1,14 +1,3 @@
-metadata:
-  quantity-of-new-words: null
-  is-reviewed-pinyin: False
-  is-reviewed-zh-hans: False
-  is-reviewed-es: False
-  is-reviewed-en: False
-  vocabulary-is-grouped-pinyin: False
-  vocabulary-is-grouped-zh-hans: False
-  vocabulary-is-grouped-es: False
-  vocabulary-is-grouped-en: False
-sentences:
 - id: 46567616-9f5e-4fb0-9943-4c7c2facc056
   zh-hans: 林娜，早！好久不见，
   pinyin: Lín Nà, zǎo! Hǎojiǔ bùjiàn, 
