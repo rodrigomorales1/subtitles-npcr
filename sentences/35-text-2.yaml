@@ -1,3 +1,14 @@
+metadata:
+  new-words: {quantity: null}
+  review-zh-hans: {finished: False, issue_id: null}
+  review-pinyin: {finished: False, issue_id: null}
+  review-en: {finished: False, issue_id: null}
+  review-es: {finished: False, issue_id: null}
+  add-groups-zh-hans: {finished: False, issue_id: null}
+  add-groups-pinyin: {finished: False, issue_id: null}
+  add-groups-en: {finished: False, issue_id: null}
+  add-groups-es: {finished: False, issue_id: null}
+sentences:
 - id: e268102b-6062-49b8-a344-d4c2ab0e3cd3
   zh-hans: 贷款不就是借债吗？你为买车借债？
   pinyin: Dàikuǎn bù jiùshì jièzhài ma? Nǐ wèi mǎi chē jièzhài? 

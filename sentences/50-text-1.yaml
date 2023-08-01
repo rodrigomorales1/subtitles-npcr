@@ -1,3 +1,14 @@
+metadata:
+  new-words: {quantity: null}
+  review-zh-hans: {finished: False, issue_id: null}
+  review-pinyin: {finished: False, issue_id: null}
+  review-en: {finished: False, issue_id: null}
+  review-es: {finished: False, issue_id: null}
+  add-groups-zh-hans: {finished: False, issue_id: null}
+  add-groups-pinyin: {finished: False, issue_id: null}
+  add-groups-en: {finished: False, issue_id: null}
+  add-groups-es: {finished: False, issue_id: null}
+sentences:
 - id: 43df3868d7f74cc8ac9667eeda8bbfff
   zh-hans: 喂，宋华，
   pinyin: Wèi, Sòng Huá,

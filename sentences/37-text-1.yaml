@@ -1,3 +1,14 @@
+metadata:
+  new-words: {quantity: null}
+  review-zh-hans: {finished: False, issue_id: null}
+  review-pinyin: {finished: False, issue_id: null}
+  review-en: {finished: False, issue_id: null}
+  review-es: {finished: False, issue_id: null}
+  add-groups-zh-hans: {finished: False, issue_id: null}
+  add-groups-pinyin: {finished: False, issue_id: null}
+  add-groups-en: {finished: False, issue_id: null}
+  add-groups-es: {finished: False, issue_id: null}
+sentences:
 - id: ba8c55b0-5226-4fd0-b355-782069e811cb
   zh-hans: 小云、力波、宋华，
   pinyin: Xiǎo Yún, Lìbō, Sòng Huá, 

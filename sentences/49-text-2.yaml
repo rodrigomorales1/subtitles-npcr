@@ -1,3 +1,14 @@
+metadata:
+  new-words: {quantity: null}
+  review-zh-hans: {finished: False, issue_id: null}
+  review-pinyin: {finished: False, issue_id: null}
+  review-en: {finished: False, issue_id: null}
+  review-es: {finished: False, issue_id: null}
+  add-groups-zh-hans: {finished: False, issue_id: null}
+  add-groups-pinyin: {finished: False, issue_id: null}
+  add-groups-en: {finished: False, issue_id: null}
+  add-groups-es: {finished: False, issue_id: null}
+sentences:
 - id: 64e0a00ff73246348bd200a071b6c7e4
   zh-hans: 林娜身体不舒服的时候，总不肯去医院。
   pinyin: Lín Nà shēntǐ bú shūfú de shíhou, zǒng bù kěn qù yīyuàn.

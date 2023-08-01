@@ -1,3 +1,14 @@
+metadata:
+  new-words: {quantity: null}
+  review-zh-hans: {finished: False, issue_id: null}
+  review-pinyin: {finished: False, issue_id: null}
+  review-en: {finished: False, issue_id: null}
+  review-es: {finished: False, issue_id: null}
+  add-groups-zh-hans: {finished: False, issue_id: null}
+  add-groups-pinyin: {finished: False, issue_id: null}
+  add-groups-en: {finished: False, issue_id: null}
+  add-groups-es: {finished: False, issue_id: null}
+sentences:
 - id: 1fc25ff1-0782-4ed9-8493-49caa6f4e3f1
   zh-hans: 我们第一次过中国的中秋节，
   pinyin:  Wǒmen dìyīcì guò Zhōngguó de zhōngqiū jié,

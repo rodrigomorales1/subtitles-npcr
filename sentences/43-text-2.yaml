@@ -1,3 +1,14 @@
+metadata:
+  new-words: {quantity: null}
+  review-zh-hans: {finished: False, issue_id: null}
+  review-pinyin: {finished: False, issue_id: null}
+  review-en: {finished: False, issue_id: null}
+  review-es: {finished: False, issue_id: null}
+  add-groups-zh-hans: {finished: False, issue_id: null}
+  add-groups-pinyin: {finished: False, issue_id: null}
+  add-groups-en: {finished: False, issue_id: null}
+  add-groups-es: {finished: False, issue_id: null}
+sentences:
 - id: 388f94e9544a43359aaa55cbf2bb5fbb
   zh-hans: 我对(1:中国)(2:现代)(3:文学)很感兴趣，
   pinyin: Wǒ duì (1:Zhōngguó) (2:xiàndài) (3:wénxué) hěn gǎn xìngqù,

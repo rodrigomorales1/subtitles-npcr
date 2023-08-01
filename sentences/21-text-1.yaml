@@ -1,3 +1,14 @@
+metadata:
+  new-words: {quantity: null}
+  review-zh-hans: {finished: False, issue_id: null}
+  review-pinyin: {finished: False, issue_id: null}
+  review-en: {finished: False, issue_id: null}
+  review-es: {finished: False, issue_id: null}
+  add-groups-zh-hans: {finished: False, issue_id: null}
+  add-groups-pinyin: {finished: False, issue_id: null}
+  add-groups-en: {finished: False, issue_id: null}
+  add-groups-es: {finished: False, issue_id: null}
+sentences:
 - id: c8a7b67c-1abd-4c32-bac4-f8a24f57dd91
   zh-hans: 听说上星期你们留学生队赢了一场足球比赛。
   pinyin: Tīng shuō shàng xīngqí nǐmen liúxuéshēng duì yíngle yī chǎng zúqiú bǐsài. 

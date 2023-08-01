@@ -1,3 +1,14 @@
+metadata:
+  new-words: {quantity: null}
+  review-zh-hans: {finished: False, issue_id: null}
+  review-pinyin: {finished: False, issue_id: null}
+  review-en: {finished: False, issue_id: null}
+  review-es: {finished: False, issue_id: null}
+  add-groups-zh-hans: {finished: False, issue_id: null}
+  add-groups-pinyin: {finished: False, issue_id: null}
+  add-groups-en: {finished: False, issue_id: null}
+  add-groups-es: {finished: False, issue_id: null}
+sentences:
 - id: 6a67432c-9368-426e-88bf-b4dee3ff4b50
   zh-hans: 大为，听说你得了感冒，现在你身体怎么样？
   pinyin: Dàwéi, tīng shuō nǐ dé le gǎnmào, xiànzài nǐ shēntǐ zěnme yàng? 
