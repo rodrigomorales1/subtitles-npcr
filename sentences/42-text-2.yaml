@@ -3,7 +3,7 @@ metadata:
   review-zh-hans: {finished: false, issue_id: 814}
   review-pinyin: {finished: false, issue_id: 815}
   review-en: {finished: false, issue_id: 816}
-  review-es: {finished: false, issue_id: 817}
+  review-es: {finished: true, issue_id: 817}
   add-groups-zh-hans: {finished: false, issue_id: 818}
   add-groups-pinyin: {finished: false, issue_id: 819}
   add-groups-en: {finished: false, issue_id: 820}
