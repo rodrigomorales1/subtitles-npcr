@@ -39,6 +39,10 @@ parser.add_argument(
     "--file-path-output",
     dest = "file_path_output")
 
+parser.add_argument(
+    '--keys-for-bottom-subtitles',
+    dest = 'keys_for_bottom_subtitles')
+
 args = parser.parse_args()
 
 text_id = args.text_id
@@ -60,6 +64,6 @@ subtitles_three_groups.generate_video(
     file_path_output = file_path_output,
     start_time = args.start_time,
     end_time = args.end_time,
-    field_for_subtitles_in_third_line = args.field_for_subtitles_in_third_line,
+    keys_for_bottom_subtitles = args.keys_for_bottom_subtitles,
     height = args.height,
     highlight_background_of_sentence_being_read = args.highlight_background_of_sentence_being_read)
