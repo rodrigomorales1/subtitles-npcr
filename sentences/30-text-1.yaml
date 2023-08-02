@@ -45,10 +45,10 @@ sentences:
   en: What (1:dance) are they doing?
   es: ¿Qué están (1:bailando)?
 - id: 23c1ac07-b036-4e50-980c-6797e8ee8ecf
-  zh-hans: 他们在扭秧歌呢。
-  pinyin: Tāmen zài niǔyānggē ne.
-  en: They are doing the Yangge.
-  es: Están bailando la plantación del arroz.
+  zh-hans: 他们在(1:扭秧歌)呢。
+  pinyin: Tāmen zài (1:niǔyānggē) ne.
+  en: They are (1:dancing the Yangge).
+  es: Están (1:bailando el Yangge).
 - id: f676169a-5ef2-4e5a-8b34-c80d194f16a3
   zh-hans: (1:扭秧歌:7)？我听说过。
   pinyin: (1:Niǔyānggē)? Wǒ tīng shuōguò.
