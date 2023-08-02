@@ -118,7 +118,7 @@ sentences:
   zh-hans: 他们听得高兴的时候，也可以叫“好”！
   pinyin: Tāmen tīng dé gāoxìng de shíhou, yě kěyǐ jiào “hǎo”!
   en: When they listening happily, can also shout “good”!
-  es: Cuando están contentos, pueden decir "sí".
+  es: Cuando escuchan y se sienten contentos, ellos los llaman "buenos".
 - id: 65ebcfc3-ddb5-4393-b349-f7cd3a4a9d79
   zh-hans: 这也是他们的一种(1:休闲:6)(2:方式:7)。
   pinyin: Zhè yěshì tāmen de yī zhǒng (1:xiūxián) (2:fāngshì).
@@ -128,7 +128,7 @@ sentences:
   zh-hans: 真有意思。
   pinyin: Zhēn yǒuyìsi.
   en: Really interesting.
-  es: Es divertido.
+  es: Realmente interesante.
 - id: c501d07e-ce09-4275-b5d6-df1e6545f552
   zh-hans: 我发现这儿老人的(1:休闲:6)活动有很多特点。
   pinyin: Wǒ fāxiàn zhèr lǎorén de (1:xiūxián) huódòng yǒu hěnduō tèdiǎn.
@@ -143,7 +143,7 @@ sentences:
   zh-hans: 第二，最重要的是，
   pinyin: dì èr, zuì zhòngyào de shì,
   en: secondly, and most importantly,
-  es: En segundo lugar, y lo más importante.
+  es: en segundo lugar, y lo más importante,
 - id: c676ee1c-7dd6-41c2-8a64-7c433aec2b5d
   zh-hans: 他们喜欢很多人在一起活动；
   pinyin: tāmen xǐhuan hěnduō rén zài yīqǐ huódòng;
@@ -157,23 +157,23 @@ sentences:
 - id: df35b501-72dc-4720-918e-4d5ec0a2823d
   zh-hans: 第三，有的人做，有的人看，
   pinyin: dì sān, yǒu de rén zuò, yǒu de rén kàn,
-  en: thirdly, some people do, some people watch,
-  es: en tercer lugar, algunos lo hacen mientras otros miran.
+  en: Thirdly, some people do, some people watch,
+  es: En tercer lugar, algunos lo hacen mientras otros miran,
 - id: 13cc56a8-2ff5-4bfd-bd5f-c9f519bb80d5
   zh-hans: 可能互相不认识，
   pinyin: kěnéng hùxiāng bù rènshi,
   en: they may not know each other,
-  es: Puede que no se conozcan.
+  es: puede que no se conozcan,
 - id: 0124120c-6ef4-48d8-bcb0-c92888215fa7
   zh-hans: 可是大家都玩儿得很高兴。
   pinyin: kěshì dàjiā dōu wánr de hěn gāoxìng.
-  en: but everyone has a lot of fun.
-  es: pero todos se lo pasan bien.
+  en: but everyone happily play.
+  es: pero todos lo pasan contentos.
 - id: d458d74c-e767-4f56-98fe-5aa13e50c417
   zh-hans: 你说得很对。
   pinyin: Nǐ shuō de hěn duì.
   en: What you say is correct.
-  es: Tiene razón.
+  es: Lo que dices es correcto.
 - id: 5a92bf90-a39d-4de7-96a8-e60a2000b682
   zh-hans: 当然，这儿老人的(1:休闲:6)(2:方式:7)还很多。
   pinyin: Dāngrán, zhèr lǎorén de (1:xiūxián) (2:fāngshì) hái hěnduō.
