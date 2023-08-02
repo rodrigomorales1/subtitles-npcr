@@ -1,19 +1,20 @@
 import utilities
 
-def generate_ass_file(data_timestamps_sentences, do_color_words, field_for_subtitles_in_third_line):
+def generate_ass_file(data_timestamps_sentences, do_color_words, keys_for_bottom_subtitles):
     import tempfile
 
     if do_color_words:
-        utilities.insert_colors_in_keys(data_timestamps_sentences, ['zh-hans', 'pinyin', field_for_subtitles_in_third_line])
+        utilities.insert_colors_in_keys(data_timestamps_sentences, ['zh-hans', 'pinyin'] + keys_for_bottom_subtitles)
         chinese_characters_color = 'FFFFFF'
     else:
-        utilities.remove_word_indicators_in_keys(data_timestamps_sentences, ['zh-hans', 'pinyin', field_for_subtitles_in_third_line])
+        utilities.remove_word_indicators_in_keys(data_timestamps_sentences, ['zh-hans', 'pinyin'] + keys_for_bottom_subtitles)
         chinese_characters_color = '00FFFF'
 
     temporary_file = tempfile.NamedTemporaryFile(suffix='.ass')
 
     with open(temporary_file.name, 'w') as f:
-        f.write(f"""[Script Info]
+        if len(keys_for_bottom_subtitles) == 1:
+            f.write(f"""[Script Info]
 ScriptType: v4.00+
 
 [V4+ Styles]
@@ -24,13 +25,33 @@ Style:  subtitles_bottom, Noto Sans,                     18,       0,       &HFF
 
 [Events]
 Format: Start, End, Style, Text""")
+        elif len(keys_for_bottom_subtitles) == 2:
+            f.write(f"""[Script Info]
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name,               Fontname,                      Fontsize, Outline, PrimaryColour,                Spacing, Shadow, Bold, Alignment, MarginV
+Style:  pinyin,             Noto Sans,                     18,       0,       &HFFFFFF,                     0,       0,      0,    2,         56
+Style:  zh-hans,            Noto Sans Mono CJK SC Regular, 32,       0,       &H{chinese_characters_color}, 2,       0,      1,    2,         38
+Style:  subtitles_bottom_1, Noto Sans,                     18,       0,       &HFFFFFF,                     0,       0,      0,    2,         20
+Style:  subtitles_bottom_2, Noto Sans,                     18,       0,       &HFFFFFF,                     0,       0,      0,    2,         2
+
+[Events]
+Format: Start, End, Style, Text""")
+
         for i in range(0, len(data_timestamps_sentences)):
             start_time = data_timestamps_sentences[i]['start']
             end_time = data_timestamps_sentences[i]['end']
             f.write(f"""
 Dialogue: {start_time}, {end_time}, zh-hans, {data_timestamps_sentences[i]['zh-hans']}
-Dialogue: {start_time}, {end_time}, pinyin, {data_timestamps_sentences[i]['pinyin']}
-Dialogue: {start_time}, {end_time}, subtitles_bottom, {data_timestamps_sentences[i][field_for_subtitles_in_third_line]}""")
+Dialogue: {start_time}, {end_time}, pinyin, {data_timestamps_sentences[i]['pinyin']}""")
+            if len(keys_for_bottom_subtitles) == 1:
+                f.write(f"""
+Dialogue: {start_time}, {end_time}, subtitles_bottom, {data_timestamps_sentences[i][keys_for_bottom_subtitles[0]]}""")
+            elif len(keys_for_bottom_subtitles) == 2:
+                f.write(f"""
+Dialogue: {start_time}, {end_time}, subtitles_bottom_1, {data_timestamps_sentences[i][keys_for_bottom_subtitles[0]]}
+Dialogue: {start_time}, {end_time}, subtitles_bottom_2, {data_timestamps_sentences[i][keys_for_bottom_subtitles[1]]}""")
 
     return temporary_file
 
@@ -40,29 +61,36 @@ def generate_video(file_path_media,
                    file_path_output,
                    start_time,
                    end_time,
-                   field_for_subtitles_in_third_line,
+                   keys_for_bottom_subtitles,
+                   show_subtitles_on_top_of_video,
                    height,
                    do_color_words):
     import subprocess
     import itertools
 
-    if not field_for_subtitles_in_third_line:
-        field_for_subtitles_in_third_line = 'en'
-    if not do_color_words:
+    if show_subtitles_on_top_of_video == None:
+        show_subtitles_on_top_of_video = True
+    if keys_for_bottom_subtitles == None:
+        keys_for_bottom_subtitles = 'en'
+    if do_color_words == None:
         do_color_words = True
-    if not height:
+    if height == None:
         height = '1080'
+
+    keys_for_bottom_subtitles = keys_for_bottom_subtitles.split(',')
 
     data_timestamps_sentences = utilities.get_data_timestamps_sentences_from_files(file_path_timestamps, file_path_sentences)
 
-    ass_file = generate_ass_file(data_timestamps_sentences, do_color_words, field_for_subtitles_in_third_line)
+    ass_file = generate_ass_file(data_timestamps_sentences, do_color_words, keys_for_bottom_subtitles)
 
     height = int(height)
     # We use integer because a video can have float dimentions
     width = int(16 * (height/9))
     # We use int() because, apparently, drawbox only read integers
-    height_background = int((height * 5)/18)
-
+    if len(keys_for_bottom_subtitles) == 1:
+        height_background_for_subtitles = int((height * 5)/18)
+    elif len(keys_for_bottom_subtitles) == 2:
+        height_background_for_subtitles = int((height * 17)/54)
     cmd = list(itertools.chain.from_iterable(
         [x for x in [
             ['ffmpeg',
@@ -80,7 +108,10 @@ def generate_video(file_path_media,
             # freedom to the user. Currently, when trying to
             # overlap subtitles, one of the subtitles is
             # automatically moved away.
-            ['-filter_complex', f'[1:v]scale=-1:{height} [ovrl],[0:v][ovrl]overlay=(main_w-overlay_w)/2:0:shortest=1,drawbox=y=ih-{height_background}:height={height_background}:t=fill:color=black@0.7,subtitles={ass_file.name}',
+            ['-filter_complex', (f'[1:v]scale=-1:{height if show_subtitles_on_top_of_video else height-height_background_for_subtitles} [ovrl]'
+                                 + ',[0:v][ovrl]overlay=(main_w-overlay_w)/2:0:shortest=1'
+                                 + f',drawbox=y=ih-{height_background_for_subtitles}:height={height_background_for_subtitles}:t=fill:color=black@0.7'
+                                 + f',subtitles={ass_file.name}'),
              file_path_output]
         ] if x is not None]))
 
