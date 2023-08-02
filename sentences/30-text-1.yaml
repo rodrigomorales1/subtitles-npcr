@@ -26,9 +26,9 @@ sentences:
   es: A la gente le gusta salir a participar en (1:actividades) después de cenar.
 - id: 4a10da20-c6ff-4de6-9405-3d55f261d50d
   zh-hans: 你看，人们又唱又(1:跳:5)，玩儿得真高兴。
-  pinyin: Nǐ kàn, rénmen yòu chàng yòu tiào, wánr de zhēn gāoxìng.
-  en: Look, people are singing and dancing, really having fun.
-  es: Mira, la gente está cantando y bailando, divirtiéndose.
+  pinyin: Nǐ kàn, rénmen yòu chàng yòu (1:tiào), wánr de zhēn gāoxìng.
+  en: Look, people are singing and (1:dancing), really having fun.
+  es: Mira, la gente está cantando y (1:bailando), divirtiéndose.
 - id: d9884c2e-5f81-4602-9dcf-777fcd7fc3ef
   zh-hans: 那儿来了很多人，
   pinyin: Nàr láile hěnduō rén,
