@@ -83,17 +83,17 @@ sentences:
   zh-hans: 他们很喜欢扭，常常扭得全身(1:出汗:14)。
   pinyin: Tāmen hěn xǐhuan niǔ, chángcháng niǔ de quánshēn (1:chūhàn).
   en: They like to dance, and will often dance up (1:a sweat).
-  es: Les gusta tanto que a menudo (1:sudan) por todo el cuerpo.
+  es: Les gusta tanto bailar que a menudo (1:sudan) por todo el cuerpo.
 - id: eb85640d-76fd-4370-a1c8-0eab89c857b5
   zh-hans: 我看，这种舞很好跳，我也能很快地学会。
   pinyin: Wǒ kàn, zhè zhǒng wǔ hěn hǎo tiào, wǒ yě néng hěn kuài dì xuéhuì.
   en: Looks to me, like this type of dance is very easy, I can also learn quickly how to do it.
-  es: Creo que esta danza es muy buena y puedo aprenderla rápidamente.
+  es: Creo que esta danza es muy buena y yo también puedo aprenderla rápidamente.
 - id: 8bb6786c-58a6-424b-b282-900dcd055c1c
   zh-hans: 我跟他们一起扭，可以吗？
   pinyin: Wǒ gēn tāmen yīqǐ niǔ, kěyǐ ma? Dāngrán
   en: Is it ok if I dance with them?
-  es: ¿Puedo unirme a ellos?
+  es: ¿Puedo bailar con ellos?
 - id: cf6dd99a-d201-49a5-8350-c561a41fded1
   zh-hans: 当然可以。
   pinyin: kěyǐ.
@@ -108,7 +108,7 @@ sentences:
   zh-hans: (1:要不:15)，大家就都看我一个人扭了。
   pinyin: (1:yào bù), dàjiā jiù dōu kàn wǒ yīgè rén niǔle.
   en: (1:otherwise), everyone will watch me dancing by myself.
-  es: (1:Si no), todos me verán bailar sola.
+  es: (1:Si no), todos me verán bailando sólo.
 - id: 02958044-fb12-45d3-afd8-b7d87b2c947e
   zh-hans: 前边又走过来了不少(1:老人:13)，
   pinyin: Qiánbian yòu zǒu guò lái le bù shǎo (1:lǎorén),
@@ -148,22 +148,22 @@ sentences:
   zh-hans: 她身体好了，现在可以(1:上班:20)了。
   pinyin: tā shēntǐ hǎole, xiànzài kěyǐ (1:shàngbān) le.
   en: her health improved, now she can (1:go to work).
-  es: ahora está mejro y puede (1:trabajar).
+  es: su salud ahora está mejor y puede (1:trabajar).
 - id: def9cbcf-f677-4ba6-b4f9-76c4c981955c
   zh-hans: 力波，你不是每天(1:早上:21)都学太极拳吗？
   pinyin: Lìbō, nǐ bùshì měitiān (1:zǎoshang) dōu xué tàijí quán ma?
   en: Libo, aren’t you learning Tai Chi every (1:morning)?
-  es: Lippo, ¿no aprendes Tai Chi todas las (1:mañanas)?
+  es: Lippo, ¿no aprendes Taichí chuan todas las (1:mañanas)?
 - id: 905f3b8a-27ed-471b-8fbf-95103ad61be5
   zh-hans: 现在你学得怎么样了？
   pinyin: Xiànzài nǐ xué de zěnme yàngle?
   en: How’s it going now?
-  es: ¿Cómo te va ahora?
+  es: ¿Cómo te va con tus estudios?
 - id: e374693b-3552-4f06-a75c-21bfff815ec5
   zh-hans: 现在我已经会打太极拳了。
   pinyin: Xiànzài wǒ yǐjīng huì dǎ tàijí quánle.
   en: Now I already can do Tai Chi.
-  es: Ahora sé cómo hacer Taijiquan.
+  es: Ahora sé cómo hacer Taichí chuan.
 - id: 01ad7fc9-5ce2-40b0-9df2-dd9397231c4d
   zh-hans: (1:最近:22)，又开始学(2:太极剑:1)。
   pinyin: (1:Zuìjìn), yòu kāishǐ xué (2:tàijíjiàn).
@@ -178,12 +178,12 @@ sentences:
   zh-hans: (1:太极剑:1)的(2:动作:11)非常优美，
   pinyin: (1:Tàijíjiàn) de (2:dòngzuò) fēicháng yōuměi,
   en: (1:Taijijian) (2:movements) are very beautiful,
-  es: Los (2:movimientos) del (1:Taijijian) son muy gráciles.
+  es: Los (2:movimientos) del (1:Taijijian) son muy elegantes.
 - id: 3b6af2e1-fc7d-43d0-b1a2-04b37b4c0ead
   zh-hans: 练(1:太极剑:1)就没有扭秧歌那么容易了。
   pinyin: liàn (1:tàijíjiàn) jiù méiyǒu niǔyānggē nàme róngyìle.
   en: but practicing (1:Taijijian) is not as easy as doing the Yangge.
-  es: Practicar el (1:Taijijian) no es tan fácil como retorcer cantos de arroz.
+  es: Practicar el (1:Taijijian) no es más fácil que bailar el Yangge.
 - id: 8196a916-c88f-4c08-b324-554a9ef2d788
   zh-hans: 你们看，(1:街心花园:23)那儿(2:围:24)着很多人。
   pinyin: Nǐmen kàn, (1:jiēxīn huāyuán) nàr (2:wéi) zhe hěnduō rén.
