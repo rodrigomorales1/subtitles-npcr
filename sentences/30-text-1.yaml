@@ -75,10 +75,10 @@ sentences:
   en: According to (1:old people),
   es: Para los (1:ancianos).
 - id: d7055d8f-8d63-4351-b2b0-2daaf56c6046
-  zh-hans: 现在扭秧歌已经是一种锻炼身体的活动了。
-  pinyin: xiànzài niǔyānggē yǐjīng shì yī zhǒng duànliàn shēntǐ de huódòngle.
-  en: now the Yangge is already a sort of physical exercise movement.
-  es: La Danza Yangge es ahora un tipo de actividad de ejercicio físico.
+  zh-hans: 现在(1:扭秧歌:7)已经是一种锻炼身体的活动了。
+  pinyin: xiànzài (1:niǔyānggē) yǐjīng shì yī zhǒng duànliàn shēntǐ de huódòngle.
+  en: now the (1:Yangge) is already a sort of physical exercise movement.
+  es: (1:Bailar el Yangge) es ahora un tipo de actividad de ejercicio físico.
 - id: ffc9589a-71aa-4b20-9281-794c2cad4653
   zh-hans: 他们很喜欢扭，常常扭得全身(1:出汗:14)。
   pinyin: Tāmen hěn xǐhuan niǔ, chángcháng niǔ de quánshēn (1:chūhàn).
