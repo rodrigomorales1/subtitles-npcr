@@ -50,10 +50,10 @@ sentences:
   en: They are doing the Yangge.
   es: Están bailando la plantación del arroz.
 - id: f676169a-5ef2-4e5a-8b34-c80d194f16a3
-  zh-hans: 扭秧歌？我听说过。
-  pinyin: Niǔyānggē? Wǒ tīng shuōguò.
-  en: Yangge? I’ve heard of this.
-  es: ¿Canciones de plantación de arroz? He oído hablar de ello.
+  zh-hans: (1:扭秧歌:7)？我听说过。
+  pinyin: (1:Niǔyānggē)? Wǒ tīng shuōguò.
+  en: (1:Yangge)? I’ve heard of this.
+  es: ¿(1:Bailando el Yangge)? He oído hablar de ese baile.
 - id: 308c0ea9-a608-4ab7-884c-23462e3d29d8
   zh-hans: 这是中国北方的一种(1:民间:8)(2:舞蹈:9)，(3:叫做:10)(4:秧歌:7)舞。
   pinyin: Zhè shì Zhōngguó běifāng de yī zhǒng (1:mínjiān) (2:wǔdǎo), (3:jiàozuò) (4:yānggē) wǔ.
