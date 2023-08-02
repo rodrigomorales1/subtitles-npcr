@@ -18,7 +18,7 @@ def get_data_timestamps_sentences_from_files(filename_timestamps, filename_sente
                 })
 
     with open(filename_sentences) as f:
-        data_sentences = yaml.safe_load(f)
+        data_sentences = yaml.safe_load(f)['sentences']
 
     # We iterate through the timestamps.
     #
