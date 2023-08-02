@@ -35,15 +35,23 @@ parser.add_argument(
     dest = "height",
     default = "1080")
 
+parser.add_argument(
+    "--file-path-output",
+    dest = "file_path_output")
+
 args = parser.parse_args()
 
 text_id = args.text_id
 file_path_sentences = f'sentences/{text_id}.yaml'
 file_path_timestamps = f'timestamps/audios/{text_id}.vtt'
 file_path_media = f'audios/{text_id}.flac'
-date = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d-%H-%M-%S-%Z')
-commit_hash = subprocess.getoutput('git --no-pager log -n1 --pretty=format:%h')
-file_path_output = f'{text_id}_audio_{commit_hash}_{date}.mp4'
+
+if args.file_path_output:
+    file_path_output = args.file_path_output
+else:
+    date = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d-%H-%M-%S-%Z')
+    commit_hash = subprocess.getoutput('git --no-pager log -n1 --pretty=format:%h')
+    file_path_output = f'{text_id}_audio_{commit_hash}_{date}.mp4'
 
 subtitles_three_groups.generate_video(
     file_path_media = file_path_media,
