@@ -60,10 +60,10 @@ sentences:
   en: This is a northern China (1:folk) (2:dance), (3:called) (4:Yangge).
   es: Es un (2:baile) (1:folclórico) del norte de China (3:llamada) Danza (4:Yangge).
 - id: 36e52a13-6652-4bb9-9ee1-3c11633762bf
-  zh-hans: 秧歌舞的(1:动作:11)又(2:简单:12)又好看，小孩儿、
-  pinyin: Yānggē wǔ de (1:dòngzuò) yòu (2:jiǎndān) yòu hǎokàn, xiǎo háir,
-  en: The Yangge dance (1:moves) are (2:simple) and look good, so small children,
-  es: Los (1:movimientos) del baile del Yangge son (2:sencillos) y bonitos. Los niños,
+  zh-hans: (1:秧歌:7)舞的(2:动作:11)又(3:简单:12)又好看，小孩儿、
+  pinyin: (1:Yānggē) wǔ de (2:dòngzuò) yòu (3:jiǎndān) yòu hǎokàn, xiǎo háir,
+  en: The (1:Yangge) dance (2:moves) are (3:simple) and look good, so small children,
+  es: Los (2:movimientos) del baile del (1:Yangge) son (3:sencillos) y bonitos. Los niños,
 - id: 8386d9ce-a490-4a6b-9e26-3dc260376029
   zh-hans: 大姑娘、小伙子、(1:老人:13)都可以(2:跳:5)。
   pinyin: dà gūniang, xiǎohuǒzi, (1:lǎorén) dōu kěyǐ (2:tiào).
