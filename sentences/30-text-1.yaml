@@ -55,10 +55,10 @@ sentences:
   en: Yangge? I’ve heard of this.
   es: ¿Canciones de plantación de arroz? He oído hablar de ello.
 - id: 308c0ea9-a608-4ab7-884c-23462e3d29d8
-  zh-hans: 这是中国北方的一种(1:民间:8)(2:舞蹈:9)，(3:叫做:10)(4:秧歌舞:7)。
-  pinyin: Zhè shì Zhōngguó běifāng de yī zhǒng (1:mínjiān) (2:wǔdǎo), (3:jiàozuò) (4:yānggē wǔ).
+  zh-hans: 这是中国北方的一种(1:民间:8)(2:舞蹈:9)，(3:叫做:10)(4:秧歌:7)舞。
+  pinyin: Zhè shì Zhōngguó běifāng de yī zhǒng (1:mínjiān) (2:wǔdǎo), (3:jiàozuò) (4:yānggē) wǔ.
   en: This is a northern China (1:folk) (2:dance), (3:called) (4:Yangge).
-  es: Es un (2:baile) (1:folclórico) del norte de China (3:llamada) (4:Danza Yangge).
+  es: Es un (2:baile) (1:folclórico) del norte de China (3:llamada) Danza (4:Yangge).
 - id: 36e52a13-6652-4bb9-9ee1-3c11633762bf
   zh-hans: 秧歌舞的(1:动作:11)又(2:简单:12)又好看，小孩儿、
   pinyin: Yānggē wǔ de (1:dòngzuò) yòu (2:jiǎndān) yòu hǎokàn, xiǎo háir,
