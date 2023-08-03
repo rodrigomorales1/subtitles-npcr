@@ -110,7 +110,7 @@ def generate_video(file_path_media,
             # automatically moved away.
             ['-filter_complex', (f'[1:v]scale=-1:{height if show_subtitles_on_top_of_video else height-height_background_for_subtitles} [ovrl]'
                                  + ',[0:v][ovrl]overlay=(main_w-overlay_w)/2:0:shortest=1'
-                                 + f',drawbox=y=ih-{height_background_for_subtitles}:height={height_background_for_subtitles}:t=fill:color=black@0.7'
+                                 + f',drawbox=y=ih-{height_background_for_subtitles}:height={height_background_for_subtitles}:t=fill:color=black@0.8'
                                  + f',subtitles={ass_file.name}'),
              file_path_output]
         ] if x is not None]))
