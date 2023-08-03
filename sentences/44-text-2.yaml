@@ -33,42 +33,42 @@ sentences:
   zh-hans: 现在下岗了，
   pinyin: Xiànzài xiàgǎngle,
   en: Now that she had been laid off,
-  es: Ahora que la han despedido.
+  es: Ahora que la han despedido,
 - id: 5cf4ff6dc5114737ada4c64bf10ccb7c
   zh-hans: 她真不知道自己该怎么办。
   pinyin: tā zhēn bù zhīdào zìjǐ gāi zěnme bàn.
   en: she really didn’t know what to do.
-  es: No sabe qué hacer.
+  es: no sabe qué hacer.
 - id: f3ac7cf2e5414468bd90569acbcbb37c
   zh-hans: 丈夫是工人，工资也不高，
   pinyin: Zhàngfū shìgè gōngrén, gōngzī yě bù gāo,
   en: Her husband is a worker, his salary is not high,
-  es: Su marido es obrero y su sueldo no es alto.
+  es: Su marido es obrero y su sueldo no es alto,
 - id: ee0b5d2ce99b41f1a08b67ecd4507a97
   zh-hans: 孩子正在上学，
   pinyin: háizi zhèngzài shàngxué,
   en: her child is at currently at school,
-  es: Los niños están en la escuela.
+  es: los niños están en la escuela.
 - id: 39ba594315534e628ae5e5ae9ca47e39
   zh-hans: 一家三口人的生活一下子就困难多了。
   pinyin: yījiā sānkǒu rén de shēnghuó yīxià zi jiù kùnnán duōle.
   en: the lives of the family of three have all at once become much more difficult.
-  es: La vida de una familia de tres miembros se ha vuelto mucho más difícil de repente.
+  es: La vida de una familia de tres miembros se ha vuelto mucho más difícil repentinamente.
 - id: 9748e40a682042f4907cb2a23fa3af20
   zh-hans: 胖阿姨去过不少招聘的单位，
   pinyin: Pàng āyí qùguò bu shǎo zhāopìn de dānwèi,
   en: Fat auntie went to many work units that were recruiting,
-  es: Tía Gorda ha ido a muchas agencias de colocación.
+  es: Tía Gorda ha ido a muchas agencias de recrutamiento,
 - id: 4493f20ff72c4f888b90e6ffb76e376f
   zh-hans: 想找个新工作，可是，
   pinyin: xiǎng zhǎo gè xīn gōngzuò, kěshì
   en: as she wanted to find a new job, but
-  es: Quería encontrar un nuevo trabajo, pero
+  es: ella quería encontrar un nuevo trabajo, pero
 - id: dc10125cfd97451e8b068efcce637094
   zh-hans: 这些单位不是说她年龄大了点儿，
   pinyin: zhèxiē dānwèi bùshì shuō tā niánlíng dàle diǎnr,
   en: these work units either said that she was a little old,
-  es: le decían o que era un poco mayor
+  es: en estas unidades de trabajo le decían o que era un poco mayor
 - id: 039f3773f7b449618a36a111e871299e
   zh-hans: 就是说她文化低了点儿。
   pinyin: jiùshì shuō tā wénhuà dīle diǎnr.
@@ -78,37 +78,37 @@ sentences:
   zh-hans: 她总是找不到工作。
   pinyin: Tā zǒng shì zhǎo bù dào gōngzuò.
   en: She always couldn’t find a job.
-  es: No encontró trabajo.
+  es: Ella siempre no encontraba trabajo.
 - id: 54426598c17d4b55a377d3569527d8fb
   zh-hans: 胖阿姨没有失去信心，
   pinyin: Pàng āyí méiyǒu shīqù xìnxīn,
   en: Fat auntie didn’t lose confidence,
-  es: La tía Fatty no perdió la fe.
+  es: La tía Fatty no perdió la fe,
 - id: 036d9b879ace40bdac361ea45c7098dd
   zh-hans: 她想还是自己招聘自己吧，
   pinyin: tā xiǎng háishì zìjǐ zhāopìn zìjǐ ba,
   en: she thought she had better recruit herself,
-  es: Pensó que sería mejor reclutarse a sí misma.
+  es: pensó que sería mejor reclutarse a sí misma,
 - id: 3cfa0359fee142bdb8213ff04ee8f697
   zh-hans: 就先摆个小摊子，
   pinyin: jiù xiān bǎi gè xiǎo tānzi,
   en: and at first arranged a small stall,
-  es: Puso un puesto.
+  es: puso un puesto.
 - id: 46af97341fd44974a125f3870c852cfa
   zh-hans: 卖些小孩玩具。
   pinyin: mài xiē xiǎohái wánjù.
   en: selling some children’s toys.
-  es: Vendía juguetes para niños.
+  es: vendía juguetes para niños.
 - id: bc7dcb3e31c146599eaf581659842c2b
   zh-hans: 一天，有位老先生在买玩具的时候，
   pinyin: Yītiān, yǒu wèi lǎo xiānshēng zài mǎi wánjù de shíhou,
   en: One day, while an old gentleman was buying toys,
-  es: Un día, un anciano estaba comprando juguetes.
+  es: Un día, un anciano que estaba comprando juguetes
 - id: 8dbfaa30cbec4836a26eef8dd4d88aa7
   zh-hans: 对胖阿姨说：
   pinyin: 'duì pàng āyí shuō:'
   en: 'he said to fat auntie:'
-  es: 'Le dijo a la tía Fatty:'
+  es: 'le dijo a la tía Fatty:'
 - id: b692d2d32aaf427e8798d211f14ba57e
   zh-hans: “你要是再卖些文具，
   pinyin: '"Nǐ yàoshi zài mài xiē wénjù,'
@@ -123,22 +123,22 @@ sentences:
   zh-hans: 那位先生是随便说说的，
   pinyin: Nà wèi xiānshēng shì suíbiàn shuō shuō de,
   en: The gentleman was speaking casually,
-  es: El señor sólo decía eso.
+  es: El señor hablaba casualmente,
 - id: 18f2ba324c0841e7969ebcc3196dc8f3
   zh-hans: 可是，胖阿姨觉得这是个好主意，
   pinyin: kěshì, pàng āyí juéde zhè shìgè hǎo zhǔyì,
   en: but, fat auntie thought this was a good idea, and
-  es: Pero la tía Fatty pensó que era una buena idea.
+  es: pero la tía Fatty pensó que era una buena idea, y
 - id: 237295041a5e4cc9a534938ee8d3c81a
   zh-hans: 她想试一试。
   pinyin: tā xiǎng shì yī shì.
   en: she wanted to give it a try.
-  es: Quiso intentarlo.
+  es: quiso intentarlo.
 - id: cac80d5947b1416d96e4c41f7382b25f
   zh-hans: 她租了一间不到六平方米的房子，
   pinyin: Tā zūle yī jiàn bù dào liù píngfāng mǐ de fángzi,
   en: She rented a room that was no more than six square meters,
-  es: Alquiló una habitación de menos de seis metros cuadrados.
+  es: Alquiló una habitación de menos de seis metros cuadrados,
 - id: a163390ddaf5480497a634469deb06ea
   zh-hans: 开了一个“胖阿姨”文具店。
   pinyin: 'kāile yīgè "pàng āyí" wénjù diàn.'
@@ -153,12 +153,12 @@ sentences:
   zh-hans: 对小学生尤其热情。
   pinyin: duì xiǎoxuéshēng yóuqí rèqíng.
   en: and was especially nice to the primary school students.
-  es: Le gustaban mucho los niños de primaria.
+  es: hacia los niños de primaria, era especialmente apasionada.
 - id: 46910b978e834964b4d520047c987214
   zh-hans: 她卖的文具，从来不多收孩子们一分钱。
   pinyin: Tā mài de wénjù, cónglái bu duō shōu háizimen yī fēn qián.
   en: As for the stationery that she sold, she would never overcharge one cent from the children.
-  es: Nunca cobraba a los niños ni un céntimo más por los artículos de papelería que vendía.
+  es: Por los artículos de papelería que vendía, nunca cobraba a los niños ni un céntimo más.
 - id: afcf0b3c89bf4213abd12ed6dfc53daa
   zh-hans: 要是孩子忘了找钱，
   pinyin: Yàoshi háizi wàngle zhǎoqián,
@@ -178,37 +178,37 @@ sentences:
   zh-hans: 办事情不能这样马虎。
   pinyin: bàn shìqíng bùnéng zhèyàng mǎhǔ.
   en: when doing things they cannot be so careless.
-  es: No se puede ser tan descuidado al hacer las cosas.
+  es: Al hacer las cosas, no se puede ser tan descuidado.
 - id: 78c4ecb84cec434492d91709b4ab5844
   zh-hans: 小学生有时把书包什么的忘在店里，
   pinyin: Xiǎoxuéshēng yǒushí bǎ shūbāo shénme de wàng zài diàn lǐ,
   en: The pupils would sometime forget their bags and things inside the store,
-  es: A veces los niños olvidan sus mochilas en la tienda.
+  es: A veces los niños olvidan sus mochilas en la tienda,
 - id: 87e10bb959fe43d286884ecea5c08001
   zh-hans: 她会给他们保管好，
   pinyin: tā huì gěi tāmen bǎoguǎn hǎo,
   en: and she would take care of them,
-  es: Ella se la guardaba.
+  es: ella guardaba esos objetos,
 - id: 90597e48b70f4ef185cbf516d8fb63e7
   zh-hans: 等他们来取。
   pinyin: děng tāmen lái qǔ.
   en: until they came to pick them up.
-  es: Ella se la guardaba y esperaba a que la recogieran.
+  es: y esperaba a que los recogieran.
 - id: fb1e8a6de0554f56a663df73cc91181e
   zh-hans: 有个小学生还给晚报写了信，
   pinyin: Yǒu gè xiǎoxuéshēng huán gěi wǎnbào xiěle xìn,
   en: Some pupils wrote a letter to the evening newspaper,
-  es: Uno de ellos escribió una carta al Evening News.
+  es: Uno de ellos escribió una carta al diario de la noche,
 - id: e5dbb7cf563b4ffba810839c8d268303
   zh-hans: 赞扬胖阿姨的服务态度。
   pinyin: zànyáng pàng āyí de fúwù tàidù.
   en: praising fat auntie’s service attitude.
-  es: Elogiando el servicio de la tía Fatty.
+  es: elogiando el servicio de la tía Fatty.
 - id: 3622ab24c3024c7f88a046c529fac036
   zh-hans: 附近的中小学生都来到这儿买东西，
   pinyin: Fùjìn de zhōng xiǎoxuéshēng dōu lái dào zhèr mǎi dōngxi,
   en: Nearby middle school and primary school students came to buy things, and
-  es: Los alumnos de primaria y secundaria del barrio vienen aquí a comprar cosas.
+  es: Los alumnos de primaria y secundaria del barrio vienen aquí a comprar cosas,
 - id: a6910fbf05884a8d8dae6aa3c9767ec9
   zh-hans: “胖阿姨”文具店的生意一天比一天好。
   pinyin: '"pàng āyí" wénjù diàn de shēngyì yītiān bǐ yītiān hǎo.'
@@ -218,22 +218,22 @@ sentences:
   zh-hans: 现在，“胖阿姨”文具店已经发展起来了，
   pinyin: Xiànzài, “pàng āyí” wénjù diàn yǐjīng fāzhǎn qǐláile,
   en: Now, “Fat Auntie’s” stationery store has developed,
-  es: Ahora la papelería de la tía Fatty ha crecido.
+  es: Ahora la papelería de la tía Fatty ha crecido,
 - id: b71d691776bf4a6d9f525426bb1a20b8
   zh-hans: 她开了第一家连锁店，
   pinyin: tā kāile dì yījiā liánsuǒdiàn,
   en: she has opened her first chain store,
-  es: Ha abierto su primera cadena de tiendas.
+  es: Ha abierto su primera cadena de tiendas,
 - id: 4c3a3c5230cc47cc89aa5c2ca444b0a8
   zh-hans: 招聘了六位下岗女工。
   pinyin: zhāopìnle liù wèi xiàgǎng nǚgōng.
   en: and hired six laid-off female workers.
-  es: Ha contratado a seis mujeres despedidas.
+  es: ha contratado a seis mujeres despedidas.
 - id: 45a4193ea8844e808b4da94a4a64f4b2
   zh-hans: 胖阿姨家也比以前富裕多了，
   pinyin: Pàng āyí jiā yě bǐ yǐqián fùyù duōle,
   en: Fat auntie’s family is also more wealthy than before,
-  es: La familia de la Tía Gorda es mucho más rica que antes.
+  es: La familia de la Tía Gorda es mucho más rica que antes,
 - id: f8378e5e645447158584f171fa1ea8c0
   zh-hans: 可是她仍然过着勤俭朴素的生活。
   pinyin: kěshì tā réngránguòzhe qínjiǎn púsù de shēnghuó.
@@ -248,22 +248,22 @@ sentences:
   zh-hans: 她说：“现在还不能买房子，
   pinyin: 'Tā shuō: "Xiànzài hái bùnéng mǎi fángzi,'
   en: 'She said: "Now still cannot buy a house, as'
-  es: 'Ella respondió: "Aún no puedo comprar una casa.'
+  es: 'Ella respondió: "Aún no puedo comprar una casa,'
 - id: 5e46eeb291214790af2177a52f9dca1c
   zh-hans: 我打算开一家‘胖阿姨’文具超市，
   pinyin: wǒ dǎsuàn kāi yī jiā ‘pàng āyí’ wénjù chāoshì,
   en: I plan to open a ‘Fat Auntie’s’ supermarket,
-  es: Voy a abrir un supermercado de papelería 'Auntie Fatty'.
+  es: voy a abrir un supermercado de papelería 'Auntie Fatty'.
 - id: e0bc70ed355744738bbbac1d21888b67
   zh-hans: 把生意做得更大些。
   pinyin: bǎ shēngyì zuò de gèng dà xiē.
   en: and make the business even bigger.
-  es: Voy a abrir un supermercado de papelería 'Tía Gorda' y a ampliar mi negocio.
+  es: y ampliaré mi negocio.
 - id: 96d59f7255894a96b1271bb781294df6
   zh-hans: 我相信，等事业真正发展起来了，
   pinyin: Wǒ xiāngxìn, děng shìyè zhēnzhèng fāzhǎn qǐláile,
   en: I believe, when the business has truly developed,
-  es: Creo que cuando el negocio se desarrolle de verdad.
+  es: Creo que cuando el negocio se desarrolle de verdad,
 - id: 375ee6cbc5624c3292dbfff3ff6b5bd9
   zh-hans: 房子会有的，车子也会有的，
   pinyin: fángzi huì yǒu de, chēzi yě huì yǒu de,
