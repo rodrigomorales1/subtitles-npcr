@@ -13,12 +13,12 @@ sentences:
   zh-hans: 大为，林娜宿舍的门开着，
   pinyin: Dàwéi, Lín Nà sùshè de mén kāizhe,
   en: Dawei, Lin Na’s dormintory door is open,
-  es: Dawei, la puerta del dormitorio de Linna está abierta.
+  es: Dawei, la puerta del dormitorio de Linna está abierta,
 - id: 9b52917f-700e-4ca1-92c1-62bea8f831ab
   zh-hans: 她(1:躺:1)着看(2:电视:2n)呢。
   pinyin: tā (1:tǎng) zhe kàn (2:diànshì) ne.
   en: she is (1:lying), watching TV.
-  es: Está (1:echada) viendo la tele.
+  es: ella está (1:echada) viendo la tele.
 - id: c89ee78b-fd04-4544-be9f-abdd0ae3a2b3
   zh-hans: 啊，陆雨平、大为，快进来。
   pinyin: A, Lù Yǔpíng, Dàwéi, kuài jìnlái.
@@ -33,32 +33,32 @@ sentences:
   zh-hans: 好多了。你们这么忙，
   pinyin: Hǎoduōle. Nǐmen zhème máng,
   en: Much better. You two are so busy,
-  es: Mucho mejor. Estás muy ocupada.
+  es: Mucho mejor. Ustedes están muy ocupados y
 - id: ef295243-cee6-4ba5-8ed0-00b9062b01f5
   zh-hans: 还带着花儿来看我，谢谢你们。
   pinyin: hái dàizhe huār lái kàn wǒ, xièxiè nǐmen.
   en: still brought flowers to come see me, thank you both.
-  es: Estás tan ocupada, y me trajiste flores. Gracias.
+  es: aún así me han traido flores. Gracias.
 - id: ebb92dca-dc6a-48bc-8271-250c1f25f149
   zh-hans: 这(1:束:3)花儿真漂亮，(2:放:4)在(3:桌:5)上吧。
   pinyin: Zhè (1:shù) huār zhēn piàoliang, (2:fàng) zài (3:zhuō) shàng ba.
   en: This (1:bunch) of flowers is very beautiful, can (2:put) them on the (3:table).
-  es: Este (1:conjunto) de flores son hermosas. (2:Ponlas) en la (3:mesa).
+  es: Este (1:conjunto) de flores son hermosas. (2:Ponlas) sobre la (3:mesa).
 - id: 52d9bd37-9e92-4a21-aa9a-680136ef9052
   zh-hans: 检查的(1:结果:6)怎么样？
   pinyin: Jiǎnchá de (1:jiéguǒ) zěnme yàng?
   en: How were the (1:results) of your examination?
-  es: ¿Cuáles son los (1:r)esultados de las pruebas?
+  es: ¿Cuáles son los (1:resultados) de las pruebas?
 - id: adad91f1-ee06-468d-9b94-cbe8929c2b03
   zh-hans: 医生说没有大的问题，
   pinyin: Yīshēng shuō méiyǒu dà de wèntí,
   en: The doctor said no major problems,
-  es: El médico dijo que no hay gran problema.
+  es: El médico dijo que no hay gran problema,
 - id: 270c1f86-dd17-408a-8032-820d42c461ce
   zh-hans: 他让我(1:躺)在床上休息休息。
   pinyin: tā ràng wǒ (1:tǎng) zài chuángshàng xiū xi xiū xi.
   en: he urged me (1:lie) on the bed and rest.
-  es: Me dijo que descansara (1:echada) en cama.
+  es: me dijo que descansara (1:echada) en cama.
 - id: 5626d70b-f517-4f67-8da1-bfa1c0df39aa
   zh-hans: 大为，你把(1:电视:2)(2:关)了吧，咱们说会儿话。
   pinyin: Dàwéi, nǐ bǎ (1:diànshì) (2:guān) le ba, zánmen shuō huìr huà.
@@ -73,17 +73,17 @@ sentences:
   zh-hans: 不疼了。可是胳膊这么(3:弯:8)着，
   pinyin: Bù téngle. Kěshì gēbo zhème (3:wān) zhe,
   en: Not sore. But my arm is so (3:bent),
-  es: No. Pero es difícil escribir con él (3:doblado) así.
+  es: No. Pero con el brazo (3:doblado) así,
 - id: 82d07a11-80e8-453f-9755-7c64ac32863f
   zh-hans: 写字很不方便。上星期我汉字没有考好，
   pinyin: xiězì hěn bù fāngbiàn. Shàng xīngqí wǒ hànzì méiyǒu kǎo hǎo,
   en: writing characters is very inconvenient. Last week my Chinese characters test was not good,
-  es: es difícil escribir. No me fue bien con los caracteres chinos la semana pasada.
+  es: escribir caracteres chinos no es conveniente. La anterior semana, no me fue bien con el examen de caracteres chinos,
 - id: 25874184-5fea-4b98-ad9d-fe9374c48b23
   zh-hans: 现在又撞伤了胳膊，真(1:倒霉:9)！
   pinyin: xiànzài yòu zhuàng shāngle gēbo, zhēn (1:dǎoméi)!
   en: now my arm is injured, really (1:bad luck)!
-  es: Ahora me he vuelto a lesionar el brazo ¡(1:Qué mala suerte)!
+  es: ahora me he vuelto a lesionar el brazo ¡(1:Qué mala suerte)!
 - id: 6cf3ea86-958c-4b2f-ae2b-0d0e1a9092fa
   zh-hans: 这两天都是(1:坏:10)(2:消息:11)。
   pinyin: Zhè liǎng tiān dōu shì (1:huài) (2:xiāoxi).
@@ -98,7 +98,7 @@ sentences:
   zh-hans: 什么好消息？ 上星期六晚上，
   pinyin: Shénme hǎo xiāoxi? Shàng xīngqíliù wǎnshàng,
   en: What good news? Last Saturday evening,
-  es: ¿Cuáles son las buenas noticias? El sábado pasado por la noche.
+  es: ¿Cuáles son las buenas noticias? El sábado pasado por la noche,
 - id: 9128a935-2b08-483c-b5b6-33421e4c124d
   zh-hans: 我的自行车被(1:小偷:12)偷走了。
   pinyin: wǒ de zìxíngchē bèi (1:xiǎotōu) tōu zǒule.
@@ -108,17 +108,17 @@ sentences:
   zh-hans: 自行车被偷了，这是什么好消息？
   pinyin: Zìxíngchē bèi tōu le, zhè shì shénme hǎo xiāoxi?
   en: Bicycle was stolen, this is good news?
-  es: ¿Cuál es la buena noticia de una bicicleta robada?
+  es: Tu bicicleta fue robada ¿cuál es la buena noticia?
 - id: ae6a4390-c941-41a3-abcb-37a509cef278
   zh-hans: 你听着，来你这儿以前，
   pinyin: Nǐ tīngzhe, lái nǐ zhèr yǐqián,
   en: Just listen, before came to you here,
-  es: Escucha, antes de venir a ti.
+  es: Escucha, antes de venir aquí contigo,
 - id: e593882c-57e8-41ce-a24a-11ed36109924
   zh-hans: (1:派出所:13)给我打了一个电话，让我去一下。
   pinyin: (1:pàichūsuǒ) gěi wǒ dǎle yīgè diànhuà, ràng wǒ qù yīxià.
   en: the (1:police station) gave me a phone call, they want me to go
-  es: Me llamaron de la (1:comisaría) para que fuera allí.
+  es: me llamaron de la (1:comisaría) para que vaya,
 - id: 62892ff6-9154-4215-9d9f-6391657f06b3
   zh-hans: 你去(1:派出所:13)做什么？
   pinyin: Nǐ qù (1:pàichūsuǒ) zuò shénme?
@@ -128,12 +128,12 @@ sentences:
   zh-hans: 小偷被(1:抓:14)到了，我(2:丢:15)的车也找到了，
   pinyin: Xiǎotōu bèi (1:zhuā) dàole, wǒ (2:diū) de chē yě zhǎodàole,
   en: The thief has been (1:caught), and my (2:lost) bike has also been found,
-  es: (1:Atraparon) al ladrón y encontraron mi bicicleta que había (2:perdido).
+  es: (1:Atraparon) al ladrón y encontraron mi bicicleta que había (2:perdido),
 - id: cbf37b54-85c5-4fe9-b596-7977c2babdec
   zh-hans: 现在在(1:派出所:13)呢。你说，这是不是好消息？
   pinyin: xiànzài zài (1:pàichūsuǒ) ne. Nǐ shuō, zhè shì bùshì hǎo xiāoxi?
   en: now it’s at the (1:police station). Don’t you think this is good news?
-  es: Ahora está en la (1:comisaría). ¿No son buenas noticias?
+  es: ahora está en la (1:comisaría). ¿No son buenas noticias?
 - id: ca894b80-3afd-4a41-bb20-b3c2b361cb81
   zh-hans: 是个好消息。
   pinyin: Shìgè hǎo xiāoxi.
@@ -143,4 +143,4 @@ sentences:
   zh-hans: 真应该祝贺你！
   pinyin: Zhēn yīnggāi zhùhè nǐ!
   en: Really should congratulate you!
-  es: Deberían felicitarte.
+  es: Realmente debería felicitarte.
