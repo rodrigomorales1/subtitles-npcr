@@ -160,10 +160,15 @@ sentences:
   en: and was (2:especially) (3:nice) to the (1:primary school students).
   es: hacia los (1:estudiantes de primaria), era (2:especialmente) (3:apasionada).
 - id: 46910b978e834964b4d520047c987214
-  zh-hans: 她卖的(1:文具:3)，(2:从来不)多收(3:孩子们)一分钱。
-  pinyin: Tā mài de (1:wénjù), (2:cónglái bu) duō shōu (3:háizimen) yī fēn qián.
-  en: As for the (1:stationery) that she sold, she would (2:never) overcharge one cent from the (3:children).
-  es: Por los (1:artículos de papelería) que vendía, (2:nunca) cobraba a los (3:niños) ni un céntimo más.
+  zh-hans: 她卖的(1:文具:3)，
+  pinyin: Tā mài de (1:wénjù),
+  en: As for the (1:stationery) that she sold,
+  es: Por los (1:artículos de papelería) que vendía,
+- id: 6db42289-27d5-447e-89ca-5a0418bf7a0e
+  zh-hans: (1:从来不)多收(2:孩子们)一分钱。
+  pinyin: (1:cónglái bu) duō shōu (2:háizimen) yī fēn qián.
+  en: she would (1:never) overcharge one cent from the (2:children).
+  es: (1:nunca) cobraba a los (2:niños) ni un céntimo más.
 - id: afcf0b3c89bf4213abd12ed6dfc53daa
   zh-hans: 要是孩子(1:忘)了(2:找钱)，
   pinyin: Yàoshi háizi (1:wàng) le (2:zhǎoqián),
