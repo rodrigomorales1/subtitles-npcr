@@ -215,10 +215,15 @@ sentences:
   en: praising (1:fat) (2:auntie)’s service (3:attitude).
   es: elogiando la (3:actitud) de servicio de La (2:Tía) (1:Gordita).
 - id: 3622ab24c3024c7f88a046c529fac036
-  zh-hans: (1:附近:15)的(2:中)(3:小)(4:学生)都来到这儿买(5:东西)，
-  pinyin: (1:Fùjìn) de (2:zhōng) (3:xiǎo) (4:xuéshēng) dōu lái dào zhèr mǎi (5:dōngxi),
-  en: (1:Nearby) (2:middle school) and (3:primary school) (4:students) came to buy (5:things), and
-  es: Los (4:alumnos) de (3:primaria) y (2:secundaria) que estudian (1:cerca) vienen aquí a comprar (5:cosas),
+  zh-hans: (1:附近:15)的(2:中)(3:小)(4:学生)
+  pinyin: (1:Fùjìn) de (2:zhōng) (3:xiǎo) (4:xuéshēng)
+  en: (1:Nearby) (2:middle school) and (3:primary school) (4:students)
+  es: Los (4:alumnos) de (3:primaria) y (2:secundaria) que estudian (1:cerca)
+- id: ac2cb078-0997-4894-b6ae-dcc686f6b13a
+  zh-hans: 都来到这儿买(5:东西)，
+  pinyin: dōu lái dào zhèr mǎi (5:dōngxi),
+  en: came to buy (5:things), and
+  es: vienen aquí a comprar (5:cosas),
 - id: a6910fbf05884a8d8dae6aa3c9767ec9
   zh-hans: “(1:胖:1)(2:阿姨:2)”(2:文具店:3)的(3:生意)(4:一天比一天)好。
   pinyin: '"(1:pàng) (2:āyí)" (3:wénjùdiàn) de (3:shēngyì) (4:yītiān bǐ yītiān) hǎo.'
