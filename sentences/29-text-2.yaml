@@ -13,12 +13,12 @@ sentences:
   zh-hans: 张教授，我很喜欢中国书法，
   pinyin: Zhāng jiàoshòu, wǒ hěn xǐhuan Zhōngguó shūfǎ,
   en: Professor Zhang, I like Chinese calligraphy,
-  es: Profesor Cheung, me encanta la caligrafía china.
+  es: Profesor Cheung, me encanta la caligrafía china,
 - id: 240da6c0-2c9e-4a91-894c-95b131ea060a
   zh-hans: 也跟老师学过，可是进步不快。
   pinyin: yě gēn lǎoshī xuéguò, kěshì jìnbù bùkuài.
   en: also have studied with a teacher, but progress has not been quick.
-  es: También la he aprendido de un profesor, pero no avanzo mucho.
+  es: también la he estudiado con un profesor, pero no avanzo mucho.
 - id: a16d9c41-b760-47b8-884f-09f6a8dac1c9
   zh-hans: 我不知道该怎么办？
   pinyin: Wǒ bù zhīdào gāi zěnme bàn?
@@ -33,32 +33,32 @@ sentences:
   zh-hans: 人们常说，如果你每天都认认真真地练，
   pinyin: Rénmen cháng shuō, rúguǒ nǐ měitiān dōu rènrèn zhēnzhēn de liàn,
   en: People often say, if everyday you study earnestly,
-  es: La gente suele decir que si practicas en serio todos los días.
+  es: La gente suele decir que si practicas en serio todos los días,
 - id: 0e8e7021-c465-478d-80b4-201596a85190
   zh-hans: 不用一百天，就能把汉字写得很漂亮。
   pinyin: bùyòng yībǎi tiān, jiù néng bǎ Hànzì xiě de hěn piàoliang.
   en: within one hundred days, you will be able to write Chinese characters beautifully.
-  es: Serás capaz de escribir caracteres chinos maravillosamente en menos de cien días.
+  es: en menos de 100 días, serás capaz de escribir caracteres chinos hermosos.
 - id: a35971f8-881c-4541-beb1-6f3a7a5fc5fa
   zh-hans: 当然，要把汉字写成书法艺术作品，
   pinyin: Dāngrán, yào bǎ Hànzì xiěchéng shūfǎ yìshù zuòpǐn,
   en: Of couse, writing Chinese characters as works of art,
-  es: Por supuesto, para convertir los caracteres chinos en obras de arte caligráficas.
+  es: Por supuesto, para convertir los caracteres chinos en obras de arte caligráficas,
 - id: 63bdd58e-d076-4ce0-8ec9-ff76be5a77a7
   zh-hans: 还要更多地练习。
   pinyin: hái yào gèng duō de liànxí.
   en: requires even more practice.
-  es: Necesito más práctica.
+  es: necesitas más práctica.
 - id: d5b6f00c-e64e-40da-b23b-238a8f3846c4
   zh-hans: 张教授，我想请您给我写一幅字，
   pinyin: Zhāng jiàoshòu, wǒ xiǎng qǐng nín gěi wǒ xiě yī fú zì,
   en: Professor Zhang, I would like to ask you to write me a character picture,
-  es: Profesor Zhang, me gustaría que me escribiera una caligrafía.
+  es: Profesor Zhang, me gustaría que me escribiera un caracter
 - id: 58b9903a-6041-404f-b91f-e26b49c6cdd1
   zh-hans: 不知道行不行？
   pinyin: bù zhīdào xíng bùxíng?
   en: don’t know if this OK or not?
-  es: No sé si es posible.
+  es: no sé si es posible.
 - id: b1477848-5922-4f04-8b17-b66897ed8e1e
   zh-hans: 我的字很一般，你应该多看(1:书法家:2)的字。
   pinyin: Wǒ de zì hěn yībān, nǐ yīnggāi duō kàn (1:shūfǎjiā) de zì.
@@ -78,7 +78,7 @@ sentences:
   zh-hans: 这幅字被我写坏了。
   pinyin: Zhè fú zì bèi wǒ xiě huàile.
   en: This character picture I wrote badly.
-  es: La he roto.
+  es: Esta caligrafía no la he escrito bien.
 - id: 7519c693-d5b6-4a84-89ff-f878f0f3cfe0
   zh-hans: 我今天刚写了一幅，你看上边写着什么？
   pinyin: Wǒ jīntiān gāng xiěle yī fú, nǐ kàn shàngbian xiězhe shénme?
@@ -138,12 +138,12 @@ sentences:
   zh-hans: 每人一本。我已经把你们的名字写上了，
   pinyin: měi rén yī běn. Wǒ yǐjīng bǎ nǐmen de míngzì xiě shàngle,
   en: one for everyone. I’ve already written your names in them,
-  es: Uno para cada uno de ustedes. He puesto vuestros nombres en él.
+  es: Uno para cada uno de ustedes. He puesto sus nombres en él.
 - id: 756f4545-5d31-4467-85ec-61c05aa336e1
   zh-hans: 请多提意见。
   pinyin: qǐng duō tí yìjiàn.
   en: please give your comments.
-  es: He puesto sus nombres en él.
+  es: Por favor, diganme sus comentarios.
 - id: dd5dd657-e5fb-451f-833e-7606f4bdf3ec
   zh-hans: 是《汉字书法艺术》，
   pinyin: Shì “Hànzì Shūfǎ Yìshù”,
@@ -163,12 +163,12 @@ sentences:
   zh-hans: 您是老师，我们才学了这么一点儿中文，
   pinyin: Nín shì lǎoshī, wǒmen cáixuéle zhème yīdiǎnr zhōngwén,
   en: You are the teacher, we have only just studied a bit of Chinese,
-  es: Usted es un maestro. Sólo hemos aprendido un poco de chino.
+  es: Usted es un maestro. Sólo hemos aprendido un poco de chino,
 - id: 4957ac45-6123-42b4-93d0-96b0dae0d801
   zh-hans: 怎么能提出意见呢？
   pinyin: zěnme néng tíchū yìjiàn ne?
   en: how can we make comments?
-  es: ¿Cómo podemos dar consejos?
+  es: ¿Cómo podemos dar comentarios?
 - id: 8e9ca931-e7fd-4c32-a2df-5276b13c092f
   zh-hans: 那位(1:唐代)(2:文学家:9)是怎么说的？
   pinyin: Nà wèi (1:Tángdài) (2:wénxué) jiā shì zěnme shuō de?
