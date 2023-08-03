@@ -13,17 +13,17 @@ sentences:
   zh-hans: 我们第一次过中国的中秋节，
   pinyin: Wǒmen dìyīcì guò Zhōngguó de zhōngqiū jié,
   en: Our first Chinese mid-autumn festival,
-  es: Celebramos nuestro primer Festival del Medio Otoño chino.
+  es: Celebramos nuestro primer Festival del Medio Otoño chino,
 - id: 13cc1b6e-25e4-4e66-a4b3-102e20e979b8
   zh-hans: 又收到了那么好的礼物，大家都很高兴。
   pinyin: yòu shōu dàole nàme hǎo de lǐwù, dàjiā dōu hěn gāoxìng.
   en: received such nice gifts, everyone is very happy.
-  es: Y recibimos unos regalos tan bonitos que todos nos pusimos muy contentos.
+  es: y hemos recibido unos regalos tan bonitos que todos nos pusimos muy contentos.
 - id: 713da5dc-f9b5-4ba9-9a3c-b7926071b886
   zh-hans: 不过，我有个问题想问问你。
   pinyin: Bùguò, wǒ yǒu gè wèntí xiǎng wèn wèn nǐ.
   en: However, I have a question I would like to ask you.
-  es: Pero tengo una pregunta para ti.
+  es: Pero tengo una pregunta que quiero preguntarte.
 - id: 8951568a-39f6-4787-9b66-1529d2bbe9a2
   zh-hans: 什么问题？
   pinyin: Shénme wèntí?
@@ -33,22 +33,22 @@ sentences:
   zh-hans: 我们收到礼物，就马上把它打开，
   pinyin: Wǒmen shōu dào lǐwù, jiù mǎshàng bǎ tā dǎkāi,
   en: We received our gifts, and immediately opened them,
-  es: Cuando recibimos el regalo, lo abrimos enseguida.
+  es: Cuando recibimos el regalo, lo abrimos enseguida,
 - id: b21589b3-d5ae-4c8c-b6da-222b32ee1b7f
   zh-hans: 看看是什么。你们拿到礼物以后，
   pinyin: kàn kàn shì shénme. Nǐmen ná dào lǐwù yǐhòu,
   en: to see what they were. After you received your gifts,
-  es: para ver qué era. Después de que ustedes recibieron el regalo.
+  es: para ver qué es. Después de que ustedes recibieron el regalo.
 - id: bf23c48c-eb97-46c7-b655-62cc168c0e0e
   zh-hans: 只看看外边，不打开，
   pinyin: zhǐ kàn kàn wàibian, bù dǎkāi,
   en: you only looked at the outside, and didn’t open,
-  es: Sólo miráis el exterior y no lo abrís.
+  es: sólo miran el exterior y no lo abren.
 - id: 1725b3d3-c162-4852-9a45-e33bf0483296
   zh-hans: 好像没有我们那么想知道里边是什么。
   pinyin: hǎoxiàng méiyǒu wǒmen nàme xiǎng zhīdào lǐbian shì shénme.
   en: so it looks as if you are not like us, wanting to know what’s inside.
-  es: Parece que no queréis saber lo que hay dentro tanto como nosotros.
+  es: Parece que no quieren saber lo que hay dentro tanto como nosotros.
 - id: dab71ab0-5fe9-433c-b655-9f775b370e44
   zh-hans: 这是为什么？
   pinyin: Zhè shì wèishéme?
@@ -58,22 +58,22 @@ sentences:
   zh-hans: 我先问你，收到礼物的时候，
   pinyin: Wǒ xiān wèn nǐ, shōu dào lǐwù de shíhou,
   en: I’ll first ask you, when receiving a gift,
-  es: Déjame preguntarte, cuando recibiste el regalo.
+  es: Primero te pregunto, cuando recibiste el regalo,
 - id: e9f1765b-dc66-444b-8cf1-f2b0382cd7e4
   zh-hans: 你们为什么要马上打开看呢？
   pinyin: nǐmen wèishéme yào mǎshàng dǎkāi kàn ne?
   en: why do you immediately open to take a look?
-  es: ¿Por qué lo abriste de inmediato?
+  es: ¿Por qué lo abriste de inmediato para ver su contenido?
 - id: 483e7d14-7fe2-4a9f-8624-f7616c925321
   zh-hans: 我们把礼物打开看，称赞礼物，
   pinyin: Wǒmen bǎ lǐwù dǎkāi kàn, chēngzàn lǐwù,
   en: We open gifts and take a look, to compliment the gift,
-  es: Abrimos el regalo, lo alabamos, le damos las gracias.
+  es: Abrimos el regalo, lo alabamos y
 - id: 2d6a44ae-ff49-4a00-8fcf-629fd31709e2
   zh-hans: 表示感谢，这是尊重送礼物的人。
   pinyin: biǎoshì gǎnxiè, zhè shì zūnzhòng sòng lǐwù de rén.
   en: show our appreciation, this is respecting the gift giver.
-  es: Expresamos nuestra gratitud, que es una señal de respeto hacia la persona que nos ha hecho el regalo.
+  es: expresamos nuestra gratitud, que es una señal de respeto hacia la persona que nos ha hecho el regalo.
 - id: 86f8909b-626d-4a15-a1e4-17a7777c477f
   zh-hans: 当然，也希望自己能得到一种惊喜。
   pinyin: Dāngrán, yě xīwàng zìjǐ néng dédào yī zhǒng jīngxǐ.
@@ -83,7 +83,7 @@ sentences:
   zh-hans: 你们的习惯我就不懂了，
   pinyin: Nǐmen de xíguàn wǒ jiù bù dǒngle,
   en: I don’t understand your custom,
-  es: No entiendo tus costumbres.
+  es: No entiendo tus costumbres,
 - id: 80f71607-2f21-4836-be0e-ba28c9ed47f3
   zh-hans: 你们不喜欢别人给你们礼物吗？
   pinyin: nǐmen bù xǐhuan biérén gěi nǐmen lǐwù ma?
@@ -98,7 +98,7 @@ sentences:
   zh-hans: 我们收到朋友的礼物，一般不马上打开看，
   pinyin: Wǒmen shōu dào péngyǒu de lǐwù, yībān bù mǎshàng dǎkāi kàn,
   en: When we receives gifts from friends, in general we do not immediately open them,
-  es: Cuando recibimos un regalo de un amigo, no lo abrimos enseguida.
+  es: Cuando recibimos un regalo de un amigo, no lo abrimos enseguida,
 - id: c0b74548-1384-4a3e-972d-c94ab52f8b0c
   zh-hans: 这也是尊重送礼物的人。
   pinyin: zhè yěshì zūnzhòng sòng lǐwù de rén.
@@ -123,32 +123,32 @@ sentences:
   zh-hans: 是这样！说真的，那天你们没有打开，
   pinyin: Shì zhèyàng! Shuō zhēn de, nèitiān nǐmen méiyǒu dǎkāi,
   en: So that’s what it is! To tell the truth, that day when you didn’t open,
-  es: Y es verdad. Para ser honesto, estábamos un poco preocupados cuando no lo abriste.
+  es: Y es verdad. Para ser honesto, ese día cuando no lo abriste,
 - id: 0f758b02-0d10-4d72-960c-809aefb197b3
   zh-hans: 我们还有点儿担心呢。
   pinyin: wǒmen hái yǒudiǎnr dānxīn ne.
   en: we were a little worried
-  es: Estábamos un poco preocupados.
+  es: estábamos un poco preocupados.
 - id: f7f6b8e0-ac5d-4fb2-b911-8fa5e63b78f9
   zh-hans: 担心什么？
   pinyin: Dānxīn shénme?
   en: What were you worried about?
-  es: ¿Por qué?
+  es: ¿De qué estabas preocupado?
 - id: 21033b74-2bf9-490c-9913-36b25f609a12
   zh-hans: 担心你们不喜欢我们的礼物。
   pinyin: Dānxīn nǐmen bù xǐhuan wǒmen de lǐwù.
   en: Worried that you didn’t like our gifts.
-  es: De que no te gustara nuestro regalo.
+  es: Preocupado de que no les gustara nuestro regalo.
 - id: 04ef8513-8b3f-40c2-92f2-130922eb0b68
   zh-hans: 你说到哪儿去了。你们送的礼物都很好。
   pinyin: Nǐ shuō dào nǎr qùle. Nǐmen sòng de lǐwù dōu hěn hǎo.
   en: How could you think that? The gift you gave were all very good.
-  es: ¿De qué estáis hablando? Los regalos que nos diste eran muy bonitos.
+  es: ¿De qué estás hablando? Los regalos que nos diste eran muy bonitos.
 - id: e9a4eebc-b17c-4802-b119-a08cd16ae0ac
   zh-hans: 比如说，丁力波送的加拿大糖，
   pinyin: Bǐrú shuō, Dīng Lìbō sòng de jiānádà táng,
   en: For example, Ding Libo’s gift of Canadian candy,
-  es: Por ejemplo, el caramelo canadiense de Ding Lipo.
+  es: Por ejemplo, el caramelo canadiense de Ding Lipo,
 - id: 6a51cf32-e09e-4782-9037-fb32ed278f7d
   zh-hans: 不是很有特色吗？我们都很喜欢。
   pinyin: bùshì hěn yǒu tèsè ma? Wǒmen dōu hěn xǐhuan.
@@ -158,4 +158,4 @@ sentences:
   zh-hans: 你们都很喜欢，我太高兴了。
   pinyin: Nǐmen dōu hěn xǐhuan, wǒ tài gāoxìngle
   en: You all enjoyed it, I am very happy.
-  es: Me alegro mucho de que os hayan gustado.
+  es: A ustedes les gusto, me siento muy feliz.
