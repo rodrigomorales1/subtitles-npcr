@@ -13,12 +13,12 @@ sentences:
   zh-hans: 宋华，你来帮我们一下，好吗？
   pinyin: Sòng Huá, nǐ lái bāng wǒmen yīxià, hǎo ma?
   en: Song Hua, can you come help us out?
-  es: Sung-hwa, ven y ayúdanos, ¿quieres?
+  es: Song Hua, ven y ayúdanos, ¿quieres?
 - id: 936ed24a-13c9-416b-b415-d1e7fcd72ebb
   zh-hans: 你们怎么了？现在你在哪儿？
   pinyin: Nǐmen zěnmele? Xiànzài nǐ zài nǎr?
   en: What’s up? Where are you at the moment?
-  es: ¿Qué os ha pasado? ¿Dónde estáis ahora?
+  es: ¿Qué les ha pasado? ¿Dónde están ahora?
 - id: d1b5fc16-f81a-4d3e-8777-e6d5998c3cfd
   zh-hans: 林娜(1:被:3)(2:撞:4)(3:伤)了，正在(4:第:6)三医院(5:检查)呢。
   pinyin: Lín Nà (1:bèi) (2:zhuàng) (3:shāng)le, zhèngzài (4:dì) sān yīyuàn jiǎnchá ne.
@@ -68,12 +68,12 @@ sentences:
   zh-hans: 伤得不太重。我的(1:胳膊:11)(2:被:3)(3:撞:4)(4:伤)了，
   pinyin: Shāng dé bù tài zhòng. Wǒ de (1:gēbo) (2:bèi) (3:zhuàng:4) (4:shāng) le,
   en: It’s not too serious. My (1:arm) was (3:hit) and (4:injured),
-  es: No demasiado. Mi (1:brazo) fue (3:golpeado) y está (4:herido).
+  es: No demasiado. Mi (1:brazo) fue (3:golpeado) y está (4:herido),
 - id: cea3762b-f49f-4e30-ab7b-390f828dae4d
   zh-hans: 右(1:腿:12)也有点儿疼。
   pinyin: yòu (1:tuǐ) yě yǒudiǎnr téng.
   en: my right (1:leg) is also a little sore.
-  es: Y me duele un poco la (1:pierna) derecha.
+  es: me duele un poco la (1:pierna) derecha.
 - id: ba1ca7e0-0ee5-4ef5-9669-3fe72c989b35
   zh-hans: 你是怎么(1:被:3)(2:撞:4)(3:伤:5)的？
   pinyin: Nǐ shì zěnme (1:bèi) (2:zhuàng:4) shāng de?
@@ -83,7 +83,7 @@ sentences:
   zh-hans: 怎么说呢？下午我和小云看完电影，
   pinyin: Zěnme shuō ne? Xiàwǔ wǒ hé Xiǎo Yún kàn wán diànyǐng,
   en: How should I put it? In the afternoon me and Xiao Yun had finished seeing a movie,
-  es: ¿Cómo lo explico? Por la tarde, después de ver una película con Xiao Yun.
+  es: ¿Cómo lo explico? Por la tarde, después de ver una película con Xiao Yun,
 - id: 4f1bd38a-165f-450e-a9ca-a4b2411aa3d6
   zh-hans: (1:骑:13)(2:着:1)(3:自行车)回学院。
   pinyin: (1:qí)(2:zhe) (3:zìxíngchē) huí xuéyuàn.
@@ -93,37 +93,37 @@ sentences:
   zh-hans: 我们说(1:着:1)、(2:笑)(3:着:1)，往右拐的时候没有(4:注意)，
   pinyin: Wǒmen shuō(1:zhe), (2:xiào)(3:zhe), wǎng yòu guǎi de shíhou méiyǒu (4:zhùyì),
   en: We were talking, (2:laughing), did not (4:paying attention) when turning right,
-  es: Estábamos hablando y (2:riendo), y cuando giramos a la derecha sin (4:prestar atención).
+  es: Estábamos hablando y (2:riendo), y cuando giramos a la derecha sin (4:prestar atención),
 - id: be113d11-0205-475c-a81a-2cd4975e1706
   zh-hans: (1:撞:4)到了车上。那辆车(2:停)在路边，
   pinyin: (1:zhuàng) dàole chē shàng. Nà liàng chē (2:tíng) zài lù biān,
   en: and (1:collided) into a car. The car was (2:parked) on the side of the road,
-  es: y (1:chocamos) contra un coche. El coche estaba (2:aparcado) a un lado de la carretera.
+  es: y (1:chocamos) contra un coche. El coche estaba (2:aparcado) a un lado de la carretera,
 - id: 378d2c62-f2e1-4cb9-81d9-047a24e3f894
   zh-hans: 司机正在从车上拿东西。
   pinyin: sījī zhèngzài cóng chē shàng ná dōngxi.
   en: the driver then came from the car to pickup the things.
-  es: El conductor estaba sacando algo del coche.
+  es: el conductor estaba sacando algo del coche.
 - id: b4b0bbe6-7881-40e6-ab3f-4d139d0ec3f6
   zh-hans: 你们是怎么到医院来的？
   pinyin: Nǐmen shì zěnme dào yīyuàn lái de?
   en: How did you two get to the hospital?
-  es: ¿Cómo llegaste al hospital?
+  es: ¿Cómo llegaron al hospital?
 - id: bbb01ae5-934c-474c-bfe5-86dd1fd0fc58
   zh-hans: 那位司机看到我(1:被:3)(2:撞:4)(3:伤)了，
   pinyin: Nà wèi sījī kàn dào wǒ (1:bèi) (1:zhuàng:4) (3:shāng) le,
   en: That driver saw that I had been (3:injured), and
-  es: El conductor vio que estaba (3:herido).
+  es: El conductor vio que estaba (3:herida),
 - id: fcbbfa5e-41cf-498f-85b5-502e802d181d
   zh-hans: 就(1:马上Ü0)开着车(2:送:2)我们到医院。
   pinyin: jiù (1:mǎshàng) kāizhe chē (2:sòng) wǒmen dào yīyuàn.
   en: (1:immediately) drove us to the hospital.
-  es: Nos llevó (1:enseguida) al hospital.
+  es: nos llevó (1:enseguida) al hospital.
 - id: 74ab0251-a150-4ee2-ad0b-bfc27ca7f09f
   zh-hans: 那位司机真不错。
   pinyin: Nà wèi sījī zhēn bùcuò.
   en: That driver is really good.
-  es: Era un buen conductor.
+  es: Ese conductor realmente es muy bueno.
 - id: 98d88745-5507-485e-a952-1d8ab5b8a817
   zh-hans: 我们带的钱不多，(1:医药费:18)都是他帮我们交的。
   pinyin: Wǒmen dài de qián bù duō, (1:yīyàofèi) dōu shì tā bāng wǒmen jiāo de.
@@ -133,12 +133,12 @@ sentences:
   zh-hans: 他还给了我一张名片。
   pinyin: Tā hái gěile wǒ yī zhāng míngpiàn.
   en: He also gave me his name card.
-  es: También me dio una tarjeta de visita.
+  es: También me dio una tarjeta con su nombre.
 - id: 00f1b245-ad26-4b42-bb25-1edf0c1fd1b4
   zh-hans: 真应该谢谢那位司机，明天我去把钱还他。
   pinyin: Zhēn yīnggāi xièxiè nà wèi sījī, míngtiān wǒ qù bǎ qián huán tā.
   en: Really must thank that driver, tomorrow I will go return the money to him.
-  es: Debería agradecérselo. Se lo devolveré mañana.
+  es: Realmente deberíamos agradecer al conductor. Mañana le devolveré el dinero.
 - id: a2d4995c-b8a0-4521-aa1e-92db852c29a6
   zh-hans: 刚才我还(1:以为:19)你(2:被:3)汽车(3:撞:4)了。
   pinyin: Gāngcái wǒ hái (1:yǐwéi) nǐ (2:bèi) qìchē (3:zhuàng) le.
