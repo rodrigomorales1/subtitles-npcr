@@ -133,17 +133,17 @@ sentences:
   zh-hans: 漂亮的林娜，(1:戴:16)上这条漂亮的(2:围巾:15)，
   pinyin: Piàoliang de Lín Nà, (1:dài) shàng zhè tiáo piàoliang de (2:wéijīn),
   en: Beautiful Lin Na, (1:wearing) a beautiful (2:scarf),
-  es: Hermosa Linna, (1:llevando) esta hermosa (2:bufanda).
+  es: Hermosa Linna, (1:llevando) esta hermosa (2:bufanda),
 - id: 3f69b186-7d21-41fa-af45-01a65cd66569
   zh-hans: 就更漂亮了。
   pinyin: jiù gèng piàoliangle.
   en: will be more beautiful.
-  es: Es aún más bonita.
+  es: te ves más bonita.
 - id: 1ad60b4e-2e00-46c4-8b99-c41e748074c2
   zh-hans: 是吗？我(1:哪儿)有你说的那么(2:漂亮)？
   pinyin: Shì ma? Wǒ (1:nǎr) yǒu nǐ shuō de nàme (2:piàoliang)?
   en: Really? (1:Where) am I (2:beautiful) as you say it?
-  es: ¿Ah, sí? ¿Por (1:dónde) soy tan (2:guapa) como dices?
+  es: ¿Ah, sí? ¿Por (1:dónde) soy tan (2:bonita) como dices?
 - id: eb21586e-2e23-4eba-aae3-1fe4dc81e37c
   zh-hans: 小云，(1:真)谢谢你！
   pinyin: Xiǎo Yún, (1:zhēn) xièxiè nǐ!
@@ -158,12 +158,12 @@ sentences:
   zh-hans: 我没有更好的(1:礼物)送给(2:大为)，
   pinyin: Wǒ méiyǒu gèng hǎo de (1:lǐwù) sòng gěi (2:Dàwéi),
   en: I do not have a better (1:gift) to give (2:Dawei),
-  es: No tengo un (1:regalo) mejor para (2:Dawei).
+  es: No tengo un (1:regalo) mejor para (2:Dawei),
 - id: 4213e700-32c0-49d3-b4b0-e5218b9e53f3
   zh-hans: 我知道他喜欢中国(1:音乐)，
   pinyin: wǒ zhīdào tā xǐhuan Zhōngguó (1:yīnyuè),
   en: I know he like Chinese (1:music), so
-  es: Sé que le gusta la (1:música) china.
+  es: sé que le gusta la (1:música) china,
 - id: 380539cf-0ce6-4e26-a577-c6cd0a38858f
   zh-hans: 就送他一套音乐光盘。
   pinyin: jiù sòng tā yī tào yīnyuè guāngpán.
@@ -173,17 +173,17 @@ sentences:
   zh-hans: 你们看，我(1:收:18)到的礼物最好了，
   pinyin: Nǐmen kàn, wǒ (1:shōu) dào de lǐwù zuì hǎole,
   en: Look everyone, the gift I (1:received) is the best,
-  es: Vean, he (1:recibido) el mejor regalo.
-- id: 5302f834-a9b1-4540-8410-bb7e7ef6751b
+  es: Vean, el regalo que he (1:recibido) es el mejor,
+pp- id: 5302f834-a9b1-4540-8410-bb7e7ef6751b
   zh-hans: 一套(1:音乐)(2:光盘)，是中国(3:民乐)！
   pinyin: yī tào (1:yīnyuè) (2:guāngpán), shì Zhōngguó (3:mínyuè)!
   en: a set of (1:music) (2:CDs), and they’re Chinese (3:folk) music!
-  es: Un juego de (2:discos) de (1:música), ¡música (3:folclórica) china!
+  es: un juego de (2:discos) de (1:música), ¡música (3:folclórica) china!
 - id: 2a0ad5fe-1c3c-4d11-ac74-4e2ee8ea33b1
   zh-hans: 谢谢。 不客气，一点儿(1:小意思:19)。
   pinyin: Xièxiè. Bù kèqì, yīdiǎnr (1:xiǎoyìsi).
   en: Thanks. No need to be so polite, it's just a (1:small gift).
-  es: Gracias. De nada. De nada, es sólo un (1:pequeño regalo).
+  es: Gracias. De nada, es sólo un (1:pequeño regalo).
 - id: cc3a8603-eab7-4ed2-90f1-d0d13a092294
   zh-hans: 该我们了吧？(1:我们)也有一些(2:礼物)送给(3:你们)，
   pinyin: Gāi wǒmenle ba? (1:Wǒmen) yěyǒu yīxiē (2:lǐwù) sòng gěi (3:nǐmen),
