@@ -48,12 +48,12 @@ sentences:
   zh-hans: 生活还可以。(1:前年:4)我们(2:盖:5)了一(1:座:6)两层的小楼，
   pinyin: Shēnghuó hái kěyǐ. (1:Qiánnián) wǒmen (2:gài) le yī (1:zuò) liǎng céng de xiǎo lóu,
   en: Life is fine. (1:The year before last) we (2:built) a small two-storey house,
-  es: Bien. (1:El año antepasado) (2:construimos) un edificio de dos plantas.
+  es: Bien. (1:El año antepasado) (2:construimos) un edificio de dos plantas,
 - id: 2360aa65-4a02-4eeb-a4a4-0b7affe8a067
   zh-hans: 去年还买了一(1:辆:7)汽车。
   pinyin: qùnián hái mǎile yī (1:liàng) qìchē.
   en: last year we also bought a car.
-  es: El año pasado compramos un coche.
+  es: el año pasado compramos un coche.
 - id: 16833ffb-aa56-415b-8725-7579138358f1
   zh-hans: 现在我们去别的(1:城市:8)也(2:方便:9)了。
   pinyin: Xiànzài wǒmen qù bié de (1:chéngshì) yě (2:fāngbiàn) le.
@@ -68,7 +68,7 @@ sentences:
   zh-hans: 您的生活水平比城里人的还高。
   pinyin: Nín de shēnghuó shuǐpíng bǐ chéng lǐ rén de hái gāo.
   en: Your standard of living is higher than the people in the cities.
-  es: Vuestro nivel de vida es más alto que el de la gente de ciudad.
+  es: El nivel de vida de usted es más alto que el de la gente de ciudad.
 - id: 7e7ac496-2425-4361-bb0e-d0d69cd4354d
   zh-hans: 我们(1:村:10)吃的、穿的、住的都不比城里差。
   pinyin: Wǒmen (1:cūn) chī de, chuān de, zhù de dōu bùbǐ chéng lǐ chà.
@@ -103,9 +103,9 @@ sentences:
   zh-hans: 你舅妈也开始用电脑了。
   pinyin: Nǐ jiùmā yě kāishǐ yòng diànnǎole.
   en: Your Auntie has also started using a computer.
-  es: Tus tíos también han empezado a usar ordenadores.
+  es: Tú tía también ha empezado a usar ordenadores.
 - id: 45726c85-b959-4020-a617-0e01f34e1097
   zh-hans: 今年我一定要去看看你们。
   pinyin: Jīnnián wǒ yīdìng yào qù kàn kàn nǐmen.
   en: This year I definitely must go visit you both.
-  es: Tengo que visitarte este año.
+  es: Tengo que visitarlos este año.
