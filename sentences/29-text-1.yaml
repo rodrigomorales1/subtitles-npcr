@@ -23,7 +23,7 @@ sentences:
   zh-hans: 张教授，这是给您的花儿。
   pinyin: Zhāng jiàoshòu, zhè shì gěi nín de huār.
   en: Professor Zhang, these are some flowers for you.
-  es: Profesor Zhang, aquí están las flores para usted.
+  es: Profesor Zhang, estas son algunas flores para usted.
 - id: b28f24db-31b8-4eb1-9ea8-88460f140d6f
   zh-hans: 谢谢。你们太客气了。
   pinyin: Xièxiè. Nǐmen tài kèqìle.
@@ -33,7 +33,7 @@ sentences:
   zh-hans: 请坐，
   pinyin: Qǐng zuò,
   en: Please sit,
-  es: Por favor siéntense.
+  es: Por favor siéntense,
 - id: 4166b2ea-ed9f-4311-a8e8-3b7328aa3c0a
   zh-hans: 喝点儿什么？
   pinyin: hē diǎnr shénme?
@@ -53,22 +53,22 @@ sentences:
   zh-hans: (1:墙:4)上(2:挂:5)着中国(3:字画:6)，(4:书架:7)上放着这么多(5:古书:8)，
   pinyin: (1:Qiáng) shàng (2:guà) zhe Zhōngguó (3:zìhuà), (4:shūjià) shàng fàngzhe zhème duō (5:gǔshū),
   en: Chinese (3:calligraphy and paintings) (2:hang) on the (1:wall), lots of (5:old books) on the (4:bookcase),
-  es: (3:pinturas y 3:caligrafía) chinas (2:colgando) en las (1:paredes), tantos (5:libros antiguos) en la (4:estantería).
+  es: (3:pinturas y 3:caligrafía) chinas (2:colgando) en las (1:paredes), tantos (5:libros antiguos) en la (4:estantería),
 - id: ef5b084d-562a-4666-a630-482f62e9a03c
   zh-hans: 桌上放着文房四宝，
   pinyin: zhuō shàng fàngzhe wénfángsìbǎo,
   en: the four treasures of the study on the table,
-  es: Sobre la mesa están los Cuatro Tesoros.
+  es: Sobre la mesa están los cuatro tesoros del estudio,
 - id: b7ea0571-84da-4c89-acd0-e73a288fe31b
   zh-hans: 外边还(2:整整齐齐)地摆着这么多花儿，
   pinyin: wàibian hái (2:zhěngzhěngqíqí)  de bǎizhe zhème duō huār,
   en: and neatly (1:arranged) outside are so many flowers, and pot plants.
-  es: Hay muchas flores cuidadosamente dispuestas fuera.
+  es: Hay muchas flores cuidadosamente dispuestas fuera,
 - id: 73087f53-fb64-4624-98ec-e172a5e9e24d
   zh-hans: 还有盆景呢。这些花儿真漂亮，都是您种的吗？
   pinyin: hái yǒu pénjǐng ne. Zhèxiē huār zhēn piàoliang, dōu shì nín zhòng de ma?
   en: These flowers are really pretty, did you plant them all?
-  es: También hay bonsáis. Estas flores son preciosas. ¿Las has plantado tú?
+  es: también hay bonsáis. Estas flores son preciosas. ¿Las has plantado tú?
 - id: 3373eb3e-b729-4a23-9faf-da774779002b
   zh-hans: 不，都是买的。
   pinyin: Bù, dōu shì mǎi de.
@@ -78,27 +78,27 @@ sentences:
   zh-hans: 不过它们在我这儿长得越来越好，
   pinyin: Bùguò tāmen zài wǒ zhèr zhǎng de yuè lái yuè hǎo,
   en: However, here with me they are growing better and better,
-  es: Pero cada vez están mejor.
+  es: Pero cada vez están mejor,
 - id: 1841cd0e-844e-48df-a6d4-e9a83e3cd988
   zh-hans: 现在也开花了。
   pinyin: xiànzài yě kāihuāle.
   en: now they all have blossomed.
-  es: Ahora están floreciendo.
+  es: ahora están floreciendo.
 - id: 6ea0e460-6a75-4dc9-ab0d-d670fc54905e
   zh-hans: 这叫君子兰吧？长长的绿叶，
   pinyin: Zhè jiào Jūnzǐlán ba? Cháng cháng de lǜyè,
   en: This called a Clivia, right? Long green leaves,
-  es: Se llama monarca, ¿no? Largas hojas verdes.
+  es: Se llama monarca, ¿no? Largas hojas verdes,
 - id: fb7b25cc-4c6e-4872-8a71-7643b35135b8
   zh-hans: 红红的花，真好看。
   pinyin: hóng hóng de huā, zhēn hǎokàn.
   en: red flowers, really good looking.
-  es: Largas hojas verdes y flores rojas.
+  es: y flores rojas. realmente hermoso.
 - id: 0bfc8a40-7946-476b-b4c1-eb6dc8c5f8c6
   zh-hans: 是叫君子兰。这种花很好养，
   pinyin: Shì jiào Jūnzǐlán. Zhè zhònghuā hěn hǎo yǎng,
   en: It is called a Clivia. They are very easy to raise and
-  es: Se llama monarca. Es una buena flor.
+  es: Se llama monarca. Es una buena flor,
 - id: 3b313886-7ffd-40e0-b5c9-ef2f6f0043cd
   zh-hans: 开花的时间也比较长。
   pinyin: kāihuā de shíjiān yě bǐjiào cháng.
@@ -123,17 +123,17 @@ sentences:
   zh-hans: 当然能养好！我看，
   pinyin: Dāngrán néng yǎng hǎo! Wǒ kàn,
   en: Of course I can raise well! I think,
-  es: ¡Claro que puedo! Ya veo.
+  es: ¡Claro que puedo! Creo que
 - id: 5bb9048f-06f6-4e35-a66b-feac8f81112c
   zh-hans: 养花没有学汉语那么难吧。
   pinyin: yǎng huā méiyǒu xué Hànyǔ nàme nán ba.
   en: that raising plants is not has difficult as studying Chinese.
-  es: No es tan difícil como aprender chino.
+  es: no es tan difícil como aprender chino.
 - id: 74fc4823-1700-4e68-b878-ff8638db231d
   zh-hans: 养花是不太难。
   pinyin: Yǎng huā shì bù tài nán.
   en: Raising flowers is not too difficult.
-  es: No es tan difícil cultivar flores.
+  es: Cultivar flores no es tan difícil.
 - id: 1c76b7b2-7b30-4124-930b-f01fb9d658a1
   zh-hans: 不过，要把花养好，那就不容易了。
   pinyin: Bùguò, yào bǎ huā yǎng hǎo, nà jiù bù róngyìle.
@@ -143,7 +143,7 @@ sentences:
   zh-hans: 人们常说“姑娘爱花”，林娜喜欢养花，
   pinyin: Rénmen cháng shuō “gūniang ài huā”, Lín Nà xǐhuan yǎng huā,
   en: People often say “girls love flowers”, Lin Na likes to raise flowers,
-  es: Dicen que a Linna le encantan las flores.
+  es: Las personas suelen decir "las señoritas aman las flores", a Linna le gusta cuidar flores,
 - id: 9d230534-569f-423f-8c4a-ea01a83e4d3d
   zh-hans: 我想她一定能养好。
   pinyin: wǒ xiǎng tā yīdìng néng yǎng hǎo.
@@ -163,7 +163,7 @@ sentences:
   zh-hans: 是的。工作累的时候，我就到外边去浇浇花，
   pinyin: Shì de. Gōngzuò lèi de shíhou, wǒ jiù dào wàibian qù jiāo jiāo huā,
   en: Yes. When work gets tiring, I go outside to water the plants,
-  es: Sí. Cuando estoy cansada del trabajo, salgo a regar las flores
+  es: Sí. Cuando estoy cansado del trabajo, salgo a regar las flores
 - id: f918e008-6160-42eb-99ad-7d258fa5daad
   zh-hans: 把这些盆景修整修整。这是很好的休息。
   pinyin: bǎ zhèxiē pénjǐng xiūzhěng xiūzhěng. Zhè shì hěn hǎo de xiūxi.
