@@ -15,15 +15,15 @@ sentences:
   en: They are (1:playing chess).
   es: Están (1:jugando ajedrez).
 - id: 829a5f27-85f9-4f00-a534-01e98aa1eae5
-  zh-hans: 宋华，你喜欢下棋吗？
-  pinyin: Sòng Huá, nǐ xǐhuan xià qí ma?
-  en: Song Hua, do you like playing chess?
-  es: Song Hua, ¿te gusta jugar al ajedrez?
+  zh-hans: 宋华，你喜欢(1:下棋:1)吗？
+  pinyin: Sòng Huá, nǐ xǐhuan (1:xiàqí) ma?
+  en: Song Hua, do you like (1:playing chess)?
+  es: Song Hua, ¿te gusta (1:jugar al ajedrez)?
 - id: 0ff41a6d-380a-4e03-9a56-d07216477596
-  zh-hans: 喜欢。我也喜欢看别人下棋。
-  pinyin: Xǐhuan. Wǒ yě xǐhuan kàn biérén xià qí.
-  en: Yes. I also enjoy watching others play chess.
-  es: Sí. También me gusta ver a otros jugar ajedrez.
+  zh-hans: 喜欢。我也喜欢看别人(1:下棋:1)。
+  pinyin: Xǐhuan. Wǒ yě xǐhuan kàn biérén (1:xiàqí).
+  en: Yes. I also enjoy watching others (1:play chess).
+  es: Sí. También me gusta ver a otros (1:jugar ajedrez).
 - id: ad0c1551-ebc7-4cfa-94b9-ca70b13659b8
   zh-hans: 我觉得看别人下比自己下更有意思。
   pinyin: Wǒ juéde kàn biérén xià bǐ zìjǐ xià gèng yǒuyìsi.
@@ -35,15 +35,15 @@ sentences:
   en: Sometimes I watch a game (with so much interest) that I forgot to eat.
   es: A veces veo las partidas (con tanto interés) que me olvido de comer.
 - id: ddc39a19-1c86-4b17-ab65-1bfab7ac4b2c
-  zh-hans: 所以那些站在旁边的人也是在看下棋？
-  pinyin: Suǒyǐ nàxiē zhàn zài pángbiān de rén yěshì zài kàn xià qí?
-  en: So those people standing around are also watching the chess game?
-  es: Entonces ¿esas personas que están alrededor también están mirando la partida?
+  zh-hans: 所以那些站在旁边的人也是在看(1:下棋:1)？
+  pinyin: Suǒyǐ nàxiē zhàn zài pángbiān de rén yěshì zài kàn (1:xiàqí)?
+  en: So those people standing around are also watching the (1:chess game)?
+  es: Entonces ¿esas personas que están alrededor también están mirando la (1:partida de ajedrez)?
 - id: 791cdd8e-26fc-4921-a281-4942a33da53c
-  zh-hans: 是啊，常常两个人下棋，很多人围着看。
-  pinyin: Shì a, chángcháng liǎng gèrén xià qí, hěnduō rén wéizhe kàn.
-  en: Yes, often two people play chess, while lots of people watch.
-  es: Sí, usualmente, cuando dos personas juegan al ajedrez, mucha gente se reúne alrededor para mirar.
+  zh-hans: 是啊，常常两个人(1:下棋:1)，很多人围着看。
+  pinyin: Shì a, chángcháng liǎng gèrén (1:xiàqí), hěnduō rén wéizhe kàn.
+  en: Yes, often two people (1:play chess), while lots of people watch.
+  es: Sí, usualmente, cuando dos personas (1:juegan al ajedrez), mucha gente se reúne alrededor para mirar.
 - id: ba5e26e0-38f7-4ce2-9d4c-07052165af5b
   zh-hans: 看的人和下的人也可能互相不认识。
   pinyin: Kàn de rén hé xià de rén yě kěnéng hùxiāng bù rènshi.
@@ -215,7 +215,7 @@ sentences:
   en: the people going in are all young people,
   es: Hay jóvenes que entran y salen.
 - id: 48ee578d-462c-4b90-973e-8487276c1caa
-  zh-hans: 旁边的(1:舞厅:12)里又出来了两个小伙子。
+  zh-hans: 旁边的(1:舞厅:13)里又出来了两个小伙子。
   pinyin: pángbiān de (1:wǔtīng) lǐ yòu chūláile liǎng gè xiǎohuǒzi.
   en: and two young guys came out of the (1:nightclub) to the side.
   es: otros dos jóvenes salen del (1:salón de baile) de al lado.
