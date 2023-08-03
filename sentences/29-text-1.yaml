@@ -11,9 +11,9 @@ metadata:
 sentences:
 - id: 7f042e25-de16-4252-bd03-2283a84c5a52
   zh-hans: 张教授，你好！
-  pinyin:
+  pinyin: Zhāng jiàoshòu, nǐ hǎo!
   en: Professor Zhang, hello!
-  es:
+  es: Profesor Zhang ¡hola!
 - id: e947281a-544e-401c-9cb7-42f09594af77
   zh-hans: 你们来了！(1:欢迎:2)，(1:欢迎:2)！快请进。
   pinyin: Nǐmen láile! (1:Huānyíng), (1:huānyíng)! Kuài qǐng jìn.
