@@ -115,10 +115,10 @@ sentences:
   en: 'he said to (1:fat) (2:auntie):'
   es: 'le dijo a La (2:Tía) (1:Gordita):'
 - id: b692d2d32aaf427e8798d211f14ba57e
-  zh-hans: “你要是再卖些(1:文具:3)，
-  pinyin: '"Nǐ yàoshi zài mài xiē (1:wénjù),'
-  en: '"If you sell some (1:stationery),'
-  es: '"Si vendieras (1:artículos de papelería),'
+  zh-hans: “你(1:要是)再(2:卖)些(3:文具:3)，
+  pinyin: '"Nǐ (1:yàoshi) zài (2:mài) xiē (3:wénjù),'
+  en: '"(1:If) you (2:sell) some (3:stationery),'
+  es: '"(1:Si) (2:vendieras) (3:artículos de papelería),'
 - id: 673dfdd7243043f59e44d5041919c3b4
   zh-hans: 那对(1:小学生)就更方便了。”
   pinyin: 'nà duì (1:xiǎoxuéshēng) jiù gèng fāngbiànle."'
