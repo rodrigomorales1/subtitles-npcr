@@ -190,10 +190,15 @@ sentences:
   en: when (1:doing) (2:things) they cannot be so (1:careless).
   es: Al (1:hacer) las (2:cosas), no se puede ser tan (1:descuidado).
 - id: 78c4ecb84cec434492d91709b4ab5844
-  zh-hans: (1:小学生)有时把(2:书包:11)什么的(3:忘)在(4:店)里，
-  pinyin: (1:Xiǎoxuéshēng) yǒushí bǎ (2:shūbāo) shénme de (3:wàng) zài (4:diàn) lǐ,
-  en: The (1:pupils) would sometime (3:forget) their (2:bags) and things inside the (4:store),
-  es: A veces los (1:estudiantes de primaria) (3:olvidan) sus (2:mochilas) y otras cosas en la (4:tienda),
+  zh-hans: (1:小学生)有时
+  pinyin: (1:Xiǎoxuéshēng) yǒushí
+  en: The (1:pupils) would sometime
+  es: A veces los (1:estudiantes de primaria)
+- id: f2f6138d-f952-448c-9364-d69607911cd8
+  zh-hans: 把(1:书包:11)什么的(2:忘)在(3:店)里，
+  pinyin: bǎ (1:shūbāo) shénme de (2:wàng) zài (3:diàn) lǐ,
+  en: (2:forget) their (1:bags) and things inside the (3:store),
+  es: (2:olvidan) sus (1:mochilas) y otras cosas en la (3:tienda),
 - id: 87e10bb959fe43d286884ecea5c08001
   zh-hans: 她会给他们(1:保管:12)好，
   pinyin: tā huì gěi tāmen (1:bǎoguǎn) hǎo,
