@@ -25,10 +25,15 @@ sentences:
   en: (1:fat) (2:auntie) was (6:laid off) from a (3:Shanghai) (4:textile) (5:factory).
   es: La (2:Tía) (1:Gordita) fue (6:despedida) de una (5:fábrica) (4:textil) de (3:Shanghai).
 - id: d5a9f51fdac04e0d8f1135af275e8531
-  zh-hans: 她(1:十九岁)(2:进)(3:厂)，在这个厂(4:干)了(5:十六年)。
-  pinyin: Tā (1:shíjiǔ suì) (2:jìn) (3:chǎng), zài zhège chǎng (4:gàn) le (5:shíliù nián).
-  en: She had (2:entered) at this (3:factory) when she was (1:19 years old), and had (4:worked) for (5:16 years).
-  es: (2:Entró) en la (3:fábrica) a los (1:diecinueve años) y (4:trabajó) allí (5:dieciséis años).
+  zh-hans: 她(1:十九岁)(2:进)(3:厂)，
+  pinyin: Tā (1:shíjiǔ suì) (2:jìn) (3:chǎng),
+  en: She had (2:entered) at this (3:factory) when she was (1:19 years old), and
+  es: (2:Entró) en la (3:fábrica) a los (1:diecinueve años) y
+- id: 915d03aa-5f8a-4ae3-8ffa-ba4bf455941d
+  zh-hans: 在这个(1:厂)(2:干)了(3:十六)(4:年)。
+  pinyin: zài zhège (1:chǎng) (2:gàn) le (3:shíliù) (4:nián).
+  en: had (2:worked) in this (1:factory) for (3:16) (4:years).
+  es: (2:trabajó) en esta (1:fábrica) (3:dieciséis) (4:años).
 - id: 68816401eb334b5383b3dba18e9bbb72
   zh-hans: 现在(1:下岗:4)了，
   pinyin: Xiànzài (1:xiàgǎng) le,
