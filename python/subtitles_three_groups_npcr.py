@@ -28,7 +28,7 @@ parser.add_argument(
 parser.add_argument(
     "--highlight-background-of-sentence-being-read",
     type = ast.literal_eval,
-    default = False)
+    default = True)
 
 parser.add_argument(
     "--height",
