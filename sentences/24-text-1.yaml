@@ -13,17 +13,17 @@ sentences:
   zh-hans: 小云，火车快到了吧？
   pinyin: Xiǎo Yún, huǒchē kuài dàole ba?
   en: Xiao Yun, the train is arriving soon, right?
-  es: Yun, el tren llega pronto, ¿no?
+  es: Xiao Yun, el tren llega pronto ¿no?
 - id: 3aed91fd-9ce6-4d9d-b398-e585cd9525bb
   zh-hans: 从上海到北京的T23次八点四十分到，
   pinyin: Cóng Shànghǎi dào Běijīng de T23 cì bā diǎn sìshí fēn dào,
   en: T23 from Shanghai to Beijing arrives at 8:40,
-  es: El T23 de Shanghai a Beijing llega a las 8:40.
+  es: El T23 de Shanghai a Beijing llega a las 8:40,
 - id: 1219d34d-72bc-4bbb-9539-c8fff51cc826
   zh-hans: 现在八点半，快到了。
   pinyin: xiànzài bā diǎn bàn, kuài dàole.
   en: now it’s 8:30, will arrive soon.
-  es: Ahora son las 8:30. Ya casi ha llegado.
+  es: ahora son las 8:30. Ya casi ha llegado.
 - id: 6ea4eebd-dd09-4647-b7d7-ac988a874634
   zh-hans: 你(1:舅舅:2)是(2:农民:3)吗？
   pinyin: Nǐ (1:jiùjiu) shì (2:nóngmín) ma?
@@ -33,7 +33,7 @@ sentences:
   zh-hans: 是。他过去是上海郊区的农民，
   pinyin: Shì. Tā guòqù shì Shànghǎi jiāoqū de nóngmín,
   en: Yes. He used to be a farmer in the suburbs of Shanghai,
-  es: Sí, lo es. Antes era granjero en los suburbios de Shanghai.
+  es: Sí, lo es. Antes era granjero en los suburbios de Shanghai,
 - id: 31172c1a-17ad-4927-b512-84ecbad53871
   zh-hans: 现在(1:当:4)(2:蔬菜:5)公司的经理了。
   pinyin: xiànzài (1:dāng) (2:shūcài) gōngsī de jīnglǐle.
@@ -68,12 +68,12 @@ sentences:
   zh-hans: 好像是吧。我十年以前见过他，
   pinyin: Hǎoxiàng shì ba. Wǒ shí nián yǐqián jiànguò tā,
   en: Looks like he could be. I last saw him 10 years ago,
-  es: Creo que sí. Lo vi hace diez años.
+  es: Creo que sí. Lo vi hace diez años,
 - id: 4f8ebce3-8602-4033-b27f-6729c41b6c60
   zh-hans: 这十年(1:变化:8)很大。(2:不但:9)他不认识我了，
   pinyin: zhè shí nián (1:biànhuà) hěn dà. (2:Bùdàn) tā bù rènshi wǒle,
   en: and there have been many (1:changes) over the past ten years. (2:Not only) will he not recognise me,
-  es: hubo muchos (1:cambios) en los últimos diez años. (2:No sólo) no me conoce.
+  es: hubo muchos (1:cambios) en los últimos diez años. (2:No sólo) no me reconoce,
 - id: e9eee215-de8b-42bd-9e86-eec5af20e9a9
   zh-hans: (1:而且:10)我也可能不认识他了。
   pinyin: (1:érqiě) wǒ yě kěnéng bù rènshi tāle.
