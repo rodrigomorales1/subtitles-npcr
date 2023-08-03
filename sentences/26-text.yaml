@@ -38,12 +38,12 @@ sentences:
   zh-hans: 哪里，哪里，“(2:中国通:2)”真不敢当，
   pinyin: Nǎlǐ, nǎlǐ, “(2:Zhōngguó tōng)” zhēn bù gǎndāng,
   en: No, no, I woudn’t dare call myself a “(2:China expert)”,
-  es: No, no, no creo que pueda ser un "experto en China".
+  es: No, no, "experta en China" realmente no merezco tu halago.
 - id: 73171936-5e27-4b16-b86a-f7ba907ea0e4
   zh-hans: 还差得远呢。说(1:实在:4)的，
   pinyin: hái chà de yuǎn ne. Shuō (1:shízài) de,
   en: still far away from that. To (1:tell the truth),
-  es: Ni siquiera me acerco. (1:Sinceramente),
+  es: Aún estoy muy lejos. (1:Sinceramente),
 - id: 1ed2857d-200c-4e64-9c46-849540769923
   zh-hans: 我(1:越来越:5)喜欢中国文化了。
   pinyin: wǒ (1:yuè lái yuè) xǐhuan Zhōngguó wénhuàle.
@@ -53,27 +53,27 @@ sentences:
   zh-hans: 中国从(1:南:6)到北，从东到西，
   pinyin: Zhōngguó cóng (1:nán) dào běi, cóng dōng dào xī,
   en: From the (1:north) of China to the south, from the east to the west,
-  es: De sur a (1:norte), de este a oeste.
+  es: De sur a (1:norte), de este a oeste,
 - id: 8cff8a6a-89e9-4e99-be8c-baf07a679dab
   zh-hans: 每个地方都有自己的(1:特点:7)。
   pinyin: měi gè dìfāng dōu yǒu zìjǐ de (1:tèdiǎn).
   en: every place in China has its own (1:characteristics).
-  es: Cada lugar de China tiene sus propias (1:particularidades).
+  es: cada lugar de China tiene sus propias (1:particularidades).
 - id: 44b09ae6-30ca-4ce8-b747-56fb0048ceae
   zh-hans: (1:历史:8)(2:博物馆:9)正在(3:举办:10)“二零零二中国”(4:展览:11)，
   pinyin: (1:Lìshǐ) (2:bówùguǎn) zhèngzài (3:jǔbàn) “èr líng líng èr Zhōngguó” (4:zhǎnlǎn),
   en: The (1:history) (2:museum) is (3:hosting) the “China 2002” (4:exhibition),
-  es: El (2:Museo) de (1:Historia) está (3:organizando) una (4:exposición) "China 2002".
+  es: El (2:Museo) de (1:Historia) está (3:organizando) una (4:exposición) "China 2002",
 - id: 56c5e621-9e7c-455e-843b-2c220fc59687
   zh-hans: 那儿有很多(1:图片:12)，有的是我们见过的，
   pinyin: nàr yǒu hěnduō (1:túpiàn), yǒudeshì wǒmen jiànguò de,
   en: where there are many (1:pictures), some of which we have seen,
-  es: Hay muchas (1:fotos) allí, algunas las hemos visto antes.
+  es: hay muchas (1:fotos) allí, algunas las hemos visto antes,
 - id: ba972d15-4fb3-4f08-b491-60d15c42f2c9
   zh-hans: 有的是我们没见过的。
   pinyin: yǒudeshì wǒmen méi jiànguò de.
   en: some of which we have not seen before.
-  es: Algunas las hemos visto antes, otras no.
+  es: algunas no las hemos visto.
 - id: 4a16154f-77a2-4f80-a1a4-0b2f5f48f5f4
   zh-hans: 你(1:对:13)中国文化这么(2:感兴趣:14)，我建议你去看看。
   pinyin: Nǐ (1:duì) Zhōngguó wénhuà zhème (2:gǎn xìngqù), wǒ jiànyì nǐ qù kàn kàn.
@@ -88,12 +88,12 @@ sentences:
   zh-hans: 今天我们有一个(1:结业:15)聚会，力波他们快要来了。
   pinyin: Jīntiān wǒmen yǒu yīgè (1:jiéyè) jùhuì, Lìbō tāmen kuàiyào láile.
   en: Today we have the (1:end of course) party, Libo and those will soon be here.
-  es: Hoy tenemos una reunión de (1:fin de curso). Lippo y los demás van a venir.
+  es: Hoy tenemos una reunión de (1:fin de curso). Libo y los demás van a venir.
 - id: ec1b6d7b-7132-4fff-bca3-bc4bf07d9bb8
   zh-hans: 你把这个消息告诉他们，
   pinyin: Nǐ bǎ zhège xiāoxi gàosu tāmen,
   en: You should tell them this news,
-  es: Cuéntales las noticias.
+  es: Cuéntales las noticias a ellos,
 - id: ca0c2b93-667f-4aa9-af6f-6664b18df6de
   zh-hans: 我想他们也一定会非常感兴趣。
   pinyin: wǒ xiǎng tāmen yě yīdìng huì fēicháng gǎn xìngqù.
@@ -108,27 +108,27 @@ sentences:
   zh-hans: 刚来的时候你说过，如果每天都让你吃(1:中餐:17)，
   pinyin: Gāng lái de shíhou nǐ shuōguò, rúguǒ měitiān dōu ràng nǐ chī (1:zhōngcān),
   en: Just after you arrived here, you said that if you had to eat (1:Chinese food) everyday
-  es: Cuando viniste por primera vez, dijiste que si te dejábamos comer (1:comida china) todos los días.
+  es: Cuando viniste por primera vez, dijiste que si te dejábamos comer (1:comida china) todos los días,
 - id: 58ee506f-cde8-46a6-8993-0386d0c85191
   zh-hans: 你就会(1:饿:18)(2:死:19)。现在你不但喜欢吃(3:中餐:17)，
   pinyin: nǐ jiù huì (1:è) sǐ. Xiànzài nǐ bùdàn xǐhuan chī (3:zhōngcān),
   en: you would (2:die) of (1:starvation). Now you not only enjoy (3:Chinese food),
-  es: Te (2:morirías) de (1:hambre). Ahora no sólo te gusta la (3:comida china).
+  es: te (2:morirías) de (1:hambre). Ahora no sólo te gusta la (3:comida china),
 - id: 25769bf5-cc05-49c1-8624-37cca0fc06b7
   zh-hans: 而且还学会了做中国(1:菜:20)。
   pinyin: érqiě hái xuéhuìle zuò zhōngguó (2:cài).
   en: but you have also learned how to cook Chinese (2:food).
-  es: Y has aprendido a cocinar (2:comida) china.
+  es: y has aprendido a cocinar (2:comida) china.
 - id: 53645c98-e134-4e3f-89d0-b0d8dd44bec2
   zh-hans: 可不，现在如果一天不吃(1:中餐:17)，
   pinyin: Kěbù, xiànzài rúguǒ yītiān bù chī (1:zhōngcān),
   en: That’s right, now if I don’t eat (1:Chinese food) for a day,
-  es: Pero ahora, si no como (1:comida china) todos los días.
+  es: Así es, si no como (1:comida china) todos los días,
 - id: 88ef6fc3-639f-427b-aa5c-08b99e5635e7
   zh-hans: 我就会觉得有点儿不舒服。
   pinyin: wǒ jiù huì juéde yǒudiǎnr bú shū fu.
   en: I will feel a little uncomfortable.
-  es: Me siento un poco enfermo.
+  es: me siento un poco incómodo.
 - id: 79ec0bc7-9df4-40c7-bbee-8ff7f5b5c088
   zh-hans: 你们在(1:聊:21)什么呢？去哪儿吃(2:中餐:17)？我也去。
   pinyin: Nǐmen zài (1:liáo) shénme ne? Qù nǎr chī (2:zhōngcān)? Wǒ yě qù.
@@ -143,12 +143,12 @@ sentences:
   zh-hans: 力波当然就不用说了。
   pinyin: Lìbō dāngrán jiù bùyòng shuōle.
   en: Of course, there’s no need to mention Libo.
-  es: Lippo, por supuesto, no hace falta decirlo.
+  es: Libo, por supuesto, no hace falta decirlo.
 - id: 7096e2ed-1234-4159-a77d-5896dbf86fe6
   zh-hans: 因为我妈妈是中国人，
   pinyin: Yīnwèi wǒ māmā shì Zhōngguó rén,
   en: Because my mother is Chinese,
-  es: Porque mi madre es china.
+  es: Porque mi madre es china,
 - id: fc801a26-491d-4d3c-a89d-72175fa6f85b
   zh-hans: 所以我早就有点儿(1:中国化:23)了。
   pinyin: suǒyǐ wǒ zǎo jiù yǒudiǎnr (1:zhōngguóhuà) le.
@@ -158,12 +158,12 @@ sentences:
   zh-hans: 林娜爱穿旗袍，爱吃中国(1:菜:20)，
   pinyin: Lín Nà ài chuān qípáo, ài chī Zhōngguó (1:cài),
   en: Lin Na loves wearing qipao, loves eating Chinese (1:food),
-  es: A Linna le encanta llevar cheongsams y comer comida (1:china).
+  es: A Linna le encanta llevar cheongsams y comer comida (1:china),
 - id: 4c793ae1-b9d6-44c0-a3ea-353a0ad2ce44
   zh-hans: 还喜欢看越剧、听中国民乐，
   pinyin: hái xǐhuan kàn yuèjù, tīng Zhōngguó mínyuè,
   en: also enjoys watching Shaoxing opera, listening to Chinese folk music,
-  es: También le gusta ver la ópera Yueju y escuchar música folclórica china.
+  es: También le gusta ver la ópera Yueju y escuchar música folclórica china,
 - id: 3b30fc24-83bd-44eb-9033-db0c920974df
   zh-hans: 好像也有点儿(1:中国化:23)了。
   pinyin: hǎoxiàng yě yǒudiǎnr (1:zhōngguóhuà) le.
@@ -198,12 +198,12 @@ sentences:
   zh-hans: 别开玩笑。说真的，
   pinyin: Bié kāiwánxiào. Shuō zhēn de,
   en: Don’t joke. Really,
-  es: No seas ridículo. No seas ridículo.
+  es: No seas ridículo. Realmente,
 - id: b2c39413-1c0a-4676-86f4-f0bcbf059beb
   zh-hans: 我现在觉得汉语语法不太难，可是汉字很难。
   pinyin: wǒ xiànzài juéde Hànyǔ yǔfǎ bù tài nán, kěshì Hànzì hěn nán.
   en: I now feel Chinese grammar is not too difficult, but Chinese characters are very difficult.
-  es: La gramática china ya no me parece tan difícil, pero los caracteres chinos son difíciles.
+  es: la gramática china ya no me parece tan difícil, pero los caracteres chinos son difíciles.
 - id: 1a19bf46-46ab-49b7-8024-a8f9dc62fcc8
   zh-hans: (1:声调:29)也不容易，我常常说错。
   pinyin: (1:Shēngdiào) yě bù róngyì, wǒ chángcháng shuō cuò.
@@ -213,12 +213,12 @@ sentences:
   zh-hans: 你们在中国才学习了一年，
   pinyin: Nǐmen zài Zhōngguó cái xuéxíle yī nián,
   en: You both have only been studying in China for one year,
-  es: Sólo llevas un año en China.
+  es: Sólo llevas estudiando un año en China,
 - id: c9879d4a-908c-4b8d-965b-79f808715b67
   zh-hans: 汉语水平就提高得这么快，
   pinyin: Hànyǔ shuǐpíng jiù tígāo de zhème kuài,
   en: but your Chinese level has improved very quickly,
-  es: Sólo llevas un año estudiando en China y has mejorado muy rápido.
+  es: y tu nivel de chino ha aumentado muy rápido,
 - id: 8ca67c46-7d1f-44e0-9cd1-09cd920e6508
   zh-hans: 主要是因为你们学习都很(1:努力:30)。
   pinyin: zhǔyào shi yīnwèi nǐmen xuéxí dōu hěn (1:nǔlì).
@@ -228,12 +228,12 @@ sentences:
   zh-hans: 这儿的老师教得特别(1:认真:31)，
   pinyin: Zhèr de lǎoshī jiào de tèbié (1:rènzhēn),
   en: The teachers here teach very (1:seriously),
-  es: Los profesores aquí son muy (1:serios).
+  es: Los profesores aquí son particularmente (1:serios),
 - id: 6157707d-b860-417f-8aad-f220839caa3f
   zh-hans: 朋友们对我们也非常(1:热情:32)，
   pinyin: péngyǒumen duì wǒmen yě fēicháng (1:rèqíng),
   en: and friends are very (1:nice) to us,
-  es: Y nuestros amigos son muy (1:cariñosos) con nosotros.
+  es: y nuestros amigos son muy (1:cariñosos) con nosotros.
 - id: 8972d8fb-4f10-4cc8-9762-50c0b1305006
   zh-hans: 常常帮助我们学汉语，
   pinyin: chángcháng bāngzhù wǒmen xué Hànyǔ,
@@ -253,22 +253,22 @@ sentences:
   zh-hans: 我虽然已经能听懂中国人说的一些话，
   pinyin: Wǒ suīrán yǐjīng néng tīng dǒng Zhōngguó rén shuō de yīxiē huà,
   en: Although I already can understand quite a bit of what Chinese people say,
-  es: Aunque puedo entender algunas palabras que hablan los chinos.
+  es: Aunque puedo entender algunas palabras que hablan los chinos,
 - id: df787eed-abd3-4d0f-bf8e-6332b8421dbc
   zh-hans: 可是自己说汉语还说得不太流利，
   pinyin: kěshì zìjǐ shuō Hànyǔ hái shuō dé bù tài liúlì,
-  en: my Chinese speaking is still not too fluent.
-  es: Pero no puedo hablar chino con fluidez.
+  en: my Chinese speaking is still not too fluent,
+  es: pero no puedo hablar chino con fluidez,
 - id: 9a7327c0-c713-4993-a545-d705d6345a8f
   zh-hans: (1:明年:34)我还要来中国学习。
   pinyin: (1:míngnián) wǒ hái yào lái Zhōngguó xuéxí.
-  es: Volveré a China el (1:siguiente año).
   en: next (1:year) I want to also come to Chinese to study.
+  es: volveré a China el (1:siguiente año).
 - id: 4a704270-b658-49ee-bfd4-f83b224adec7
   zh-hans: 林娜，老师和同学们都在等着我们呢，
   pinyin: Lín Nà, lǎoshī hé tóngxuémen dōu zài děngzhe wǒmen ne,
   en: Lin Na, the teacher and our classmates are all waiting for us,
-  es: Linna, los profesores y los estudiantes nos están esperando.
+  es: Linna, los profesores y los estudiantes nos están esperando,
 - id: 19315b13-165b-46f9-a865-1e94a2b1d434
   zh-hans: 我们走吧。
   pinyin: wǒmen zǒu ba.
@@ -288,12 +288,12 @@ sentences:
   zh-hans: “二零零二中国”展览，好吗？
   pinyin: “èr líng líng èr Zhōngguó” zhǎnlǎn, hǎo ma?
   en: “China 2002” exhibition, right?
-  es: exposición "China 2002" ¿vale?
+  es: exposición "China 2002" ¿está bien?
 - id: d4591113-1650-4613-b28f-83809141a7b5
   zh-hans: 好，明天见！
   pinyin: Hǎo, míngtiān jiàn!
   en: Will do, see you tomorrow!
-  es: Vale, ¡hasta mañana!
+  es: Está bien ¡hasta mañana!
 - id: 00c6495c-8488-4186-a6e5-e5aaa65884be
   zh-hans: (1:不:36)(2:见:36)(3:不:36)(4:散:36)！
   pinyin: (1:Bù) (2:jiàn) (3:bú) (4:sàn)!
