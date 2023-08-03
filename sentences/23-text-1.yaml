@@ -68,12 +68,12 @@ sentences:
   zh-hans: 去。他说他要从(1:山:6)(2:下)(3:爬:1)上去，
   pinyin: Qù. Tā shuō tā yào cóng (1:shān) (2:xià) (3:pá) shàngqù,
   en: He’s going. He said he wants to (3:climb up) from the (2:bottom) of the (1:mountain),
-  es: Sí. Dice que (3:subirá) desde el (2:pie) de la (1:montaña).
+  es: Sí. Dice que (3:subirá) desde el (2:pie) de la (1:montaña),
 - id: d0274c6e-1a4c-4b14-9cab-8a296b4d99df
   zh-hans: 再从(1:山:6)(2:顶:7)走下来。他还说，
   pinyin: zài cóng (1:shān)(2:dǐng) zǒu xiàlái. Tā hái shuō,
   en: and then walk down from the (2:top) of the (1:mountain). He also said
-  es: Luego bajará desde la (2:cima) de la (1:montaña). También dijo
+  es: luego bajará desde la (2:cima) de la (1:montaña). También dijo
 - id: 4eae0815-a312-4f61-93f6-1334dcb669b2
   zh-hans: 先(1:爬:1)(2:泰山:18)，再去参观(3:孔子:20)(4:教书:8)的地方。
   pinyin: xiān (1:pá) (2:Tàishān), zài qù cānguān (3:Kǒngzǐ) (4:jiāoshū) de dìfāng.
@@ -88,17 +88,17 @@ sentences:
   zh-hans: 小燕子(1:建议:9)大为也去(2:海南岛:19)。
   pinyin: Xiǎo Yànzi (1:jiànyì) Dàwéi yě qù (2:Hǎinán dǎo).
   en: Xiao Yanzi (1:suggested) Dawei also go to (2:Hainan island).
-  es: La Golondrina (1:sugirió) que Dawei fuera también a la (2:isla de Hainan).
+  es: Xiao Yanzi (1:sugirió) que Dawei fuera también a la (2:isla de Hainan).
 - id: 077a0a7f-a885-4005-bc9e-be74b8c9e8fb
   zh-hans: 她说现在那儿天气好，(1:气温:10)(2:合适)，
   pinyin: Tā shuō xiànzài nàr tiānqì hǎo, (1:qìwēn) (2:héshì),
   en: She said the weather there is good at the moment, (2:suitable) (1:temperature),
-  es: Dijo que allí hace buen tiempo y la (1:temperatura) es (2:agradable).
+  es: Dijo que allí hace buen tiempo y la (1:temperatura) es (2:agradable),
 - id: d320ceed-c74b-49f6-98ab-e8a6354465f0
   zh-hans: 能去(1:游泳:12)，还可以看(2:优美)的(3:景色:11)。
   pinyin: néng qù (1:yóuyǒng), hái kěyǐ kàn (2:yōuměi) de (3:jǐngsè).
   en: can go (1:swimming), and also look at the (2:beautiful) (3:scenery).
-  es: Se puede ir a (1:nadar) y ver un (3:paisaje) (2:precioso).
+  es: se puede ir a (1:nadar) y ver un (3:paisaje) (2:precioso).
 - id: 2a3d331c-bfe7-4c31-9e22-1d088c458af3
   zh-hans: 现在北京是(1:冬天:13)，可是在(2:海南岛:19)
   pinyin: Xiànzài Běijīng shì (1:dōngtiān), kěshì zài (2:Hǎinán dǎo)
@@ -113,12 +113,12 @@ sentences:
   zh-hans: (1:小燕子)是(2:导游:15)小姐，
   pinyin: (1:Xiǎo Yànzi) shì (2:dǎoyóu) xiǎojiě,
   en: (1:Xiao Yanzi) is miss (2:tour guide),
-  es: (1:Xiao Yanzi) es (2:guía turística).
+  es: (1:Xiao Yanzi) es (2:guía turística),
 - id: 6625dd74-e06b-4831-ab50-17cae5e27e89
   zh-hans: (1:旅行)的事儿她知道得很多，(2:应该)听她的。
   pinyin: (1:lǚxíng) de shìr tā zhīdào de hěnduō, (2:yīnggāi) tīng tā de.
   en: she knows a lot about (1:travelling) matters, (2:should) listen to her.
-  es: Sabe mucho de (1:viajes). Deberíamos escucharla.
+  es: sabe mucho de (1:viajes). Deberíamos escucharla.
 - id: dd65b9b4-0cd8-4e23-8e2b-2865a6203a7f
   zh-hans: (1:大为)可以跟我们一起去。
   pinyin: (1:Dàwéi) kěyǐ gēn wǒmen yīqǐ qù.
