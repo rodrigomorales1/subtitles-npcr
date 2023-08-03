@@ -20,8 +20,8 @@ sentences:
   en: and the (1:streets) are so lively!
   es: ¡Las (1:calles) siguen muy animadas!
 - id: 0d37e4ee-a821-4563-aeb1-5822fe8fbffc
-  zh-hans: 这儿的人吃完晚饭都喜欢出来(1:活动活动:3)。
-  pinyin: Zhèr de rén chī wán wǎnfàn dōu xǐhuan chūlái (1:huódòng huódòng).
+  zh-hans: 这儿的人吃完晚饭都喜欢出来(1:活动:3)(1:活动:3)。
+  pinyin: Zhèr de rén chī wán wǎnfàn dōu xǐhuan chūlái (1:huódòng) (1:huódòng).
   en: After dinner, the people here all like to go out for (1:activities).
   es: A la gente le gusta salir a participar en (1:actividades) después de cenar.
 - id: 4a10da20-c6ff-4de6-9405-3d55f261d50d
@@ -45,7 +45,7 @@ sentences:
   en: What (1:dance) are they doing?
   es: ¿Qué están (1:bailando)?
 - id: 23c1ac07-b036-4e50-980c-6797e8ee8ecf
-  zh-hans: 他们在(1:扭秧歌)呢。
+  zh-hans: 他们在(1:扭秧歌:7)呢。
   pinyin: Tāmen zài (1:niǔyānggē) ne.
   en: They are (1:dancing the Yangge).
   es: Están (1:bailando el Yangge).
@@ -75,20 +75,20 @@ sentences:
   en: According to (1:old people),
   es: Para los (1:ancianos).
 - id: d7055d8f-8d63-4351-b2b0-2daaf56c6046
-  zh-hans: 现在(1:扭秧歌:7)已经是一种锻炼身体的活动了。
-  pinyin: xiànzài (1:niǔyānggē) yǐjīng shì yī zhǒng duànliàn shēntǐ de huódòngle.
-  en: now the (1:Yangge) is already a sort of physical exercise movement.
-  es: (1:Bailar el Yangge) es ahora un tipo de actividad de ejercicio físico.
+  zh-hans: 现在(1:扭秧歌:7)已经是一种锻炼身体的(1:活动:3)了。
+  pinyin: xiànzài (1:niǔyānggē) yǐjīng shì yī zhǒng duànliàn shēntǐ de (1:huódòng) le.
+  en: now the (1:Yangge) is already a sort of physical exercise (1:movement).
+  es: (1:Bailar el Yangge) es ahora un tipo de (1:actividad) de ejercicio físico.
 - id: ffc9589a-71aa-4b20-9281-794c2cad4653
   zh-hans: 他们很喜欢扭，常常扭得全身(1:出汗:14)。
   pinyin: Tāmen hěn xǐhuan niǔ, chángcháng niǔ de quánshēn (1:chūhàn).
   en: They like to dance, and will often dance up (1:a sweat).
   es: Les gusta tanto bailar que a menudo (1:sudan) por todo el cuerpo.
 - id: eb85640d-76fd-4370-a1c8-0eab89c857b5
-  zh-hans: 我看，这种舞很好跳，我也能很快地学会。
-  pinyin: Wǒ kàn, zhè zhǒng wǔ hěn hǎo tiào, wǒ yě néng hěn kuài dì xuéhuì.
-  en: Looks to me, like this type of dance is very easy, I can also learn quickly how to do it.
-  es: Creo que esta danza es muy buena y yo también puedo aprenderla rápidamente.
+  zh-hans: 我看，这种舞很好(1:跳:4)，我也能很快地学会。
+  pinyin: Wǒ kàn, zhè zhǒng wǔ hěn hǎo (1:tiào), wǒ yě néng hěn kuài dì xuéhuì.
+  en: Looks to me, this type of dance is very good to (1:dance), I can also learn quickly how to do it.
+  es: Creo que esta danza es muy buena para (1:bailar) y yo también puedo aprenderla rápidamente.
 - id: 8bb6786c-58a6-424b-b282-900dcd055c1c
   zh-hans: 我跟他们一起扭，可以吗？
   pinyin: Wǒ gēn tāmen yīqǐ niǔ, kěyǐ ma? Dāngrán
@@ -180,10 +180,10 @@ sentences:
   en: (1:Taijijian) (2:movements) are very beautiful,
   es: Los (2:movimientos) del (1:Taijijian) son muy elegantes.
 - id: 3b6af2e1-fc7d-43d0-b1a2-04b37b4c0ead
-  zh-hans: 练(1:太极剑:1)就没有扭秧歌那么容易了。
-  pinyin: liàn (1:tàijíjiàn) jiù méiyǒu niǔyānggē nàme róngyìle.
-  en: but practicing (1:Taijijian) is not as easy as doing the Yangge.
-  es: Practicar el (1:Taijijian) no es más fácil que bailar el Yangge.
+  zh-hans: 练(1:太极剑:1)就没有(2:扭秧歌:7)那么容易了。
+  pinyin: liàn (1:tàijíjiàn) jiù méiyǒu (2:niǔyānggē) nàme róngyìle.
+  en: but practicing (1:Taijijian) is not as easy as doing the (2:Yangge).
+  es: Practicar el (1:Taijijian) no es más fácil que bailar el (2:Yangge).
 - id: 8196a916-c88f-4c08-b324-554a9ef2d788
   zh-hans: 你们看，(1:街心花园:23)那儿(2:围:24)着很多人。
   pinyin: Nǐmen kàn, (1:jiēxīn huāyuán) nàr (2:wéi) zhe hěnduō rén.
