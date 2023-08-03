@@ -13,7 +13,7 @@ sentences:
   zh-hans: 力波，上午十点半，你妈妈给你打一个电话。
   pinyin: Lìbō, shàngwǔ shí diǎn bàn, nǐ māmā gěi nǐ dǎ yīgè diànhuà.
   en: Libo, your mother called this morning, at half-past ten.
-  es: Lippo, a las 10:30 de la mañana, tu madre te llama por teléfono.
+  es: Libo, a las 10:30 de la mañana, tu madre te llama por teléfono.
 - id: 273ed8b9-fadf-41d2-92b4-dc013f30b9ca
   zh-hans: 我告诉他你不在。
   pinyin: Wǒ gàosù tā nǐ bùzài.
@@ -63,12 +63,12 @@ sentences:
   zh-hans: 啊，丁力波在，请等一下。
   pinyin: A, Dīng Lìbō zài, qǐng děng yīxià.
   en: Ah, Ding Libo is in, please wait a moment.
-  es: Ah, Ding Lippo está aquí. Por favor espere.
+  es: Ah, Ding Libo está aquí. Por favor espere.
 - id: 786cb6e9-92d5-4381-bc5f-bf8d51b36135
   zh-hans: 力波，你妈妈的电话。
   pinyin: Lìbō, nǐ māmā de diànhuà.
   en: Libo, it’s your mother calling.
-  es: Lippo, tu mamá está al teléfono.
+  es: Libo, tu mamá está al teléfono.
 - id: bfcb2586-13e6-41b3-96b0-b9d958719af2
   zh-hans: 谢谢。
   pinyin: Xièxiè.
@@ -83,7 +83,7 @@ sentences:
   zh-hans: 力波，你好吗？
   pinyin: Lìbō, nǐ hǎo ma?
   en: Libo, how are you?
-  es: Lippo, ¿cómo estás?
+  es: Libo, ¿cómo estás?
 - id: d84d3865-8871-494e-aed3-a8ef8e3c589d
   zh-hans: 我很好。你和爸爸身体怎么样？
   pinyin: Wǒ hěn hǎo. Nǐ hé bàba shēntǐ zěnme yàng?
@@ -193,7 +193,7 @@ sentences:
   zh-hans: 这很好。力波，今年你要在中国过圣诞节，
   pinyin: Zhè hěn hǎo. Lìbō, jīnnián nǐ yào zài Zhōngguó guò Shèngdàn jié,
   en: That’s great. Libo, this year you will be in China during Christmas,
-  es: Eso está muy bien. Lippo, este año vas a pasar las Navidades en China.
+  es: Eso está muy bien. Libo, este año vas a pasar las Navidades en China.
 - id: c84f70df-03df-4eee-8316-411b43166435
   zh-hans: 不能回家，我和你爸爸要送一间圣诞礼物。
   pinyin: bùnéng huí jiā, wǒ hé nǐ bàba yào sòng yī jiàn Shèngdàn lǐwù.
