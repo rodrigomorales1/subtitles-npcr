@@ -38,7 +38,7 @@ sentences:
   zh-hans: 我觉得有点儿(1:累:2)，
   pinyin: Wǒ juéde yǒudiǎnr (1:lèi),
   en: I’m feeling a little bit (1:tired),
-  es: Estoy un poco (1:cansada).
+  es: Estoy un poco (1:cansada),
 - id: b20c2f20-4806-49e1-a010-afc74d9d8e4f
   zh-hans: 林娜也(1:累)了，咱们就坐下来休息一会儿吧。
   pinyin: Lín Nà yě (1:lèi) le, zánmen jiù zuòxiàlái xiūxí yī huǐr ba.
@@ -88,7 +88,7 @@ sentences:
   zh-hans: 是啊。现在是冬天，
   pinyin: Shì a. Xiànzài shì dōngtiān,
   en: That’s right. Now is winter,
-  es: Lo era. Es invierno.
+  es: Lo era. Es invierno,
 - id: b5ce87f9-8281-492b-8ff3-b0dd6e57c662
   zh-hans: 今天还是(1:阴天:7)，要(2:下雪:8)了。
   pinyin: jīntiān háishì (1:yīntiān), yào (2:xià xuě) le.
@@ -113,7 +113,7 @@ sentences:
   zh-hans: 中国真大。(1:北方:11)还是这么冷的冬天，
   pinyin: Zhōngguó zhēn dà. (1:Běifāng) háishì zhème lěng de dōngtiān,
   en: China is very big. It is still winter in the (1:north), but
-  es: China es tan grande. Todavía es un invierno tan frío en el (1:norte).
+  es: China es tan grande. Todavía es un invierno tan frío en el (1:norte),
 - id: 4aa7213b-29a1-457d-8055-40e405054644
   zh-hans: 可是(1:春天:12)已经到了南方。
   pinyin: kěshì (1:chūntiān) yǐjīng dàole nánfāng.
@@ -123,12 +123,12 @@ sentences:
   zh-hans: 你们看，力波怎么走下来了？
   pinyin: Nǐmen kàn, Lìbō zěnme zǒu xiàláile?
   en: Look, how come is Libo walking down?
-  es: Mira, Libo está bajando.
+  es: Miren ¿Por qué Libo está bajando?
 - id: 3a45f9bc-13a3-4704-accd-d552324827d1
   zh-hans: 喂，你们怎么还没上来？要(1:帮忙:13)吗？
   pinyin: Wèi, nǐmen zěnme hái méi shànglái? Yào (1:bāngmáng) ma?
   en: Hey, how come you all have not yet come up? Need (1:help)?
-  es: Eh, ¿por qué no estáis aquí arriba todavía? ¿Necesitas (1:ayuda)?
+  es: Hey ¿por qué aún no están aquí arriba? ¿Necesitan (1:ayuda)?
 - id: 8ac3eb6d-8cf4-446a-b09a-2ef7e5f5a4f7
   zh-hans: 不用。你不用跑过来，我们自己能上去。
   pinyin: Bùyòng. Nǐ bùyòng pǎo guòlái, wǒmen zìjǐ néng shàngqù.
@@ -138,7 +138,7 @@ sentences:
   zh-hans: 陈老师，您休息好了吗？
   pinyin: Chén Lǎoshī, nín xiūxí hǎole ma?
   en: Teacher Chen, have you rested enough?
-  es: Sr. Chen, ¿ha descansado?
+  es: Profesora Chen, ¿ha descansado bien?
 - id: 32622adb-ec65-4980-915e-a2f3e9d196a9
   zh-hans: 休息好了。小云，你帮我(1:站:14)(2:起)来……
   pinyin: Xiūxí hǎole. Xiǎo Yún, nǐ bāng wǒ (1:zhàn) (2:qǐ) lái...
@@ -148,4 +148,4 @@ sentences:
   zh-hans: 啊！我们爬上长城来了！
   pinyin: A! Wǒmen pá shàng Chángchéng láile!
   en: Ah! We have climbed the Great Wall!
-  es: ¡Ah! ¡Estamos escalando la Gran Muralla!
+  es: ¡Ah! ¡Hemos escalado la Gran Muralla!
