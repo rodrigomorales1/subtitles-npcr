@@ -85,10 +85,15 @@ sentences:
   en: They like to dance, and will often dance up (1:a sweat).
   es: Les gusta tanto bailar que a menudo (1:sudan) por todo el cuerpo.
 - id: eb85640d-76fd-4370-a1c8-0eab89c857b5
-  zh-hans: 我看，这种舞很好(1:跳:4)，我也能很快地学会。
-  pinyin: Wǒ kàn, zhè zhǒng wǔ hěn hǎo (1:tiào), wǒ yě néng hěn kuài dì xuéhuì.
-  en: Looks to me, this type of dance is very good to (1:dance), I can also learn quickly how to do it.
-  es: Creo que esta danza es muy buena para (1:bailar) y yo también puedo aprenderla rápidamente.
+  zh-hans: 我看，这种舞很好(1:跳:4)，
+  pinyin: Wǒ kàn, zhè zhǒng wǔ hěn hǎo (1:tiào),
+  en: Looks to me, this type of dance is very good to (1:dance),
+  es: Creo que esta danza es muy buena para (1:bailar) y
+- id: 2c7e6b38-d873-41c9-93d0-b187aeb9176f
+  zh-hans: 我也能很快地学会。
+  pinyin: wǒ yě néng hěn kuài dì xuéhuì.
+  en: I can also learn quickly how to do it.
+  es: yo también puedo aprenderla rápidamente.
 - id: 8bb6786c-58a6-424b-b282-900dcd055c1c
   zh-hans: 我跟他们一起扭，可以吗？
   pinyin: Wǒ gēn tāmen yīqǐ niǔ, kěyǐ ma? Dāngrán
