@@ -185,10 +185,10 @@ sentences:
   en: and (2:prune) these (1:bonsai) plants. It’s a good way to relax.
   es: y (2:podar) estos (1:bonsáis). Es un buen descanso.
 - id: c17500cd-933d-4317-909e-deb5675e13a4
-  zh-hans: (1:盆景:12)是一种(1:艺术:24)。听说，种(1:盆景:12)很不容易。
-  pinyin: (1:Pénjǐng) shì yī zhǒng (1:yìshù). Tīng shuō, zhòng (1:pénjǐng) hěn bù róngyì.
-  en: (1:Bonsai) plants are a type of (1:art). I heard, planting (1:bonsai) is very difficult.
-  es: El (1:bonsái) es un (1:arte). He oído que no es fácil cultivar (1:bonsáis).
+  zh-hans: (1:盆景:12)是一种(2:艺术:24)。听说，种(3:盆景:12)很不(4:容易)。
+  pinyin: (1:Pénjǐng) shì yī zhǒng (2:yìshù). Tīng shuō, zhòng (3:pénjǐng) hěn bù (4:róngyì).
+  en: (1:Bonsai) plants are a type of (2:art). I heard, planting (3:bonsai) is not (4:easy).
+  es: El (1:bonsái) es un (2:arte). He oído que cultivar (3:bonsáis) no es (4:fácil).
 - id: 92b5d32f-fe10-44af-bcbf-ca1239eb1f2c
   zh-hans: 张教授，您还真是一位(1:园艺师:25)呢！
   pinyin: Zhāng jiàoshòu, nín hái zhēnshi yī wèi (1:yuányìshī) ne!
