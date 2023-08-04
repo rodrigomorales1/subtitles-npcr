@@ -60,10 +60,15 @@ sentences:
   en: don’t know if this OK or not?
   es: no sé si es posible.
 - id: b1477848-5922-4f04-8b17-b66897ed8e1e
-  zh-hans: 我的字很一般，你应该多看(1:书法家:2)的字。
-  pinyin: Wǒ de zì hěn yībān, nǐ yīnggāi duō kàn (1:shūfǎjiā) de zì.
-  en: My characters are very average, you should look at the characters drawn by (1:calligraphers).
-  es: Mi caligrafía es mediocre. Debería mirar a los caracteres que dibujan los (1:calígrafos).
+  zh-hans: 我的字很一般，
+  pinyin: Wǒ de zì hěn yībān,
+  en: My characters are very average,
+  es: Mi caligrafía es mediocre,
+- id: 3d57d54e-a50f-4a21-8d60-52cc27f0bdd7 
+  zh-hans: 你应该多看(1:书法家:2)的字。
+  pinyin: nǐ yīnggāi duō kàn (1:shūfǎjiā) de zì.
+  en: you should look at the characters drawn by (1:calligraphers).
+  es: deberías mirar a los caracteres que dibujan los (1:calígrafos).
 - id: 42b31842-2a0b-4f12-8b6e-777634025490
   zh-hans: 我知道您的书法很有名。
   pinyin: Wǒ zhīdào nín de shūfǎ hěn yǒumíng.
