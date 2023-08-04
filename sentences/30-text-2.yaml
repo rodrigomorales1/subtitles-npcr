@@ -35,15 +35,25 @@ sentences:
   en: (1:Sometimes) I watch a game (with so much interest) that I (2:forgot) to (3:eat).
   es: (1:A veces) veo las partidas (con tanto interés) que me (2:olvido) de (3:comer).
 - id: ddc39a19-1c86-4b17-ab65-1bfab7ac4b2c
-  zh-hans: (1:所以)那些(2:站)在旁边的人也是在看(3:下棋:1)？
-  pinyin: (1:Suǒyǐ) nàxiē (2:zhàn) zài pángbiān de rén yěshì zài kàn (3:xiàqí)?
-  en: (1:So) those people (2:standing) around are also watching the (3:chess game)?
-  es: (1:Entonces) ¿esas personas que están (2:paradas) alrededor también están mirando la (3:partida de ajedrez)?
+  zh-hans: (1:所以)那些(2:站)在旁边的人
+  pinyin: (1:Suǒyǐ) nàxiē (2:zhàn) zài pángbiān de rén
+  en: (1:So) those people (2:standing) around
+  es: (1:Entonces) ¿esas personas que están (2:paradas) alrededor
+- id: a91bbced-e05b-47d4-a205-76ea23214023
+  zh-hans: 也是在看(3:下棋:1)？
+  pinyin: yěshì zài kàn (3:xiàqí)?
+  en: are also watching the (3:chess game)?
+  es: también están mirando la (3:partida de ajedrez)?
 - id: 791cdd8e-26fc-4921-a281-4942a33da53c
-  zh-hans: 是啊，(1:常常)两个人(2:下棋:1)，很多人围着看。
-  pinyin: Shì a, (1:chángcháng) liǎng gèrén (2:xiàqí), hěnduō rén wéizhe kàn.
-  en: Yes, (1:often) two people (2:play chess), while lots of people watch.
-  es: Sí, (1:usualmente), cuando dos personas (2:juegan al ajedrez), mucha gente se reúne alrededor para mirar.
+  zh-hans: 是啊，(1:常常)两个人(2:下棋:1)，
+  pinyin: Shì a, (1:chángcháng) liǎng gèrén (2:xiàqí),
+  en: Yes, (1:often) two people (2:play chess),
+  es: Sí, (1:usualmente), cuando dos personas (2:juegan al ajedrez),
+- id: 01f536cd-4d2a-492c-a0a5-90d0be3c3ac9
+  zh-hans: 很多人围着看。
+  pinyin: hěnduō rén wéizhe kàn.
+  en: while lots of people watch.
+  es: mucha gente se reúne alrededor para mirar.
 - id: ba5e26e0-38f7-4ce2-9d4c-07052165af5b
   zh-hans: (1:看)的(2:人)和(3:下)的(4:人)也(5:可能)互相不认识。
   pinyin: (1:Kàn) de (2:rén) hé (3:xià) de (4:rén) yě (5:kěnéng) hùxiāng bù rènshi.
