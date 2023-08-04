@@ -155,10 +155,15 @@ sentences:
   en: (1:Really) (2:interesting).
   es: (1:Realmente) (2:interesante).
 - id: c501d07e-ce09-4275-b5d6-df1e6545f552
-  zh-hans: 我发现这儿老人的(1:休闲:6)活动有很多(2:特点)。
-  pinyin: Wǒ fāxiàn zhèr lǎorén de (1:xiūxián) huódòng yǒu hěnduō (2:tèdiǎn).
-  en: I have discovered the (1:leisure) activities of the old folk here have many (2:characteristics).
-  es: Me parece que las actividades de (1:ocio) de los ancianos aquí se caracterizan por muchos (2:rasgos).
+  zh-hans: 我发现这儿老人的(1:休闲:6)活动
+  pinyin: Wǒ fāxiàn zhèr lǎorén de (1:xiūxián) huódòng
+  en: I have discovered that here the (1:leisure) activities of the old people
+  es: Me parece que aquí las actividades de (1:ocio) de los ancianos
+- id: 5d98d816-e667-463f-bb21-f34583c42105
+  zh-hans: 有很多(1:特点)。
+  pinyin: yǒu hěnduō (1:tèdiǎn).
+  en: have many (1:characteristics).
+  es: se caracterizan por muchos (1:rasgos).
 - id: 7b9dc491-7791-4ece-9b20-b8914ebd0ba4
   zh-hans: (1:简单地说)，第一，他们非常(2:注意)锻炼身体；
   pinyin: (1:Jiǎndān de shuō), dì yī, tāmen fēicháng (2:zhùyì) duànliàn shēntǐ;
