@@ -120,10 +120,15 @@ sentences:
   en: in the (1:evening) come here to (2:happily) (3:sing).
   es: Vienen aquí por las (1:noches) a (3:cantar) (2:alegremente).
 - id: fb71b287-46b4-405a-a23d-ebbdd156d4b3
-  zh-hans: 因为(1:爱好)一样，不认识的人也都成了(2:朋友)。
-  pinyin: Yīnwèi (1:àihào) yīyàng, bù rènshi de rén yě dōu chéngle (1:péngyǒu).
-  en: Because they have the same (1:hobby), people who don’t know each other also become (2:friends).
-  es: Como comparten la misma (1:afición), personas, que no se conocían, se han hecho (2:amigos).
+  zh-hans: 因为(1:爱好)一样，
+  pinyin: Yīnwèi (1:àihào) yīyàng,
+  en: Because they have the same (1:hobby),
+  es: Como comparten la misma (1:afición),
+- id: fc267706-0c35-4d1c-a8a9-c5c76c53963e
+  zh-hans: 不认识的人也都成了(1:朋友)。
+  pinyin: bù rènshi de rén yě dōu chéngle (0:péngyǒu).
+  en: people who don’t know each other also become (1:friends).
+  es: personas, que no se conocían, se han hecho (1:amigos).
 - id: 723be81f-35c2-4356-83a0-3f41ac697eef
   zh-hans: (1:一般地说)，到这儿来唱的人(2:水平)都(3:还可以)，
   pinyin: (1:Yībān de shuō), dào zhèr lái chàng de rén (2:shuǐpíng) dōu (3:hái kěyǐ),
