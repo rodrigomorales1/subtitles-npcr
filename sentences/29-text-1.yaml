@@ -195,7 +195,7 @@ sentences:
   en: Professor Zhang, you also really are a (1:gardener)!
   es: Profesor Zhang, ¡usted es realmente un (1:horticultor)!
 - id: a4a8c9f9-2ee5-4930-9908-61f4fbabfc22
-  zh-hans: 我哪儿是(1:园艺师:25)？这只是一点儿爱好。
-  pinyin: Wǒ nǎr shì (1:yuányìshī)? Zhè zhǐshì yīdiǎnr àihào.
-  en: Me a (1:gardener)? This is only a small hobby.
-  es: ¿Por dónde soy un (1:horticultor)? Es sólo un hobby.
+  zh-hans: 我哪儿是(1:园艺师:25)？这只是一点儿(2:爱好)。
+  pinyin: Wǒ nǎr shì (1:yuányìshī)? Zhè zhǐshì yīdiǎnr (2:àihào).
+  en: Me a (1:gardener)? This is only a small (2:hobby).
+  es: ¿Por dónde soy un (1:horticultor)? Es sólo un (2:hobby).
