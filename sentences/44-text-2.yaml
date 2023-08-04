@@ -52,7 +52,7 @@ sentences:
 - id: ee0b5d2ce99b41f1a08b67ecd4507a97
   zh-hans: (1:孩子)正在(2:上学)，
   pinyin: (1:háizi) zhèngzài (2:shàngxué),
-  en: her (1:child) is at currently at (2:school),
+  en: her (1:child) is currently (2:attending school),
   es: los (1:niños) están en la (2:escuela).
 - id: 39ba594315534e628ae5e5ae9ca47e39
   zh-hans: 一(1:家)(2:三口人)的(3:生活)(4:一下子)就(5:困难)多了。
