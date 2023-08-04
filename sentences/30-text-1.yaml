@@ -126,7 +126,7 @@ sentences:
   es: Son practicantes de (1:Taijijian), (en sus (2:manos)) sostienen espadas.
 - id: 0db371bb-9b86-43f2-bcbb-884a5877cafb
   zh-hans: (1:太极剑:1)也是一种中国(2:武术:17)，
-  pinyin: Tàijí jiàn yěshì yī zhǒng Zhōngguó (2:wǔshù),
+  pinyin: (1:Tàijíjiàn) yěshì yī zhǒng Zhōngguó (2:wǔshù),
   en: (1:Taijijian) is also a type of Chinese (2:martial arts),
   es: (1:Taijijian) es también un (2:arte marcial) chino.
 - id: 017dafca-907f-423a-b895-3d98b61d0902
