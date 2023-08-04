@@ -100,10 +100,15 @@ sentences:
   en: also all of them are (1:old people).
   es: todos ellos son (1:ancianos).
 - id: 410ab72d-a175-4627-bf2f-3d92facb9a7e
-  zh-hans: (1:以前)他们(2:工作)的时候，(3:忙)得没有(4:时间)(5:唱)。
-  pinyin: (1:Yǐqián) tāmen (2:gōngzuò) de shíhou, (3:máng) de méiyǒu (4:shíjiān) (5:chàng).
-  en: (1:Before) when they were (2:working), so (3:busy) they had no (4:time) to (5:sing).
-  es: (1:Antes), cuando (2:trabajaban), estaban demasiado (3:ocupados) que no tenían (4:tiempo) para (5:cantar).
+  zh-hans: (1:以前)他们(2:工作)的时候，
+  pinyin: (1:Yǐqián) tāmen (2:gōngzuò) de shíhou,
+  en: (1:Before) when they were (2:working),
+  es: (1:Antes), cuando (2:trabajaban),
+- id: 7d0c3835-d157-4ce3-9d8d-0f42b499bda1
+  zh-hans: (1:忙)得没有(2:时间)(3:唱)。
+  pinyin: (1:máng) de méiyǒu (2:shíjiān) (3:chàng).
+  en: so (1:busy) they had no (2:time) to (3:sing).
+  es: estaban demasiado (1:ocupados) que no tenían (2:tiempo) para (3:cantar).
 - id: beda0fbf-e5eb-4a82-b098-dd19fa32b292
   zh-hans: 现在他们人(1:退休:5)了，(2:休闲:6)的(3:时间)也多了，
   pinyin: Xiànzài tāmen rén (1:tuìxiū) le, (2:xiūxián) de (3:shíjiān) yě duōle,
