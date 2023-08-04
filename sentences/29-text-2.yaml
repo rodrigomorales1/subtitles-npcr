@@ -30,10 +30,10 @@ sentences:
   en: Studying calligraphy requires lots of reading, lots of (1:practice).
   es: Para aprender caligrafía, tienes que leer y (1:practicar) más.
 - id: f717a5e1-b607-4966-9ef8-1047fa16b530
-  zh-hans: 人们常说，如果你每天都认认真真地练，
-  pinyin: Rénmen cháng shuō, rúguǒ nǐ měitiān dōu rènrèn zhēnzhēn de liàn,
-  en: People often say, if everyday you study earnestly,
-  es: La gente suele decir que si practicas en serio todos los días,
+  zh-hans: 人们常说，如果你每天都认认真真地(1:练:1)，
+  pinyin: Rénmen cháng shuō, rúguǒ nǐ měitiān dōu rènrèn zhēnzhēn de (1:liàn),
+  en: People often say, if everyday you (1:practice) earnestly,
+  es: La gente suele decir que si (1:practicas) en serio todos los días,
 - id: 0e8e7021-c465-478d-80b4-201596a85190
   zh-hans: 不用一百天，就能把汉字写得很漂亮。
   pinyin: bùyòng yībǎi tiān, jiù néng bǎ Hànzì xiě de hěn piàoliang.
@@ -45,10 +45,10 @@ sentences:
   en: Of couse, writing Chinese characters as works of art,
   es: Por supuesto, para convertir los caracteres chinos en obras de arte caligráficas,
 - id: 63bdd58e-d076-4ce0-8ec9-ff76be5a77a7
-  zh-hans: 还要更多地练习。
-  pinyin: hái yào gèng duō de liànxí.
-  en: requires even more practice.
-  es: necesitas más práctica.
+  zh-hans: 还要更多地(1:练)(2:习)。
+  pinyin: hái yào gèng duō de (1:liàn)(2:xí).
+  en: requires even more (1:practice) and (2:study).
+  es: necesitas más (1:práctica) y (2:estudio).
 - id: d5b6f00c-e64e-40da-b23b-238a8f3846c4
   zh-hans: 张教授，我想请您给我写一幅字，
   pinyin: Zhāng jiàoshòu, wǒ xiǎng qǐng nín gěi wǒ xiě yī fú zì,
@@ -85,12 +85,12 @@ sentences:
   en: I just wrote this one today, take a look, what does it say?
   es: Acabo de escribir una hoy. Mira lo que dice.
 - id: b390eb2d-44cd-4222-b48f-2383e36a6691
-  zh-hans: “(1:弟子:3)(2:不必:3)(3:不如:7)(4:师)，
+  zh-hans: “(1:弟子:3)(2:不必:3)(3:不如:7)(4:师:3)，
   pinyin: “(1:Dìzǐ:3) (2:bùbì:3) (3:bùrú) (4:shī),
   en: '"(1:Disciples) are (2:not necessarily) (3:inferior) to their (4:teachers),'
   es: '"Los (1:discípulos) (2:no son necesariamente) (3:inferiores) a sus (4:maestros),'
 - id: a9d12353-8d88-42a1-8e6e-ec8137a59a30
-  zh-hans: (1:师)(2:不必:3)(3:贤)(4:于)(5:弟子:3)”。
+  zh-hans: (1:师:3)(2:不必:3)(3:贤:3)(4:于:3)(5:弟子:3)”。
   pinyin: (1:shī) (2:bùbì:3) (3:xián) (4:yú) (5:dìzǐ:3)”.
   en: '(1:teachers) are (2:not necessarily) (3:wiser) (4:than) their (5:disciples).'
   es: ', los (1:maestros) (2:no son necesariamente) más (3:capaces) (4:que) sus (5:discípulos)."'
@@ -100,15 +100,15 @@ sentences:
   en: Professor Zhang, may I ask, what's the (2:meaning) of this (1:sentence)?
   es: Profesor Zhang, ¿puedo preguntar qué (2:significa) esta (1:oración)?
 - id: 3ecfadd8-9b8c-46d3-a7bb-65c6090661d8
-  zh-hans: 这是唐代一位(1:文学家:9)说过的话，
-  pinyin: Zhè shì Táng dài yī wèi (1:wénxuéjiā) shuōguò dehuà,
-  en: These are the words of a Tang dynasty (1:literary scholar),
-  es: Son las palabras de un (1:literario) de la dinastía Tang.
+  zh-hans: 这是(1:唐代:12)一位(2:文学家:9)说过的话，
+  pinyin: Zhè shì (1:Tángdài) yī wèi (2:wénxuéjiā) shuōguò dehuà,
+  en: These are the words of a (1:Tang dynasty) (2:literary scholar),
+  es: Son las palabras de un (2:literario) de la (1:dinastía Tang).
 - id: 3284b63c-4d3f-46ec-a5c8-c0735e974554
-  zh-hans: 意思是，学生不一定(1:不如:7)老师，
-  pinyin: yìsi shì, xuéshēng bù yīdìng (1:bùrú) lǎoshī,
-  en: the meaning is, students are not necessarily (1:inferiors) to their teachers,
-  es: Significa que un estudiante no tiene por qué (1:ser inferior) a su maestro.
+  zh-hans: (1:意思:6)是，学生不一定(2:不如:7)老师，
+  pinyin: (1:yìsi) shì, xuéshēng bù yīdìng (2:bùrú) lǎoshī,
+  en: the (1:meaning) is, students are not necessarily (2:inferiors) to their teachers,
+  es: (1:Significa) que un estudiante no tiene por qué (2:ser inferior) a su maestro.
 - id: 88315c16-4146-4cd6-a87c-f36c36720365
   zh-hans: 老师也不一定比学生(1:高明:8)。
   pinyin: lǎoshī yě bù yīdìng bǐ xuéshēng (1:gāomíng).
