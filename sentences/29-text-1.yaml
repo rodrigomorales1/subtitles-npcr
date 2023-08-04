@@ -145,10 +145,15 @@ sentences:
   en: However, (1:raising) a flower well, that is not easy.
   es: Pero no es fácil (1:cultivar) flores bien.
 - id: 6b29daee-1661-472f-bf5b-a53e46c9c97e
-  zh-hans: (1:人们:20)常说“姑娘爱花”，林娜喜欢(1:养:18)花，
-  pinyin: (1:Rénmen) cháng shuō “gūniang ài huā”, Lín Nà xǐhuan (1:yǎng) huā,
-  en: (1:People) often say “girls love flowers”, Lin Na likes to (1:raise) flowers,
-  es: Las personas suelen decir "las señoritas aman las flores", a Linna le gusta (1:cultivar) flores,
+  zh-hans: (1:人们:20)常说“姑娘爱花”，
+  pinyin: (1:Rénmen) cháng shuō "gūniang ài huā",
+  en: (1:People) often say "girls love flowers",
+  es: Las personas suelen decir "las señoritas aman las flores",
+- id: b0e0e3a9-b3ba-4ff2-ae60-d55dbac8249c
+  zh-hans: 林娜喜欢(1:养:18)花，
+  pinyin: Lín Nà xǐhuan (1:yǎng) huā,
+  en: Lin Na likes to (1:raise) flowers,
+  es: a Linna le gusta (1:cultivar) flores,
 - id: 9d230534-569f-423f-8c4a-ea01a83e4d3d
   zh-hans: 我想她一定能(1:养:18)好。
   pinyin: wǒ xiǎng tā yīdìng néng (1:yǎng) hǎo.
