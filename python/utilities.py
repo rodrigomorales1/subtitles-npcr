@@ -1,10 +1,10 @@
-def get_data_timestamps_sentences(filename_timestamps, filename_sentences):
+def get_data_timestamps_sentences(file_path_timestamps, file_path_sentences):
     import yaml
     import re
 
     data_timestamps_sentences = []
 
-    with open(filename_timestamps, 'r') as f:
+    with open(file_path_timestamps, 'r') as f:
         lines = f.readlines()
         for i in range(len(lines)):
             if results := re.search(r"^([0-9]{2}:[0-9]{2}:[0-9]{2}.[0-9]{2})[0-9] --> ([0-9]{2}:[0-9]{2}:[0-9]{2}.[0-9]{2})[0-9]", lines[i]):
@@ -17,7 +17,7 @@ def get_data_timestamps_sentences(filename_timestamps, filename_sentences):
                     'end': end,
                 })
 
-    with open(filename_sentences) as f:
+    with open(file_path_sentences) as f:
         data_sentences = yaml.safe_load(f)['sentences']
 
     # We iterate through the timestamps.
