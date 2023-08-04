@@ -10,152 +10,152 @@ metadata:
   add-groups-es: {finished: false, issue_id: 597}
 sentences:
 - id: 1fc25ff1-0782-4ed9-8493-49caa6f4e3f1
-  zh-hans: 我们第一次过中国的中秋节，
-  pinyin: Wǒmen dìyīcì guò Zhōngguó de zhōngqiū jié,
-  en: Our first Chinese mid-autumn festival,
-  es: Celebramos nuestro primer Festival del Medio Otoño chino,
+  zh-hans: 我们第一次过(1:中国)的(2:中秋节)，
+  pinyin: Wǒmen dìyīcì guò (1:Zhōngguó) de (2:zhōngqiū jié),
+  en: Our first (1:Chinese) (2:mid-autumn festival),
+  es: Celebramos por primera vez (2:Festival del Medio Otoño) (1:chino),
 - id: 13cc1b6e-25e4-4e66-a4b3-102e20e979b8
-  zh-hans: 又收到了那么好的礼物，大家都很高兴。
-  pinyin: yòu shōu dàole nàme hǎo de lǐwù, dàjiā dōu hěn gāoxìng.
-  en: received such nice gifts, everyone is very happy.
-  es: y hemos recibido unos regalos tan bonitos que todos nos pusimos muy contentos.
+  zh-hans: 又(1:收到)了那么好的(2:礼物)，大家都很(3:高兴)。
+  pinyin: yòu (1:shōu dào) le nàme hǎo de (2:lǐwù), dàjiā dōu hěn (3:gāoxìng).
+  en: (1:received) such nice (2:gifts), everyone is very (3:happy).
+  es: y hemos (1:recibido) unos (2:regalos) tan bonitos que todos nos pusimos muy (3:contentos).
 - id: 713da5dc-f9b5-4ba9-9a3c-b7926071b886
-  zh-hans: 不过，我有个问题想问问你。
-  pinyin: Bùguò, wǒ yǒu gè wèntí xiǎng wèn wèn nǐ.
-  en: However, I have a question I would like to ask you.
-  es: Pero tengo una pregunta que quiero preguntarte.
-- id: 8951568a-39f6-4787-9b66-1529d2bbe9a2
+  zh-hans: (1:不过:1)，我有个(2:问题)想问问你。
+  pinyin: (1:Bùguò), wǒ yǒu gè (2:wèntí) xiǎng wèn wèn nǐ.
+  en: (1:However), I have a (2:question) I would like to ask you.
+  es: (1:Pero) tengo una (2:pregunta) que quiero preguntarte.
+- ido3: 8951568a-39f6-4787-9b66-1529d2bbe9a2
   zh-hans: 什么问题？
   pinyin: Shénme wèntí?
   en: What question?
   es: ¿Qué pregunta?
 - id: a54888aa-4d2a-45fd-acb6-cefb056ee91a
-  zh-hans: 我们收到礼物，就马上把它打开，
-  pinyin: Wǒmen shōu dào lǐwù, jiù mǎshàng bǎ tā dǎkāi,
-  en: We received our gifts, and immediately opened them,
-  es: Cuando recibimos el regalo, lo abrimos enseguida,
+  zh-hans: 我们收到(1:礼物)，就(2:马上)把它打开，
+  pinyin: Wǒmen shōu dào (1:lǐwù), jiù (2:mǎshàng) bǎ tā dǎkāi,
+  en: We received our (1:gifts), and (2:immediately) opened them,
+  es: Cuando recibimos el (1:regalo), lo abrimos (2:enseguida),
 - id: b21589b3-d5ae-4c8c-b6da-222b32ee1b7f
-  zh-hans: 看看是什么。你们拿到礼物以后，
-  pinyin: kàn kàn shì shénme. Nǐmen ná dào lǐwù yǐhòu,
-  en: to see what they were. After you received your gifts,
-  es: para ver qué es. Después de que ustedes recibieron el regalo.
+  zh-hans: (1:看看)是什么。你们拿到(2:礼物)以后，
+  pinyin: (1:kàn kàn) shì shénme. Nǐmen ná dào (2:lǐwù) yǐhòu,
+  en: (1:to see) what they were. After you received your (2:gifts),
+  es: (1:para ver) qué es. Después de que ustedes recibieron el (2:regalo).
 - id: bf23c48c-eb97-46c7-b655-62cc168c0e0e
-  zh-hans: 只看看外边，不打开，
-  pinyin: zhǐ kàn kàn wàibian, bù dǎkāi,
-  en: you only looked at the outside, and didn’t open,
-  es: sólo miran el exterior y no lo abren.
+  zh-hans: 只看看(1:外边)，不(2:打开)，
+  pinyin: zhǐ kàn kàn (1:wàibian), bù (2:dǎkāi),
+  en: you only looked at the (1:outside), and didn’t (2:open),
+  es: sólo miran el (1:exterior) y no lo (2:abren).
 - id: 1725b3d3-c162-4852-9a45-e33bf0483296
-  zh-hans: 好像没有我们那么想知道里边是什么。
-  pinyin: hǎoxiàng méiyǒu wǒmen nàme xiǎng zhīdào lǐbian shì shénme.
-  en: so it looks as if you are not like us, wanting to know what’s inside.
-  es: Parece que no quieren saber lo que hay dentro tanto como nosotros.
+  zh-hans: (1:好像)没有我们那么想知道(2:里边)是什么。
+  pinyin: (1:hǎoxiàng) méiyǒu wǒmen nàme xiǎng zhīdào (2:lǐbian) shì shénme.
+  en: so (1:it looks as) if you are not like us, wanting to know what’s (2:inside).
+  es: (1:Parece) que no quieren saber lo que hay (2:dentro) tanto como nosotros.
 - id: dab71ab0-5fe9-433c-b655-9f775b370e44
   zh-hans: 这是为什么？
   pinyin: Zhè shì wèishéme?
   en: Why is this?
   es: ¿Y eso por qué?
 - id: 317e7e77-d5ae-4128-a3e0-9a5e54dadbf5
-  zh-hans: 我先问你，收到礼物的时候，
-  pinyin: Wǒ xiān wèn nǐ, shōu dào lǐwù de shíhou,
-  en: I’ll first ask you, when receiving a gift,
-  es: Primero te pregunto, cuando recibiste el regalo,
+  zh-hans: 我先(1:问)你，收到(1:礼物)的时候，
+  pinyin: Wǒ xiān (1:wèn) nǐ, shōu dào (1:lǐwù) de shíhou,
+  en: I’ll first (1:ask) you, when receiving a (1:gift),
+  es: Primero te (1:pregunto), cuando recibiste el (1:regalo3n),
 - id: e9f1765b-dc66-444b-8cf1-f2b0382cd7e4
-  zh-hans: 你们为什么要马上打开看呢？
-  pinyin: nǐmen wèishéme yào mǎshàng dǎkāi kàn ne?
-  en: why do you immediately open to take a look?
-  es: ¿Por qué lo abriste de inmediato para ver su contenido?
+  zh-hans: 你们为什么要(1:马上)打开看呢？
+  pinyin: nǐmen wèishéme yào (1:mǎshàng) dǎkāi kàn ne?
+  en: why do you (1:immediately) open to take a look?
+  es: ¿Por qué lo abriste (1:de inmediato) para ver su contenido?
 - id: 483e7d14-7fe2-4a9f-8624-f7616c925321
-  zh-hans: 我们把礼物打开看，称赞礼物，
-  pinyin: Wǒmen bǎ lǐwù dǎkāi kàn, chēngzàn lǐwù,
-  en: We open gifts and take a look, to compliment the gift,
-  es: Abrimos el regalo, lo alabamos y
+  zh-hans: 我们把(1:礼物)打开看，(2:称赞:2)(3:礼物)，
+  pinyin: Wǒmen bǎ (1:lǐwù) dǎkāi kàn, (2:chēngzàn) (3:lǐwù),
+  en: We open (1:gifts) and take a look, to (2:compliment) the (3:gift),
+  es: Abrimos el (1:regalo), (2:alabamos) el (3:regalo) y
 - id: 2d6a44ae-ff49-4a00-8fcf-629fd31709e2
-  zh-hans: 表示感谢，这是尊重送礼物的人。
-  pinyin: biǎoshì gǎnxiè, zhè shì zūnzhòng sòng lǐwù de rén.
-  en: show our appreciation, this is respecting the gift giver.
-  es: expresamos nuestra gratitud, que es una señal de respeto hacia la persona que nos ha hecho el regalo.
+  zh-hans: (1:表示:3)(2:感谢:4)，这是(3:尊重:5)送(4:礼物)的人。
+  pinyin: (1:biǎoshì) (2:gǎnxiè), zhè shì (3:zūnzhòng) sòng (4:lǐwù) de rén.
+  en: (1:show) our (2:appreciation), this is (3:respecting) the (4:gift) giver.
+  es: (1:expresamos) nuestra (2:gratitud), que es una señal de (3:respeto) hacia la persona que nos ha hecho el (4:regalo).
 - id: 86f8909b-626d-4a15-a1e4-17a7777c477f
-  zh-hans: 当然，也希望自己能得到一种惊喜。
-  pinyin: Dāngrán, yě xīwàng zìjǐ néng dédào yī zhǒng jīngxǐ.
-  en: Of course, we also want to get a surprise.
-  es: Y, por supuesto, esperamos recibir una especie de sorpresa.
+  zh-hans: (1:当然)，也(2:希望)自己能(3:得到:6)一种(4:惊喜:7)。
+  pinyin: (1:Dāngrán), yě (2:xīwàng) zìjǐ néng (3:dédào) yī zhǒng (4:jīngxǐ).
+  en: (1:Of course), we also (2:want) to (3:get) a (4:surprise).
+  es: (1:Por supuesto), (2:esperamos) (3:recibir) una especie de (4:sorpresa).
 - id: 575967b5-9322-46f8-a2de-6a3fd116949e
-  zh-hans: 你们的习惯我就不懂了，
-  pinyin: Nǐmen de xíguàn wǒ jiù bù dǒngle,
-  en: I don’t understand your custom,
-  es: No entiendo tus costumbres,
+  zh-hans: 你们的(1:习惯)我就不懂了，
+  pinyin: Nǐmen de (1:xíguàn) wǒ jiù bù dǒngle,
+  en: I don’t understand your (1:custom),
+  es: No entiendo tus (1:costumbres),
 - id: 80f71607-2f21-4836-be0e-ba28c9ed47f3
-  zh-hans: 你们不喜欢别人给你们礼物吗？
-  pinyin: nǐmen bù xǐhuan biérén gěi nǐmen lǐwù ma?
-  en: do you not like other people giving you gifts?
-  es: ¿No te gusta cuando la gente te hace regalos?
+  zh-hans: 你们不喜欢(1:别人:8)给你们(2:礼物)吗？
+  pinyin: nǐmen bù xǐhuan (1:biérén) gěi nǐmen (2:lǐwù) ma?
+  en: do you not like (1:other people) giving you (2:gifts)?
+  es: ¿No te gusta cuando (1:las otras personas) te hacen (2:regalos)?
 - id: 8a2e6f1e-73e7-4156-af56-c06c865ed00d
-  zh-hans: 当然不是。朋友送的礼物怎么会不喜欢呢？
-  pinyin: Dāngrán bùshì. Péngyǒu sòng de lǐwù zěnme huì bù xǐhuan ne?
-  en: Of course not. What’s not to like about friends giving gifts?
-  es: Claro que no. ¿Cómo puede no gustarte un regalo de un amigo?
+  zh-hans: (1:当然)(2:不)是。朋友送的(3:礼物)怎么会不喜欢呢？
+  pinyin: (1:Dāngrán) (2:bù)shì. Péngyǒu sòng de (3:lǐwù) zěnme huì bù xǐhuan ne?
+  en: (1:Of course) (2:not). What’s not to like about friends giving (3:gifts)?
+  es: (1:Por supuesto) que (2:no). ¿Cómo puede no gustarte un (3:regalo) de un amigo?
 - id: 3ea4e776-fce1-4100-85f8-3b1f262587da
-  zh-hans: 我们收到朋友的礼物，一般不马上打开看，
-  pinyin: Wǒmen shōu dào péngyǒu de lǐwù, yībān bù mǎshàng dǎkāi kàn,
-  en: When we receives gifts from friends, in general we do not immediately open them,
-  es: Cuando recibimos un regalo de un amigo, no lo abrimos enseguida,
+  zh-hans: 我们(1:收到)朋友的(2:礼物)，(3:一般:9)不(4:马上)打开看，
+  pinyin: Wǒmen (1:shōu dào) péngyǒu de (2:lǐwù), (3:yībān) bù (4:mǎshàng) dǎkāi kàn,
+  en: When we (1:receive) (2:gifts) from friends, (3:in general) we do not (4:immediately) open them,
+  es: Cuando (1:recibimos) un (2:regalo) de un amigo, (3:en general) no lo abrimos (4:enseguida),
 - id: c0b74548-1384-4a3e-972d-c94ab52f8b0c
-  zh-hans: 这也是尊重送礼物的人。
-  pinyin: zhè yěshì zūnzhòng sòng lǐwù de rén.
-  en: this is also to respect the gift giver.
-  es: Es una señal de respeto hacia quien nos lo da.
+  zh-hans: 这也是(1:尊重:5)送(1:礼物)的人。
+  pinyin: zhè yěshì (1:zūnzhòng) sòng (1:lǐwù) de rén.
+  en: this is also to (1:respect) the (1:gift) giver.
+  es: Es una señal de (1:respeto) hacia la persona que nos da el (1:regalo).
 - id: ceb33be6-48e1-4430-bcdc-ef4a05a8cbbd
-  zh-hans: 我们觉得送什么礼物不重要。
-  pinyin: Wǒmen juéde sòng shénme lǐwù bù zhòngyào.
-  en: We feel that what is given is not important.
-  es: No creemos que importe qué tipo de regalo hacemos.
+  zh-hans: 我们觉得送什么(1:礼物)不(1:重要:10)。
+  pinyin: Wǒmen juéde sòng shénme (1:lǐwù) bù (1:zhòngyào).
+  en: We feel that (1:the gift) that is given is not (1:important).
+  es: Creemos que el (1:regalo) que nos dan no es lo (1:importante).
 - id: a78b8c92-ebc0-4b19-9806-e185962b004c
-  zh-hans: 人们常说“礼轻情意重”，
-  pinyin: Rénmen cháng shuō “lǐ qīng qíngyì zhòng”,
-  en: People often say “it’s not the gift that counts, but the thought behind it”,
-  es: 'La gente siempre dice: "Los regalos no son tan importantes como los sentimientos".'
+  zh-hans: 人们常说“(1:礼)(2:轻)(3:情意)(4:重)”，
+  pinyin: Rénmen cháng shuō “(1:lǐ) (2:qīng) (3:qíngyì) (4:zhòng)”,
+  en: People often say “the (1:gift) is (2:not important), the (3:affection) is (4:important)”,
+  es: 'La gente siempre dice: "El (1:regalo) (2:no es importante), el (3:afecto) es (4:importante)."'
 - id: 248b2b34-e251-4254-9e4c-76e94dadaabc
-  zh-hans: 重要的是友谊。
-  pinyin: zhòngyào de shì yǒuyì.
-  en: friendship is most important.
-  es: Lo que cuenta es la amistad.
+  zh-hans: (1:重要:10)的是(2:友谊:11)。
+  pinyin: (1:zhòngyào) de shì (2:yǒuyì).
+  en: What is (1:important) is the (2:friendship).
+  es: Lo (1:importante) es la (2:amistad).
 - id: 3ddc97b5-3cc5-4c10-9b13-1dddc182f5f4
-  zh-hans: 是这样！说真的，那天你们没有打开，
-  pinyin: Shì zhèyàng! Shuō zhēn de, nèitiān nǐmen méiyǒu dǎkāi,
-  en: So that’s what it is! To tell the truth, that day when you didn’t open,
-  es: Y es verdad. Para ser honesto, ese día cuando no lo abriste,
+  zh-hans: 是这样！(1:说真的)，(2:那天)你们没有(3:打开)，
+  pinyin: Shì zhèyàng! (1:Shuō zhēn de), (2:nèitiān) nǐmen méiyǒu (3:dǎkāi),
+  en: So that’s what it is! (1:To tell the truth), (2:that day) when you didn’t (3:open),
+  es: Y es verdad. (1:Para ser honesto), (2:ese día) cuando no lo (3:abriste),
 - id: 0f758b02-0d10-4d72-960c-809aefb197b3
-  zh-hans: 我们还有点儿担心呢。
-  pinyin: wǒmen hái yǒudiǎnr dānxīn ne.
-  en: we were a little worried
-  es: estábamos un poco preocupados.
+  zh-hans: 我们还(1:有点儿)(2:担心:12)呢。
+  pinyin: wǒmen hái (1:yǒudiǎnr) (2:dānxīn) ne.
+  en: we were a (1:little) (2:worried)
+  es: estábamos (1:un poco) (2:preocupados).
 - id: f7f6b8e0-ac5d-4fb2-b911-8fa5e63b78f9
-  zh-hans: 担心什么？
-  pinyin: Dānxīn shénme?
-  en: What were you worried about?
-  es: ¿De qué estabas preocupado?
+  zh-hans: (1:担心:12)什么？
+  pinyin: (1:Dānxīn) shénme?
+  en: What were you (1:worried) about?
+  es: ¿De qué estabas (1:preocupado)?
 - id: 21033b74-2bf9-490c-9913-36b25f609a12
-  zh-hans: 担心你们不喜欢我们的礼物。
-  pinyin: Dānxīn nǐmen bù xǐhuan wǒmen de lǐwù.
-  en: Worried that you didn’t like our gifts.
-  es: Preocupado de que no les gustara nuestro regalo.
+  zh-hans: (1:担心:12)你们不(2:喜欢)我们的(3:礼物)。
+  pinyin: (1:Dānxīn) nǐmen bù (2:xǐhuan) wǒmen de (3:lǐwù).
+  en: (1:Worried) that you didn’t (2:like) our (3:gifts).
+  es: (1:Preocupado) de que no les (2:gustara) nuestro (3:regalo).
 - id: 04ef8513-8b3f-40c2-92f2-130922eb0b68
-  zh-hans: 你说到哪儿去了。你们送的礼物都很好。
-  pinyin: Nǐ shuō dào nǎr qùle. Nǐmen sòng de lǐwù dōu hěn hǎo.
-  en: How could you think that? The gift you gave were all very good.
-  es: ¿De qué estás hablando? Los regalos que nos diste eran muy bonitos.
+  zh-hans: 你说到哪儿去了。你们送的(1:礼物)都很(2:好)。
+  pinyin: Nǐ shuō dào nǎr qùle. Nǐmen sòng de (1:lǐwù) dōu hěn (2:hǎo).
+  en: How could you think that? The (1:gift) you gave were all very (2:good).
+  es: ¿De qué estás hablando? Los (1:regalos) que nos diste son muy (2:buenos).
 - id: e9a4eebc-b17c-4802-b119-a08cd16ae0ac
-  zh-hans: 比如说，丁力波送的加拿大糖，
-  pinyin: Bǐrú shuō, Dīng Lìbō sòng de jiānádà táng,
-  en: For example, Ding Libo’s gift of Canadian candy,
-  es: Por ejemplo, el caramelo canadiense de Ding Lipo,
+  zh-hans: 比如说，(1:丁力波)送的(2:加拿大)(3:糖:13)，
+  pinyin: Bǐrú shuō, (1:Dīng Lìbō) sòng de (2:jiānádà) (3:táng),
+  en: For example, (1:Ding Libo)’s gift of (2:Canadian) (3:candy),
+  es: Por ejemplo, el (3:caramelo) (2:canadiense) de (1:Ding Liboo),
 - id: 6a51cf32-e09e-4782-9037-fb32ed278f7d
-  zh-hans: 不是很有特色吗？我们都很喜欢。
-  pinyin: bùshì hěn yǒu tèsè ma? Wǒmen dōu hěn xǐhuan.
-  en: wasn’t that very special? We all enjoyed it.
-  es: ¿No son muy especiales? Nos encantan.
+  zh-hans: 不是很有(1:特色:14)吗？我们都很(2:喜欢)。
+  pinyin: bùshì hěn yǒu (1:tèsè) ma? Wǒmen dōu hěn (2:xǐhuan).
+  en: wasn’t that very (1:special)? We all (2:enjoyed) it.
+  es: ¿No son muy (1:especiales)? Nos (2:encantan).
 - id: 19dd003c-9982-4f04-a0d5-ea6a6696f223
-  zh-hans: 你们都很喜欢，我太高兴了。
-  pinyin: Nǐmen dōu hěn xǐhuan, wǒ tài gāoxìngle
-  en: You all enjoyed it, I am very happy.
-  es: A ustedes les gusto, me siento muy feliz.
+  zh-hans: 你们都很(1:喜欢)，我太(2:高兴)了。
+  pinyin: Nǐmen dōu hěn (1:xǐhuan), wǒ tài (2:gāoxìng) le.
+  en: You all (1:enjoyed) it, I am very (2:happy).
+  es: A ustedes les (1:gusto), me siento muy (2:feliz).
