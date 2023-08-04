@@ -50,10 +50,15 @@ sentences:
   en: 'Your (1:study room) is very characteristic:'
   es: 'Su (1:cuarto de estudio) es muy especial:'
 - id: cb4fed96-0a6d-4364-9300-bf2ad5d79f48
-  zh-hans: (1:墙:4)上(2:挂:5)着中国(3:字画:6)，(4:书架:7)上放着这么多(5:古书:8)，
-  pinyin: (1:Qiáng) shàng (2:guà) zhe Zhōngguó (3:zìhuà), (4:shūjià) shàng fàngzhe zhème duō (5:gǔshū),
-  en: Chinese (3:calligraphy and paintings) (2:hang) on the (1:wall), lots of (5:old books) on the (4:bookcase),
-  es: (3:pinturas y 3:caligrafía) chinas (2:colgando) en las (1:paredes), tantos (5:libros antiguos) en la (4:estantería),
+  zh-hans: (1:墙:4)上(2:挂:5)着中国(3:字画:6)，
+  pinyin: (1:Qiáng) shàng (2:guà) zhe Zhōngguó (3:zìhuà),
+  en: Chinese (3:calligraphy and paintings) (2:hang) on the (1:wall),
+  es: (3:pinturas y caligrafía) chinas (2:colgando) en las (1:paredes),
+- id: ad22c9d8-28a9-4ce4-9494-90a0e681ac47
+  zh-hans: (4:书架:7)上放着这么多(5:古书:8)，
+  pinyin: (4:shūjià) shàng fàngzhe zhème duō (5:gǔshū),
+  en: lots of (5:old books) on the (4:bookcase),
+  es: tantos (5:libros antiguos) en la (4:estantería),
 - id: ef5b084d-562a-4666-a630-482f62e9a03c
   zh-hans: 桌上放着文房四宝，
   pinyin: zhuō shàng fàngzhe wénfángsìbǎo,
