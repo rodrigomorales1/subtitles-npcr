@@ -98,7 +98,7 @@ sentences:
   zh-hans: (1:师:3)(2:不必:3)(3:贤:3)(4:于:3)(5:弟子:3)”。
   pinyin: (1:shī) (2:bùbì:3) (3:xián) (4:yú) (5:dìzǐ:3)”.
   en: '(1:teachers) are (2:not necessarily) (3:wiser) (4:than) their (5:disciples).'
-  es: ', los (1:maestros) (2:no son necesariamente) más (3:capaces) (4:que) sus (5:discípulos)."'
+  es: 'los (1:maestros) (2:no son necesariamente) más (3:capaces) (4:que) sus (5:discípulos)."'
 - id: fb5f4819-9690-47b7-9bbf-ac51b0dce18a
   zh-hans: 张教授，请问，这个(1:句子:5)是什么(2:意思:6)？
   pinyin: Zhāng jiàoshòu, qǐngwèn, zhège (1:jùzi) shì shénme (2:yìsi)?
