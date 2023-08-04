@@ -55,10 +55,15 @@ sentences:
   en: while lots of people watch.
   es: mucha gente se reúne alrededor para mirar.
 - id: ba5e26e0-38f7-4ce2-9d4c-07052165af5b
-  zh-hans: (1:看)的(2:人)和(3:下)的(4:人)也(5:可能)互相不认识。
-  pinyin: (1:Kàn) de (2:rén) hé (3:xià) de (4:rén) yě (5:kěnéng) hùxiāng bù rènshi.
-  en: Its possible that the (2:people) (1:watching) and the (4:people) (3:playing) do not know (5:each other).
-  es: Las (2:personas) que (1:miran) y las (3:personas) que (3:juegan) probablemente no se conocen (5:mutuamente).
+  zh-hans: (1:看)的(2:人)和(3:下)的(4:人)
+  pinyin: (1:Kàn) de (2:rén) hé (3:xià) de (4:rén)
+  en: The (2:people) (1:watching) and the (4:people) (3:playing)
+  es: Las (2:personas) que (1:miran) y las (3:personas) que (3:juegan)
+- id: c5c4d300-23a1-4465-8c4c-1c0f89094add
+  zh-hans: 也(1:可能)互相不认识。
+  pinyin: yě (1:kěnéng) hùxiāng bù rènshi.
+  en: probably do not know (1:each other).
+  es: probablemente no se conocen (1:mutuamente).
 - id: fb90b53b-10c1-49bb-a9de-176ff0e12b04
   zh-hans: 这很(1:有意思)。
   pinyin: Zhè hěn (1:yǒuyìsi).
