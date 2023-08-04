@@ -20,10 +20,10 @@ sentences:
   en: (1:Of course) not. We are often with (2:foreign) (3:friends), and
   es: (1:Por supuesto) que no. A menudo estamos con (3:amigos) (2:extranjeros),
 - id: b6e17868-a457-4229-9196-3b243a542728
-  zh-hans: 知道不同(1:国家)的人有不同的(2:习惯)。
-  pinyin: zhīdào bùtóng (1:guójiā) de rén yǒu bùtóng de (2:xíguàn).
-  en: know that people from different (1:countries) have different (2:customs).
-  es: sabemos que la gente de distintos (1:países) tiene (2:costumbres) diferentes.
+  zh-hans: 知道(1:不同)(2:国家)的人有(3:不同)的(4:习惯)。
+  pinyin: zhīdào (1:bùtóng) (2:guójiā) de rén yǒu (3:bùtóng) de (4:xíguàn).
+  en: know that people from (1:different) (2:countries) have (3:different) (4:customs).
+  es: sabemos que la gente de (1:distintos) (2:países) tiene (4:costumbres) (3:diferentes).
 - id: 9f919431-f4ca-4b0f-b111-77fef85cf85c
   zh-hans: 对我们来说，这很(1:正常:2)。
   pinyin: Duì wǒmen lái shuō, zhè hěn (1:zhèngcháng).
@@ -60,20 +60,20 @@ sentences:
   en: If they touch the (2:food) a bit with their (1:fingers), then will (3:lick) their (4:fingers),
   es: Si se manchan un poco los (1:dedos) con (2:comida), se (3:chupan) los (4:dedos),
 - id: fa98784e-9bc2-41d0-be09-87d805dfd0d7
-  zh-hans: 有的中国人看了也很不习惯。
-  pinyin: yǒu de Zhōngguó rén kànle yě hěn bù xíguàn.
-  en: some Chinese people are not used to seeing this.
-  es: algunos chinos no están acostumbrados a ver esto.
+  zh-hans: 有的(1:中国)(2:人)看了也很不(3:习惯)。
+  pinyin: yǒu de (1:Zhōngguó) (2:rén) kànle yě hěn bù (3:xíguàn).
+  en: some (1:Chinese) (2:people) are not (3:used to) seeing this.
+  es: algunos (2:personas) de (1:China) no están (3:acostumbrados) a ver esto.
 - id: 3b9a80c4-b52e-4dc1-afc8-81ab465ac164
-  zh-hans: 用(1:刀叉:4)吃饭，把(2:手指:10)上的食物(3:舔:11)(4:干净:12)，
-  pinyin: Yòng (1:dāochā) chīfàn, bǎ (2:shǒuzhǐ) shàng de shíwù (3:tiǎn) (4:gānjìng),
-  en: Using a (1:knife and fork) to eat, (3:licking) our (2:fingers) to (4:clean) them,
-  es: Comen con (1:cuchillo y tenedor), y se (3:lamen) la comida de los (2:dedos) para (4:limpiárselos),
+  zh-hans: 用(1:刀叉:4)吃饭，把(2:手指:10)上的(3:食物)(4:舔:11)(5:干净:12)，
+  pinyin: Yòng (1:dāochā) chīfàn, bǎ (2:shǒuzhǐ) shàng de (3:shíwù) (4:tiǎn) (5:gānjìng),
+  en: Using a (1:knife and fork) to eat, (4:licking) the (3:food) in their (2:fingers) to (5:clean) them,
+  es: Comen con (1:cuchillo y tenedor), y se (4:lamen) la (3:comida) de los (2:dedos) para (5:limpiárselos),
 - id: a0570302-9c00-46c8-bca2-09db4149966b
-  zh-hans: 那是我们的好习惯。力波，你说是不是？
-  pinyin: nà shì wǒmen de hǎo xíguàn. Lìbō, nǐ shuō shì bùshì?
-  en: those are our good habits. Libo, do you think so or not?
-  es: esa es nuestra buena costumbre. Libo habla ¿si o no?
+  zh-hans: 那是我们的(1:好)(2:习惯)。(3:力波)，你说是不是？
+  pinyin: nà shì wǒmen de (1:hǎo) (2:xíguàn). (3:Lìbō), nǐ shuō shì bùshì?
+  en: those are our (1:good) (2:habits). (3:Libo), do you think so or not?
+  es: esa es nuestra (1:buena) (2:costumbre). (3:Libo) habla ¿si o no?
 - id: 275226c4-7945-40b3-a873-2da73926e720
   zh-hans: 是啊。我们(1:从)(2:小)到(3:大)都(4:这样:13)做。
   pinyin: Shì a. Wǒmen (1:cóng) (2:xiǎo) dào dà dōu (4:zhèyàng) zuò.
@@ -85,10 +85,10 @@ sentences:
   en: But for (1:us) here,
   es: Pero acá con (1:nosotros),
 - id: 61021abb-b5ee-4a7c-9905-aca3b73a975a
-  zh-hans: 吃饭的时候(1:舔:11)(2:手指:10)不是好习惯。
-  pinyin: chīfàn de shíhou (1:tiǎn) (2:shǒuzhǐ) bùshì hǎo xíguàn.
-  en: (1:licking) (2:fingers) when eating is not a good habit.
-  es: no es bueno (1:chuparse) los (2:dedos) mientras se come.
+  zh-hans: (1:吃饭)的时候(2:舔:11)(3:手指:10)不是(4:好)(5:习惯)。
+  pinyin: (1:chīfàn) de shíhou (2:tiǎn) (3:shǒuzhǐ) bùshì (4:hǎo) (5:xíguàn).
+  en: when (1:eating), (2:licking) (3:fingers) is not a (4:good) (5:habit).
+  es: cuando se (1:come), (2:chuparse) los (3:dedos) no es un (4:buen) (5:hábito).
 - id: 619a1c46-ac85-4f3c-8687-58469afe7a43
   zh-hans: 我看应该“(1:入)(2:乡)(3:随)(4:俗)”。
   pinyin: Wǒ kàn yīnggāi "(1:rù)(2:xiāng)(3:suí)sú".
@@ -105,10 +105,10 @@ sentences:
   en: our (1:voice) when talking should be a little more quiet;
   es: tenemos que bajar la (1:voz) cuando hablamos;
 - id: 9881d008-2510-47bd-90b1-ba94ac66536c
-  zh-hans: 你们到(1:中国)(2:人)家里吃饭也不一定要(2:舔:11)(3:手指:10)。
-  pinyin: nǐmen dào (1:Zhōngguó) (2:rén) jiālǐ chīfàn yě bù yīdìng yào (2:tiǎn) (3:shǒuzhǐ).
-  en: when you eat at a (1:Chinese) (2:person)’s home you should defintely not (2:lick) your (3:fingers).
-  es: cuando van la casa de una (2:persona) (1:china) a comer no tienen que (2:chuparse) los (3:dedos),
+  zh-hans: 你们到(1:中国)(3:人)家里(2:吃饭)也不一定要(3:舔:11)(4:手指:10)。
+  pinyin: nǐmen dào (1:Zhōngguó) (3:rén) jiālǐ (2:chīfàn) yě bù yīdìng yào (3:tiǎn) (4:shǒuzhǐ).
+  en: when you (2:eat) at a (1:Chinese) (3:person)’s home you should defintely not (3:lick) your (4:fingers).
+  es: cuando van la casa de una (3:persona) (1:china) a (2:comer) no tienen que (3:chuparse) los (4:dedos),
 - id: 7078a369-77fc-4047-b6f8-db3671d50ab1
   zh-hans: 对，我就是“(1:入)(2:乡)(3:随)(4:俗)”：
   pinyin: 'Duì, wǒ jiùshì "(1:rù)(2:xiāng)(3:suí)sú":'
