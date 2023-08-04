@@ -1,4 +1,4 @@
-def get_data_timestamps_sentences_from_files(filename_timestamps, filename_sentences):
+def get_data_timestamps_sentences(filename_timestamps, filename_sentences):
     import yaml
     import re
 
