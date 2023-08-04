@@ -110,10 +110,15 @@ sentences:
   en: they (1:bloom) for a (2:relatively) (3:long) time.
   es: el tiempo para que esta flor (1:florezca) es (2:relativamente) (3:largo).
 - id: ccb50869-3bed-4b95-971b-eef9266c1bf1
-  zh-hans: (1:养:18)花真有意思。我明天下了课就去买盆花，
-  pinyin: (1:Yǎng) huā zhēn yǒuyìsi. Wǒ míngtiān xiàle kè jiù qù mǎi pén huā,
-  en: (1:Raising) flowers is really interesting. After class tomorrow I will go buy a pot plant,
-  es: (1:Cultivar) flores es realmente divertido. Mañana compraré una maceta de flores después de clase.
+  zh-hans: (1:养:18)花真有意思。
+  pinyin: (1:Yǎng) huā zhēn yǒuyìsi.
+  en: (1:Raising) flowers is really interesting.
+  es: (1:Cultivar) flores es realmente divertido.
+- id: c09cd94f-b4ff-495d-89d8-37bccc524880
+  zh-hans: 我明天下了课就去买盆花，
+  pinyin: Wǒ míngtiān xiàle kè jiù qù mǎi pén huā,
+  en: After class tomorrow I will go buy a pot plant,
+  es: Mañana compraré una maceta de flores después de clase.
 - id: 34976f8d-5b81-48e5-b8ce-10b81b6cc940
   zh-hans: 摆在宿舍里。我也有花(1:养:18)了。
   pinyin: bǎi zài sùshè lǐ. Wǒ yěyǒu huā (1:yǎng) le.
