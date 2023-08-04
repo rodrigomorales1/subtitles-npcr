@@ -60,10 +60,10 @@ sentences:
   en: There are lots of (4:people) (3:under) the (2:flyover bridge) on the (1:east side).
   es: Hay mucha más (4:gente) (3:bajo) el (2:paso elevado) que está en el (1:lado este).
 - id: e3099bfa-fe5a-487b-8c31-d5cfa3568fa9
-  zh-hans: 你(1:听见:3)了吗？那是唱(1:京剧)的。
-  pinyin: Nǐ (1:tīngjiànle) ma? Nà shì chàng jīngjù de.
-  en: Do you (1:hear) that? It is people sining (1:Beijing opera).
-  es: ¿Logras (1:oír)? Son personas cantando la (1:Ópera de Pekín).
+  zh-hans: 你(1:听见:3)了吗？那是唱(2:京剧)的。
+  pinyin: Nǐ (1:tīngjiàn) le ma? Nà shì chàng (2:jīngjù) de.
+  en: Do you (1:hear) that? It is people sining (2:Beijing opera).
+  es: ¿Logras (1:oír)? Son personas cantando la (2:Ópera de Pekín).
 - id: 47e8de61-e067-4c18-91e8-0204a397bbbf
   zh-hans: (1:京剧)(2:团)怎么到这儿来(3:唱)呢？
   pinyin: (1:Jīngjù) (2:tuán) zěnme dào zhèr lái (3:chàng) ne?
