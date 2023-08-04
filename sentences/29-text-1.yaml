@@ -175,10 +175,10 @@ sentences:
   en: These (1:bonsai) are all your own (1:work), right?
   es: Estos (1:bonsáis) son sus propias (1:creaciones), ¿verdad?
 - id: 031678e6-ce3c-465c-befe-c350430a68d0
-  zh-hans: 是的。工作累的时候，我就到外边去(1:浇浇:22)花，
-  pinyin: Shì de. Gōngzuò lèi de shíhou, wǒ jiù dào wàibian qù (1:jiāo jiāo) huā,
-  en: Yes. When work gets tiring, I go outside to (1:water) the plants,
-  es: Sí. Cuando estoy cansado del trabajo, salgo a (1:regar) las flores
+  zh-hans: 是的。(1:工作)(2:累)的时候，我就到外边去(3:浇浇:22)花，
+  pinyin: Shì de. (1:Gōngzuò) (2:lèi) de shíhou, wǒ jiù dào wàibian qù (3:jiāo jiāo) huā,
+  en: Yes. When (1:work) gets (2:tiring), I go outside to (3:water) the plants,
+  es: Sí. Cuando estoy (2:cansado) de (1:trabajar), salgo a (3:regar) las flores
 - id: f918e008-6160-42eb-99ad-7d258fa5daad
   zh-hans: 把这些(1:盆景:12)(2:修整:23)(2:修整:23)。这是很好的休息。
   pinyin: bǎ zhèxiē (1:pénjǐng) (2:xiūzhěng) (3:xiūzhěng). Zhè shì hěn hǎo de xiūxi.
