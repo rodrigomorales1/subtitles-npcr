@@ -10,25 +10,25 @@ metadata:
   add-groups-es: {finished: false, issue_id: 492}
 sentences:
 - id: e665efa3-b15f-47eb-8197-3b69dfc6e4d2
-  zh-hans: 林娜，你来中国已经快一年了吧？
-  pinyin: Lín Nà, nǐ lái Zhōngguó yǐjīng kuài yī niánle ba?
-  en: Lin Na, you’ve been in China almost a year now, right?
-  es: Linna, has estado en China durante casi un año, ¿verdad?
+  zh-hans: (1:林娜)，你来(2:中国)已经快(3:一)(4:年)了吧？
+  pinyin: (1:Lín Nà), nǐ lái (2:Zhōngguó) yǐjīng kuài (3:yī) (4:nián) le ba?
+  en: (1:Lin Na), you’ve been in (2:China) almost (3:one) (4:year) now, right?
+  es: (1:Linna), has estado en (2:China) durante casi (3:un) (4:año), ¿verdad?
 - id: c9e19052-2d65-4fa2-9e0b-18809e639574
-  zh-hans: 你不但学习了汉语，
-  pinyin: Nǐ bùdàn xuéxíle Hànyǔ,
-  en: You have not only studied Chinese,
-  es: No sólo has aprendido chino.
+  zh-hans: 你(1:不但)(2:学习)了(3:汉语)，
+  pinyin: Nǐ (1:bùdàn) (2:xuéxí) le (3:Hànyǔ),
+  en: You have (1:not only) (2:studied) (3:Chinese),
+  es: (1:No sólo) has (2:aprendido) (3:chino).
 - id: dbda0619-8c61-483c-bd42-8dd176466c0f
-  zh-hans: 而且还认识了很多中国朋友，
-  pinyin: érqiě hái rènshile hěnduō Zhōngguó péngyǒu,
-  en: but also made lots of Chinese friends.
-  es: Y has hecho muchos amigos chinos.
+  zh-hans: (1:而且)还认识了很多(2:中国)(3:朋友)，
+  pinyin: (1:érqiě) hái rènshile hěnduō (2:Zhōngguó) (3:péngyǒu),
+  en: (1:but also) made lots of (2:Chinese) (3:friends).
+  es: (1:sino también) has hecho muchos (3:amigos) (2:chinos).
 - id: 93d09fc3-2049-434c-95b1-5e8bf572e377
-  zh-hans: 中国的(1:情况:3)又知道得不少，
-  pinyin: Zhōngguó de (1:qíngkuàng) yòu zhīdào dé bù shǎo,
-  en: You also know quite a lot about (1:situation) of China,
-  es: Sabes mucho sobre (1:situación) de China.
+  zh-hans: (1:中国)的(2:情况:3)又(3:知道)得不少，
+  pinyin: (1:Zhōngguó) de (2:qíngkuàng) yòu (3:zhīdào) dé bù shǎo,
+  en: You also (3:know) quite a lot about (2:situation) of (1:China),
+  es: (3:Sabes) mucho sobre (2:situación) de (1:China).
 - id: 2e1af658-d2b6-41c4-b2ef-cb219b830453
   zh-hans: 你快要(1:成:1)“(2:中国通:2)”了。
   pinyin: nǐ kuàiyào (1:chéng) “(2:Zhōngguó tōng)”le.
@@ -45,90 +45,90 @@ sentences:
   en: still far away from that. To (1:tell the truth),
   es: Aún estoy muy lejos. (1:Sinceramente),
 - id: 1ed2857d-200c-4e64-9c46-849540769923
-  zh-hans: 我(1:越来越:5)喜欢中国文化了。
-  pinyin: wǒ (1:yuè lái yuè) xǐhuan Zhōngguó wénhuàle.
-  en: I am liking Chinese culture (1:more and more).
-  es: (1:Cada vez) me gusta más la cultura china.
+  zh-hans: 我(1:越来越:5)(2:喜欢)(3:中国)(4:文化)了。
+  pinyin: wǒ (1:yuè lái yuè) (2:xǐhuan) (3:Zhōngguó) (4:wénhuà) le.
+  en: I am (2:liking) (3:Chinese) (4:culture) (1:more and more).
+  es: (1:Cada vez) me (2:gusta) más la (4:cultura) (3:china).
 - id: 9fd00790-2e53-4c90-ad75-7b1210e9305b
-  zh-hans: 中国从(1:南:6)到北，从东到西，
-  pinyin: Zhōngguó cóng (1:nán) dào běi, cóng dōng dào xī,
-  en: From the (1:north) of China to the south, from the east to the west,
-  es: De sur a (1:norte), de este a oeste,
+  zh-hans: (1:中国)从(2:南:6)到(3:北)，从(4:东)到(5:西)，
+  pinyin: (1:Zhōngguó) cóng (2:nán) dào (3:běi), cóng (4:dōng) dào (5:xī),
+  en: In China, from the (2:south) to the (3:north), from the (4:east) to the (5:west),
+  es: En (1:China), de (2:sur) a (3:norte), de (4:este) a (5:oeste),
 - id: 8cff8a6a-89e9-4e99-be8c-baf07a679dab
-  zh-hans: 每个地方都有自己的(1:特点:7)。
-  pinyin: měi gè dìfāng dōu yǒu zìjǐ de (1:tèdiǎn).
-  en: every place in China has its own (1:characteristics).
-  es: cada lugar de China tiene sus propias (1:particularidades).
+  zh-hans: 每个(1:地方)都有(2:自己)的(3:特点:7)。
+  pinyin: měi gè (1:dìfāng) dōu yǒu (2:zìjǐ) de (3:tèdiǎn).
+  en: every (1:place) in China has its (2:own) (3:characteristics).
+  es: cada (1:lugar) de China tiene sus (2:propias) (3:particularidades).
 - id: 44b09ae6-30ca-4ce8-b747-56fb0048ceae
-  zh-hans: (1:历史:8)(2:博物馆:9)正在(3:举办:10)“二零零二中国”(4:展览:11)，
-  pinyin: (1:Lìshǐ) (2:bówùguǎn) zhèngzài (3:jǔbàn) “èr líng líng èr Zhōngguó” (4:zhǎnlǎn),
-  en: The (1:history) (2:museum) is (3:hosting) the “China 2002” (4:exhibition),
-  es: El (2:Museo) de (1:Historia) está (3:organizando) una (4:exposición) "China 2002",
+  zh-hans: (1:历史:8)(2:博物馆:9)正在(3:举办:10)“(4:二零零二)(5:中国)”(6:展览:11)，
+  pinyin: (1:Lìshǐ) (2:bówùguǎn) zhèngzài (3:jǔbàn) “(4:èr líng líng èr) (5:Zhōngguó)” (6:zhǎnlǎn),
+  en: The (1:history) (2:museum) is (3:hosting) the “(5:China) (4:2002)” (6:exhibition),
+  es: El (2:Museo) de (1:Historia) está (3:organizando) una (6:exposición) "(5:China) (4:2002)",
 - id: 56c5e621-9e7c-455e-843b-2c220fc59687
-  zh-hans: 那儿有很多(1:图片:12)，有的是我们见过的，
-  pinyin: nàr yǒu hěnduō (1:túpiàn), yǒudeshì wǒmen jiànguò de,
-  en: where there are many (1:pictures), some of which we have seen,
-  es: hay muchas (1:fotos) allí, algunas las hemos visto antes,
+  zh-hans: 那儿有很多(1:图片:12)，(2:有的)是我们见过的，
+  pinyin: nàr yǒu hěnduō (1:túpiàn), (2:yǒude) shì wǒmen jiànguò de,
+  en: where there are many (1:pictures), (2:some) of which we have seen,
+  es: hay muchas (1:fotos) allí, (2:algunas) las hemos visto antes,
 - id: ba972d15-4fb3-4f08-b491-60d15c42f2c9
-  zh-hans: 有的是我们没见过的。
-  pinyin: yǒudeshì wǒmen méi jiànguò de.
-  en: some of which we have not seen before.
-  es: algunas no las hemos visto.
+  zh-hans: (1:有的)是我们没见过的。
+  pinyin: (1:yǒude) shì wǒmen méi jiànguò de.
+  en: (1:some) of which we have not seen before.
+  es: (1:algunas) no las hemos visto.
 - id: 4a16154f-77a2-4f80-a1a4-0b2f5f48f5f4
-  zh-hans: 你(1:对:13)中国文化这么(2:感兴趣:14)，我建议你去看看。
-  pinyin: Nǐ (1:duì) Zhōngguó wénhuà zhème (2:gǎn xìngqù), wǒ jiànyì nǐ qù kàn kàn.
-  en: You have such an (2:interest) (1:in) Chinese culture, I suggest you go take a look.
-  es: Estás muy (2:interesado) (1:en) la cultura china, te sugiero que vayas.
+  zh-hans: 你(1:对:13)中国文化这么(2:感兴趣:14)，我(3:建议)你去看看。
+  pinyin: Nǐ (1:duì) Zhōngguó wénhuà zhème (2:gǎn xìngqù), wǒ (3:jiànyì) nǐ qù kàn kàn.
+  en: You have such an (2:interest) (1:in) Chinese culture, I (3:suggest) you go take a look.
+  es: Estás muy (2:interesado) (1:en) la cultura china, te (3:sugiero) que vayas.
 - id: 87d5a0e5-ffdc-4385-8bc7-8c155edec569
-  zh-hans: 好极了，我一定去。
-  pinyin: Hǎo jíle, wǒ yīdìng qù.
-  en: Great idea, I will definitely go.
-  es: Genial, definitivamente iré.
+  zh-hans: 好极了，我(1:一定)(2:去)。
+  pinyin: Hǎo jíle, wǒ (1:yīdìng) (2:qù).
+  en: Great idea, I will (1:definitely) (2:go).
+  es: Genial, (1:definitivamente) (2:iré).
 - id: f4e171e6-112b-43c4-8dcb-e9a57d6eecde
-  zh-hans: 今天我们有一个(1:结业:15)聚会，力波他们快要来了。
-  pinyin: Jīntiān wǒmen yǒu yīgè (1:jiéyè) jùhuì, Lìbō tāmen kuàiyào láile.
-  en: Today we have the (1:end of course) party, Libo and those will soon be here.
-  es: Hoy tenemos una reunión de (1:fin de curso). Libo y los demás van a venir.
+  zh-hans: (1:今天)我们有一个(2:结业:15)(3:聚会)，(4:力波)他们快要来了。
+  pinyin: (1:Jīntiān) wǒmen yǒu yīgè (2:jiéyè) (3:jùhuì), (4:Lìbō) tāmen kuàiyào láile.
+  en: (1:Today) we have the (2:end of course) (3:party), (4:Libo) and those will soon be here.
+  es: (1:Hoy) tenemos una (3:reunión) de (2:fin de curso). (4:Libo) y los demás van a venir.
 - id: ec1b6d7b-7132-4fff-bca3-bc4bf07d9bb8
-  zh-hans: 你把这个消息告诉他们，
-  pinyin: Nǐ bǎ zhège xiāoxi gàosu tāmen,
-  en: You should tell them this news,
-  es: Cuéntales las noticias a ellos,
+  zh-hans: 你把这个(1:消息)告诉他们，
+  pinyin: Nǐ bǎ zhège (1:xiāoxi) gàosu tāmen,
+  en: You should tell them this (1:news),
+  es: Cuéntales esta (1:noticias) a ellos,
 - id: ca0c2b93-667f-4aa9-af6f-6664b18df6de
-  zh-hans: 我想他们也一定会非常感兴趣。
-  pinyin: wǒ xiǎng tāmen yě yīdìng huì fēicháng gǎn xìngqù.
-  en: I think they too will surely be really interested.
-  es: Estoy seguro de que estarán muy interesados.
+  zh-hans: 我(1:想)他们也一定会(2:非常)(3:感兴趣)。
+  pinyin: wǒ (1:xiǎng) tāmen yě yīdìng huì (2:fēicháng) (3:gǎn xìngqù).
+  en: I (1:think) they too will surely be (2:really) (3:interested).
+  es: Yo (1:creo) de que ellos estarán (2:muy) (3:interesados).
 - id: bbdaa8f6-23d2-472c-994a-abd193aa3478
-  zh-hans: 好啊。林娜，你还(1:记得:16)吗？
-  pinyin: Hǎo a. Lín Nà, nǐ hái (1:jìde) ma?
-  en: Ok. Lin Na, do you (1:remember)?
-  es: Bien. Linna, ¿aún te (1:acuerdas)?
+  zh-hans: 好啊。(1:林娜)，你还(2:记得:16)吗？
+  pinyin: Hǎo a. (1:Lín Nà), nǐ hái (2:jìde) ma?
+  en: Ok. (1:Lin Na), do you (2:remember)?
+  es: Bien. (1:Linna), ¿aún te (2:acuerdas)?
 - id: c13fd1ae-7484-4a33-a25c-7e106d36b2e2
-  zh-hans: 刚来的时候你说过，如果每天都让你吃(1:中餐:17)，
-  pinyin: Gāng lái de shíhou nǐ shuōguò, rúguǒ měitiān dōu ràng nǐ chī (1:zhōngcān),
-  en: Just after you arrived here, you said that if you had to eat (1:Chinese food) everyday
-  es: Cuando viniste por primera vez, dijiste que si te dejábamos comer (1:comida china) todos los días,
+  zh-hans: (1:刚)来的时候(2:你)(3:说过)，(4:如果)(5:每天)都让你吃(6:中餐:17)，
+  pinyin: (1:Gāng) lái de shíhou (2:nǐ) (3:shuōguò), (4:rúguǒ) (5:měitiān) dōu ràng nǐ chī (6:zhōngcān),
+  en: (1:Just) after (2:you) arrived here, you (3:said) that (4:if) you had to eat (6:Chinese food) (5:everyday)
+  es: (1:Apenas) (2:tú) viniste por primera vez, (3:dijiste) que (4:si) (5:todos los días) te dejábamos comer (6:comida china),
 - id: 58ee506f-cde8-46a6-8993-0386d0c85191
-  zh-hans: 你就会(1:饿:18)(2:死:19)。现在你不但喜欢吃(3:中餐:17)，
-  pinyin: nǐ jiù huì (1:è) sǐ. Xiànzài nǐ bùdàn xǐhuan chī (3:zhōngcān),
-  en: you would (2:die) of (1:starvation). Now you not only enjoy (3:Chinese food),
-  es: te (2:morirías) de (1:hambre). Ahora no sólo te gusta la (3:comida china),
+  zh-hans: 你就会(1:饿:18)(2:死:19)。现在你(3:不但)喜欢吃(4:中餐:17)，
+  pinyin: nǐ jiù huì (1:è) sǐ. Xiànzài nǐ (3:bùdàn) xǐhuan chī (4:zhōngcān),
+  en: you would (2:die) of (1:starvation). Now (3:not only) you  enjoy (4:Chinese food),
+  es: te (2:morirías) de (1:hambre). Ahora (3:no sólo) te gusta comer (4:comida china),
 - id: 25769bf5-cc05-49c1-8624-37cca0fc06b7
-  zh-hans: 而且还学会了做中国(1:菜:20)。
-  pinyin: érqiě hái xuéhuìle zuò zhōngguó (2:cài).
-  en: but you have also learned how to cook Chinese (2:food).
-  es: y has aprendido a cocinar (2:comida) china.
+  zh-hans: (1:而且)还学会了做(2:中国)(3:菜:20)。
+  pinyin: (1:érqiě) hái xuéhuìle zuò (2:zhōngguó) (3:cài).
+  en: (1:but also) you have learned how to cook (2:Chinese) (3:food).
+  es: (1:sino también) has aprendido a cocinar (3:comida) (2:china).
 - id: 53645c98-e134-4e3f-89d0-b0d8dd44bec2
-  zh-hans: 可不，现在如果一天不吃(1:中餐:17)，
-  pinyin: Kěbù, xiànzài rúguǒ yītiān bù chī (1:zhōngcān),
-  en: That’s right, now if I don’t eat (1:Chinese food) for a day,
-  es: Así es, si no como (1:comida china) todos los días,
+  zh-hans: (1:可不)，现在(2:如果)一天不吃(3:中餐:17)，
+  pinyin: (1:Kěbù), xiànzài (2:rúguǒ) yītiān bù chī (3:zhōngcān),
+  en: (1:That’s right), now (2:if) I don’t eat (3:Chinese food) for a day,
+  es: (1:Así es), (2:si) no como (3:comida china) todos los días,
 - id: 88ef6fc3-639f-427b-aa5c-08b99e5635e7
-  zh-hans: 我就会觉得有点儿不舒服。
-  pinyin: wǒ jiù huì juéde yǒudiǎnr bú shū fu.
-  en: I will feel a little uncomfortable.
-  es: me siento un poco incómodo.
+  zh-hans: 我就会(1:觉得)有点儿(2:不舒服)。
+  pinyin: wǒ jiù huì (1:juéde) yǒudiǎnr (2:bú shū fu).
+  en: I will (1:feel) a little (2:uncomfortable).
+  es: me (1:siento) un poco (2:incómodo).
 - id: 79ec0bc7-9df4-40c7-bbee-8ff7f5b5c088
   zh-hans: 你们在(1:聊:21)什么呢？去哪儿吃(2:中餐:17)？我也去。
   pinyin: Nǐmen zài (1:liáo) shénme ne? Qù nǎr chī (2:zhōngcān)? Wǒ yě qù.
@@ -140,135 +140,135 @@ sentences:
   en: We were saying, you (1:foreigners) are quickly (2:becoming) “(3:China experts)”.
   es: Estamos hablando de cómo ustedes los extranjeros se están (2:volviendo) "(3:conocedores de China)".
 - id: 7ca11fdd-0263-492c-b278-0a37d6d568cc
-  zh-hans: 力波当然就不用说了。
-  pinyin: Lìbō dāngrán jiù bùyòng shuōle.
-  en: Of course, there’s no need to mention Libo.
-  es: Libo, por supuesto, no hace falta decirlo.
+  zh-hans: (1:力波)(2:当然)就不用说了。
+  pinyin: (1:Lìbō) dāngrán jiù bùyòng shuōle.
+  en: (2:Of course), there’s no need to mention (1:Libo).
+  es: (1:Libo), (2:por supuesto), no hace falta decirlo.
 - id: 7096e2ed-1234-4159-a77d-5896dbf86fe6
-  zh-hans: 因为我妈妈是中国人，
-  pinyin: Yīnwèi wǒ māmā shì Zhōngguó rén,
-  en: Because my mother is Chinese,
-  es: Porque mi madre es china,
+  zh-hans: (1:因为)我(2:妈妈)是(3:中国人)，
+  pinyin: (1:Yīnwèi) wǒ (2:māmā) shì (3:Zhōngguó rén),
+  en: (1:Because) my (2:mother) is (3:Chinese),
+  es: (1:Porque) mi (2:madre) es (3:china),
 - id: fc801a26-491d-4d3c-a89d-72175fa6f85b
-  zh-hans: 所以我早就有点儿(1:中国化:23)了。
-  pinyin: suǒyǐ wǒ zǎo jiù yǒudiǎnr (1:zhōngguóhuà) le.
-  en: from early on I (1:assimilated the Chinese culture).
-  es: entonces desde muy temprano fui (1:adoptando la cultura china).
+  zh-hans: 所以我(1:早)就有点儿(2:中国化:23)了。
+  pinyin: suǒyǐ wǒ (1:zǎo) jiù yǒudiǎnr (2:zhōngguóhuà) le.
+  en: from (1:early) on I (2:assimilated the Chinese culture).
+  es: entonces desde muy (1:temprano) fui (2:adoptando la cultura china).
 - id: 4e351e6f-9e9f-4773-81e9-b73445fab449
-  zh-hans: 林娜爱穿旗袍，爱吃中国(1:菜:20)，
-  pinyin: Lín Nà ài chuān qípáo, ài chī Zhōngguó (1:cài),
-  en: Lin Na loves wearing qipao, loves eating Chinese (1:food),
-  es: A Linna le encanta llevar cheongsams y comer comida (1:china),
+  zh-hans: (1:林娜)(2:爱)穿(3:旗袍)，(4:爱)吃(5:中国)(6:菜:20)，
+  pinyin: (1:Lín Nà) (2:ài) chuān (3:qípáo), (4:ài) chī (5:Zhōngguó) (6:cài),
+  en: (1:Lin Na) (2:loves) wearing (3:qipao), (4:loves) eating (5:Chinese) (6:food),
+  es: A (1:Linna) (2:ama) vestir (3:cheongsams) y (4:ama) comer (6:comida) (5:china),
 - id: 4c793ae1-b9d6-44c0-a3ea-353a0ad2ce44
-  zh-hans: 还喜欢看越剧、听中国民乐，
-  pinyin: hái xǐhuan kàn yuèjù, tīng Zhōngguó mínyuè,
-  en: also enjoys watching Shaoxing opera, listening to Chinese folk music,
-  es: También le gusta ver la ópera Yueju y escuchar música folclórica china,
+  zh-hans: 还(1:喜欢)(2:看)(3:越)(4:剧)、(5:听)(6:中国)(7:民乐)，
+  pinyin: hái (1:xǐhuan) (2:kàn) (3:yuè)(4:jù), (5:tīng) (6:Zhōngguó) (7:mínyuè),
+  en: also (1:likes) (2:watching) (3:Yue) (4:opera), (5:listening) to (6:Chinese) (7:folk music),
+  es: también le (1:gusta) (2:ver) la (4:ópera) (3:Yue) y (5:escuchar) (7:música folclórica) (6:china),
 - id: 3b30fc24-83bd-44eb-9033-db0c920974df
-  zh-hans: 好像也有点儿(1:中国化:23)了。
-  pinyin: hǎoxiàng yě yǒudiǎnr (1:zhōngguóhuà) le.
-  en: looks like she also (1:assimilated the Chinese culture).
-  es: parece que ella también (1:ha adoptado la cultura china).
+  zh-hans: (1:好像)也有点儿(2:中国化:23)了。
+  pinyin: (1:hǎoxiàng) yě yǒudiǎnr (2:zhōngguóhuà) le.
+  en: (1:looks like) she also (2:assimilated the Chinese culture).
+  es: (1:parece que) ella también (2:ha adoptado la cultura china).
 - id: db044586-3719-4599-b43c-ae007b23ae4e
-  zh-hans: 我是到北京以后(1:才:24)开始(2:中国化:23)的。
-  pinyin: Wǒ shì dào Běijīng yǐhòu (1:cái) kāishǐ (2:zhōngguóhuà) de.
-  en: (1:Only) after I arrived in Beijing I became to be (2:sinicized).
-  es: Yo, (1:justó) luego de llegar a Pekín, empecé a ser (2:sinicizado).
+  zh-hans: 我是到(1:北京)以后(2:才:24)(3:开始)(4:中国化:23)的。
+  pinyin: Wǒ shì dào (1:Běijīng) yǐhòu (2:cái) (3:kāishǐ) (4:zhōngguóhuà) de.
+  en: (2:Only) after I arrived in (1:Beijing) I (3:started) to be (4:sinicized).
+  es: Yo, (2:justó) luego de llegar a (1:Pekín), (3:empecé) a ser (4:sinicizado).
 - id: f87e9077-55a9-4391-a9e4-edbc330dfafb
-  zh-hans: 我看这很容易，像有的留学生(1:那样:25)，
-  pinyin: Wǒ kàn zhè hěn róngyì, xiàng yǒu de liúxuéshēng (1:nàyàng),
-  en: I think this happens easily, like (1:those) exchange students who
-  es: Creo que esto pasa fácilmente, cómo (1:esos) estudiantes extranjeros que
+  zh-hans: 我看这很(1:容易)，像有的(2:留学生)(3:那样:25)，
+  pinyin: Wǒ kàn zhè hěn (1:róngyì), xiàng yǒu de (2:liúxuéshēng) (3:nàyàng),
+  en: I think this happens (1:easily), like (3:those) (2:exchange students) who
+  es: Creo que esto pasa (1:fácilmente), cómo (3:esos) (2:estudiantes extranjeros) que
 - id: f8ce1e9e-d5c2-4230-b1f1-cb0141869bc6
-  zh-hans: 找个中国姑娘做(1:妻子:26)。
-  pinyin: zhǎo gè Zhōngguó gūniang zuò (1:qīzi).
-  en: find Chinese girls to be their (1:wives).
-  es: encuentran una mujer china y se convierte en sus (1:esposas).
+  zh-hans: 找个(1:中国)姑娘做(1:妻子:26)。
+  pinyin: zhǎo gè (1:Zhōngguó) gūniang zuò (1:qīzi).
+  en: find (1:Chinese) girls to be their (1:wives).
+  es: encuentran una mujer (1:china) y se convierte en sus (1:esposas).
 - id: f66d4223-c7e7-43f4-8e44-d6fbe7d7614f
-  zh-hans: 你找个长得帅的中国(1:小伙子:27)做(2:丈夫:28)，
-  pinyin: Nǐ zhǎo gè zhǎng de shuài de Zhōngguó (1:xiǎohuǒzi) zuò (2:zhàngfū),
-  en: You could find a handsome Chinese (1:young man) to be your b(2:husband),
-  es: Encuentra a un chino (1:joven guapo) para que sea tu (2:marido),
+  zh-hans: 你找个长得(1:帅)的(2:中国)(3:小伙子:27)做(4:丈夫:28)，
+  pinyin: Nǐ zhǎo gè zhǎng de (1:shuài) de (2:Zhōngguó) (3:xiǎohuǒzi) zuò (4:zhàngfū),
+  en: You could find a (1:handsome) (2:Chinese) (3:young man) to be your b(4:husband),
+  es: Encuentra a un (2:chino) (3:joven) (1:guapo) para que sea tu (4:marido),
 - id: f955c185-958f-4e20-83c9-f91787d02f4a
-  zh-hans: 每天在一起生活，就可以(1:中国化:23)了。
-  pinyin: měitiān zài yīqǐ shēnghuó, jiù kěyǐ (1:zhōngguóhuà) le.
-  en: and by living together everyday, you can easily start (1:assimilating the Chinese culture).
-  es: estén juntos todos los días y fácilmente irás (1:adoptando la Cultura china).
+  zh-hans: (1:每天)在一起(2:生活)，就可以(3:中国化:23)了。
+  pinyin: (1:měitiān) zài yīqǐ (2:shēnghuó), jiù kěyǐ (3:zhōngguóhuà) le.
+  en: and by (2:living) together (1:everyday), you can easily start (3:assimilating the Chinese culture).
+  es: (2:vivan) juntos (1:todos los días) y fácilmente irás (3:adoptando la Cultura china).
 - id: ad3ed0b2-a13d-4951-87dc-dbf25e623cca
   zh-hans: 别开玩笑。说真的，
   pinyin: Bié kāiwánxiào. Shuō zhēn de,
   en: Don’t joke. Really,
   es: No seas ridículo. Realmente,
 - id: b2c39413-1c0a-4676-86f4-f0bcbf059beb
-  zh-hans: 我现在觉得汉语语法不太难，可是汉字很难。
-  pinyin: wǒ xiànzài juéde Hànyǔ yǔfǎ bù tài nán, kěshì Hànzì hěn nán.
-  en: I now feel Chinese grammar is not too difficult, but Chinese characters are very difficult.
-  es: la gramática china ya no me parece tan difícil, pero los caracteres chinos son difíciles.
+  zh-hans: 我现在觉得(1:汉语)(2:语法)不太(3:难)，可是(4:汉字)很(5:难)。
+  pinyin: wǒ xiànzài juéde (1:Hànyǔ) (2:yǔfǎ) bù tài (3:nán), kěshì (4:Hànzì) hěn (5:nán).
+  en: I now feel (1:Chinese) (2:grammar) is not too (3:difficult), but (4:Chinese characters) are very (5:difficult).
+  es: la (2:gramática) (1:china) ya no me parece tan (3:difícil), pero los (4:caracteres chinos) son (5:difíciles).
 - id: 1a19bf46-46ab-49b7-8024-a8f9dc62fcc8
-  zh-hans: (1:声调:29)也不容易，我常常说错。
-  pinyin: (1:Shēngdiào) yě bù róngyì, wǒ chángcháng shuō cuò.
-  en: (1:Tones) are also not easy, I often speak incorrectly.
-  es: Los (1:tonos) tampoco son fáciles. Siempre me equivoco.
+  zh-hans: (1:声调:29)也不(2:容易)，我常常说错。
+  pinyin: (1:Shēngdiào) yě bù (2:róngyì), wǒ chángcháng shuō cuò.
+  en: (1:Tones) are also not (2:easy), I often speak incorrectly.
+  es: Los (1:tonos) tampoco son (2:fáciles). Siempre me equivoco.
 - id: 879f0abf-b220-4617-bd3e-6173c13053d2
-  zh-hans: 你们在中国才学习了一年，
-  pinyin: Nǐmen zài Zhōngguó cái xuéxíle yī nián,
-  en: You both have only been studying in China for one year,
-  es: Sólo llevas estudiando un año en China,
+  zh-hans: 你们在(1:中国)才(2:学习)了(3:一)(4:年)，
+  pinyin: Nǐmen zài (1:Zhōngguó) cái (2:xuéxí) le (3:yī) (4:nián),
+  en: You both have only been (2:studying) in (1:China) for (3:one) (4:year),
+  es: Sólo llevas (2:estudiando) (3:un) (4:año) en (1:China),
 - id: c9879d4a-908c-4b8d-965b-79f808715b67
-  zh-hans: 汉语水平就提高得这么快，
-  pinyin: Hànyǔ shuǐpíng jiù tígāo de zhème kuài,
-  en: but your Chinese level has improved very quickly,
-  es: y tu nivel de chino ha aumentado muy rápido,
+  zh-hans: (1:汉语)(2:水平)就(3:提高)得这么(4:快)，
+  pinyin: (1:Hànyǔ) (2:shuǐpíng) jiù (3:tígāo) de zhème kuài,
+  en: but your (1:Chinese) (2:level) has (3:improved) very (4:quickly),
+  es: y tu (2:nivel) de (1:chino) ha (3:aumentado) muy (4:rápido),
 - id: 8ca67c46-7d1f-44e0-9cd1-09cd920e6508
-  zh-hans: 主要是因为你们学习都很(1:努力:30)。
-  pinyin: zhǔyào shi yīnwèi nǐmen xuéxí dōu hěn (1:nǔlì).
-  en: mainly because you have studied (1:hard).
-  es: Es principalmente porque ustedes estudian (1:seriamente).
+  zh-hans: (1:主要)是因为你们(2:学习)都很(3:努力:30)。
+  pinyin: (1:zhǔyào) shi yīnwèi nǐmen (2:xuéxí) dōu hěn (3:nǔlì).
+  en: (1:mainly) because you have (2:studied) (3:hard).
+  es: Es (1:principalmente) porque ustedes (2:estudian) (3:seriamente).
 - id: b42c2c73-b3e1-417e-8579-c9a965178eef
-  zh-hans: 这儿的老师教得特别(1:认真:31)，
-  pinyin: Zhèr de lǎoshī jiào de tèbié (1:rènzhēn),
-  en: The teachers here teach very (1:seriously),
-  es: Los profesores aquí son particularmente (1:serios),
+  zh-hans: (1:这儿)的(2:老师)(3:教)得(4:特别)(5:认真:31)，
+  pinyin: (1:Zhèr) de (2:lǎoshī) (3:jiào) de (4:tèbié) (5:rènzhēn),
+  en: The (2:teachers) (1:here) (3:teach) (4:particularly) (5:seriously),
+  es: Los (2:profesores) que (3:enseñan) (1:aquí) son (4:particularmente) (5:serios),
 - id: 6157707d-b860-417f-8aad-f220839caa3f
-  zh-hans: 朋友们对我们也非常(1:热情:32)，
-  pinyin: péngyǒumen duì wǒmen yě fēicháng (1:rèqíng),
-  en: and friends are very (1:nice) to us,
-  es: y nuestros amigos son muy (1:cariñosos) con nosotros.
+  zh-hans: (1:朋友们)对我们也(2:非常)(3:热情:32)，
+  pinyin: (1:péngyǒu) men duì wǒmen yě (2:fēicháng) (3:rèqíng),
+  en: and (1:friends) are (2:very) (3:nice) to us,
+  es: y nuestros (1:amigos) son (2:muy) (3:cariñosos) con nosotros.
 - id: 8972d8fb-4f10-4cc8-9762-50c0b1305006
-  zh-hans: 常常帮助我们学汉语，
-  pinyin: chángcháng bāngzhù wǒmen xué Hànyǔ,
-  en: often helping us study Chinese,
-  es: A menudo nos ayudan a aprender chino.
+  zh-hans: (1:常常)(2:帮助)我们(3:学)(4:汉语)，
+  pinyin: (1:chángcháng) (2:bāngzhù) wǒmen (3:xué) (4:Hànyǔ),
+  en: (1:often) (2:helping) us (3:study) (4:Chinese),
+  es: (1:A menudo) nos (2:ayudan) a (3:aprender) (4:chino).
 - id: 342d5004-50b6-4e10-898d-b864e48346d5
-  zh-hans: 所以我们(1:进步:33)很快。
-  pinyin: suǒyǐ wǒmen (1:jìnbù) hěn kuài.
-  en: so our (1:progress) has been very quick.
-  es: Por eso (1:mejoramos) tan rápido.
+  zh-hans: 所以我们(1:进步:33)很(2:快)。
+  pinyin: suǒyǐ wǒmen (1:jìnbù) hěn (2:kuài).
+  en: so our (1:progress) has been very (2:quick).
+  es: Por eso (1:mejoramos) tan (2:rápido).
 - id: a208527a-6b77-446e-9990-36b3e049a270
-  zh-hans: 一年的学习时间太短了。
-  pinyin: Yī nián de xuéxí shíjiān tài duǎnle.
-  en: One year of study is too short.
-  es: Un año es muy poco.
+  zh-hans: (1:一)(2:年)的(2:学习)(3:时间)(4:太)(5:短)了。
+  pinyin: (1:Yī) (2:nián) de (2:xuéxí) (3:shíjiān) (4:tài) (5:duǎn) le.
+  en: (1:One) (2:year) of (2:study) (3:time) is (4:too) (5:short).
+  es: (1:Un) (2:año) de (3:tiempo) de (2:estudio) es (4:muy) (5:corto).
 - id: 467e4b6a-072e-42fd-94a1-16831251ce21
-  zh-hans: 我虽然已经能听懂中国人说的一些话，
-  pinyin: Wǒ suīrán yǐjīng néng tīng dǒng Zhōngguó rén shuō de yīxiē huà,
-  en: Although I already can understand quite a bit of what Chinese people say,
-  es: Aunque puedo entender algunas palabras que hablan los chinos,
+  zh-hans: 我(1:虽然)已经(2:能)听懂(3:中国)(4:人)说的一些话，
+  pinyin: Wǒ (1:suīrán) yǐjīng (2:néng) tīng dǒng (3:Zhōngguó) (4:rén) shuō de yīxiē huà,
+  en: (1:Although) I already (2:can) understand quite a bit of what (3:Chinese) (4:people) say,
+  es: (1:Aunque) ya (2:puedo) entender algunas palabras que hablan las (4:personas) de (3:China),
 - id: df787eed-abd3-4d0f-bf8e-6332b8421dbc
-  zh-hans: 可是自己说汉语还说得不太流利，
-  pinyin: kěshì zìjǐ shuō Hànyǔ hái shuō dé bù tài liúlì,
-  en: my Chinese speaking is still not too fluent,
-  es: pero no puedo hablar chino con fluidez,
+  zh-hans: (1:可是)自己说(2:汉语)还说得不太(3:流利)，
+  pinyin: (1:kěshì) zìjǐ shuō (2:Hànyǔ) hái shuō dé bù tài (3:liúlì),
+  en: (1:but) my (2:Chinese) speaking is still not too (3:fluent),
+  es: (1:pero) no puedo hablar (2:chino) con (3:fluidez),
 - id: 9a7327c0-c713-4993-a545-d705d6345a8f
-  zh-hans: (1:明年:34)我还要来中国学习。
-  pinyin: (1:míngnián) wǒ hái yào lái Zhōngguó xuéxí.
-  en: next (1:year) I want to also come to Chinese to study.
-  es: volveré a China el (1:siguiente año).
+  zh-hans: (1:明年:34)我还要来(2:中国)(3:学习)。
+  pinyin: (1:míngnián) wǒ hái yào lái (2:Zhōngguó) (3:xuéxí).
+  en: next (1:year) I want to also come to (2:Chinese) to (3:study).
+  es: el (1:siguiente año) volveré a (2:China) a (3:estudiar).
 - id: 4a704270-b658-49ee-bfd4-f83b224adec7
-  zh-hans: 林娜，老师和同学们都在等着我们呢，
-  pinyin: Lín Nà, lǎoshī hé tóngxuémen dōu zài děngzhe wǒmen ne,
-  en: Lin Na, the teacher and our classmates are all waiting for us,
-  es: Linna, los profesores y los estudiantes nos están esperando,
+  zh-hans: (1:林娜)，(2:老师)和(3:同学)们都在(4:等)着我们呢，
+  pinyin: (1:Lín Nà), (2:lǎoshī) hé (3:tóngxuémen) dōu zài (4:děng)zhe wǒmen ne,
+  en: (1:Lin Na), the (2:teacher) and our (3:classmates) are all (4:waiting) for us,
+  es: (1:Linna), los (2:profesores) y los (3:estudiantes) nos están (4:esperando),
 - id: 19315b13-165b-46f9-a865-1e94a2b1d434
   zh-hans: 我们走吧。
   pinyin: wǒmen zǒu ba.
@@ -280,15 +280,15 @@ sentences:
   en: Ok, (1:next year) you should all be “(1:sinicized)”!
   es: Vale ¡el (1:siguiente año) tal vez hayan sido (1:"sinicizados")!
 - id: 8f19fb31-3d15-436f-b913-8f7175bd7098
-  zh-hans: 宋华，明天你(1:陪:35)我去参观
-  pinyin: Sòng Huá, míngtiān nǐ (1:péi) wǒ qù cānguān
-  en: Song Hua, tommorrow you’ll come (1:with) me to visit the
-  es: Song Hua, mañana me (1:acompañas) a visitar la
+  zh-hans: (1:宋华)，(2:明天)你(3:陪:35)我去参观
+  pinyin: (1:Sòng Huá), (2:míngtiān) nǐ (3:péi) wǒ qù cānguān
+  en: (1:Song Hua), (2:tommorrow) you’ll come (3:with) me to visit the
+  es: (1:Song Hua), (2:mañana) me (3:acompañas) a visitar
 - id: c8320f29-6dc8-4670-9632-5cba4e7aed2f
-  zh-hans: “二零零二中国”展览，好吗？
-  pinyin: “èr líng líng èr Zhōngguó” zhǎnlǎn, hǎo ma?
-  en: “China 2002” exhibition, right?
-  es: exposición "China 2002" ¿está bien?
+  zh-hans: “(1:二零零二)(2:中国)”(3:展览)，好吗？
+  pinyin: “(1:èr líng líng èr) (2:Zhōngguó)” (3:zhǎnlǎn), hǎo ma?
+  en: “(2:China) (1:2002)” (3:exhibition), right?
+  es: la (3:exposición) "(2:China) (1:2002)" ¿está bien?
 - id: d4591113-1650-4613-b28f-83809141a7b5
   zh-hans: 好，明天见！
   pinyin: Hǎo, míngtiān jiàn!
