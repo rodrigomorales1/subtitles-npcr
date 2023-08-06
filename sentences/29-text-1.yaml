@@ -10,45 +10,45 @@ metadata:
   add-groups-es: {finished: false, issue_id: 605}
 sentences:
 - id: 7f042e25-de16-4252-bd03-2283a84c5a52
-  zh-hans: 张教授，你好！
-  pinyin: Zhāng jiàoshòu, nǐ hǎo!
-  en: Professor Zhang, hello!
-  es: Profesor Zhang ¡hola!
+  zh-hans: (1:张)(2:教授)，你好！
+  pinyin: (1:Zhāng) (2:jiàoshòu), nǐ hǎo!
+  en: (2:Professor) (1:Zhang), hello!
+  es: (2:Profesor) (1:Zhang) ¡hola!
 - id: e947281a-544e-401c-9cb7-42f09594af77
-  zh-hans: 你们来了！(1:欢迎:2)，(1:欢迎:2)！快请进。
-  pinyin: Nǐmen láile! (1:Huānyíng), (1:huānyíng)! Kuài qǐng jìn.
-  en: You all have come! (1:Welcome), (1:welcome)! Please come in.
-  es: ¡Ya estáis aquí! ¡(1:Bienvenidos), (1:bienvenidos)! Entra rápido.
+  zh-hans: 你们来了！(1:欢迎:2)，(1:欢迎:2)！快(1:请)进。
+  pinyin: Nǐmen láile! (1:Huānyíng), (1:huānyíng)! Kuài (1:qǐng) jìn.
+  en: You all have come! (1:Welcome), (1:welcome)! (1:Please) come in.
+  es: ¡Ya estáis aquí! ¡(1:Bienvenidos), (1:bienvenidos)! (1:Por favor) pasen rápido.
 - id: 525c700e-e607-4797-b950-8f125689023f
-  zh-hans: 张教授，这是给您的花儿。
-  pinyin: Zhāng jiàoshòu, zhè shì gěi nín de huār.
-  en: Professor Zhang, these are some flowers for you.
-  es: Profesor Zhang, estas son algunas flores para usted.
+  zh-hans: (1:张)(2:教授)，这是给您的(3:花儿)。
+  pinyin: (1:Zhāng) (2:jiàoshòu), zhè shì gěi nín de (3:huār).
+  en: (2:Professor) (1:Zhang), these are some (3:flowers) for you.
+  es: (2:Profesor) (1:Zhang), estas son algunas (3:flores) para usted.
 - id: b28f24db-31b8-4eb1-9ea8-88460f140d6f
-  zh-hans: 谢谢。你们太客气了。
-  pinyin: Xièxiè. Nǐmen tài kèqìle.
-  en: Thanks. You are too polite.
-  es: Muchas gracias. Eres muy amable.
+  zh-hans: 谢谢。你们(1:太)(2:客气)了。
+  pinyin: Xièxiè. Nǐmen (1:tài) (2:kèqì) le.
+  en: Thanks. You are (1:too) (2:polite).
+  es: Muchas gracias. Son (1:demasiado) (2:amables).
 - id: 8e8769f6-6a3d-4c51-9c42-973f97cf4995
-  zh-hans: 请坐，
-  pinyin: Qǐng zuò,
-  en: Please sit,
-  es: Por favor siéntense,
+  zh-hans: (1:请)(2:坐)，
+  pinyin: (1:Qǐng) (2:zuò),
+  en: (1:Please) (2:sit),
+  es: (1:Por favor) (2:siéntense),
 - id: 4166b2ea-ed9f-4311-a8e8-3b7328aa3c0a
-  zh-hans: 喝点儿什么？
-  pinyin: hē diǎnr shénme?
-  en: what would you like to drink?
-  es: ¿Qué le gustaría beber?
+  zh-hans: (1:喝)点儿什么？
+  pinyin: (1:hē) diǎnr shénme?
+  en: what would you like to (1:drink)?
+  es: ¿Qué le gustaría (1:beber)?
 - id: ae91c957-e452-4552-b2a0-99d6800028b0
-  zh-hans: 喝茶吧。
-  pinyin: Hē chá bā.
-  en: Let’s drink tea.
-  es: Tomemos té.
+  zh-hans: (1:喝)(2:茶)吧。
+  pinyin: (1:Hē) (2:chá) bā.
+  en: Let’s (1:drink) (2:tea).
+  es: (1:Tomemos) (2:té).
 - id: d6521fe5-9366-468d-9c61-b3e1bc7bc6a8
-  zh-hans: 您的(1:书房:3)很有特色：
-  pinyin: 'Nín de (1:shūfáng) hěn yǒu tèsè:'
-  en: 'Your (1:study room) is very characteristic:'
-  es: 'Su (1:cuarto de estudio) es muy especial:'
+  zh-hans: 您的(1:书房:3)很有(2:特色)：
+  pinyin: 'Nín de (1:shūfáng) hěn yǒu (2:tèsè):'
+  en: 'Your (1:study room) is very (2:characteristic):'
+  es: 'Su (1:cuarto de estudio) es muy (2:peculiar):'
 - id: cb4fed96-0a6d-4364-9300-bf2ad5d79f48
   zh-hans: (1:墙:4)上(2:挂:5)着中国(3:字画:6)，
   pinyin: (1:Qiáng) shàng (2:guà) zhe Zhōngguó (3:zìhuà),
@@ -60,25 +60,25 @@ sentences:
   en: lots of (5:old books) on the (4:bookcase),
   es: tantos (5:libros antiguos) en la (4:estantería),
 - id: ef5b084d-562a-4666-a630-482f62e9a03c
-  zh-hans: 桌上放着文房四宝，
-  pinyin: zhuō shàng fàngzhe wénfángsìbǎo,
-  en: the four treasures of the study on the table,
-  es: Sobre la mesa están los cuatro tesoros del estudio,
+  zh-hans: (1:桌)上放着文房(2:四)(3:宝)，
+  pinyin: (1:zhuō) shàng fàngzhe wénfáng(2:sì)(3:bǎo),
+  en: the (2:four) (3:treasures) of the study on the (1:table),
+  es: Sobre la (1:mesa) están los (2:cuatro) (3:tesoros) del estudio,
 - id: b7ea0571-84da-4c89-acd0-e73a288fe31b
-  zh-hans: 外边还(1:整整齐齐:9)(2:地:10)(3:摆:11)着这么多花儿，
-  pinyin: wàibian hái (1:zhěngzhěngqíqí)  (2:de) (3:bǎi) zhe zhème duō huār,
-  en: and (1:neatly) (3:arranged) outside are so many flowers,
-  es: Hay muchas flores (1:ordenadamente) (3:colocadas) fuera,
+  zh-hans: (1:外边)还(2:整整齐齐:9)(3:地:10)(4:摆:11)着这么多(5:花儿)，
+  pinyin: (1:wàibian) hái (2:zhěngzhěngqíqí)  (3:de) (4:bǎi) zhe zhème duō (5:huār),
+  en: and (2:neatly) (4:arranged) (1:outside) are so many (5:flowers),
+  es: Hay muchas (5:flores) (2:ordenadamente) (4:colocadas) (1:fuera),
 - id: 73087f53-fb64-4624-98ec-e172a5e9e24d
-  zh-hans: 还有(1:盆景:12)呢。这些花儿真漂亮，都是您种的吗？
-  pinyin: hái yǒu (1:pénjǐng) ne. Zhèxiē huār zhēn piàoliang, dōu shì nín zhòng de ma?
-  en: and there are also (1:bonsais). These flowers are really pretty, did you plant them all?
-  es: también hay (1:bonsáis). Estas flores son preciosas. ¿Las has plantado tú?
+  zh-hans: 还有(1:盆景:12)呢。这些(2:花儿)真(3:漂亮)，都是您(4:种)的吗？
+  pinyin: hái yǒu (1:pénjǐng) ne. Zhèxiē (2:huār) zhēn (3:piàoliang), dōu shì nín (4:zhòng) de ma?
+  en: and there are also (1:bonsais). These (2:flowers) are really (3:pretty), did you (4:plant) them all?
+  es: también hay (1:bonsáis). Estas (2:flores) son (3:preciosas). ¿Las has (4:plantado) tú?
 - id: 3373eb3e-b729-4a23-9faf-da774779002b
-  zh-hans: 不，都是买的。
-  pinyin: Bù, dōu shì mǎi de.
-  en: No, they are all bought.
-  es: No, las compré.
+  zh-hans: 不，都是(1:买)的。
+  pinyin: Bù, dōu shì (1:mǎi) de.
+  en: No, they are all (1:bought).
+  es: No, las (1:compré).
 - id: 2c760301-bb58-4684-8179-aeb5ad66df8f
   zh-hans: 不过它们在我这儿(1:长:14)得越来越好，
   pinyin: Bùguò tāmen zài wǒ zhèr (1:zhǎng) de yuè lái yuè hǎo,
@@ -90,112 +90,112 @@ sentences:
   en: now they all have (1:blossomed).
   es: ahora están (1:floreciendo).
 - id: 6ea0e460-6a75-4dc9-ab0d-d670fc54905e
-  zh-hans: 这叫(1:君子兰:16)吧？(2:长长)的绿(3:叶:17)，
-  pinyin: Zhè jiào (1:Jūnzǐlán) ba? (2:Cháng cháng) de lǜ (3:yè),
-  en: This called a (1:Clivia), right? (2:Long) green (3:leaves),
-  es: Se llama (1:lirio), ¿no? (2:Largas) (3:hojas) verdes,
+  zh-hans: 这叫(1:君子兰:16)吧？(2:长长)的(3:绿)(4:叶:17)，
+  pinyin: Zhè jiào (1:Jūnzǐlán) ba? (2:Cháng cháng) de (3:lǜ) (4:yè),
+  en: This called a (1:Clivia), right? (2:Long) (3:green) (4:leaves),
+  es: Se llama (1:lirio), ¿no? (2:Largas) (4:hojas) (3:verdes),
 - id: fb7b25cc-4c6e-4872-8a71-7643b35135b8
-  zh-hans: 红红的花，真(1:好看:13)。
-  pinyin: hóng hóng de huā, zhēn (1:hǎokàn).
-  en: red flowers, really (1:good looking).
-  es: y flores rojas. realmente (1:hermoso).
+  zh-hans: (1:红红)的(2:花)，真(1:好看:13)。
+  pinyin: (1:hóng hóng) de (2:huā), zhēn (1:hǎokàn).
+  en: (1:red) (2:flowers), really (1:good looking).
+  es: y (2:flores) (1:rojas). realmente (1:hermoso).
 - id: 0bfc8a40-7946-476b-b4c1-eb6dc8c5f8c6
-  zh-hans: 是叫君子兰。这种花很好(1:养:18)，
-  pinyin: Shì jiào Jūnzǐlán. Zhè zhònghuā hěn hǎo (1:yǎng),
-  en: It is called a Clivia. They are very easy to (1:raise) and
-  es: Se llama monarca. Este tipo de flor es fácil (1:cultivar),
+  zh-hans: 是叫(1:君子兰)。这(2:种)花很好(3:养:18)，
+  pinyin: Shì jiào (1:Jūnzǐlán). Zhè (2:zhòng) huā hěn hǎo (3:yǎng),
+  en: It is called a (1:Clivia). These (2:type) of flowers are very easy to (3:raise) and
+  es: Se llama (1:Clivia). Este (2:tipo) de flor es fácil (3:cultivar),
 - id: 3b313886-7ffd-40e0-b5c9-ef2f6f0043cd
   zh-hans: (1:开花:15)的时间也(2:比较:19)(3:长)。
   pinyin: (1:k)āihuā de shíjiān yě (2:bǐjiào) (3:cháng).
   en: they (1:bloom) for a (2:relatively) (3:long) time.
   es: el tiempo para que esta flor (1:florezca) es (2:relativamente) (3:largo).
 - id: ccb50869-3bed-4b95-971b-eef9266c1bf1
-  zh-hans: (1:养:18)花真有意思。
-  pinyin: (1:Yǎng) huā zhēn yǒuyìsi.
-  en: (1:Raising) flowers is really interesting.
-  es: (1:Cultivar) flores es realmente divertido.
+  zh-hans: (1:养:18)花真(2:有意思)。
+  pinyin: (1:Yǎng) huā zhēn (2:yǒuyìsi).
+  en: (1:Raising) flowers is really (2:interesting).
+  es: (1:Cultivar) flores es realmente (2:interesante).
 - id: c09cd94f-b4ff-495d-89d8-37bccc524880
-  zh-hans: 我明天下了课就去买盆花，
-  pinyin: Wǒ míngtiān xiàle kè jiù qù mǎi pén huā,
-  en: After class tomorrow I will go buy a pot plant,
-  es: Mañana compraré una maceta de flores después de clase.
+  zh-hans: 我(1:明天)下了课就去(2:买)(3:盆)(4:花)，
+  pinyin: Wǒ (1:míngtiān) xiàle kè jiù qù (2:mǎi) (3:pén) (4:huā),
+  en: After class (1:tomorrow) I will go (2:buy) a (3:pot) (4:plant),
+  es: (1:Mañana), después de clase, iré a (2:comprar) una (3:maceta) de (4:flores),
 - id: 34976f8d-5b81-48e5-b8ce-10b81b6cc940
-  zh-hans: 摆在宿舍里。我也有花(1:养:18)了。
-  pinyin: bǎi zài sùshè lǐ. Wǒ yěyǒu huā (1:yǎng) le.
-  en: and place it in my dormitory. I also (1:raise) flowers.
-  es: Las pondré en el dormitorio. Yo también (1:cultivaré) flores.
+  zh-hans: (1:摆)在(2:宿舍)里。我也有花(2:养:18)了。
+  pinyin: (1:bǎi) zài (2:sùshè) lǐ. Wǒ yěyǒu huā (2:yǎng) le.
+  en: and (1:place) it in my (2:dormitory). I also (2:raise) flowers.
+  es: las (1:pondré) en el (2:dormitorio). Yo también (2:cultivaré) flores.
 - id: 0f112eac-e2b0-4929-b144-fa47f8b24786
-  zh-hans: (1:养:18)花是有意思，可是你能(2:养:18)好吗？
-  pinyin: (1:Yǎng) huā shì yǒuyìsi, kěshì nǐ néng (2:yǎng) hǎo ma?
-  en: (1:Raising) flowers is interesting, but are you good at (2:raising) flowers?
-  es: Es divertido (1:cultivar) flores, pero ¿puedes (2:cultivarlas) bien?
+  zh-hans: (1:养:18)花是(2:有意思)，(3:可是)你能(4:养:18)好吗？
+  pinyin: (1:Yǎng) huā shì (2:yǒuyìsi), (3:kěshì) nǐ néng (4:yǎng) hǎo ma?
+  en: (1:Raising) flowers is (2:interesting), (3:but) are you good at (4:raising) flowers?
+  es: Es (2:interesante) (1:cultivar) flores, (3:pero) ¿puedes (4:cultivarlas) bien?
 - id: 390ef7a7-1ce0-47ae-9111-dd815024e31c
-  zh-hans: 当然能(1:养:18)好！我看，
-  pinyin: Dāngrán néng (1:yǎng) hǎo! Wǒ kàn,
-  en: Of course I can (1:raise) well! I think,
-  es: ¡Claro que puedo (1:cultivarlas) bien! Creo que
+  zh-hans: (1:当然)能(2:养:18)好！我看，
+  pinyin: (1:Dāngrán) néng (2:yǎng) hǎo! Wǒ kàn,
+  en: (1:Of course) I can (2:raise) well! I think,
+  es: ¡(1:Por supuesto) que puedo (2:cultivarlas) bien! Creo que
 - id: 5bb9048f-06f6-4e35-a66b-feac8f81112c
-  zh-hans: (1:养:18)花没有学汉语那么难吧。
-  pinyin: (1:yǎng) huā méiyǒu xué Hànyǔ nàme nán ba.
-  en: that (1:raising) plants is not has difficult as studying Chinese.
-  es: (1:cultivar) no es tan difícil como aprender chino.
+  zh-hans: (1:养:18)(2:花)没有(3:学)(4:汉语)那么(5:难)吧。
+  pinyin: (1:yǎng) (2:huā) méiyǒu (3:xué) (4:Hànyǔ) nàme (5:nán) ba.
+  en: that (1:raising) (2:flowers) is not has (5:difficult) as (3:studying) (4:Chinese).
+  es: (1:cultivar) (2:flores) no es tan (5:difícil) como (3:estudiar) (4:chino).
 - id: 74fc4823-1700-4e68-b878-ff8638db231d
-  zh-hans: (1:养:18)花是不太难。
-  pinyin: (1:Yǎng) huā shì bù tài nán.
-  en: (1:Raising) flowers is not too difficult.
-  es: (1:Cultivar) flores no es tan difícil.
+  zh-hans: (1:养:18)花是不太(2:难)。
+  pinyin: (1:Yǎng) huā shì bù tài (2:nán).
+  en: (1:Raising) flowers is not too (2:difficult).
+  es: (1:Cultivar) flores no es tan (2:difícil).
 - id: 1c76b7b2-7b30-4124-930b-f01fb9d658a1
-  zh-hans: 不过，要把花(1:养:18)好，那就不容易了。
-  pinyin: Bùguò, yào bǎ huā (1:yǎng) hǎo, nà jiù bù róngyìle.
-  en: However, (1:raising) a flower well, that is not easy.
-  es: Pero no es fácil (1:cultivar) flores bien.
+  zh-hans: 不过，要把花(1:养:18)好，那就不(2:容易)了。
+  pinyin: Bùguò, yào bǎ huā (1:yǎng) hǎo, nà jiù bù (2:róngyì) le.
+  en: However, (1:raising) a flower well, that is not (2:easy).
+  es: Pero (1:cultivar) flores bien no es (2:fácil).
 - id: 6b29daee-1661-472f-bf5b-a53e46c9c97e
-  zh-hans: (1:人们:20)常说“姑娘爱花”，
-  pinyin: (1:Rénmen) cháng shuō "gūniang ài huā",
-  en: (1:People) often say "girls love flowers",
-  es: Las personas suelen decir "las señoritas aman las flores",
+  zh-hans: (1:人们:20)常说“(2:姑娘)(3:爱)(4:花)”，
+  pinyin: (1:Rénmen) cháng shuō "(2:gūniang) (3:ài) (4:huā)",
+  en: (1:People) often say "(2:girls) (3:love) (4:flowers)",
+  es: Las (1:personas) suelen decir "las (2:señoritas) (3:aman) las (4:flores)",
 - id: b0e0e3a9-b3ba-4ff2-ae60-d55dbac8249c
-  zh-hans: 林娜喜欢(1:养:18)花，
-  pinyin: Lín Nà xǐhuan (1:yǎng) huā,
-  en: Lin Na likes to (1:raise) flowers,
-  es: a Linna le gusta (1:cultivar) flores,
+  zh-hans: (1:林娜)喜欢(2:养:18)花，
+  pinyin: (1:Lín Nà) xǐhuan (2:yǎng) huā,
+  en: (1:Lin Na) likes to (2:raise) flowers,
+  es: a (1:Linna) le gusta (2:cultivar) flores,
 - id: 9d230534-569f-423f-8c4a-ea01a83e4d3d
-  zh-hans: 我想她一定能(1:养:18)好。
-  pinyin: wǒ xiǎng tā yīdìng néng (1:yǎng) hǎo.
-  en: I think she definitely can (1:raise) them well.
-  es: Creo que ella podrá hacerlo (1:cultivar) bien.
+  zh-hans: 我(1:想)(2:她)一定能(2:养:18)好。
+  pinyin: wǒ (1:xiǎng) (2:tā) yīdìng néng (2:yǎng) hǎo.
+  en: I (1:think) (2:she) definitely can (2:raise) them well.
+  es: (1:Creo) que (2:ella) podrá hacerlo (2:cultivar) bien.
 - id: 837f8f89-635e-46d5-9bae-ef416fb38982
-  zh-hans: 谢谢，张教授，我也是这样想的。
-  pinyin: Xièxiè, Zhāng jiàoshòu, wǒ yěshì zhèyàng xiǎng de.
-  en: Thank you, Professor Zhang, I also think like this.
-  es: Gracias, profesor Zhang. Yo también lo creo.
+  zh-hans: (1:谢谢)，(2:张)(3:教授)，我也是这样(4:想)的。
+  pinyin: (1:Xièxiè), (2:Zhāng) (3:jiàoshòu), wǒ yěshì zhèyàng (4:xiǎng) de.
+  en: (1:Thank you), (3:Professor) (2:Zhang), I also (4:think) like this.
+  es: (1:Gracias), (3:profesor) (2:Zhang). Yo también lo (4:creo).
 - id: 549ca805-f783-41b9-9444-6b0373369d87
-  zh-hans: 这些(1:盆景:12)都是您自己的(1:作品:21)吧？
-  pinyin: Zhèxiē (1:pénjǐng) dōu shì nín zìjǐ de (1:zuòpǐn) ba?
-  en: These (1:bonsai) are all your own (1:work), right?
-  es: Estos (1:bonsáis) son sus propias (1:creaciones), ¿verdad?
+  zh-hans: 这些(1:盆景:12)都是您(2:自己)的(3:作品:21)吧？
+  pinyin: Zhèxiē (1:pénjǐng) dōu shì nín (2:zìjǐ) de (3:zuòpǐn) ba?
+  en: These (1:bonsai) are all your (2:own) (3:work), right?
+  es: Estos (1:bonsáis) son sus (2:propias) (3:obras), ¿verdad?
 - id: 031678e6-ce3c-465c-befe-c350430a68d0
-  zh-hans: 是的。(1:工作)(2:累)的时候，我就到外边去(3:浇浇:22)花，
-  pinyin: Shì de. (1:Gōngzuò) (2:lèi) de shíhou, wǒ jiù dào wàibian qù (3:jiāo jiāo) huā,
-  en: Yes. When (1:work) gets (2:tiring), I go outside to (3:water) the plants,
-  es: Sí. Cuando estoy (2:cansado) de (1:trabajar), salgo a (3:regar) las flores
+  zh-hans: 是的。(1:工作)(2:累)的时候，我就到(3:外边)去(4:浇浇:22)(5:花)，
+  pinyin: Shì de. (1:Gōngzuò) (2:lèi) de shíhou, wǒ jiù dào (3:wàibian) qù (4:jiāo jiāo) (5:huā),
+  en: Yes. When (1:work) gets (2:tiring), I go (3:outside) to (4:water) the (5:flowers),
+  es: Sí. Cuando estoy (2:cansado) de (1:trabajar), voy (3:afuera) a (4:regar) las (5:flores)
 - id: f918e008-6160-42eb-99ad-7d258fa5daad
-  zh-hans: 把这些(1:盆景:12)(2:修整:23)(2:修整:23)。这是很好的休息。
-  pinyin: bǎ zhèxiē (1:pénjǐng) (2:xiūzhěng) (3:xiūzhěng). Zhè shì hěn hǎo de xiūxi.
-  en: and (2:prune) these (1:bonsai) plants. It’s a good way to relax.
-  es: y (2:podar) estos (1:bonsáis). Es un buen descanso.
+  zh-hans: 把这些(1:盆景:12)(2:修整:23)(2:修整:23)。这是很好的(3:休息)。
+  pinyin: bǎ zhèxiē (1:pénjǐng) (2:xiūzhěng) (3:xiūzhěng). Zhè shì hěn hǎo de (3:xiūxi).
+  en: and (2:prune) these (1:bonsai) plants. It’s a good way to (3:relax).
+  es: y (2:podar) estos (1:bonsáis). Es un buen (3:descanso).
 - id: c17500cd-933d-4317-909e-deb5675e13a4
-  zh-hans: (1:盆景:12)是一种(2:艺术:24)。听说，种(3:盆景:12)很不(4:容易)。
-  pinyin: (1:Pénjǐng) shì yī zhǒng (2:yìshù). Tīng shuō, zhòng (3:pénjǐng) hěn bù (4:róngyì).
-  en: (1:Bonsai) plants are a type of (2:art). I heard, planting (3:bonsai) is not (4:easy).
-  es: El (1:bonsái) es un (2:arte). He oído que cultivar (3:bonsáis) no es (4:fácil).
+  zh-hans: (1:盆景:12)是一种(2:艺术:24)。(3:听说)，种(4:盆景:12)很不(5:容易)。
+  pinyin: (1:Pénjǐng) shì yī zhǒng (2:yìshù). (3:Tīng shuō), zhòng (4:pénjǐng) hěn bù (5:róngyì).
+  en: (1:Bonsai) plants are a type of (2:art). I (3:heard), planting (4:bonsai) is not (5:easy).
+  es: El (1:bonsái) es un (2:arte). He (3:oído) que cultivar (4:bonsáis) no es (5:fácil).
 - id: 92b5d32f-fe10-44af-bcbf-ca1239eb1f2c
-  zh-hans: 张教授，您还真是一位(1:园艺师:25)呢！
-  pinyin: Zhāng jiàoshòu, nín hái zhēnshi yī wèi (1:yuányìshī) ne!
-  en: Professor Zhang, you also really are a (1:gardener)!
-  es: Profesor Zhang, ¡usted es realmente un (1:horticultor)!
+  zh-hans: (1:张)(2:教授)，您还真是一位(3:园艺师:25)呢！
+  pinyin: (1:Zhāng) (2:jiàoshòu), nín hái zhēnshi yī wèi (3:yuányìshī) ne!
+  en: (2:Professor) (1:Zhang), you also really are a (3:gardener)!
+  es: (2:Profesor) (1:Zhang), ¡usted es realmente un (3:horticultor)!
 - id: a4a8c9f9-2ee5-4930-9908-61f4fbabfc22
-  zh-hans: 我哪儿是(1:园艺师:25)？这只是一点儿(2:爱好)。
-  pinyin: Wǒ nǎr shì (1:yuányìshī)? Zhè zhǐshì yīdiǎnr (2:àihào).
-  en: Me a (1:gardener)? This is only a small (2:hobby).
-  es: ¿Por dónde soy un (1:horticultor)? Es sólo un (2:hobby).
+  zh-hans: 我哪儿是(1:园艺师:25)？这(2:只)是一点儿(3:爱好)。
+  pinyin: Wǒ nǎr shì (1:yuányìshī)? Zhè (2:zhǐ) shì yīdiǎnr (3:àihào).
+  en: Me a (1:gardener)? This is (2:only) a small (3:hobby).
+  es: ¿Por dónde soy un (1:horticultor)? Es (2:sólo) un (3:hobby).
