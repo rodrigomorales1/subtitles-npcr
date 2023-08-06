@@ -10,172 +10,172 @@ metadata:
   add-groups-es: {finished: false, issue_id: 573}
 sentences:
 - id: 2fc81e76-de6f-447d-93df-b0c9d8d53b25
-  zh-hans: 几位来点儿什么？
-  pinyin: Jǐ wèi lái diǎnr shénme?
-  en: What would you all like to order?
-  es: ¿Qué les apatece a ustedes?
+  zh-hans: 几位来(1:点儿)(2:什么)？
+  pinyin: Jǐ wèi lái (1:diǎnr) (2:shénme)?
+  en: (2:What) would you all like to (1:order)?
+  es: ¿(2:Qué) desean (1:ordenar)?
 - id: df3e4c87-8218-414d-848c-6407d09cab01
-  zh-hans: 来一壶茶，再来一些点心。
-  pinyin: Lái yī hú chá, zàilái yīxiē diǎnxīn.
-  en: One pot of hot tea, and some pastries.
-  es: Una tetera y algo para picar.
+  zh-hans: 来一(1:壶)(2:茶)，再来一些(3:点心)。
+  pinyin: Lái yī (1:hú) (2:chá), zàilái yīxiē (3:diǎnxīn).
+  en: One (1:pot) of (2:tea), and some (3:Dim Sum).
+  es: Una (1:vasija) con (2:té) y unos (3:Dim Sum).
 - id: 160526c9-1d89-4478-9ab1-51fd2982723f
-  zh-hans: 好的，请稍等。
-  pinyin: Hǎo de, qǐng shāo děng.
-  en: Got it, please wait a moment.
-  es: Ok, espere por favor.
+  zh-hans: (1:好的)，请稍等。
+  pinyin: (1:Hǎo de), qǐng shāo děng.
+  en: (1:Got it), please wait a moment.
+  es: (1:Ok), espere por favor.
 - id: c0198d9f-60ef-4b8a-b9a3-f6a16ef4dbaf
-  zh-hans: 这就是我常说的老茶馆。
-  pinyin: Zhè jiùshì wǒ cháng shuō de lǎo cháguǎn.
-  en: This is the old teahouse I often talk about.
-  es: Esta es la vieja casa de té de la que siempre hablo.
+  zh-hans: 这就是我(1:常)说的(2:老)(3:茶馆)。
+  pinyin: Zhè jiùshì wǒ (1:cháng) shuō de (2:lǎo) (3:cháguǎn).
+  en: This is the (2:old) (3:teahouse) I (1:often) talk about.
+  es: Esta es la (2:vieja) (3:casa de té) de la que (2:usualmente) hablo.
 - id: f296ff52-3ac2-4b7a-ad96-4459dd79b592
-  zh-hans: 今天我把你们带到茶馆来，
-  pinyin: Jīntiān wǒ bǎ nǐmen dài dào cháguǎn lái,
-  en: I brought you here today, so
-  es: Los he traído hoy aquí a la casa de té,
+  zh-hans: (1:今天)我把(2:你们)带到(3:茶馆)来，
+  pinyin: (1:Jīntiān) wǒ bǎ (2:nǐmen) dài dào (3:cháguǎn) lái,
+  en: I brought (2:you) here, the (3:teahouse), (1:today), so
+  es: (2:Los) he traído (1:hoy) aquí a la (3:casa de té),
 - id: 80f109c8-1fcc-4f3a-82e9-56be0b821fff
-  zh-hans: 你们可以了解一下我们这儿的风俗。
-  pinyin: nǐmen kěyǐ liǎo jiè yīxià wǒmen zhèr de fēngsú.
-  en: you can understand our customs here.
-  es: para que ustedes puedan aprender sobre nuestras costumbres.
+  zh-hans: (1:你们)可以(2:了解)一下我们这儿的(3:风俗)。
+  pinyin: (1:nǐmen) kěyǐ (2:liǎo) jiè yīxià wǒmen zhèr de (3:fēngsú).
+  en: (1:you) can (2:understand) our (3:customs) here.
+  es: para que (1:ustedes) puedan (2:conocer) sobre nuestras (3:costumbres).
 - id: 9cd5f933-e05f-4527-838a-87832aa6599c
-  zh-hans: 茶馆里人不少，真热闹。
-  pinyin: Cháguǎn lǐ rén bù shǎo, zhēn rènào.
-  en: There are lots of people in the teahouse, very lively.
-  es: Las personas en la casa del té son muchas, está muy animada.
+  zh-hans: (1:茶馆)里人不少，真(2:热闹)。
+  pinyin: (1:Cháguǎn) lǐ rén bù shǎo, zhēn (2:rènào).
+  en: There are lots of people in the (1:teahouse), very (2:lively).
+  es: Las personas en la (1:casa del té) son muchas, está muy (2:animada).
 - id: aecbf3ab-b64f-478f-87c1-d5227bcf802b
-  zh-hans: 他们说话的声音太大了。
-  pinyin: Tāmen shuōhuà de shēngyīn tài dàle.
-  en: They are speaking too loudly.
-  es: El volumen con el que hablan ellos es demasiado alto.
+  zh-hans: 他们(2:说话)的(1:声音)太大了。
+  pinyin: Tāmen (2:shuōhuà) de (1:shēngyīn) tài dàle.
+  en: The (1:volume) at which they (2:speak) is too loud.
+  es: El (1:volumen) con el que (2:hablan) ellos es demasiado alto.
 - id: b302f28b-6b4d-4ac4-b3cc-0b5f44b42dfa
-  zh-hans: 茶来了！
-  pinyin: Chá láile! Nín jǐ wèi qǐng màn yòng.
-  en: Tea is here!
+  zh-hans: (1:茶)来了！
+  pinyin: (1:Chá) láile!
+  en: (1:Tea) is here!
   es: ¡Aquí está el té!
 - id: 8b90f6a8-ceed-43da-bc9f-d07101a5a2c6
-  zh-hans: 请茶。
-  pinyin: Qǐng chá.
-  en: Please, enjoy the tea.
-  es: Tome té, por favor.
+  zh-hans: 请(1:茶)。
+  pinyin: Qǐng (1:chá).
+  en: Please, enjoy the (1:tea).
+  es: Tome (1:té), por favor.
 - id: c810fd25-2c51-47dd-ae80-f5326222f44c
-  zh-hans: 谢谢。
-  pinyin: Xièxiè.
-  en: Thanks.
-  es: Gracias.
+  zh-hans: (1:谢谢)。
+  pinyin: (1:Xièxiè).
+  en: (1:Thanks).
+  es: (1:Gracias).
 - id: 302e8215-d53b-437c-8821-fcbbf03da199
-  zh-hans: 不客气。
-  pinyin: Bù kèqì.
-  en: You're welcome.
-  es: De nada.
+  zh-hans: (1:不客气)。
+  pinyin: (1:Bù kèqì).
+  en: You're (1:welcome).
+  es: (1:De nada).
 - id: 6822437b-7445-454f-bd10-d91085d1612d
-  zh-hans: 先生，请茶。
-  pinyin: Xiānshēng, qǐng chá.
-  en: Please have some tea, sir.
-  es: Señor, por favor, tenga un poco de té.
+  zh-hans: (1:先生)，请(2:茶)。
+  pinyin: (1:Xiānshēng), qǐng (2:chá).
+  en: Please have some (2:tea), (1:sir).
+  es: (1:Señor), por favor, tenga un poco de (2:té).
 - id: 76a7b316-24c3-46ca-b173-54f22af2d001
-  zh-hans: 您几位请慢用。
-  pinyin: Nín jǐ wèi qǐng màn yòng.
-  en: You all please enjoy.
-  es: Disfruten de su té.
+  zh-hans: 您几位(1:请)慢用。
+  pinyin: Nín jǐ wèi (1:qǐng) màn yòng.
+  en: You all (1:please) enjoy.
+  es: (1:Por favor), disfruten de su té.
 - id: cc910833-294c-4a6b-89f1-76a9f43e863b
-  zh-hans: 我们正在说声音大，这位服务员的声音更大。
-  pinyin: Wǒmen zhèngzài shuō shēngyīn dà, zhè wèi fúwùyuán de shēngyīn gèng dà.
-  en: We were just talking loudly, and this waiter’s voice was even louder.
-  es: Hablábamos de voces altas, y la voz de esta camarero es aún más alta.
+  zh-hans: 我们正在说(1:声音)大，这位(2:服务员)的(3:声音)更大。
+  pinyin: Wǒmen zhèngzài shuō (1:shēngyīn) dà, zhè wèi (2:fúwùyuán) de (3:shēngyīn) gèng dà.
+  en: We were talking of loud (1:voices), and this (2:waiter)’s (3:voice) was even louder.
+  es: Hablábamos de (1:voces) altas, y la (3:voz) de esta (2:camarero) es aún más alta.
 - id: ba6676ea-358b-4582-85da-97dd8ee548a3
-  zh-hans: 茶馆就是最热闹的地方。
-  pinyin: Cháguǎn jiùshì zuì rènào dì dìfāng.
-  en: The teahouse is the most lively place.
-  es: Las casas de té son los lugares más animados.
+  zh-hans: (1:茶馆)就是最(2:热闹)的地方。
+  pinyin: (1:Cháguǎn) jiùshì zuì (2:rènào) dì dìfāng.
+  en: The (1:teahouse) is the most (2:lively) place.
+  es: Las (1:casas de té) son los lugares más (2:animados).
 - id: 05942af2-a5b5-457e-b961-c269c6948736
-  zh-hans: 有的人还把舞台搬进茶馆来了，
-  pinyin: Yǒu de rén hái bǎ wǔtái bān jìn cháguǎn láile,
-  en: Some people even move a stage inside the teahouse,
-  es: Algunas personas incluso trasladan el escenario de baile a la casa de té.
+  zh-hans: (1:有的人)还把(2:舞台)搬进(3:茶馆)来了，
+  pinyin: (1:Yǒu de rén) hái bǎ (2:wǔtái) bān jìn (3:cháguǎn) láile,
+  en: (1:Some people) even move a (2:stage) inside the (3:teahouse),
+  es: (1:Algunas personas) incluso trasladan el (2:escenario de baile) a la (3:casa de té).
 - id: c60b58d9-10cd-447f-bb6e-2be5fabd9506
-  zh-hans: 在茶馆里唱戏，比这儿还热闹呢。
-  pinyin: zài cháguǎn lǐ chàngxì, bǐ zhèr hái rènào ne.
-  en: to perform in the teahouse, which is even more lively than here.
-  es: Cantar ópera en una casa de té es aún más animado que aquí.
+  zh-hans: 在(1:茶馆)里唱戏，比这儿还(2:热闹)呢。
+  pinyin: zài (1:cháguǎn) lǐ chàngxì, bǐ zhèr hái (2:rènào) ne.
+  en: to perform in the (1:teahouse), which is even more (2:lively) than here.
+  es: Cantar ópera en una (1:casa de té) es aún más (2:animado) que aquí.
 - id: ee05d845-e503-4b97-a551-a1b7283987d6
-  zh-hans: 我觉得，在公共场所说话的声音应该小一点儿。
-  pinyin: Wǒ juéde, zài gōnggòng chǎngsuǒ shuōhuà de shēngyīn yīnggāi xiǎo yīdiǎnr.
-  en: I feel that, in public places speaking should be a little quieter.
-  es: Creo que deberíamos bajar la voz en los lugares públicos.
+  zh-hans: 我觉得，在(1:公共)(2:场所)(3:说话)的声音(4:应该)小一点儿。
+  pinyin: Wǒ juéde, zài (1:gōnggòng) (2:chǎngsuǒ) (3:shuōhuà) de shēngyīn (4:yīnggāi) xiǎo yīdiǎnr.
+  en: I feel that, in (1:public) (2:places) (3:speaking) (4:should) be a little quieter.
+  es: Creo que (4:deberíamos) bajar la voz cuando (3:hablamos) en los (2:lugares) (1:públicos).
 - id: eeb05c86-34f7-4df3-af95-01801e1f62d9
-  zh-hans: 来中国以后，我发现在不少饭馆、
-  pinyin: Lái Zhōngguó yǐhòu, wǒ fāxiàn zài bù shǎo fànguǎn,
-  en: After coming to China, I discovered that in many restaurants,
-  es: Después de venir a China, me di cuenta de que en muchos restaurantes,
+  zh-hans: 来(1:中国)以后，我(2:发现)在不少(3:饭馆)、
+  pinyin: Lái (1:Zhōngguó) yǐhòu, wǒ (2:fāxiàn) zài bù shǎo (3:fànguǎn),
+  en: After coming to (1:China), I (2:discovered) that in many (3:restaurants),
+  es: Después de venir a (1:China), me (2:di cuenta) de que en muchos (3:restaurantes),
 - id: a8b9c9d7-db2c-4f6a-87f4-62ef2e3f716b
-  zh-hans: 商店或者车站，人们说话的声音都很大。
-  pinyin: shāngdiàn huòzhě chēzhàn, rénmen shuōhuà de shēngyīn dōu hěn dà.
-  en: shops or train stations, everyone’s talking is very loud.
-  es: tiendas y estaciones, el sonido con la que la gente habla es muy alto.
+  zh-hans: (1:商店)或者(2:车站)，(3:人们)说话的声音都很(4:大)。
+  pinyin: (1:shāngdiàn) huòzhě (2:chēzhàn), (3:rénmen) shuōhuà de shēngyīn dōu hěn (4:dà).
+  en: (1:shops) or (2:train stations), (3:everyone)’s talking is very (4:loud).
+  es: (1:tiendas) y (2:estaciones), el volumen del habla de (3:las personas) habla es muy (4:alto).
 - id: 9f33ec4c-288d-4f7a-9d58-5b607209d67e
-  zh-hans: 说实在的，我真有点儿不习惯。
-  pinyin: Shuō shízài de, wǒ zhēn yǒudiǎnr bù xíguàn.
-  en: Honestly, I’m not really that used to it.
-  es: Para ser sincero, no estoy acostumbrado.
+  zh-hans: (1:说实在的)，我(2:真)有点儿不(3:习惯)。
+  pinyin: (1:Shuō shízài de), wǒ (2:zhēn) yǒudiǎnr bù (3:xíguàn).
+  en: (1:Honestly), I’m not (2:really) that (3:used to) it.
+  es: (1:Para ser sincero), no estoy (2:realmente) (3:acostumbrado).
 - id: 9451535f-75bd-4590-b281-481ece93b7fe
-  zh-hans: 到茶馆来的人都喜欢热闹。
-  pinyin: Dào cháguǎn lái de rén dōu xǐhuan rènào.
-  en: All the people who come to the teahouse enjoy its liveliness.
-  es: A la gente que viene a una casa de té le gusta pasárselo bien.
+  zh-hans: 到(1:茶馆)来的人都喜欢(2:热闹)。
+  pinyin: Dào (1:cháguǎn) lái de rén dōu xǐhuan (2:rènào).
+  en: All the people who come to the (1:teahouse) enjoy its (2:liveliness).
+  es: La gente que viene a una (1:casa de té) le gusta que esté (2:animado).
 - id: d8b1b804-97cc-4a22-aac7-61bc32caee50
-  zh-hans: 大家一边喝茶，一边聊天，聊得高兴的时候，
-  pinyin: Dàjiā yì biān hē chá, yībiān liáotiān, liáo dé gāoxìng de shíhou,
-  en: Everyone drinks tea and chats, and while chatting happily
-  es: Cuando están contentos y charlan mientras beben té, cuando están charlando alegremente,
+  zh-hans: (1:大家)一边(2:喝)(3:茶)，一边(4:聊天)，(5:聊)得(6:高兴)的时候，
+  pinyin: (1:Dàjiā) yì biān (2:hē) (3:chá), yībiān (4:liáotiān), (5:liáo) dé (6:gāoxìng) de shíhou,
+  en: (1:Everyone) (2:drinks) (3:tea) and (4:chats), and while (5:chatting) (6:happily)
+  es: (1:Todos) (2:beben) (3:té), y (4:charlan). Cuando están (5:charlando) (6:alegremente),
 - id: a1cf95e1-9dd4-4e2f-a7c7-3133dda0c8da
-  zh-hans: 说话的声音就会越来越大。
-  pinyin: shuōhuà de shēngyīn jiù huì yuè lái yuè dà.
-  en: voices get louder and louder.
-  es: sus voces se hacen cada vez más altas.
+  zh-hans: 说话的(1:声音)就会越来越大。
+  pinyin: shuōhuà de (1:shēngyīn) jiù huì yuè lái yuè dà.
+  en: (1:voices) get louder and louder.
+  es: sus (1:voces) se hacen cada vez más altas.
 - id: 8293b60b-3b2c-4db6-b02c-6861833ff6aa
-  zh-hans: 喜欢安静的人不会到茶馆来。
-  pinyin: Xǐhuan ānjìng de rén bù huì dào cháguǎn lái.
-  en: People who like peace and quiet don’t come to the teahouse.
-  es: La gente a la que le gusta estar callada no viene a las casas de té.
+  zh-hans: (1:喜欢)(2:安静)的人不会到(3:茶馆)来。
+  pinyin: (1:Xǐhuan) (2:ānjìng) de rén bù huì dào (3:cháguǎn) lái.
+  en: People who (1:like) (2:peace) and quiet don’t come to the (3:teahouse).
+  es: La gente a la que le (1:gusta) la (2:tranquilidad) no viene a las (3:casas de té).
 - id: e4f257f9-69db-45e1-b2a0-28f855cfc387
-  zh-hans: 他们常常到别的地方去，比如去咖啡馆。
-  pinyin: Tāmen chángcháng dào bié dì dìfāng qù, bǐrú qù kāfēi guǎn.
-  en: They often go to other places, such as coffee shops.
-  es: Suelen ir a otro sitio, como a una cafetería.
+  zh-hans: 他们(1:常常)到(2:别)的地方去，比如去(3:咖啡馆)。
+  pinyin: Tāmen (1:chángcháng) dào (2:bié) dì dìfāng qù, bǐrú qù (3:kāfēi guǎn).
+  en: They (1:often) go to (2:other) places, such as (3:coffee shops).
+  es: (1:Suelen) ir a (2:otros) sitios, como a una (3:cafetería).
 - id: d660e2c0-20e5-4b7e-b1db-2fbad0f280cd
-  zh-hans: 林娜说得对。在公共场所，
-  pinyin: Lín Nà shuō de duì. Zài gōnggòng chǎngsuǒ,
-  en: Lin Na is right. In public places,
-  es: Linna tiene razón. En los lugares públicos.
+  zh-hans: (1:林娜)说得对。在(2:公共)(3:场所)，
+  pinyin: (1:Lín Nà) shuō de duì. Zài (2:gōnggòng) (3:chǎngsuǒ),
+  en: (1:Lin Na) is right. In (2:public) (3:places),
+  es: (1:Linna) tiene razón. En los (3:lugares) (2:públicos).
 - id: 53bd8131-e44f-4f71-b804-91beb0dbda43
-  zh-hans: 有的人说话的声音太大了。
-  pinyin: yǒu de rén shuōhuà de shēngyīn tài dàle.
-  en: some people talk too loudly.
-  es: algunas personas hablan demasiado alto.
+  zh-hans: (1:有的人)(2:说话)的(3:声音)(4:太)(5:大)了。
+  pinyin: (1:yǒu de rén) (2:shuōhuà) de (3:shēngyīn) (4:tài) (5:dàle).
+  en: the (3:volume) at which (1:some people) (2:talk) is (4:too) (5:high).
+  es: el (3:volumen) de (1:algunas personas) cuando (2:hablan) (4:demasiado) (5:alto).
 - id: 71d5646d-38e5-4e3d-aaff-fff83bc28736
-  zh-hans: 我想在这儿聊一会儿天，
-  pinyin: Wǒ xiǎng zài zhèr liáo yīhuǐr tiān,
-  en: I thought we could chat here a little while,
-  es: Me gustaría hablar aquí un rato.
+  zh-hans: 我(1:想)在(2:这儿)(3:聊)(4:一会儿)(3:天)，
+  pinyin: Wǒ (1:xiǎng) zài (2:zhèr) (3:liáo) (4:yīhuǐr) (3:tiān),
+  en: I (1:thought) we could (3:chat) (2:here) (4:a little while),
+  es: Yo (1:quería) (3:charlar) (3:aquí) (4:un rato),
 - id: b62f19e3-d783-4a9c-bdc3-be737bbf37ea
-  zh-hans: 可是你们都觉得这儿太闹。
-  pinyin: kěshì nǐmen dōu juéde zhèr tài nào.
-  en: but you all feel here is too lively.
-  es: Pero todos ustedes piensan que es demasiado ruidoso.
+  zh-hans: (1:可是)你们都(2:觉得)这儿太(3:闹)。
+  pinyin: (1:kěshì) nǐmen dōu (2:juéde) zhèr tài (3:nào).
+  en: (1:but) you all (2:feel) here is too (3:noisy).
+  es: (1:Pero) todos ustedes (2:piensan) que es demasiado (3:ruidoso).
 - id: 1d8cdb9d-7b0c-4fa4-9b83-5485a0a84971
-  zh-hans: 好，咱们走吧。前边有一个公园，那儿人不多。
-  pinyin: Hǎo, zánmen zǒu ba. Qiánbian yǒu yīgè gōngyuán, nàr rén bù duō.
-  en: No matter, we can leave. In front is a park, not too many people there.
-  es: Bueno, vámonos. Hay un parque más adelante que no está muy concurrido.
+  zh-hans: 好，(1:咱们)走吧。(2:前边)有一个(3:公园)，那儿人(4:不)多。
+  pinyin: Hǎo, (1:zánmen) zǒu ba. (2:Qiánbian) yǒu yīgè (3:gōngyuán), nàr rén (4:bù) duō.
+  en: Ok, (1:we) can leave. (2:In front) is a (3:park), (4:not) too many people there.
+  es: Bueno, (1:nos) vamos. más adelante hay un (3:parque), (4:no) hay muchas personas ahí.
 - id: a143faa5-a165-4ed6-8f1a-05c0c1735746
-  zh-hans: 咱们到那个公园去散散步。
-  pinyin: Zánmen dào nàgè gōngyuán qù sàn sànbù.
-  en: We can go to the park for a walk.
-  es: Demos un paseo por ese parque.
+  zh-hans: (1:咱们)到那个(2:公园)去散散步。
+  pinyin: (1:Zánmen) dào nàgè (2:gōngyuán) qù sàn sànbù.
+  en: (1:We) can go to the (2:park) for a walk.
+  es: (1:Nosotros) demos un paseo por ese (2:parque).
 - id: 690b476a-edf6-4b34-ac1d-34471e829fc6
-  zh-hans: 好的，咱们一边散步，一边聊天。
-  pinyin: Hǎo de, zánmen yībiān sànbù, yībiān liáotiān.
-  en: Great, we can walk and chat. Waiter!
-  es: Vale, caminemos y hablemos.
+  zh-hans: 好的，(1:咱们)一边(2:散步)，一边(3:聊天)。
+  pinyin: Hǎo de, (1:zánmen) yībiān (2:sànbù), yībiān (3:liáotiān).
+  en: Great, (1:we) can (2:walk) and (3:chat). Waiter!
+  es: Vale, (1:nosotros) (2:caminemos) y (3:hablemos).
