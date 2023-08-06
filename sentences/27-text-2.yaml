@@ -25,30 +25,30 @@ sentences:
   en: know that people from (1:different) (2:countries) have (3:different) (4:customs).
   es: sabemos que la gente de (1:distintos) (2:países) tiene (4:costumbres) (3:diferentes).
 - id: 9f919431-f4ca-4b0f-b111-77fef85cf85c
-  zh-hans: 对我们来说，这很(1:正常:2)。
-  pinyin: Duì wǒmen lái shuō, zhè hěn (1:zhèngcháng).
-  en: From our perspective, this is (1:normal).
-  es: Para nosotros, esto es (1:normal).
+  zh-hans: (1:对我们来说)，这很(2:正常:2)。
+  pinyin: (1:Duì wǒmen lái shuō), zhè hěn (2:zhèngcháng).
+  en: (1:To us), this is (2:normal).
+  es: (1:Para nosotros), esto es (2:normal).
 - id: 37fbff72-ffb2-45f3-a06c-12a36358fb51
   zh-hans: 不(1:了解)(2:外国)(3:文化)的(4:人)会怎么想呢？
   pinyin: Bù (1:liǎojiě) (2:wàiguó) (3:wénhuà) de rén huì zěnme xiǎng ne?
   en: What about (4:people) who do not (1:understand) (2:foreign) (3:cultures), how do they think?
   es: ¿Qué piensa la (4:gente) que no (1:conoce) la (3:cultura) (2:extranjera)?
 - id: 6dcb2483-7a27-45a8-b47d-c33aa4a1b424
-  zh-hans: 有些事儿他们会觉得很不(1:习惯)，(2:比如说)，
-  pinyin: Yǒuxiē shìr tāmen huì juéde hěn bù (1:xíguàn), (2:bǐrú shuō),
-  en: Some things they will not be (1:accustomed) to, (2:for example),
-  es: Hay cosas con las que aún no se han (1:acostumbrado), (2:por ejemplo),
+  zh-hans: (1:有些)(2:事儿)(3:他们)会觉得很不(3:习惯)，(4:比如说)，
+  pinyin: (1:Yǒuxiē) (2:shìr) (3:tāmen) huì juéde hěn bù (3:xíguàn), (4:bǐrú shuō),
+  en: (1:Some) (2:things) (3:they) will not be (3:accustomed) to, (4:for example),
+  es: (1:Algunas) (2:cosas) con las que (3:ellos) aún no se han (3:acostumbrado), (4:por ejemplo),
 - id: dc78f393-00e5-4ff3-845c-12795e4763ec
-  zh-hans: 中国人吃饭用(1:筷子:3)，西方人吃饭用(2:刀叉:4)。
-  pinyin: Zhōngguó rén chīfàn yòng (1:kuàizi), xīfāng rén chīfàn yòng (2:dāochā).
-  en: Chinese people eat using (1:chopsticks), western people eat using a (2:knife and fork).
-  es: los chinos comen con (1:palillos), los occidentales con (2:cuchillo y tenedor).
+  zh-hans: (1:中国)(2:人)(3:吃饭)用(3:筷子:3)，(4:西方)(5:人)(6:吃饭)用(7:刀叉:4)。
+  pinyin: (1:Zhōngguó) (2:rén) (3:chīfàn) yòng (3:kuàizi), (4:xīfāng) (5:rén) (6:chīfàn) yòng (7:dāochā).
+  en: (1:Chinese) (2:people) (3:eat) using (3:chopsticks), (4:western) (5:people) (6:eat) using a (7:knife and fork).
+  es: las (2:personas) de (1:China) usan (3:palillos) para (3:comen), las (5:personas) de (4:occidente) usan (7:cuchillo y tenedor) para (6:comer).
 - id: 5eed6d60-91d7-4a22-a4fd-057a43c2f3be
-  zh-hans: 西方人把(1:食物:5)放在自己的(2:盘子:7)里，
-  pinyin: Xīfāng rén bǎ (1:shíwù) fàng zài zìjǐ de (2:pánzi) lǐ,
-  en: Western people put (1:food) on their own (2:plate),
-  es: Los occidentales ponen la (1:comida) en su (2:plato),
+  zh-hans: (1:西方)(2:人)把(3:食物:5)放在自己的(4:盘子:7)里，
+  pinyin: (1:Xīfāng) (2:rén) bǎ (3:shíwù) fàng zài zìjǐ de (4:pánzi) lǐ,
+  en: (1:Western) (2:people) put (3:food) on their own (4:plate),
+  es: Las (2:personas) del (1:occidente) ponen la (3:comida) en su (4:plato),
 - id: 3d892fec-e2ab-4f3e-a6b7-fd1915b503ff
   zh-hans: 把大(1:块:6)(2:切:8)成小(3:块:6)，再把它送到(4:嘴:9)里。
   pinyin: bǎ dà (1:kuài) (2:qiè) chéng xiǎo (3:kuài), zài bǎ tā sòng dào (4:zuǐ) lǐ.
