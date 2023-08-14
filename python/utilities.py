@@ -26,7 +26,9 @@ def get_data_timestamps_sentences(file_path_timestamps, file_path_sentences):
     # can be used twice.
 
     for data_item in data_timestamps_sentences:
-        sentence  = next(item for item in data_sentences if item['id'] == data_item['id'])
+        sentence  = next((item for item in data_sentences if item['id'] == data_item['id']), None)
+        if sentence == None:
+            raise Exception("No sentence found for ID: %s" % data_item['id'])
         for key, value in sentence.items():
             if key == 'id':
                 continue
