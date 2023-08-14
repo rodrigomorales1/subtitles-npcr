@@ -308,7 +308,7 @@ sentences:
   zh-hans: 都(1:希望)您在(2:本:3)(3:星期)之内把您的(4:决定)(5:告诉)(6:我们)。
   pinyin: dōu (1:xīwàng) nín zài (2:běn) (3:xīngqí) zhī nèi bǎ nín de (4:juédìng) (5:gàosu) (6:wǒmen).
   en: we (1:hope) you can (5:tell) (6:us) your (4:decision) within this (3:week).
-  es: (1:esperamos) que (6:nos) pueda (5:decir) su (4:decisión) dentro de una (3:semana).
+  es: (1:esperamos) que (6:nos) pueda (5:decir) su (4:decisión) dentro de esta (3:semana).
 - id: 46c5a4cc5cc9409db3620e484a2948cd
   zh-hans: (1:好的)。
   pinyin: (1:Hǎo de).
