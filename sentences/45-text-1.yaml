@@ -270,10 +270,10 @@ sentences:
   en: our (3:views) are (1:still) the same as (0:last time).
   es: (1:seguimos) teniendo la misma (3:opinión) que la (0:última vez).
 - id: 1732cca6240f4e45a006d5d9edce00be
-  zh-hans: 在我们(1:公司)，(2:经理)的(3:工资)一般比较(4:高)。
-  pinyin: Zài wǒmen (1:gōngsī), (2:jīnglǐ) de (3:gōngzī) yībān bǐjiào (4:gāo).
-  en: At our (1:company), (2:manager) (3:salaries) are relatively (4:high).
-  es: En nuestra (1:empresa), el (3:sueldo) de los (2:directivos) suele ser más (4:alto).
+  zh-hans: 在我们(1:公司)，(2:经理)的(3:工资)一般(4:比较)(5:高)。
+  pinyin: Zài wǒmen (1:gōngsī), (2:jīnglǐ) de (3:gōngzī) yībān (4:bǐjiào) (5:gāo).
+  en: At our (1:company), (2:manager) (3:salaries) are (4:relatively) (5:high).
+  es: En nuestra (1:empresa), el (3:sueldo) del (2:gerente) es (4:relativamente) (5:alto).
 - id: 81067b5125884401a571bb3de30018b6
   zh-hans: (1:除了)(2:工作)(3:要求:8)和(4:工资)以外，您还有(5:问题)吗？
   pinyin: (1:Chúle) (2:gōngzuò) (3:yāoqiú) hé (4:gōngzī) yǐwài, nín hái yǒu (5:wèntí) ma?
