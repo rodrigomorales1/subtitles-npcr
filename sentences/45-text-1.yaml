@@ -215,10 +215,10 @@ sentences:
   en: (1:Very) (2:good). We have (3:looked) at many (4:people)’s (5:resumes),
   es: (1:Muy) (2:bien). Hemos (3:mirado) los (5:CV) de muchas (4:personas) y
 - id: 9fed66074a6049b19b71ad3b950abea7
-  zh-hans: (1:认为)您的(2:条件)不错。
-  pinyin: (1:rènwéi) nín de (2:tiáojiàn) bùcuò.
-  en: and we (1:think) that your (2:qualifications) are not bad.
-  es: (1:creemos) que tienes buenas (2:cualificaciones).
+  zh-hans: (1:认为)(2:您)的(3:条件)(4:不错)。
+  pinyin: (1:rènwéi) (2:nín) de (3:tiáojiàn) (4:bùcuò).
+  en: and we (1:think) that (2:your) (3:qualifications) are (4:not bad).
+  es: (1:creemos) que (2:usted) tiene (4:buenas) (3:cualificaciones).
 - id: 5172a4efec53437d8e2696fb9242f1ae
   zh-hans: (1:您)是(2:学)(3:工商)(4:管理)的，
   pinyin: (1:Nín) shì (2:xué) (3:gōngshāng) (4:guǎnlǐ) de,
