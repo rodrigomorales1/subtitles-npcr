@@ -146,7 +146,7 @@ sentences:
   es: en (1:Canadá), trabajé como (5:representante) (4:comercial) para una (3:empresa) (2:comercial),
 - id: cb3869f343a643c9a0a97e62691dfcc0
   zh-hans: 有这(1:方面)的(2:工作)(3:经验:12)，
-  pinyin: yǒu zhè fāngmiàn de (2:gōngzuò) (3:jīngyàn),
+  pinyin: yǒu zhè (1:fāngmiàn) de (2:gōngzuò) (3:jīngyàn),
   en: I have (2:work) (3:experience) in this (1:field),
   es: tengo (3:experiencia) de (2:trabajo) en este (1:campo).
 - id: 8e40e1e5ce634c8f86479ed81d0c3e8c
@@ -231,7 +231,7 @@ sentences:
   es: y sabe (1:chino).
 - id: c62cf9ceefd148c99cd4d7450c186d39
   zh-hans: (1:还有)(2:这)(3:方面)的(4:工作)(5:经验:12)。
-  pinyin: (1:háiyǒu) zhè (3:fāngmiàn) de (4:gōngzuò) (5:jīngyàn).
+  pinyin: (1:háiyǒu) (2:zhè) (3:fāngmiàn) de (4:gōngzuò) (5:jīngyàn).
   en: (1:moreover) you have (4:work) (5:experience) in (2:this) (3:field).
   es: (1:además) cuentas con (5:experiencia) de (4:trabajo) en (2:este) (3:campo).
 - id: cfb61ee96cb34885a22967ec4ca5f06d
