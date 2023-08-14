@@ -235,10 +235,10 @@ sentences:
   en: and there's also the (1:aspect) of (2:work) (3:experience).
   es: y el (1:aspecto) de la (3:experiencia) en este campo.
 - id: cfb61ee96cb34885a22967ec4ca5f06d
-  zh-hans: 我(1:想)您会很(2:快)地(3:适应:18)
-  pinyin: Wǒ (1:xiǎng) nín huì hěn (2:kuài) de (3:shìyìng)
-  en: I (1:think) you will very (2:quickly) (3:adapt)
-  es: (1:Creo) que serás capaz de (3:adaptarte) (2:rápidamente)
+  zh-hans: 我(1:想)(2:您)会很(3:快)地(4:适应:18)
+  pinyin: Wǒ (1:xiǎng) (2:nín) huì hěn (3:kuài) de (4:shìyìng)
+  en: I (1:think) (2:you) will very (3:quickly) (4:adapt)
+  es: (1:Creo) que (2:usted) será capaz de (4:adaptarte) (3:rápidamente)
 - id: 713cd878-0a17-4548-b7e0-37ba3db04137
   zh-hans: (1:这里)的(2:工作)(3:环境)。
   pinyin: (1:zhèlǐ) de (2:gōngzuò) (3:huánjìng).
