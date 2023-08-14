@@ -137,13 +137,13 @@ sentences:
 - id: 5896b04f99bf4a279d96c1c923e06684
   zh-hans: 我在(1:美国)学的是(2:工商:9)(3:管理)，
   pinyin: Wǒ zài (1:Měiguó) xué de shì (2:gōngshāng) (3:guǎnlǐ),
-  en: In (1:America) I studied (2:business) (3:management),
-  es: Estudié (3:Administración) (2:Empresarial) en (1:Estados Unidos).
+  en: In (1:America) I studied (2:business) (3:management), and
+  es: Estudié (3:Administración) (2:Empresarial) en (1:Estados Unidos),
 - id: eb57dde5132b4bff9ee895026530ebef
   zh-hans: 在(1:加拿大)当过一家(2:贸易:10)(3:公司)的(4:商务:6)(5:代表:11)，
   pinyin: zài (1:Jiānádà) dāngguò yījiā (2:màoyì) (3:gōngsī) de (4:shāngwù) (5:dàibiǎo),
-  en: and in (1:Canada) I worked as a (4:commercial) (5:representative) for a (2:trading) (3:company),
-  es: Trabajé como (5:representante) (4:comercial) para una (3:empresa) (2:comercial) en (1:Canadá).
+  en: in (1:Canada) I worked as a (4:commercial) (5:representative) for a (2:trading) (3:company), and
+  es: en (1:Canadá), trabajé como (5:representante) (4:comercial) para una (3:empresa) (2:comercial),
 - id: cb3869f343a643c9a0a97e62691dfcc0
   zh-hans: 有这(1:方面)的(2:工作)(3:经验:12)，
   pinyin: yǒu zhè fāngmiàn de (2:gōngzuò) (3:jīngyàn),
