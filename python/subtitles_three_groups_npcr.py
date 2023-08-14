@@ -1,10 +1,7 @@
-import re
 import argparse
-import utilities
 import ast
-import subtitles_three_groups
 import datetime
-import subprocess
+import subtitles_three_groups
 
 parser = argparse.ArgumentParser()
 
@@ -53,9 +50,8 @@ file_path_media = f'audios/{text_id}.flac'
 if args.file_path_output:
     file_path_output = args.file_path_output
 else:
-    date = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d-%H-%M-%S-%Z')
-    commit_hash = subprocess.getoutput('git --no-pager log -n1 --pretty=format:%h')
-    file_path_output = f'{text_id}_audio_{commit_hash}_{date}.mp4'
+    date = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d-%Z')
+    file_path_output = f'{text_id}_audio_{date}.mp4'
 
 subtitles_three_groups.generate_video(
     file_path_media = file_path_media,

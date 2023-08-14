@@ -1,7 +1,6 @@
 import argparse
 import ast
 import datetime
-import subprocess
 import subtitles_single_group_below
 
 parser = argparse.ArgumentParser()
@@ -54,9 +53,8 @@ file_path_media = f'videos/{text_id}.webm'
 if args.file_path_output:
     file_path_output = args.file_path_output
 else:
-    date = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d-%H-%M-%S-%Z')
-    commit_hash = subprocess.getoutput('git --no-pager log -n1 --pretty=format:%h')
-    file_path_output = f'{text_id}_video_{commit_hash}_{date}.mp4'
+    date = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d-%Z')
+    file_path_output = f'{text_id}_video_{date}.mp4'
 
 subtitles_single_group_below.generate_video(
     file_path_media = file_path_media,
