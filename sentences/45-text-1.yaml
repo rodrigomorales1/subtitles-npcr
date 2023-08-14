@@ -148,7 +148,12 @@ sentences:
   zh-hans: 我已经通过了汉语水平考试八级。
   pinyin: wǒ yǐjīng tōngguòle Hànyǔ shuǐpíng kǎoshì bā jí.
   en: and I have already passed the HSK level eight exam.
-  es: He superado el nivel VIII de la Prueba de Competencia en Lengua China (CLPT).
+  es: he pasado el nivel VIII del examen de nivel de chino.
+- id: 7b7fc66d-0c0b-4648-9b12-6691b6fd7c9f
+  zh-hans: 我已经通过了新汉语水平六级考试。
+  pinyin: wǒ yǐjīng tōngguòle xīn hànyǔ shuǐpíng liù jí kǎoshì.
+  en: and I have already passed the sixth level of New HSK exam.
+  es: he pasado el nivel 6 del nuevo examen de nivel de chino.
 - id: 38911fd7d14d4a62bb0c81e06167492c
   zh-hans: 我喜欢中国文化，
   pinyin: Wǒ xǐhuan Zhōngguó wénhuà,
