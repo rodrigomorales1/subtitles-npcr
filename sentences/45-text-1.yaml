@@ -285,10 +285,10 @@ sentences:
   en: (1:At the moment) I don’t have any (2:other) (3:questions).
   es: (1:Ahora) no tengo (2:otra) (3:pregunta).
 - id: af64bf0f48774a4fb2ff8f77ab674256
-  zh-hans: 好。(1:如果)您(2:同意)我们(3:已经)(4:谈)过的(5:一切:20)(6:条件)，
-  pinyin: Hǎo. (1:Rúguǒ) nín (2:tóngyì) wǒmen (3:yǐjīng) (4:tán)guò de (5:yīqiè) (6:tiáojiàn),
-  en: Ok. (1:If) you (2:agree) with (5:all) the (6:conditions) we have (3:already) (4:discussed),
-  es: Ok. (1:Si) (2:estás de acuerdo) con (5:todas) las (6:condiciones) que (3:ya) hemos (4:conversado).
+  zh-hans: 好。(1:如果)(2:您)(3:同意)我们(4:已经)(5:谈)过的(6:一切:20)(7:条件)，
+  pinyin: Hǎo. (1:Rúguǒ) (2:nín) (3:tóngyì) wǒmen (4:yǐjīng) (5:tán)guò de (6:yīqiè) (7:tiáojiàn),
+  en: Ok. (1:If) (2:you) (3:agree) with (6:all) the (7:conditions) we have (4:already) (5:discussed),
+  es: Ok. (1:Si) (2:usted) (3:está de acuerdo) con (6:todas) las (7:condiciones) que (4:ya) hemos (5:conversado).
 - id: 9f27fd4724fd4a80981e85825e4b0af5
   zh-hans: 那么，我们很(1:快)就可以(2:签订:21)(3:工作)(4:合同:22)。
   pinyin: nàme, wǒmen hěn (1:kuài) jiù kěyǐ (2:qiāndìng) (3:gōngzuò) (4:hétóng).
