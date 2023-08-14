@@ -145,10 +145,10 @@ sentences:
   en: and in (1:Canada) I worked as a (4:commercial) (5:representative) for a (2:trading) (3:company),
   es: Trabajé como (5:representante) (4:comercial) para una (3:empresa) (2:comercial) en (1:Canadá).
 - id: cb3869f343a643c9a0a97e62691dfcc0
-  zh-hans: 有这方面的(1:工作)(2:经验:12)，
-  pinyin: yǒu zhè fāngmiàn de (1:gōngzuò) (2:jīngyàn),
-  en: and having this sort of (1:work) (2:experience),
-  es: Tengo (2:experiencia) de (1:trabajo) en este campo.
+  zh-hans: 有这(1:方面)的(2:工作)(3:经验:12)，
+  pinyin: yǒu zhè fāngmiàn de (2:gōngzuò) (3:jīngyàn),
+  en: I have (2:work) (3:experience) in this (1:field),
+  es: tengo (3:experiencia) de (2:trabajo) en este (1:campo).
 - id: 8e40e1e5ce634c8f86479ed81d0c3e8c
   zh-hans: 对(1:中)(2:加)两国的(3:贸易:10)(4:情况)也比较(5:熟悉)。
   pinyin: duì (1:zhōng) (2:jiā) liǎng guó de (3:màoyì) (4:qíngkuàng) yě bǐjiào (5:shúxī).
@@ -227,13 +227,13 @@ sentences:
 - id: 8a1f8a1ddb334041afcea07e62dfef79
   zh-hans: 又会(1:汉语)，
   pinyin: yòu huì (1:Hànyǔ),
-  en: can speak (1:Chinese),
+  en: can speak (1:Chinese), and
   es: y sabe (1:chino).
 - id: c62cf9ceefd148c99cd4d7450c186d39
-  zh-hans: 还有这(1:方面)的(2:工作)(3:经验:12)。
-  pinyin: hái yǒu zhè (1:fāngmiàn) de (2:gōngzuò) (3:jīngyàn).
-  en: and there's also the (1:aspect) of (2:work) (3:experience).
-  es: y el (1:aspecto) de la (3:experiencia) de (2:trabajo).
+  zh-hans: (1:还有)(2:这)(3:方面)的(4:工作)(5:经验:12)。
+  pinyin: (1:háiyǒu) zhè (3:fāngmiàn) de (4:gōngzuò) (5:jīngyàn).
+  en: (1:moreover) you have (4:work) (5:experience) in (2:this) (3:field).
+  es: (1:además) cuentas con (5:experiencia) de (4:trabajo) en (2:este) (3:campo).
 - id: cfb61ee96cb34885a22967ec4ca5f06d
   zh-hans: 我(1:想)(2:您)会很(3:快)地(4:适应:18)
   pinyin: Wǒ (1:xiǎng) (2:nín) huì hěn (3:kuài) de (4:shìyìng)
