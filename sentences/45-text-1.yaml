@@ -10,297 +10,322 @@ metadata:
   add-groups-es: {finished: false, issue_id: 861}
 sentences:
 - id: 76c945c9e00548389289d95c6cc62f81
-  zh-hans: 请问，您是钱总经理吗？
-  pinyin: Qǐngwèn, nín shì Qián zǒng jīnglǐ ma?
-  en: Excuse me, are you General Manager Qian?
-  es: Disculpe, ¿es usted el Director General Qian?
+  zh-hans: (1:请问)，(2:您)是(3:钱)(4:总)(5:经理)吗？
+  pinyin: (1:Qǐngwèn), (2:nín) shì (3:Qián) (4:zǒng) (5:jīnglǐ) ma?
+  en: (1:Excuse me), are (2:you) (4:General) (5:Manager) (3:Qian)?
+  es: (1:Disculpe), ¿es (2:usted) el (5:Gerente) (5:General) (3:Qian)?
 - id: 7ec0de9a30d04b9b91afba0eb928c6b0
-  zh-hans: 是的。
-  pinyin: Shì de.
-  en: I am.
-  es: Sí.
+  zh-hans: (1:是的)。
+  pinyin: (1:Shì de).
+  en: (1:Yes).
+  es: (1:Sí).
 - id: 0b0a9d5cf59c4f0ca690aa5d8981c5b9
-  zh-hans: 您是马大为先生吧？
-  pinyin: Nín shì Mǎ Dàwéi xiānshēng ba?
-  en: You are Mr. Ma Dawei, right?
-  es: Usted es el Sr. Ma Dawei, ¿verdad?
+  zh-hans: (1:您)是(2:马)(3:大为)(4:先生)吧？
+  pinyin: (1:Nín) shì (2:Mǎ) (3:Dàwéi) (4:xiānshēng) ba?
+  en: (1:You) are (4:Mr.) (2:Ma) (3:Dawei), right?
+  es: (1:Usted) es el (4:Sr.) (2:Ma) (3:Dawei), ¿verdad?
 - id: 2d4c38881a4c4bbcbdf1ee2d186ccc72
-  zh-hans: 我是马大为。钱总，您好。
-  pinyin: Wǒ shì Mǎ Dàwéi. Qián zǒng, nín hǎo.
-  en: I am Ma Dawei. GM Qian, hello.
-  es: Soy Dawei Ma. Hola, Director General Qian.
+  zh-hans: (1:我)是(2:马)(3:大为)。(4:钱)(5:总)，您好。
+  pinyin: (1:Wǒ) shì (2:Mǎ) (3:Dàwéi). (4:Qián) (5:zǒng), nín hǎo.
+  en: (1:I) am (2:Ma) (3:Dawei). (5:General) Manager (4:Qian), hello.
+  es: (1:yo) soy (3:Dawei) (2:Ma). Hola, Gerente (5:General) (4:Qian).
 - id: fbba64948a4643d09a928b179364b057
-  zh-hans: 你好。
-  pinyin: Ní hǎo.
-  en: Hello.
-  es: ¿Cómo le va?
+  zh-hans: (1:你好)。
+  pinyin: (1:Ní hǎo).
+  en: (1:Hello).
+  es: (1:Hola).
 - id: 86c0409274d84bfd99850dda3e3446a7
-  zh-hans: 上个月我来贵公司跟张经理谈过一次，
-  pinyin: Shàng gè yuè wǒ lái guì gōngsī gēn Zhāng jīnglǐ tánguò yīcì,
-  en: Last month I came to your company and spoke with Manager Zhang,
-  es: Vine a su empresa el mes pasado para hablar con el Gerente Zhang.
+  zh-hans: (1:上)个(2:月)我来贵(3:公司)跟(4:张)(5:经理)(6:谈)过一次，
+  pinyin: (1:Shàng) gè (2:yuè) wǒ lái guì (3:gōngsī) gēn (4:Zhāng) (5:jīnglǐ) (6:tán)guò yīcì,
+  en: (1:Last) (2:month) I came to your (3:company) and (6:spoke) with (5:Manager) (4:Zhang),
+  es: El (1:anterior) (2:mes), vine a su (3:empresa) y (6:hable) con el (5:Gerente) (4:Zhang),
 - id: 595dc615d8d84c748b19098d02ee3014
-  zh-hans: 后来您的秘书给我打电话，
-  pinyin: hòulái nín de mìshū gěi wǒ dǎ diànhuà,
-  en: afterwards your secretary gave me a call,
-  es: Entonces su secretaria me llamó.
+  zh-hans: (1:后来)您的(2:秘书:2)给我(3:打电话)，
+  pinyin: (1:hòulái) nín de (2:mìshū) gěi wǒ (3:dǎ diànhuà),
+  en: (1:afterwards) your (2:secretary) (3:gave) me (3:a call),
+  es: (1:luego) su (2:secretaria) me (3:llamó),
 - id: c837a917c0484abcaebe478bc1303310
-  zh-hans: 让我今天来公司跟您谈一谈。
-  pinyin: ràng wǒ jīntiān lái gōngsī gēn nín tán yī tán.
-  en: and asked me to come the company today to talk with you.
-  es: Su secretaria me llamó y me pidió que viniera a hablar con usted hoy.
+  zh-hans: (1:让)我(2:今天)来(3:公司)(4:跟)您(5:谈一谈)。
+  pinyin: (1:ràng) wǒ (2:jīntiān) lái (3:gōngsī) (4:gēn) nín (5:tán yī tán).
+  en: and (1:asked) me to come the (3:company) (2:today) to (5:talk) (4:with) you.
+  es: y me (1:pidió) que, (2:hoy), viniera a la (3:compañia) (5:hablar) (4:con) usted.
 - id: 6b8ddc0f1cab4e2a821f8fe61877c4e5
-  zh-hans: 是这样。我们请您来，
-  pinyin: Shì zhèyàng. Wǒmen qǐng nín lái,
-  en: That’s right. We have invited you here,
-  es: Así es. Te pedimos que vinieras.
+  zh-hans: 是这样。(1:我们)(2:请)您来，
+  pinyin: Shì zhèyàng. (1:Wǒmen) (2:qǐng) nín lái,
+  en: That’s right. (1:We) have (2:asked) you to come to
+  es: Así es. (1:Nosotros) te (2:pedimos) que vinieras,
 - id: 9f9288280ade4faba7f3fc0ec1a2f0a0
-  zh-hans: 是想再谈一谈您的求职问题。请坐。
-  pinyin: shì xiǎng zài tán yī tán nín de qiúzhí wèntí. Qǐng zuò,
-  en: to further discuss questions we have on your application. Please take a seat,
-  es: Queremos hablar de su búsqueda de empleo de nuevo. Tome asiento.
+  zh-hans: 是想(1:再)谈一谈您的(2:求职:1)问题。(3:请)(4:坐)。
+  pinyin: shì xiǎng (1:zài) tán yī tán nín de (2:qiúzhí) wèntí. (3:Qǐng) (4:zuò),
+  en: discuss (1:again) questions we have on your (2:application). (3:Please) (4:take a seat),
+  es: Queremos hablar (1:de nuevo) de su (2:solicitud de empleo). (3:Por favor), (4:tome asiento).
 - id: 9130fc53e1cd454293c7e8a6f6f49f14
-  zh-hans: 您想喝点儿什么？
-  pinyin: nín xiǎng hē diǎnr shénme?
-  en: would you like anything to drink?
-  es: ¿Quiere tomar algo?
+  zh-hans: 您(1:想)(2:喝)点儿(3:什么)？
+  pinyin: nín (1:xiǎng) (2:hē) diǎnr (3:shénme)?
+  en: (3:what) do you (1:want) to (2:drink)?
+  es: ¿(3:Qué) (1:quiere) para (2:tomar)?
 - id: 733d492b1b7648e39a312bb500636f9c
-  zh-hans: 不用了，谢谢。
-  pinyin: Bùyòngle, xièxiè.
-  en: No need, thank you.
-  es: No, gracias.
+  zh-hans: 不用了，(1:谢谢)。
+  pinyin: Bùyòngle, (1:xièxiè).
+  en: No need, (1:thanks).
+  es: No, (1:gracias).
 - id: c68f21a0dbad4c3ab307b594cd7f8732
-  zh-hans: 您知道本公司市场开发部要招聘经理。
-  pinyin: Nín zhīdào běn gōngsī shìchǎng kāifā bù yào zhāopìn jīnglǐ.
-  en: You know that this company’s business development department is hiring a manager.
-  es: Usted sabe que estamos buscando un gerente para nuestro departamento de desarrollo de mercado.
+  zh-hans: 您(1:知道)(2:本:3)(3:公司:4)(4:市场:4)(5:开发:4)(6:部:4)
+  pinyin: Nín (1:zhīdào) (2:běn) (3:gōngsī) (4:shìchǎng) (5:kāifā) (6:bù) 
+  en: You (1:know) that this (3:company)’s (4:business) (5:development) (6:department)
+  es: Usted (1:sabe) que el (6:departamento) de (5:desarrollo) de (4:mercado) de esta (3:empresa)
+- id: a79a9d51-1d65-4958-b961-fcf65c90574e
+  zh-hans: 要(1:招聘)(2:经理)。
+  pinyin: yào (1:zhāopìn) (2:jīnglǐ).
+  en: is (1:hiring) a (2:manager).
+  es: está (1:reclutando) un (2:gerente)
 - id: 9169257e05b242e7906a9e2c285c0048
-  zh-hans: 市场开发的工作很重要，
-  pinyin: Shìchǎng kāifā de gōngzuò hěn zhòngyào,
-  en: Business development work is very important,
-  es: El desarrollo del mercado es muy importante.
+  zh-hans: (1:市场)(2:开发)的(3:工作)很(4:重要)，
+  pinyin: (1:shìchǎng) (2:kāifā) de (3:gōngzuò) hěn (4:zhòngyào),
+  en: (1:Business) (2:development) (3:work) is very (4:important),
+  es: El (3:trabajo) de (2:desarrollo) del (1:mercado) es muy (4:importante).
 - id: ea76922544f346fc9c0dc2de02d55634
-  zh-hans: 这个部的经理要常到中国各地出差，
-  pinyin: zhège bù de jīnglǐ yào cháng dào Zhōngguó gèdì chūchāi,
-  en: this department’s manager will have to do many business trips all over China,
-  es: El gerente de este departamento tiene que viajar por toda China.
+  zh-hans: 这个(1:部)的(2:经理)要(3:常)
+  pinyin: zhège (1:bù) de (2:jīnglǐ) yào (3:cháng)
+  en: this (1:department)’s (2:manager) will have to (3:frequently)
+  es: El (2:gerente) de este (1:departamento) tiene que (3:frecuentemente)
+- id: 923e646f-8bf6-4823-b5ad-72c1ee2d98d5
+  zh-hans: 到(1:中国)各地(2:出差:5)，
+  pinyin: dào (1:Zhōngguó) gèdì (2:chūchāi),
+  en: do (2:business trips) all over (1:China),
+  es: (2:hacer viajes de trabajo) por toda (1:China) para
 - id: fca2e6416a004c939481e8e673caf1a7
-  zh-hans: 参加各种商务活动。
-  pinyin: cānjiā gè zhǒng shāngwù huódòng.
-  en: and participate in many commercial activities.
-  es: Tiene que viajar por toda China para participar en diversas actividades empresariales.
+  zh-hans: (1:参加)各种(2:商务:6)(3:活动)。
+  pinyin: (1:cānjiā) gè zhǒng (2:shāngwù) (3:huódòng).
+  en: and (1:participate) in many (2:commercial) (3:activities).
+  es: (1:participar) en diversas (3:actividades) (2:de negocio).
 - id: 9f6f045d25dc45f8b5f568925860d993
-  zh-hans: 这个职务不但要求有工商管理的专业知识，
-  pinyin: Zhège zhíwù bùdàn yāoqiú yǒu gōngshāng guǎnlǐ de zhuānyè zhīshì,
-  en: This position not only requires specialised knowlege of business management,
-  es: Este puesto requiere no sólo conocimientos profesionales de administración de empresas.
+  zh-hans: 这个(1:职务:7)(2:不但)(3:要求:8)(4:有)
+  pinyin: Zhège (1:zhíwù) (2:bùdàn) (3:yāoqiú) (4:yǒu)
+  en: This (1:position) (2:not only) (3:requires) (4:having)
+  es: Este (1:puesto) (2:no sólo) (3:requiere) (4:tener)
+- id: 4d5309d9-58c7-4a92-ad0b-717a313962b8
+  zh-hans: (1:工商:9)(2:管理)的(3:专业)(4:知识)，
+  pinyin: (1:gōngshāng) (2:guǎnlǐ) de (3:zhuānyè) (4:zhīshì),
+  en: (3:specialised) (4:knowlege) of (1:business) (2:management),
+  es: (4:conocimientos) (3:profesionales) de (2:administración) de (1:empresas).
 - id: 5a4e78403a3149b8ba06a5e5c2e19599
-  zh-hans: 而且要求了解中国的社会和文化，
-  pinyin: érqiě yāoqiú liǎojiě Zhōngguó de shèhuì hé wénhuà,
-  en: but also requires understanding of Chinese society and culture,
-  es: El puesto requiere no sólo conocimientos profesionales de administración de empresas, sino también comprensión de la sociedad y la cultura chinas.
+  zh-hans: (1:而且)(2:要求:8)(3:了解)(4:中国)的(5:社会)和(6:文化)，
+  pinyin: (1:érqiě) (2:yāoqiú) (3:liǎojiě) (4:Zhōngguó) de (5:shèhuì) hé (6:wénhuà),
+  en: but (1:also) (2:requires) (3:understanding) of (4:Chinese) (5:society) and (6:culture),
+  es: sino (1:también) (2:requiere) (3:comprensión) de la (5:sociedad) y la (6:cultura) (4:china),
 - id: 0740cc3315a64377b9e5cd059c531b56
-  zh-hans: 汉语普通话也要说得很流利。
-  pinyin: Hànyǔ pǔtōnghuà yě yào shuō de hěn liúlì.
-  en: Mandarin speaking should also be fluent.
-  es: Me gustaría conocer su opinión sobre este puesto.
+  zh-hans: (1:汉语)(2:普通话)也要(3:说)得很(4:流利)。
+  pinyin: (1:Hànyǔ) (2:pǔtōnghuà) yě yào (3:shuō) de hěn (4:liúlì).
+  en: (2:Standard) (1:Mandarin) (3:speaking) should also be (4:fluent).
+  es: también puedo (3:hablar) (1:mandarín) (2:estándar) con (4:fluidez).
 - id: ea2b0c6d4d4a4fbfa282d4b50fb72b2b
-  zh-hans: 我想听听您对这个职务的想法。
-  pinyin: Wǒ xiǎng tīng tīng nín duì zhège zhíwù de xiǎngfǎ.
-  en: I’d like to hear your thoughts on this position.
-  es: Me gustaría conocer su opinión sobre este puesto.
+  zh-hans: 我(1:想)(2:听听)(3:您)对这个(4:职务:7)的(5:想法)。
+  pinyin: Wǒ (1:xiǎng) (2:tīng tīng) (3:nín) duì zhège (4:zhíwù) de (5:xiǎngfǎ).
+  en: I’d (1:like) to (2:hear) (3:your) (5:thoughts) on this (4:position).
+  es: (1:Quisiera) (2:escuchar) (3:su) (5:opinión) sobre este (4:puesto).
 - id: 24db869ad7e0422e97189c9f0f28d9ea
-  zh-hans: 我对这个职务很感兴趣，
-  pinyin: Wǒ duì zhège zhíwù hěn gǎn xìngqù,
-  en: I am very interested in this position,
-  es: Estoy muy interesado en este puesto.
+  zh-hans: 我对这个(1:职务:7)很(2:感兴趣)，
+  pinyin: Wǒ duì zhège (1:zhíwù) hěn (2:gǎn xìngqù),
+  en: I am very (2:interested) in this (1:position),
+  es: Estoy muy (2:interesado) en este (1:puesto),
 - id: 4c9e3cd36c324b88ba2396d8d8ff3bc8
-  zh-hans: 而且也觉得我本人的条件比较合适。
-  pinyin: érqiě yě juéde wǒ běnrén de tiáojiàn bǐjiào héshì.
-  en: and furthermore I think that I am relatively qualified.
-  es: Estoy muy interesado en este puesto y creo que reúno las cualificaciones adecuadas.
+  zh-hans: (1:而且)也(2:觉得)我(3:本:3)人的(4:条件)比较(5:合适)。
+  pinyin: (1:érqiě) yě (2:juéde) wǒ (3:běn)rén de (4:tiáojiàn) bǐjiào (5:héshì).
+  en: (1:and) furthermore I (2:think) that my (4:qualifications) are (5:suitable) for this job.
+  es: (1:además) (2:creo) que mis (4:cualificaciones) son (5:adecuadas) para este trabajo.
 - id: 5896b04f99bf4a279d96c1c923e06684
-  zh-hans: 我在美国学的是工商管理，
-  pinyin: Wǒ zài Měiguó xué de shì gōngshāng guǎnlǐ,
-  en: In America I studied business management,
-  es: Estudié Administración de Empresas en Estados Unidos.
+  zh-hans: 我在(1:美国)学的是(2:工商:9)(3:管理)，
+  pinyin: Wǒ zài (1:Měiguó) xué de shì (2:gōngshāng) (3:guǎnlǐ),
+  en: In (1:America) I studied (2:business) (3:management),
+  es: Estudié (3:Administración) (2:Empresarial) en (1:Estados Unidos).
 - id: eb57dde5132b4bff9ee895026530ebef
-  zh-hans: 在加拿大当过一家贸易公司的商务代表，
-  pinyin: zài Jiānádà dāngguò yījiā màoyì gōngsī de shāngwù dàibiǎo,
-  en: and in Canada I worked as a commercial representative for a trading company,
-  es: Trabajé como representante comercial para una empresa comercial en Canadá.
+  zh-hans: 在(1:加拿大)当过一家(2:贸易:10)(3:公司)的(4:商务:6)(5:代表:11)，
+  pinyin: zài (1:Jiānádà) dāngguò yījiā (2:màoyì) (3:gōngsī) de (4:shāngwù) (5:dàibiǎo),
+  en: and in (1:Canada) I worked as a (4:commercial) (5:representative) for a (2:trading) (3:company),
+  es: Trabajé como (5:representante) (4:comercial) para una (3:empresa) (2:comercial) en (1:Canadá).
 - id: cb3869f343a643c9a0a97e62691dfcc0
-  zh-hans: 有这方面的工作经验，
-  pinyin: yǒu zhè fāngmiàn de gōngzuò jīngyàn,
-  en: and having this sort of work experience,
-  es: Tengo experiencia en este campo.
+  zh-hans: 有这方面的(1:工作)(2:经验:12)，
+  pinyin: yǒu zhè fāngmiàn de (1:gōngzuò) (2:jīngyàn),
+  en: and having this sort of (1:work) (2:experience),
+  es: Tengo (2:experiencia) de (1:trabajo) en este campo.
 - id: 8e40e1e5ce634c8f86479ed81d0c3e8c
-  zh-hans: 对中加两国的贸易情况也比较熟悉。
-  pinyin: duì zhōng jiā liǎng guó de màoyì qíngkuàng yě bǐjiào shúxī.
-  en: also makes me relatively familiar with the trade situation between China and Canada.
-  es: También conozco la situación comercial entre China y Canadá.
+  zh-hans: 对(1:中)(2:加)两国的(3:贸易:10)(4:情况)也比较(5:熟悉)。
+  pinyin: duì (1:zhōng) (2:jiā) liǎng guó de (3:màoyì) (4:qíngkuàng) yě bǐjiào (5:shúxī).
+  en: also makes me relatively (5:familiar) with the (3:trade) (4:situation) between (1:China) and (2:Canada).
+  es: También estoy (5:familiarizado) con la (4:situación) (3:comercial) entre (1:China) y (2:Canadá).
 - id: d5ac02b3194549b2b84643252340d30f
-  zh-hans: 汉语是我的第一外语，
-  pinyin: Hànyǔ shì wǒ de dì yī wàiyǔ,
-  en: Chinese is my first foreign language,
-  es: El chino es mi primera lengua extranjera.
+  zh-hans: (1:汉语)是我的(2:第一)(3:外)(4:语)，
+  pinyin: (1:Hànyǔ) shì wǒ de (2:dì yī) (3:wài)(4:yǔ),
+  en: (1:Chinese) is my (2:first) (3:foreign) (4:language),
+  es: El (1:chino) es mi (2:primera) (4:lengua) (3:extranjera).
 - id: 3275134795fa4768b5eaba96126d0f1a
-  zh-hans: 我已经通过了汉语水平考试八级。
-  pinyin: wǒ yǐjīng tōngguòle Hànyǔ shuǐpíng kǎoshì bā jí.
-  en: and I have already passed the HSK level eight exam.
-  es: he pasado el nivel VIII del examen de nivel de chino.
+  zh-hans: 我已经(1:通过)了(2:汉语:24)(3:水平:24)(4:考试:24)八(5:级:12)。
+  pinyin: wǒ yǐjīng (1:tōngguò) le (2:Hànyǔ) (3:shuǐpíng) (4:kǎoshì) bā (5:jí).
+  en: and I have already (1:passed) the eighth (5:level) of the (2:Chinese) (3:Level) (4:Test).
+  es: he (1:pasado) el (5:nivel) VIII de la (4:prueba) de (3:nivel) de (2:chino)
 - id: 7b7fc66d-0c0b-4648-9b12-6691b6fd7c9f
-  zh-hans: 我已经通过了新汉语水平六级考试。
-  pinyin: wǒ yǐjīng tōngguòle xīn hànyǔ shuǐpíng liù jí kǎoshì.
-  en: and I have already passed the sixth level of New HSK exam.
-  es: he pasado el nivel 6 del nuevo examen de nivel de chino.
+  zh-hans: 我已经(1:通过)了新(2:汉语:24)(3:水平:24)六(4:级:1)(5:考试:24)。
+  pinyin: wǒ yǐjīng (1:tōngguò) le xīn (2:hànyǔ) (3:shuǐpíng) liù (4:jí) (5:kǎoshì).
+  en: and I have already (1:passed) the sixth (4:level) of the New (2:Chinese) (3:Level) (5:Test).
+  es: he (1:pasado) el sexto (4:nivel) de la (5:prueba) de (3:nivel) de (2:chino).
 - id: 38911fd7d14d4a62bb0c81e06167492c
-  zh-hans: 我喜欢中国文化，
-  pinyin: Wǒ xǐhuan Zhōngguó wénhuà,
-  en: I like Chinese culture,
-  es: Me gusta la cultura china.
+  zh-hans: 我(1:喜欢)(2:中国)(3:文化)，
+  pinyin: Wǒ (1:xǐhuan) (2:Zhōngguó) (3:wénhuà),
+  en: I (1:like) (2:Chinese) (3:culture),
+  es: Me (1:gusta) la (3:cultura) (2:china).
 - id: a3f3588eb96144a69885d4a6f5fb1f35
-  zh-hans: 为了更多地了解中国，
-  pinyin: wèile gèng duō de liǎojiě Zhōngguó,
-  en: and in order to understand China more,
-  es: Para conocer mejor China
+  zh-hans: (1:为了)更(2:多)地(3:了解)(4:中国，)
+  pinyin: (1:wèile) gèng (2:duō) de (3:liǎojiě) (4:Zhōngguó),
+  en: and (1:in order to) (3:understand) (4:China) (2:more),
+  es: (1:Para) (3:conocer) mucho (2:más) sobre (4:China)
 - id: d9e431f3fb17440cb0b0f9f49dc6efce
-  zh-hans: 我还在北京语言学院进修了一年多的中国文学。
-  pinyin: wǒ hái zài Běijīng Yǔyán Xuéyuàn jìnxiūle yī nián duō de Zhōngguó wénxué.
-  en: I spent over one year at Beijing Language and Culture University doing advance studies of Chinese literature.
-  es: También estudié literatura china en el Instituto de Lengua y Cultura de Pekín durante más de un año.
+  zh-hans: 我还在(1:北京)(2:语言)(3:学院)
+  pinyin: wǒ hái zài (1:Běijīng) (2:Yǔyán) (3:Xuéyuàn)
+  en: I spent at (1:Beijing) (2:Language) and Culture (3:University)
+  es: También, en la (3:Universidad) de (2:Lengua) y Cultura de (1:Pekín),
+- id: d9e431f3fb17440cb0b0f9f49dc6efce
+  zh-hans: (1:进修:14)了一年多的(2:中国)(3:文学)。
+  pinyin: (1:jìnxiū) le yī nián duō de (2:Zhōngguó) (3:wénxué).
+  en: over one year doing (1:advance studies) of (2:Chinese) (3:literature).
+  es: hice (1:estudios de perfeccionamiento) de (3:literatura) (2:china) más de un año.
 - id: 70d6b1c718c643eb8a081b8e1046744c
-  zh-hans: 我希望我的知识和经验
-  pinyin: Wǒ xīwàng wǒ de zhīshì hé jīngyàn
-  en: I hope that my knowledge and experience
-  es: Espero que mis conocimientos y experiencia
+  zh-hans: 我(1:希望)我的(2:知识)和(3:经验:12)
+  pinyin: Wǒ (1:xīwàng) wǒ de (2:zhīshì) hé (3:jīngyàn)
+  en: I (1:hope) that my (2:knowledge) and (3:experience)
+  es: (1:Espero) que mis (2:conocimientos) y (3:experiencia)
 - id: 866fcb969ced477aad82099d4f92d6c9
-  zh-hans: 能很好地用于贵公司的工作，
-  pinyin: néng hěn hǎo de yòng yú guì gōngsī de gōngzuò,
-  en: can be used by your company,
-  es: Espero que mis conocimientos y experiencia puedan aprovecharse en el trabajo de su empresa.
+  zh-hans: 能很好地用(1:于:15)贵(2:公司)的工作，
+  pinyin: néng hěn hǎo de yòng (1:yú) guì (2:gōngsī) de gōngzuò,
+  en: can be used well (1:in) your (2:company),
+  es: puedan aprovecharse (1:en) el trabajo de su (2:empresa).
 - id: 8c784b2ff9e74d70a24aa9c7e2132b84
-  zh-hans: 我也相信自己
-  pinyin: wǒ yě xiāngxìn zìjǐ
-  en: I also believe
-  es: También creo que
+  zh-hans: 我(1:也)(2:相信)自己
+  pinyin: wǒ (1:yě) (2:xiāngxìn) zìjǐ
+  en: I (1:also) (2:believe) that
+  es: (1:También) (2:creo) que
 - id: 43d8a820543e454a97a6ab7e45355f2f
-  zh-hans: 一定能成为贵公司很好的工作人员。
-  pinyin: yīdìng néng chéngwéi guì gōngsī hěn hǎo de gōngzuò rényuán.
-  en: that I can become a good worker for your company.
-  es: Estoy seguro de que puedo ser un buen trabajador para su empresa.
+  zh-hans: 一定(1:能)(2:成为:16)贵(3:公司)很(4:好)的工作(5:人员)。
+  pinyin: yīdìng (1:néng) (2:chéngwéi) guì (3:gōngsī) hěn (4:hǎo) de gōngzuò (5:rényuán).
+  en: that I (1:can) (2:become) a (4:good) (5:worker) for your (3:company).
+  es: Estoy seguro de me (1:puedo) (2:convertir) en un (4:buen) (5:trabajador) para su (3:empresa).
 - id: eb21f418424640a6926b962683dd0852
-  zh-hans: 很好。我们看了好多人的简历，
-  pinyin: Hěn hǎo. Wǒmen kànle hǎoduō rén de jiǎnlì,
-  en: Very good. We have looked at many people’s resumes,
-  es: Muy bien. Hemos mirado los CV de muchas personas y
+  zh-hans: (1:很)(2:好)。我们(3:看)了好多(4:人)的(5:简历:17)，
+  pinyin: (1:Hěn) (2:hǎo). Wǒmen (3:kàn) le hǎoduō (4:rén) de (5:jiǎnlì),
+  en: (1:Very) (2:good). We have (3:looked) at many (4:people)’s (5:resumes),
+  es: (1:Muy) (2:bien). Hemos (3:mirado) los (5:CV) de muchas (4:personas) y
 - id: 9fed66074a6049b19b71ad3b950abea7
-  zh-hans: 认为您的条件不错。
-  pinyin: rènwéi nín de tiáojiàn bùcuò.
-  en: and we think that your qualifications are not bad.
-  es: Creemos que tienes buenas cualificaciones.
+  zh-hans: (1:认为)您的(2:条件)不错。
+  pinyin: (1:rènwéi) nín de (2:tiáojiàn) bùcuò.
+  en: and we (1:think) that your (2:qualifications) are not bad.
+  es: (1:creemos) que tienes buenas (2:cualificaciones).
 - id: 5172a4efec53437d8e2696fb9242f1ae
-  zh-hans: 您是学工商管理的，
-  pinyin: Nín shì xué gōngshāng guǎnlǐ de,
-  en: You have studied business management,
-  es: Eres estudiante de administración de empresas.
+  zh-hans: (1:您)是(2:学)(3:工商)(4:管理)的，
+  pinyin: (1:Nín) shì (2:xué) (3:gōngshāng) (4:guǎnlǐ) de,
+  en: (1:You) have (2:studied) (3:business) (4:management),
+  es: (1:Tú) has (2:estudiado) (4:administración) de (3:empresas),
 - id: 8a1f8a1ddb334041afcea07e62dfef79
-  zh-hans: 又会汉语，
-  pinyin: yòu huì Hànyǔ,
-  en: can speak Chinese,
-  es: Y sabes chino.
+  zh-hans: 又会(1:汉语)，
+  pinyin: yòu huì (1:Hànyǔ),
+  en: can speak (1:Chinese),
+  es: Y sabes (1:chino).
 - id: c62cf9ceefd148c99cd4d7450c186d39
-  zh-hans: 还有这方面的工作经验。
-  pinyin: hái yǒu zhè fāngmiàn de gōngzuò jīngyàn.
-  en: and also have this sort of work experience.
-  es: Y tienes experiencia en este campo.
+  zh-hans: 还有这(1:方面)的(2:工作)(3:经验:12)。
+  pinyin: hái yǒu zhè (1:fāngmiàn) de (2:gōngzuò) (3:jīngyàn).
+  en: and there's also the (1:aspect) of (2:work) (3:experience).
+  es: y el (1:aspecto) de la (3:experiencia) en este campo.
 - id: cfb61ee96cb34885a22967ec4ca5f06d
-  zh-hans: 我想您会很快地适应这里的工作环境。
-  pinyin: Wǒ xiǎng nín huì hěn kuài de shìyìng zhèlǐ de gōngzuò huánjìng.
-  en: I think you will very quickly adapt to the work environment here.
-  es: Creo que serás capaz de adaptarte al ambiente de trabajo aquí muy rápidamente.
+  zh-hans: 我(1:想)您会很(2:快)地(3:适应:18)
+  pinyin: Wǒ (1:xiǎng) nín huì hěn (2:kuài) de (3:shìyìng)
+  en: I (1:think) you will very (2:quickly) (3:adapt)
+  es: (1:Creo) que serás capaz de (3:adaptarte) (2:rápidamente)
+- id: 713cd878-0a17-4548-b7e0-37ba3db04137
+  zh-hans: (1:这里)的(2:工作)(3:环境)。
+  pinyin: (1:zhèlǐ) de (2:gōngzuò) (3:huánjìng).
+  en: to the (2:work) (3:environment) (1:here).
+  es: al (3:ambiente) de (2:trabajo) (1:aquí) muy rápidamente.
 - id: d2ef3087f4e9420e87dfa6574ac60695
-  zh-hans: 谢谢，你们对我有这样的看法，我很高兴。
-  pinyin: Xièxiè, nǐmen duì wǒ yǒu zhèyàng de kànfǎ, wǒ hěn gāoxìng.
-  en: Thank you, if you think of me like this, I am very happy.
-  es: Gracias. Me alegro de que tengas esa opinión de mí.
+  zh-hans: (1:谢谢)，(2:你们)对我有这样的(3:看法)，我很(4:高兴)。
+  pinyin: (1:Xièxiè), (2:nǐmen) duì wǒ yǒu zhèyàng de (3:kànfǎ), wǒ hěn (4:gāoxìng).
+  en: (1:Thanks), if (2:you) have such (3:point of views), I am very (4:happy).
+  es: (1:Gracias). Me (4:alegro) de que (2:ustedes) tengan esa (3:opinión) de mí.
 - id: 6e4be67704b84346bd52d21f3e178279
-  zh-hans: 工资问题，我上次已经跟张经理提了，
-  pinyin: Gōngzī wèntí, wǒ shàng cì yǐjīng gēn Zhāng jīnglǐ tíle,
-  en: Salary questions, I already raised with Manager Zhang last time,
-  es: Ya he mencionado la cuestión salarial al Director Zhang la última vez.
+  zh-hans: (1:工资)问题，我(2:上次)已经跟(3:张)(4:经理)提了，
+  pinyin: Gōngzī (1:wèntí), wǒ (2:shàng cì) yǐjīng gēn (3:Zhāng) (4:jīnglǐ) tíle,
+  en: (1:Salary) questions, (2:last time) I already raised it with (4:Manager) (3:Zhang),
+  es: El (1:salario), la (2:última vez) se lo planteé al (4:Director) (3:Zhang),
 - id: 6695b7192c80489abf964732ef090762
-  zh-hans: 不知道贵公司有没有新的考虑？
-  pinyin: bù zhīdào guì gōngsī yǒu méiyǒu xīn de kǎolǜ.
-  en: I don’t know whether your company has any new thoughts?
-  es: No sé si su empresa tiene nuevas consideraciones.
+  zh-hans: 不(1:知道)贵(2:公司)有没有(3:新)的(4:考虑:19)？
+  pinyin: bù (1:zhīdào) guì (2:gōngsī) yǒu méiyǒu (3:xīn) de (4:kǎolǜ).
+  en: I don’t (1:know) whether your (2:company) has new (4:considerations) on this matter?
+  es: no (1:sé) si su (2:empresa) tiene (3:nuevas) (4:consideraciones).
 - id: fe485cfb6f4a49ddb8f9a66d251197a3
-  zh-hans: 关于您的工资问题，我们还是上次那个意见。
-  pinyin: Guānyú nín de gōngzī wèntí, wǒmen háishì shàng cì nàgè yìjiàn.
-  en: Regarding your salary questions, our views are still the same as last time.
-  es: En cuanto a su salario, seguimos teniendo la misma opinión que la última vez.
+  zh-hans: (1:关于)您的(2:工资)(3:问题)，
+  pinyin: (1:Guānyú) nín de (2:gōngzī) (3:wèntí),
+  en: (1:Regarding) your (2:salary) (3:questions),
+  es: (1:En cuanto) al (3:tema) del (2:salario),
+- id: 4cfe4375-a40c-4d22-94b4-fba4506296e9
+  zh-hans: 我们(1:还是)(2:上次)那个(3:意见)。
+  pinyin: wǒmen (1:háishì) (2:shàng cì) nàgè (3:yìjiàn).
+  en: our (3:views) are (1:still) the same as (0:last time).
+  es: (1:seguimos) teniendo la misma (3:opinión) que la (0:última vez).
 - id: 1732cca6240f4e45a006d5d9edce00be
-  zh-hans: 在我们公司，经理的工资一般比较高。
-  pinyin: Zài wǒmen gōngsī, jīnglǐ de gōngzī yībān bǐjiào gāo.
-  en: At our company, manager salaries are relatively high.
-  es: En nuestra empresa, el sueldo de los directivos suele ser más alto.
+  zh-hans: 在我们(1:公司)，(2:经理)的(3:工资)一般比较(4:高)。
+  pinyin: Zài wǒmen (1:gōngsī), (2:jīnglǐ) de (3:gōngzī) yībān bǐjiào (4:gāo).
+  en: At our (1:company), (2:manager) (3:salaries) are relatively (4:high).
+  es: En nuestra (1:empresa), el (3:sueldo) de los (2:directivos) suele ser más (4:alto).
 - id: 81067b5125884401a571bb3de30018b6
-  zh-hans: 除了工作要求和工资以外，您还有问题吗？
-  pinyin: Chúle gōngzuò yāoqiú hé gōngzī yǐwài, nín hái yǒu wèntí ma?
-  en: Aside from work requirements and salary, do you have any other quesitons?
-  es: Aparte de los requisitos del puesto y el salario, ¿tiene alguna otra pregunta?
+  zh-hans: (1:除了)(2:工作)(3:要求:8)和(4:工资)以外，您还有(5:问题)吗？
+  pinyin: (1:Chúle) (2:gōngzuò) (3:yāoqiú) hé (4:gōngzī) yǐwài, nín hái yǒu (5:wèntí) ma?
+  en: (1:Aside from) (2:work) (3:requirements) and (4:salary), do you have any other (5:questions)?
+  es: (1:Aparte) de los (3:requisitos) (2:del trabajo) y el (4:salario), ¿tiene alguna otra (5:pregunta)?
 - id: 9fb77d5efbf24589ae8829ada95facd6
-  zh-hans: 现在我没有别的问题。
-  pinyin: Xiànzài wǒ méiyǒu bié de wèntí.
-  en: At the moment I don’t have any other questions.
-  es: Ahora no tengo ninguna pregunta.
+  zh-hans: (1:现在)我没有(2:别)的(3:问题)。
+  pinyin: (1:Xiànzài) wǒ méiyǒu (2:bié) de (3:wèntí).
+  en: (1:At the moment) I don’t have any (2:other) (3:questions).
+  es: (1:Ahora) no tengo (2:otra) (3:pregunta).
 - id: af64bf0f48774a4fb2ff8f77ab674256
-  zh-hans: 好。如果您同意我们已经谈过的一切条件，
-  pinyin: Hǎo. Rúguǒ nín tóngyì wǒmen yǐjīng tánguò de yīqiè tiáojiàn,
-  en: Ok. If you agree with all the conditions we have already discussed,
-  es: De acuerdo. Si estás de acuerdo con todas las condiciones que hemos hablado.
+  zh-hans: 好。(1:如果)您(2:同意)我们(3:已经)(4:谈)过的(5:一切:20)(6:条件)，
+  pinyin: Hǎo. (1:Rúguǒ) nín (2:tóngyì) wǒmen (3:yǐjīng) (4:tán)guò de (5:yīqiè) (6:tiáojiàn),
+  en: Ok. (1:If) you (2:agree) with (5:all) the (6:conditions) we have (3:already) (4:discussed),
+  es: Ok. (1:Si) (2:estás de acuerdo) con (5:todas) las (6:condiciones) que (3:ya) hemos (4:conversado).
 - id: 9f27fd4724fd4a80981e85825e4b0af5
-  zh-hans: 那么，我们很快就可以签订工作合同。
-  pinyin: nàme, wǒmen hěn kuài jiù kěyǐ qiāndìng gōngzuò hétóng.
-  en: then, we can quickly move onto signing a work contract.
-  es: Entonces podremos firmar pronto el contrato de trabajo.
+  zh-hans: 那么，我们很(1:快)就可以(2:签订:21)(3:工作)(4:合同:22)。
+  pinyin: nàme, wǒmen hěn (1:kuài) jiù kěyǐ (2:qiāndìng) (3:gōngzuò) (4:hétóng).
+  en: then, we can (1:quickly) move onto (2:signing) a (3:work) (4:contract).
+  es: Entonces podremos (2:firmar) (1:rápidamente) el (4:contrato) de (3:trabajo).
 - id: 1c9742ace9db4203b0eab9b0049bcdc5
-  zh-hans: 谢谢您。我想再考虑一下，可以吗？
-  pinyin: Xièxiè nín. Wǒ xiǎng zài kǎolǜ yīxià, kěyǐ ma?
-  en: Thank you. I would like to think it over a little, is that ok?
-  es: Muchas gracias. Me gustaría pensarlo de nuevo, ¿quieres?
+  zh-hans: (1:谢谢)您。我(2:想)再(3:考虑:19)一下，(4:可以)吗？
+  pinyin: (1:Xièxiè) nín. Wǒ (2:xiǎng) zài (3:kǎolǜ) yīxià, (4:kěyǐ) ma?
+  en: (1:Thanks). I (2:think) that I should (3:think) it over a little, (4:could) it be like this?
+  es: (1:Gracias). (2:Creo) que debería volver a (3:considerarlo) ¿(4:podría) ser así?
 - id: c29bd2844daf4d8e83cc22c4ca0682b2
-  zh-hans: 可以。无论同意或者不同意，
-  pinyin: Kěyǐ. Wúlùn tóngyì huòzhě bù tóngyì,
-  en: That’s fine. No matter if you agree or not,
-  es: Sí. Tanto si estás de acuerdo como si no.
+  zh-hans: 可以。(1:无论:23)(2:同意)(3:或者)(4:不)(5:同意)，
+  pinyin: Kěyǐ. (1:Wúlùn) (2:tóngyì) (3:huòzhě) (4:bù) (5:tóngyì),
+  en: That’s fine. (1:No matter) if you (2:agree) (3:or) you (4:don't) (5:agree),
+  es: Sí. (1:Sin importar) si (2:estas de acuerdo) (3:o) (4:no) (5:estas de acuerdo),
 - id: 65c4a4507bb342dcaff9840c2e2ca280
-  zh-hans: 都希望您在本星期之内把您的决定告诉我们。
-  pinyin: dōu xīwàng nín zài běn xīngqí zhī nèi bǎ nín de juédìng gàosu wǒmen. Hǎo
-  en: we hope you can let us know of your decision within this week.
-  es: Espero que nos haga saber su decisión dentro de la semana.
+  zh-hans: 都(1:希望)您在(2:本:3)(3:星期)之内把您的(4:决定)(5:告诉)(6:我们)。
+  pinyin: dōu (1:xīwàng) nín zài (2:běn) (3:xīngqí) zhī nèi bǎ nín de (4:juédìng) (5:gàosu) (6:wǒmen).
+  en: we (1:hope) you can (5:tell) (6:us) your (4:decision) within this (3:week).
+  es: (1:esperamos) que (6:nos) pueda (5:decir) su (4:decisión) dentro de una (3:semana).
 - id: 46c5a4cc5cc9409db3620e484a2948cd
-  zh-hans: 好的。
-  pinyin: de.
-  en: No problem.
-  es: De acuerdo.
+  zh-hans: (1:好的)。
+  pinyin: (1:Hǎo de).
+  en: (1:No problem).
+  es: (1:De acuerdo).
 - id: 765ef66e252f4fe7a7cff465573f0c4a
-  zh-hans: 再见！
-  pinyin: Zàijiàn!
-  en: Byebye!
-  es: ¡Hasta luego!
-- id: 343035f8332648e49b04397960752901
-  zh-hans: 再见！
-  pinyin: Zàijiàn!
-  en: Byebye!
-  es: ¡Hasta luego!
+  zh-hans: (1:再见)！
+  pinyin: (1:Zàijiàn)!
+  en: (1:Byebye)!
+  es: ¡(1:Hasta luego)!
 - id: d031a2075fca40458ac43a43aff98783
-  zh-hans: 好。
-  pinyin: Hǎo.
-  en: Ok.
-  es: Bueno, adiós.
+  zh-hans: (1:好)。
+  pinyin: (1:Hǎo).
+  en: (1:Ok).
+  es: (1:Bueno).
 - id: 1c745fa3e3d94ef2abf219ec00c253b6
-  zh-hans: 再见。
-  pinyin: Zàijiàn.
-  en: Bye.
-  es: Adiós.
+  zh-hans: (1:再见)。
+  pinyin: (1:Zàijiàn).
+  en: (1:Bye).
+  es: (1:Adiós).
