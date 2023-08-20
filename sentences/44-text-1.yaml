@@ -210,11 +210,13 @@ sentences:
   en: (2:If) (1:you) make it a (4:little) (3:cheaper), I’ll buy.
   es: (2:Si) (1:usted) lo pone un (4:poco) más (3:barato), lo compro.
 - id: bedd95d38c9b447c85d1ac796df78868
+  context: video
   zh-hans: (1:您)(2:给)个(3:价:6)吧？
   pinyin: (1:Nín) (2:gěi) gè (3:jià) ba?
   en: Can (1:you) (2:give) a (3:price)?
   es: ¿(1:Usted) podría (2:darme) un (3:precio)?
 - id: e7477680-991e-4925-9a7c-f1ccf8fa2c73
+  context: audio
   zh-hans: (1:您)(2:给个)(3:价:6)吧。
   pinyin: (1:Nín) (2:gěi) gè (3:jià) ba.
   en: (1:You) (2:give) me a (3:price).
