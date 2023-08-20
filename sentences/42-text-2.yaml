@@ -10,10 +10,10 @@ metadata:
   add-groups-es: {finished: false, issue_id: 821}
 sentences:
 - id: cc5982ff05424ad3954ea58d213b587d
-  zh-hans: 今年春节，
-  pinyin: Jīnnián chūnjié,
-  en: During this year’s Spring Festival,
-  es: Durante este festival de primavera.
+  zh-hans: 今年春天，
+  pinyin: Jīnnián chūntiān,
+  en: In this year’s spring,
+  es: En la primavera de este año,
 - id: eed6ecbadd4f4fccb02f6971c42e03e6
   zh-hans: 我们在郊区农村盖了一个四合院。
   pinyin: wǒmen zài jiāoqū nóngcūn gàile yīgè sìhéyuàn.
