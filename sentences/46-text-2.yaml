@@ -214,6 +214,8 @@ sentences:
   pinyin: “Tài hǎole, tài hǎole.”
   en: “So great, so great.”
   es: "Genial, genial."
+- id: ab0594d0-a851-4c0b-b1a5-d038549c19f1
+  zh-hans: 我对她说：
 - id: 89545f52d4f442a28f88a6f28bb08b0c
   zh-hans: “你别高兴得太早，
   pinyin: “Nǐ bié gāoxìng de tài zǎo,
@@ -234,11 +236,15 @@ sentences:
   pinyin: yàome nǐ jiù bié qùle.”
   en: or you do not go.”
   es: 'O no vas".'
+- id: 911512e5-8ce6-46aa-9ffd-b5cce3c5f2fd
+  zh-hans: 女儿急忙问我：
 - id: abb783313d2a442c9b850a8497b71309
   zh-hans: “妈妈，什么条件？您快说。”
   pinyin: “Māmā, shénme tiáojiàn? Nín kuài shuō.”
   en: “Mum, what are the conditions? Speak.”
   es: '"Mamá, ¿qué condiciones? Dímelas".'
+- id: 4eb00704-740b-40f0-a72d-3b9268073877
+  zh-hans: 我告诉她：
 - id: e008d501f87f4593b6c9eaa52e159021
   zh-hans: “第一，要听老师的话。
   pinyin: “Dì yī, yào tīng lǎoshī dehuà.
@@ -259,6 +265,8 @@ sentences:
   pinyin: Dì sì, bùyào luàn huā qián.”
   en: Fourthly, must not friviously spend money.”
   es: Cuarto, no gastes dinero imprudentemente".
+- id: 9fb489a6-95a2-407d-83ab-914f77679750
+  zh-hans: 女儿说：
 - id: 48491b1ae6794768ba991aca810f519b
   zh-hans: “你们放心，这四条我保证做到。”
   pinyin: “Nǐmen fàngxīn, zhè sìtiáo wǒ bǎozhèng zuò dào.”
@@ -304,6 +312,8 @@ sentences:
   pinyin: Dàole dì wǔ tiān, nǎinai dì yī gè rěn bù zhùle,
   en: On the fifth day, grandmother was the first who couldn’t help herself,
   es: Al quinto día, la abuela fue la primera en decir.
+- id: 05cf8cb0-7cb3-4579-8842-5a25a6f2d639
+  zh-hans: 她说：
 - id: f45c447d4cff4cb882436474d6e0d0d9
   zh-hans: “怎么没有消息呢？”
   pinyin: “Zěnme méiyǒu xiāoxi ne?
