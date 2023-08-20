@@ -79,6 +79,8 @@ sentences:
   pinyin: 'Kěnéng zuìjìn xuéxí bǐjiào jǐnzhāng ba?"'
   en: 'Perhaps your studies have been relatively stressful lately?"'
   es: '¿Quizá has estudiado mucho últimamente?".'
+- id: 9c28b8d9-e4d2-4cd3-a0f1-0adb853b2791
+  zh-hans: 老中医对她说：
 - id: 5b3c88999caf4cf8b763fe067b27de14
   zh-hans: “您自己到市场上去买两斤山楂，
   pinyin: “Nín zìjǐ dào shìchǎng shàngqù mǎi liǎng jīn shānchá,
@@ -184,6 +186,8 @@ sentences:
   pinyin: jiù bǎ kàn zhòng yī de shìr duì tā shuōle,
   en: 'told him about seeing the Chinese Medicine doctor:'
   es: Le contó su visita al médico chino.
+- id: 22636cde-839a-4ffc-a5a9-33995706bb6a
+  zh-hans: 她说：
 - id: c188d387257145d78965c84dd83e00d3
   zh-hans: “我觉得很奇怪，
   pinyin: “Wǒ juéde hěn qíguài,
@@ -199,6 +203,8 @@ sentences:
   pinyin: zhǐyào wǒ chī shānchá, hái yào wǒ duō yùndòng.”
   en: only asked me to eat hawthorn, and also do more exercise.”
   es: 'Sólo quería que comiera espino y hiciera más ejercicio".'
+- id: 5a840049-e68a-47f4-8e19-4ffd1c31fa31
+  zh-hans: 宋华听了，笑着对林娜说：
 - id: 5b486b34f9f64eeb84e6f8355a3b7461
   zh-hans: “山楂就是药。
   pinyin: “Shānchá jiùshì yào.
@@ -219,11 +225,15 @@ sentences:
   pinyin: Shì shānchá bǎ nǐ de wèibìng zhì hǎole.”
   en: It’s hawthorn that cured your stomach problems.”
   es: 'El espino curó tu problema de estómago".'
+- id: 33acd0a5-3ca6-4ab0-bde4-bb7717f895f9
+  zh-hans: 林娜又问他：
 - id: ae0474d3b3f44908afd80d4223248f2b
   zh-hans: “山楂怎么会是药呢？”
   pinyin: “Shānchá zěnme huì shì yào ne?”
   en: “How is Hawthorn a medcine?”
   es: "¿Cómo puede el espino ser medicina?"
+- id: 63929ed3-d897-4bf5-a753-c6f7c8b638d6
+  zh-hans: 宋华对她说：
 - id: 7c9e83765a45487aaebabcb48f9c5cd4
   zh-hans: “中医用的药叫“中药”。
   pinyin: “Zhōngyī yòng de yào jiào “zhōngyào”.
