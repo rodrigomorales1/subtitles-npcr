@@ -164,6 +164,9 @@ sentences:
   pinyin: 'Ránhòu xiǎohuǒzi yòu duì dàjiā shuō:'
   en: 'Then the young man said to everyone:'
   es: 'Después el muchacho dijo a todos los demás:'
+- id: 83ae7df1-745e-4884-89df-13cb51d456ef
+  context: audio
+  zh-hans: 然后对大家说：
 - id: e1a022da20004de29c591c4540657f25
   zh-hans: “别站着看了，大家帮帮忙吧！”
   pinyin: “Bié zhànzhe kànle, dàjiā bāng bāngmáng ba!”
