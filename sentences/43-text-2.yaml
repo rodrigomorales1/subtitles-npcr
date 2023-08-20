@@ -125,21 +125,25 @@ sentences:
   en: I (2:thought) this was very (1:strange),
   es: (2:Pensé) que esto era (1:raro),
 - id: 414e68f072ed4720b8a16f382d6f2120
+  context: video
   zh-hans: (1:巴金)先生这么大(2:岁数)了，
   pinyin: (1:Bā Jīn) xiānshēng zhème dà (2:suìshu) le,
   en: Mr. (1:Ba Jin) with such large (2:age),
   es: Mr. (1:Ba Jin) con tan alta (2:edad),
 - id: 55be8385507148639387c0a40e600cf5
+  context: audio
   zh-hans: (1:巴金)先生已经(2:去世)了，
   pinyin: (1:Bājīn) xiānshēng yǐjīng (2:qùshì) le,
   en: Mr. (1:Ba Jin) has (2:passed away),
   es: (1:Ba Jin) ya ha (2:fallecido),
 - id: fe84c35339e74e25a349ebf4dc23c2c1
+  context: video
   zh-hans: 难道他会每天在那儿跟(1:参观的人)(2:握手)吗？
   pinyin: nándào tā huì měitiān zài nàr gēn (1:cānguān de rén) (2:wòshǒu) ma?
   en: could he there everyday (2:shaking hands) with the (1:visitors)?
   es: ¿acaso está todos los días ahí (2:dando la mano) a los (1:visitantes)?
 - id: 549dfc85b9724056945c4c081a01a009
+  context: audio
   zh-hans: 怎么会每天在那儿跟(1:参观的人)(2:握手)呢？
   pinyin: zěnme huì měitiān zài nà'er gēn (1:cānguān de rén) (2:wòshǒu) ne?
   en: how could he (2:shake hands) with (1:visitors) there every day?
@@ -175,11 +179,13 @@ sentences:
   en: looking from the (1:outside), it is very (2:common), and (3:simple).
   es: mirándolo desde (1:afuera), es (2:ordinario) y (3:simple).
 - id: 5660b05f48064b21ba8daef5d6b6f56f
+  context: video
   zh-hans: 但是(2:进)了(1:大楼)，
   pinyin: Dànshì (2:jìn) le (1:dàlóu),
   en: But upon (2:entering) the (1:building),
   es: Pero al (2:entrar) al (1:edificio),
 - id: fbb875c5-b607-45df-8dac-06ecdda5b008
+  context: audio
   zh-hans: 但是(1:进)了(2:大楼)以后，
   pinyin: Dànshì (1:jìn) le (2:dàlóu) yǐhòu,
   en: But after (1:entering) the (2:building),
@@ -265,6 +271,7 @@ sentences:
   en: (1:Everyone) thought this was (2:strange),
   es: (1:todos) pensaron que esto era (2:extraño),
 - id: f2a91d20765044a290e59b3d732055d9
+  context: video
   zh-hans: “(1:巴金)先生(2:在哪儿)？”
   pinyin: “(1:Bā Jīn) xiānshēng (2:zài nǎr)?”
   en: “(2:Where is) Mr. (1:Ba Jin)?”
