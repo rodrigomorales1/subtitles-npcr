@@ -155,12 +155,14 @@ sentences:
   en: If there are, come and get them first.”
   es: 'Si lo hay, guárdenlo primero".'
 - id: 0053d86daaf04d6997f3db88fa72ed0c
+  context: video
   zh-hans: “没有，没有，没什么东西。”
   pinyin: “Méiyǒu, méiyǒu, méi shénme dōngxi.”
   en: “No, no, there isn’t anything.”
   es: '"No, no, no hay nada".'
 - id: 01bdcbb80c334b90a170a72846d17cb3
   zh-hans: 然后小伙子又对大家说：
+  context:  video
   pinyin: 'Ránhòu xiǎohuǒzi yòu duì dàjiā shuō:'
   en: 'Then the young man said to everyone:'
   es: 'Después el muchacho dijo a todos los demás:'
@@ -173,11 +175,13 @@ sentences:
   en: “Don’t just stand there, everyone help!”
   es: "¡No se queden mirando, todos ayuden!"
 - id: 4b0aa99248b64aac9d5b38fe7eda6d21
+  context: video
   zh-hans: “好。”
   pinyin: “Hǎo.”
   en: “Ok.”
   es: "De acuerdo."
 - id: 9d5a3ed207d84bd0b302e111f21a1bb2
+  context: video
   zh-hans: “谢谢啊……谢谢，谢谢。”
   pinyin: “Xièxiè a……xièxiè, xièxiè.”
   en: “Thank you so much… thank you, thank you.”
@@ -303,6 +307,7 @@ sentences:
   en: ‘a relative afar is less use than a close neighbor’.”
   es: 'Los vecinos valen más que los parientes lejanos".'
 - id: 4f73b7e6187448fc8315cd0950a640d9
+  context: video
   zh-hans: “村里人太好了！”
   pinyin: “Cūnlǐ rén tài hǎole!”
   en: “People in the village are great!”
