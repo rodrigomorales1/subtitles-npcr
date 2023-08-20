@@ -45,15 +45,15 @@ sentences:
   en: After I came to (1:Beijing),
   es: Después de venir a (1:Beijing),
 - id: 69cc3ac0c1244ce0b720596dd554f269
-  zh-hans: 看过(1:话剧)《茶馆》
-  pinyin: kànguò (1:huàjù) “Cháguǎn”
-  en: I watched the (1:play) “Teahouse”
-  es: vi la (1:interpretación) "Tienda de té"
+  zh-hans: 看过(1:话剧)《茶馆》(2:和)
+  pinyin: kànguò (1:huàjù) “Cháguǎn” (2:hé)
+  en: I watched the (1:play) “Teahouse” (2:and)
+  es: vi la (1:interpretación) "Tienda de té" (2:y)
 - id: 5798a47a71084c7a9c9e3133f82127ca
-  zh-hans: 和(1:电视剧)《阿Ｑ正传》。
-  pinyin: hé (1:diànshìjù) “Ā Q Zhèng Zhuàn”.
-  en: and the (1:TV drama) “The Story of Ah Q”.
-  es: y la (1:serie) "La Historia de Ah Q".
+  zh-hans: (1:电视剧)《阿Ｑ正传》。
+  pinyin: (1:diànshìjù) “Ā Q Zhèng Zhuàn”.
+  en: the (1:TV drama) “The Story of Ah Q”.
+  es: la (1:serie) "La Historia de Ah Q".
 - id: b64802f8359047529a2e520aba7629e9
   zh-hans: 我很想多(1:了解)一些这几位(2:作家)的情况。
   pinyin: Wǒ hěn xiǎng duō (1:liǎojiě) yīxiē zhè jǐ wèi (2:zuòjiā) de qíngkuàng.
