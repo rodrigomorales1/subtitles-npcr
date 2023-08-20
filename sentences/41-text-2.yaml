@@ -45,15 +45,20 @@ sentences:
   en: day, Zhang Shan called for the Deputy General Manager.
   es: Un día, Zhang Shan llamó al subdirector general.
 - id: 7406c83d940e45d49bac751ef5db3fc0
+  context: video
   zh-hans: “喂，李副总？”
   pinyin: “Wèi, Lǐ fù zǒng?”
   en: “Hey, Deputy General Li?”
   es: "Hola, ¿Vicepresidente Li?"
 - id: 3bfd4e0a54f1439b8c2e612c1d44e2ae
+  context: video
   zh-hans: “好，我就来。”
   pinyin: “Hǎo, wǒ jiù lái.”
   en: “Ok, I’ll be right over.”
   es: "Sí, ya voy."
+- id: afda630b-e7f4-468a-be72-2e215b0d95b0
+  context: audio
+  zh-hans: 他说：
 - id: 837548bcebd34cb5b21584ce314903eb
   zh-hans: “这几年我几乎没有休假。
   pinyin: “Zhè jǐ nián wǒ jīhū méiyǒu xiūjià.
@@ -74,6 +79,8 @@ sentences:
   pinyin: Méiyǒu tèbié jí de shìr,
   en: If there is nothing urgent,
   es: Sin nada especialmente urgente.
+- id: 8e117cab-5b5a-4c1e-a6f7-d52cbb28965f
+  zh-hans: 副总说：
 - id: 99b80e01666a42839c40b05d50189cde
   zh-hans: 不要打电话给我。”
   pinyin: bùyào dǎ diànhuà gěi wǒ.”
@@ -159,6 +166,8 @@ sentences:
   pinyin: ránhòu yòu yóu dǎoyǎn miànshì,
   en: afterward there was an interview with the director,
   es: Luego fue entrevistado por el director.
+- id: 6952af10-1a7d-4219-a6fa-95ddb95d2feb
+  zh-hans: 导演满意地说：
 - id: 52da69869f3148fd992ffaf0b2238bd3
   zh-hans: 张山也通过了。
   pinyin: Zhāng Shān yě tōngguòle.
@@ -175,6 +184,7 @@ sentences:
   en: and only you are like what I imagined for the male lead role.
   es: Eres el único que se parece al protagonista que imaginé.
 - id: c1d3f3253a1345878be557a078ef0b54
+  context: video
   zh-hans: 来来来来来……
   pinyin: Lái lái lái lái lái……
   en: Come come…
@@ -189,6 +199,9 @@ sentences:
   pinyin: “Zhēn de?”
   en: “Really?”
   es: '"¿De verdad?"'
+- id: 754c1dc3-acf6-4889-a203-88fe5ffa5608
+  context: audio
+  zh-hans: 张山高兴地问导演。
 - id: 97970c762bdd4c9abaf1c091e03bc5b7
   zh-hans: “当然是真的。
   pinyin: “Dāngrán shì zhēn de.
@@ -224,6 +237,9 @@ sentences:
   pinyin: nín néng ànshí lái shàngbān, wǒ jiù bǎ qián huán gěi nín.”
   en: and if you can come to work on time, I will return the money to you.
   es: Si llegas a tiempo, te devolveré el dinero.
+- id: bc5ffc91-a1bc-40b6-81bd-77c68e75ec43
+  context: audio
+  zh-hans: 张山说：
 - id: c2f3a561d0c243279c8fb55841ac23d7
   zh-hans: “可以。”
   pinyin: “Kěyǐ.”
@@ -279,6 +295,8 @@ sentences:
   pinyin: Fù zǒng shuō yǒu jíshì ràng tā mǎshàng huíqù.
   en: The Deputy General says there is an urgent matter for which he must return immediately.
   es: El vicepresidente le dijo que era una emergencia y le pidió que volviera enseguida.
+- id: fcbee02a-f56d-4339-987f-58d762403189
+  zh-hans: 张山说：
 - id: 56a168fd3d1047be8ed16d75b66ac3d0
   zh-hans: “不行，我也有重要的事儿。
   pinyin: “Bùxíng, wǒ yěyǒu zhòngyào de shìr.
@@ -304,6 +322,8 @@ sentences:
   pinyin: Zhāng Shān bǎ dǎoyǎn ràng tā dāng nán zhǔjiǎo de shìr gēn fù zǒng shuōle.
   en: Zhang Shan told the Deputy General about how the director had given him the male lead role.
   es: Zhang Shan le contó al vicepresidente que el director le había pedido que fuera el protagonista masculino.
+- id: 777930b5-3149-4985-bb8c-2b05849f8c30
+  zh-hans: 副总说：
 - id: fd365b98683b4a02a1ceb6479bef4d4d
   zh-hans: “哦！我明白了。
   pinyin: “Ō! Wǒ míngbáile.
@@ -324,6 +344,8 @@ sentences:
   pinyin: tīng shuō nà shìgè dà piànzi.”
   en: apparently it was a big fraud.”
   es: 'He oído que era un gran mentiroso".'
+- id: 0f5d2e11-6be2-43e9-9895-b590d7bc39e6
+  zh-hans: 张山说：
 - id: e2f4aea8413a4cfeb7a0651a2e5fb6db
   zh-hans: “啊！大骗子？
   pinyin: “A! Dà piànzi?
