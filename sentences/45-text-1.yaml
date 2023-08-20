@@ -65,10 +65,10 @@ sentences:
   en: (3:what) do you (1:want) to (2:drink)?
   es: ¿(3:Qué) (1:quiere) para (2:tomar)?
 - id: 733d492b1b7648e39a312bb500636f9c
-  zh-hans: 不用了，(1:谢谢)。
-  pinyin: Bùyòngle, (1:xièxiè).
-  en: No need, (1:thanks).
-  es: No, (1:gracias).
+  zh-hans: (1:不用了)，(2:谢谢)。
+  pinyin: (1:Bùyòngle), (2:xièxiè).
+  en: (1:No need), (2:thanks).
+  es: (1:No es necesario), (2:gracias).
 - id: c68f21a0dbad4c3ab307b594cd7f8732
   zh-hans: 您(1:知道)(2:本:3)(3:公司:4)(4:市场:4)(5:开发:4)(6:部:4)
   pinyin: Nín (1:zhīdào) (2:běn) (3:gōngsī) (4:shìchǎng) (5:kāifā) (6:bù) 
