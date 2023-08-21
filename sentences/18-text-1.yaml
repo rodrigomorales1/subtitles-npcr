@@ -115,7 +115,12 @@ sentences:
   en: At Jianguomen. Don’t forget to take your passport.
   es: En Jianguomen. No olvide traer su pasaporte.
 - id: 8e4657a5-1952-4682-9cd6-a6df1df01118
-  zh-hans: 谢谢。不客气。
-  pinyin: Xièxiè. Bù kèqì.
-  en: Thanks. You’re welcome.
-  es: Gracias, señor. De nada.
+  zh-hans: 谢谢。
+  pinyin: Xièxiè.
+  en: Thanks.
+  es: Gracias.
+- id: 50d6178f-bb0f-4544-85cd-bb94d76cba45
+  zh-hans: 不客气。
+  pinyin: Bù kèqì.
+  en: You’re welcome.
+  es: De nada.
