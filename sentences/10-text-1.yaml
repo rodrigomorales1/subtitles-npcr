@@ -15,6 +15,7 @@ sentences:
   en: Dawei!
   es: ¡Genial por eso!
 - id: 3ce13e70-c186-448c-931d-7f64bc2b8eae
+  context: video
   zh-hans: 诶！
   pinyin: Éi!
   en: Hey!
@@ -45,6 +46,7 @@ sentences:
   en: On Sunday I usually visit the small shops with Lin Na.
   es: Los domingos suelo ir al mini centro comercial con Linna.
 - id: 0331c52e-bdf5-45fa-9c22-8dc8d25ad81d
+  context: video
   zh-hans: 哦……
   pinyin: Ò……
   en: Oh…
@@ -65,6 +67,7 @@ sentences:
   en: I like Chinese music.
   es: Me gusta la música china.
 - id: e713ab73-d10b-4109-85c3-3b804f8214b8
+  context: video
   zh-hans: 哦……
   pinyin: Ò……
   en: Oh…
