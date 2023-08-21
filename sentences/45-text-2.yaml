@@ -107,10 +107,15 @@ sentences:
   en: In this (1:job), (2:no matter) the (3:difficulties),
   es: En mi (1:trabajo), (2:sin importar) las (3:dificultades)
 - id: 6af48ffe96b446778f84c176d3a1bc6e
-  zh-hans: 我都(1:想)(2:办法)(3:解决)，(4:努力)(5:开发)(6:市场)。
-  pinyin: wǒ dōu (1:xiǎng) (2:bànfǎ) (3:jiějué), (4:nǔlì) (5:kāifā) (6:shìchǎng).
-  en: I always (1:thought) of (2:ways) to (3:solve) them, and (4:worked hard) to (5:develop) the (6:market).
-  es: siempre (1:pensaba) (2:maneras) de (3:solucionarlos) y me (4:esforzaba) en (5:desarrollar) el (6:mercado).
+  zh-hans: 我都(1:想)(2:办法)(3:解决)，
+  pinyin: wǒ dōu (1:xiǎng) (2:bànfǎ) (3:jiějué),
+  en: I always (1:thought) of (2:ways) to (3:solve) them, and
+  es: siempre (1:pensaba) (2:maneras) de (3:solucionarlos) y
+- id: fc45a131-e76b-4c01-99e8-6c9b4a14cb27
+  zh-hans: (4:努力)(5:开发)(6:市场)。
+  pinyin: (4:nǔlì) (5:kāifā) (6:shìchǎng).
+  en: (4:worked hard) to (5:develop) the (6:market).
+  es: me (4:esforzaba) en (5:desarrollar) el (6:mercado).
 - id: a495eed91fb344ee9f46190c97f23495
   zh-hans: 在很(1:短)的(2:时间)里，
   pinyin: Zài hěn (1:duǎn) de (2:shíjiān) lǐ,
