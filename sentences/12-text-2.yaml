@@ -130,11 +130,13 @@ sentences:
   en: and come back next Monday.
   es: Vuelva la semana que viene.
 - id: e3344911-c945-46e7-9302-1e1897f0b64b
+  context: video
   zh-hans: 好。
   pinyin: Hǎo.
   en: Ok,
   es: De acuerdo, gracias.
 - id: 68d4ff11-f3b1-4d47-aafb-5bc9f77c795a
+  context: video
   zh-hans: 谢谢。
   pinyin: Xièxiè.
   en: thanks.
