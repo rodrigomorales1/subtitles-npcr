@@ -10,10 +10,15 @@ metadata:
   add-groups-es: {finished: false, issue_id: 173}
 sentences:
 - id: 30a212f0-2925-42c3-88ae-9f1dd02a85c8
-  zh-hans: 你好！我是语言学院的学生，
-  pinyin: Nǐ hǎo! Wǒ shì Yǔyán Xuéyuàn de xuéshēng,
-  en: Hello! I am a student from the School of Languages,
-  es: ¡Hola! Soy estudiante en el Instituto de Idiomas.
+  zh-hans: 你好！
+  pinyin: Nǐ hǎo!
+  en: Hello!
+  es: ¡Hola!
+- id: ea15ad94-134f-4ba8-8df2-0aa5ee731d4d
+  zh-hans: 我是语言学院的学生，
+  pinyin: Wǒ shì Yǔyán Xuéyuàn de xuéshēng,
+  en: I am a student from the School of Languages,
+  es: Soy estudiante en el Instituto de Idiomas.
 - id: 69d7e703-a921-4464-95ef-349522c67cbf
   zh-hans: 我姓林，叫林娜。我是英国人。你姓什么？
   pinyin: wǒ xìng Lín, jiào Lín Nà. Wǒ shì Yīngguó rén. Nǐ xíng shénme?
