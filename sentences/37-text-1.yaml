@@ -50,6 +50,7 @@ sentences:
   en: Let’s go.
   es: Vámonos.
 - id: 3c89c806-451c-482a-ad98-416a15118c5d
+  context: video
   zh-hans: 走。
   pinyin: Zǒu.
   en: Let’s go.
