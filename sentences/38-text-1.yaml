@@ -100,10 +100,17 @@ sentences:
   en: Of course.
   es: Por supuesto que sí.
 - id: 44a100b0-0a01-4120-8168-5d82e5b9c587
+  context: video
   zh-hans: 来，这是我们的喜糖，请吃糖。
   pinyin: Lái, zhè shì wǒmen de xǐtáng, qǐng chī táng.
-  en: Come, this is our candy, please have some candies.
-  es: Toma, aquí están nuestros caramelos de boda. Por favor, cómete los caramelos.
+  en: these candies are from our wedding, please have some candies.
+  es: Estos son caramelos de nuestra boda. Por favor, coman estos caramelos.
+- id: b63bc48f-bf5b-4acd-b24a-58d650ef9039
+  context: audio
+  zh-hans: 这是我们的喜糖，来，请吃糖。
+  pinyin: zhè shì wǒmen de xǐtáng, lái, qǐng chī táng.
+  en: These candies are from our wedding, please have some candies.
+  es: Estos son caramelos de nuestra boda. Por favor, coman estos caramelos.
 - id: 5b2b20c6-2309-42c3-a228-4cc1189b6273
   zh-hans: 喜糖我们收下了，但这还不算是请客。
   pinyin: Xǐtáng wǒmen shōu xiàle, dàn zhè hái bù suànshì qǐngkè.
