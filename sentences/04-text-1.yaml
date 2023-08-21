@@ -25,6 +25,7 @@ sentences:
   en: Teacher Yang, hello.
   es: Hola, Sr. Yang.
 - id: 890ed092-c802-44f2-89d8-62ea274246e9
+  context: video
   zh-hans: 你好。
   pinyin: Nǐ hǎo.
   en: Hello.
