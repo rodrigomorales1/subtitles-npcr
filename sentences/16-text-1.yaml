@@ -70,10 +70,17 @@ sentences:
   en: Have you brought a photo?
   es: ¿Ha traído una foto?
 - id: a0d758a3-d947-4b72-bc71-714bf1481d1b
+  context: video
   zh-hans: 哦，带来了。
   pinyin: Ó, dài láile.
-  en: Oh, yes I have.
-  es: Ah, sí.
+  en: Oh, yes, I brought it.
+  es: Ah, sí, lo traje.
+- id: a0d758a3-d947-4b72-bc71-714bf1481d1b
+  context: audio
+  zh-hans: 带来了。
+  pinyin: dài láile.
+  en: Yes, I brought it.
+  es: Sí, lo traje.
 - id: 539b26fe-2719-4d23-b108-a15798ee5b2b
   zh-hans: 请先填一张表。
   pinyin: Qǐng xiān tián yī zhāng biǎo.
