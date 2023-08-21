@@ -235,7 +235,8 @@ sentences:
   en: I also wish you and father a merry Christmas!
   es: ¡Feliz Navidad para ti y papá también!
 - id: 5ffdfae1-24fd-4897-9924-e55c549a8fd2
-  zh-hans: 好，就这儿吧。2
+  zh-hans: 好，就这儿吧。
+  context: video
   pinyin: Hǎo, jiù zhèr ba.
   en: OK, well that’s it.
   es: Bien, aquí vamos.
