@@ -28,12 +28,12 @@ sentences:
   zh-hans: 贵(1:公司)是(2:中)(3:加)(4:合资:1)(5:企业)，
   pinyin: Guì (1:gōngsī) shì (2:Zhōng) (3:Jiā) (4:hézī) (5:qǐyè),
   en: Your (1:company) is a (2:Chinese)-(3:Canadian) (4:joint venture),
-  es: Su (1:empresa) es una (5:empresa) de (4:capital mixto) (2:china)-(3:canadiense).
+  es: Su (1:empresa) es un (4:capital mixto) (2:china)-(3:canadiense).
 - id: 4f1590aed7004faeb30a52aea8acb540
   zh-hans: (1:现在)已(2:发展)(3:成为)
   pinyin: (1:xiànzài) yǐ (2:fāzhǎn) (3:chéngwéi)
   en: which has (1:now) (2:developed) and (3:turned into) a
-  es: (1:Ahora) se ha (2:desarrollado) y (3:convertido) en
+  es: (1:ahora) se ha (2:desarrollado) y (3:convertido) en
 - id: 1c671c4d28fe49c1bd28462ed1b4b88d
   zh-hans: (1:中国)(2:大陆)(3:有名)的(4:高新)(5:技术)(6:企业)，
   pinyin: (1:Zhōngguó) (2:dàlù) (3:yǒumíng) de (4:gāoxīn) (5:jìshù) (6:qǐyè),
@@ -48,7 +48,7 @@ sentences:
   zh-hans: (1:本人:3)对贵(2:公司)的(3:业务:2)和
   pinyin: (1:běnrén) duì guì (2:gōngsī) de (3:yèwù) hé
   en: I am very interested in your (2:company)’s (3:business) and
-  es: Me interesa el (3:trabajo) de su (2:empresa) y...
+  es: Me interesa el (3:trabajo) de su (2:empresa) y
 - id: 424a2cb1a3d84c9c9bcafead1d5181b1
   zh-hans: (1:市场)(2:开发)(3:部)(4:经理)的(5:职务)很感兴趣，
   pinyin: (1:shìchǎng) (2:kāifā) (3:bù) (4:jīnglǐ) de (5:zhíwù) hěn gǎn xìngqù,
@@ -78,24 +78,24 @@ sentences:
   zh-hans: (1:毕业)(2:以后)，
   pinyin: (1:Bìyè) (2:yǐhòu),
   en: (2:After) (1:graduating),
-  es: (2:Después) de (1:graduarme).
+  es: (2:Después) de (1:graduarme),
 - id: e31f26f96fe148108064516d048fe54a
   zh-hans: 我在(1:加拿大)一家(2:贸易)(3:公司)(4:工作)，
   pinyin: wǒ zài (1:Jiānádà) yījiā (2:màoyì) (3:gōngsī) (4:gōngzuò),
   en: I (4:worked) at a (1:Canadian) (2:trading) (3:company),
-  es: (4:Trabajé) en una (3:empresa) (2:comercial) (1:canadiense)
+  es: (4:trabajé) en una (3:empresa) (2:comercial) (1:canadiense),
 - id: c0176c79701f4f25894c6af070f8d0ec
   context: video
   zh-hans: (1:负责:5)(2:联系:6)(3:亚洲:19)，
   pinyin: (1:fùzé) (2:liánxì) (3:Yàzhōu),
   en: and was (1:responsible) for (2:contacting) (3:Asia)
-  es: (1:Era responsable) de (2:contactar) con (3:Asia).
+  es: (1:era responsable) de (2:contactar) con (3:Asia).
 - id: 26ce9be2-c829-4f87-a76a-0168fb98d7c7
   context: audio
   zh-hans: (1:负责:5)(2:联系:6)(3:亚洲:19)——
   pinyin: (1:fùzé) (2:liánxì) (3:Yàzhōu)——
   en: and was (1:responsible) for (2:contacting) (3:Asia)
-  es: (1:Era responsable) de (2:contactar) con (3:Asia)
+  es: (1:era responsable) de (2:contactar) con (3:Asia)
 - id: 0d4fa189bb394e11bd5d8e6139f73470
   zh-hans: (1:主要)是(2:中国)的(3:业务)。
   pinyin: (1:zhǔyào) shi (2:Zhōngguó) de (3:yèwù).
@@ -105,7 +105,7 @@ sentences:
   zh-hans: 在(1:工作)中，(2:无论)有多少(3:困难)，
   pinyin: Zài (1:gōngzuò) zhōng, (2:wúlùn) yǒu duōshǎo (3:kùnnán),
   en: In this (1:job), (2:no matter) the (3:difficulties),
-  es: En mi (1:trabajo), (2:sim importar) las (3:dificultades)
+  es: En mi (1:trabajo), (2:sin importar) las (3:dificultades)
 - id: 6af48ffe96b446778f84c176d3a1bc6e
   zh-hans: 我都(1:想)(2:办法)(3:解决)，(4:努力)(5:开发)(6:市场)。
   pinyin: wǒ dōu (1:xiǎng) (2:bànfǎ) (3:jiějué), (4:nǔlì) (5:kāifā) (6:shìchǎng).
@@ -120,7 +120,7 @@ sentences:
   zh-hans: 我们(1:公司)对(2:中国)的(3:贸易)有了很(4:大)的(5:发展)。
   pinyin: wǒmen (1:gōngsī) duì (2:Zhōngguó) de (3:màoyì) yǒule hěn (4:dà) de (5:fǎzhǎn).
   en: our (1:company) had (5:developed) (4:a lot) of (3:trade) with (2:China).
-  es: El (3:comercio) de nuestra (1:empresa) con (2:China) se ha (5:desarrollado) (4:mucho).
+  es: el (3:comercio) de nuestra (1:empresa) con (2:China) se ha (5:desarrollado) (4:mucho).
 - id: 5531c3800402406da2efa20eff7c4b38
   zh-hans: 我的(1:负责:5)的(2:精神:7)和(3:热情)的(4:态度)，
   pinyin: Wǒ de (1:fùzé) de (2:jīngshén) hé (3:rèqíng) de (4:tàidù),
@@ -130,22 +130,22 @@ sentences:
   zh-hans: 也(1:多)(2:次)得到(2:中国)(3:方面)的(4:称赞)。
   pinyin: yě (1:duō) (2:cì) dédào (2:Zhōngguó) (3:fāngmiàn) de (4:chēngzàn).
   en: was (4:praised) (1:many) (2:times) by the (2:Chinese) (3:side).
-  es: (1:muchas) (2:veces), recibí el (4:elogio) del (3:lado) (2:china).
+  es: (1:muchas) (2:veces) recibió el (4:elogio) del (3:lado) (2:chino).
 - id: b77a8ee5c71a4e4ba5a11bd8ce8f9c04
   zh-hans: (1:公司)对我的(2:工作)很(3:满意)，
   pinyin: (1:Gōngsī) duì wǒ de (2:gōngzuò) hěn (3:mǎnyì),
   en: The (1:company) was very (3:satisfied) with my (2:work),
-  es: La (1:empresa) está muy (3:satisfecha) con mi (2:trabajo).
+  es: La (1:empresa) está muy (3:satisfecha) con mi (2:trabajo),
 - id: d7913b4a04324467ba4b95eed449ee83
   zh-hans: 认为我(1:熟悉)(2:业务:2)，
   pinyin: rènwéi wǒ (1:shúxī) (2:yèwù),
   en: felt that I was (1:familiar) with (2:business),
-  es: Estoy (1:familiarizado) con el (2:negocio) y
+  es: estoy (1:familiarizado) con el (2:negocio) y
 - id: 596c756062a04b12a1388d42a7a574c5
   zh-hans: 有(1:创新:8)(2:精神:7)。
   pinyin: yǒu (1:chuàngxīn) (2:jīngshén).
-  en: and that I had an (1:innovative) (2:spirit).
-  es: y tenía (2:espíritu) (1:innovador).
+  en: and I have an (1:innovative) (2:spirit).
+  es: y tengo un (2:espíritu) (1:innovador).
 - id: 963b0a0993dd43c6a5f806d1d37892f8
   zh-hans: (1:一)(4:年)(2:以后)我(3:当)了(4:公司)的(5:商务)(6:代表)。
   pinyin: (1:Yī) (4:nián) (2:yǐhòu) wǒ (3:dāng)le (4:gōngsī) de (5:shāngwù) (6:dàibiǎo).
@@ -155,17 +155,17 @@ sentences:
   zh-hans: (1:为了)更多地(2:了解)(3:中国)的(4:社会)和(5:文化)，
   pinyin: (1:Wèile) gèng duō de (2:liǎojiě) (3:Zhōngguó) de (4:shèhuì) hé (5:wénhuà),
   en: (1:In order to) (2:understand) more about (3:Chinese) (4:society) and (5:culture),
-  es: (1:Para) (2:conocer) mejor la (4:sociedad) y la (5:cultura) (3:chinas).
+  es: (1:Para) (2:conocer) mejor la (4:sociedad) y la (5:cultura) (3:china).
 - id: a04655c8f9e94fe7832aac552a60f7e1
   zh-hans: 我(1:辞:9)去了(2:公司)的(3:工作)，
   pinyin: wǒ (1:cí) qùle (2:gōngsī) de (3:gōngzuò),
   en: I (1:resigned) from the (2:company),
-  es: (1:Dejé) mi (3:trabajo) en la (2:empresa) y
+  es: (1:dejé) mi (3:trabajo) en la (2:empresa) y
 - id: fb15e84f989e4e4db3960df4bfeb032c
   zh-hans: 于(1:去年)(2:2月)(3:开始)
   pinyin: yú (1:qùnián) (2:èr yuè) (3:kāishǐ)
   en: and in (2:February) (1:last year) (3:began)
-  es: En (2:febrero) del (1:año pasado) (3:empecé)
+  es: en (2:febrero) del (1:año pasado) (3:empecé)
 - id: 0b56a92ce11448f284c531bccf7e644f
   zh-hans: 在(1:北京)(2:语言)(3:学院)(4:进修)(5:中国)(6:文学)，
   pinyin: zài (1:Běijīng) (2:Yǔyán) (3:Xuéyuàn) (4:jìnxiū) (5:Zhōngguó) (6:wénxué),
