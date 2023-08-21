@@ -75,6 +75,7 @@ sentences:
   en: You can take it to try on.
   es: Puedes probártelo otra vez.
 - id: 2b0c5ee9-28ad-4973-ad7f-ad99af1743cc
+  context: video
   zh-hans: 好。
   pinyin: Hǎo.
   en: Ok.
@@ -160,6 +161,7 @@ sentences:
   en: What size do you wear? Do you want to try Western-clothing?
   es: ¿Qué talla usas? ¿Quieres probarte el traje?
 - id: b099e533-cbb6-40b8-89c7-581a1f68d163
+  context: video
   zh-hans: 好啊，走。
   pinyin: Hǎo a, zǒu.
   en: Ok, let’s go.
