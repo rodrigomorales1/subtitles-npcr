@@ -10,11 +10,13 @@ metadata:
   add-groups-es: {finished: false, issue_id: 253}
 sentences:
 - id: 3135f325-36a7-4355-afeb-67e0a74241cd
+  context: video
   zh-hans: 嗨！你们好！
   pinyin: Hāi! Nǐmen hǎo!
   en: Hi! Hello!
   es: Hola. - ¡Hola! ¡Hola, chicos!
 - id: 12d37df5-60d0-4111-bfa5-d87198d33db1
+  context: video
   zh-hans: 你们好！
   pinyin: Nǐmen hǎo!
   en: Hello!
@@ -30,6 +32,7 @@ sentences:
   en: Thank you.
   es: Gracias.
 - id: 8e79892f-cd81-401b-9f55-04829223b202
+  context: video
   zh-hans: 请坐，请坐。
   pinyin: Qǐng zuò, qǐng zuò.
   en: Please sit, please sit.
