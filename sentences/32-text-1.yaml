@@ -25,11 +25,13 @@ sentences:
   en: Great!
   es: ¡Vale!
 - id: a934bfbb-6fc9-40b1-8c06-6eee7b07d9bd
+  context: video
   zh-hans: 好……
   pinyin: Hǎo……
   en: Ok…
   es: Bien ......
 - id: 76faa163-501f-4d9f-81ca-480d83e6b843
+  context: video
   zh-hans: 你看，怎么样？那边好漂亮吧！
   pinyin: Nǐ kàn, zěnme yàng? Nà biān hǎo piàoliang ba!
   en: Look, how about that? Isn’t that beautiful?
