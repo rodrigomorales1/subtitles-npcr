@@ -85,10 +85,17 @@ sentences:
   en: I (4:worked) at a (1:Canadian) (2:trading) (3:company),
   es: (4:Trabajé) en una (3:empresa) (2:comercial) (1:canadiense)
 - id: c0176c79701f4f25894c6af070f8d0ec
+  context: video
   zh-hans: (1:负责:5)(2:联系:6)(3:亚洲:19)，
-  pinyin: (1:fùzé) (2:liánxì) (3:Yàzhōu)
+  pinyin: (1:fùzé) (2:liánxì) (3:Yàzhōu),
   en: and was (1:responsible) for (2:contacting) (3:Asia)
   es: (1:Era responsable) de (2:contactar) con (3:Asia).
+- id: 26ce9be2-c829-4f87-a76a-0168fb98d7c7
+  context: audio
+  zh-hans: (1:负责:5)(2:联系:6)(3:亚洲:19)——
+  pinyin: (1:fùzé) (2:liánxì) (3:Yàzhōu)——
+  en: and was (1:responsible) for (2:contacting) (3:Asia)
+  es: (1:Era responsable) de (2:contactar) con (3:Asia)
 - id: 0d4fa189bb394e11bd5d8e6139f73470
   zh-hans: (1:主要)是(2:中国)的(3:业务)。
   pinyin: (1:zhǔyào) shi (2:Zhōngguó) de (3:yèwù).
