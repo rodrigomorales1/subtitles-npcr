@@ -20,6 +20,7 @@ sentences:
   en: I’m going to the School of Languages.
   es: Voy a la escuela de idiomas.
 - id: 304411e4-64c0-4334-91c9-23a9d2f88b9f
+  context: video
   zh-hans: 好。
   pinyin: Hǎo.
   en: Ok.
