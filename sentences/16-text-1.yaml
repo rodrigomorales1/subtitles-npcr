@@ -15,6 +15,7 @@ sentences:
   en: This is the Beijing library. Let’s go in.
   es: Esta es la Biblioteca de Pekín. Entremos.
 - id: 714cb3db-227f-4e89-8488-85cd868fc90e
+  context: video
   zh-hans: 好。
   pinyin: Hǎo.
   en: Ok.
@@ -25,6 +26,7 @@ sentences:
   en: This library is really big.
   es: Esta biblioteca es enorme.
 - id: 0286c9f7-bfe9-41f6-b836-2c385bbc1e5f
+  context: video
   zh-hans: 嗯，
   pinyin: N,
   en: Yea,
