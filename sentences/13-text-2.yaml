@@ -120,6 +120,7 @@ sentences:
   en: see you.
   es: Hasta luego.
 - id: 8724728f-c42b-42bf-85e4-58a643269ffd
+  context: video
   zh-hans: 没问题，走吧。
   pinyin: Méi wèntí, zǒu ba.
   en: See you. No problem, let’s go.
