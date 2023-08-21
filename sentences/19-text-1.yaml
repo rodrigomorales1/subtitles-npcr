@@ -130,11 +130,13 @@ sentences:
   en: I can give you my good painting of a horse.
   es: Puedo darte mi caballo.
 - id: 310fa9b4-a687-4645-b280-569d7d818efe
+  context: video
   zh-hans: 唉，开门了，咋们走吧。
   pinyin: Āi, kāiménle, zǎmen zǒu ba.
   en: Hey, it’s open, shall we go?
   es: Está abierto. Vamos.
 - id: e050de36-3d29-4124-b9eb-bf180f9f6911
+  context: video
   zh-hans: 走吧。
   pinyin: Zǒu ba.
   en: Let’s go.
