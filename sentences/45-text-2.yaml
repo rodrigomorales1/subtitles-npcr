@@ -15,9 +15,9 @@ sentences:
   en: '(1:Respectful) (4:Sr). (2:General) (3:Manager): (5:Hello)!'
   es: '(1:Respetado) (2:Director) (3:Gerente): ¡(5:Hola)!'
 - id: 70e31e9f73a5439185e4a06f3f916908
-  zh-hans: 从(1:网上)了(2:解到)贵(3:公司)(4:市场)(5:开发)(6:部)
+  zh-hans: 从(1:网上)(2:了解到)贵(3:公司)(4:市场)(5:开发)(6:部)
   pinyin: Cóng (1:wǎngshàng) (2:liǎojiě) dào guì (3:gōngsī) (4:shìchǎng) (5:kāifā) (6:bù)
-  en: From the (1:Internet) I (2:understand) that your (3:company's) (4:Business) (5:Development) (6:Department)
+  en: From the (1:Internet) I (2:knew) that the (4:Business) (5:Development) (6:Department) of your (3:company)
   es: De (1:Internet), he (2:sabido) que el (5:desarrollo) de (4:mercado) de su (3:empresa)
 - id: 302d6eac2dcc4cc996b9e928e4fc15e5
   zh-hans: (1:正在)(2:招聘)(3:经理)。
