@@ -245,7 +245,14 @@ sentences:
   en: (1:Ma) (2:Dawei)
   es: (2:Dawei) (1:Ma)
 - id: 319a9303ccf44722b9bdab40fd656775
-  zh-hans: 2004年(1:5月)20日于(2:北京)
-  pinyin: èr líng líng sì nián (1:wǔ yuè) èrshí rì yú (2:Běijīng)
-  en: 20th (1:May) 2004, (2:Beijing)
-  es: (2:Pekín), 20 de (1:mayo) de 2004
+  context: video
+  zh-hans: (1:2004)年(2:5月)20日 于(3:北京)
+  pinyin: (1:èr líng líng sì) nián (2:wǔ yuè) èrshí rì yú (3:Běijīng)
+  en: 20th (2:May) (1:2004), (3:Beijing)
+  es: (3:Pekín), 20 de (2:mayo) de (1:2004)
+- id: 923049eb-0fc2-4ce2-9168-f1b9b3d518b1
+  context: audio
+  zh-hans: (1:2012)年(2:5月)20日 于(3:北京)
+  pinyin: (1:èr líng yī èr) nián (2:wǔ yuè) èrshí rì yú (3:Běijīng)
+  en: 20th (2:May) (1:2012), (3:Beijing)
+  es: (3:Pekín), 20 de (2:mayo) de (1:2012)
