@@ -30,7 +30,14 @@ sentences:
   en: I’m very busy tomorrow, afraid I cannot.
   es: Lo siento, mañana estoy ocupado. Me temo que no puedo.
 - id: 23a1551d-1b68-4614-8cf8-450ba15d51dc
+  context: video
   zh-hans: 谢谢你。
   pinyin: Xièxiè nǐmen.
   en: Thank you, though.
-  es: Gracias.
+  es: Gracias (por invitarme).
+- id: 491d63a9-5f5b-4638-9ef8-2e975035ce21
+  context: audio
+  zh-hans: 谢谢你们。
+  pinyin: Xièxiè nǐmen.
+  en: Thank you, though.
+  es: Gracias (por invitarme).
