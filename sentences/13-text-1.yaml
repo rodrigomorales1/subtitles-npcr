@@ -105,16 +105,19 @@ sentences:
   en: That would be great.
   es: Sería estupendo.
 - id: 327eacbe-0843-4de2-a258-f7f469c08f4b
+  context: video
   zh-hans: 好，
   pinyin: Hǎo,
   en: Ok,
   es: Vale, adiós.
 - id: e0676f56-dc51-4328-8dcc-f3c87b2b2447
+  context: video
   zh-hans: 再见。
   pinyin: zàijiàn.
   en: see you later.
   es: Adiós.
 - id: 8c84748d-d468-43a0-9905-0993864b1ca4
+  context: video
   zh-hans: 再见。
   pinyin: Zàijiàn.
   en: See you.
