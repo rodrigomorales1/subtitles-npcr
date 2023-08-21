@@ -15,6 +15,7 @@ sentences:
   en: Lin Na!
   es: ¡Linna!
 - id: 3a82a86a-d2b8-4631-bf4d-5ae994130202
+  context: video
   zh-hans: 嗨！
   pinyin: Hāi!
   en: Hey!
@@ -145,6 +146,7 @@ sentences:
   en: Great, see you tomorrow then.
   es: Vale, hasta mañana.
 - id: 733ad8fa-abdb-40d1-8177-81938d6fc780
+  context: video
   zh-hans: 好，再见。
   pinyin: Hǎo, zài jiàn.
   en: Ok, see you later.
