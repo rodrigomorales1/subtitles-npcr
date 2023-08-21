@@ -164,6 +164,12 @@ sentences:
   pinyin: Duì.
   en: Correct. Let's go.
   es: Sí, es esa. Ve.
+- id: 937af9a9-d974-44ae-80e4-b5532df059c2
+  context: audio
+  zh-hans: 对。
+  pinyin: Duì.
+  en: Yes.
+  es: Sí.
 - id: 86c08d23-3bb7-4c37-ad31-8093f5d7606d
   zh-hans: 网上有一篇文章叫《小木屋》，你读过吗？
   pinyin: Wǎng shàng yǒuyī piān wénzhāng jiào “Xiǎo Mùwū”, nǐ dúguò ma?
