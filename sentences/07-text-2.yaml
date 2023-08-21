@@ -10,6 +10,7 @@ metadata:
   add-groups-es: {finished: false, issue_id: 221}
 sentences:
 - id: a156ba15-3c40-49fe-9b0a-807c6aa65b20
+  context: video
   zh-hans: 唉，这边儿。
   pinyin: Āi, zhè biānr.
   en: Hey, over here.
