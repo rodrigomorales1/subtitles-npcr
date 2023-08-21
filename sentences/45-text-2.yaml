@@ -35,10 +35,10 @@ sentences:
   en: which has (1:now) (2:developed) and (3:turned into) a
   es: (1:ahora) se ha (2:desarrollado) y (3:convertido) en
 - id: 1c671c4d28fe49c1bd28462ed1b4b88d
-  zh-hans: (1:中国)(2:大陆)(3:有名)的(4:高新)(5:技术)(6:企业)，
-  pinyin: (1:Zhōngguó) (2:dàlù) (3:yǒumíng) de (4:gāoxīn) (5:jìshù) (6:qǐyè),
-  en: (3:famous) (4:high) (5:technology) (6:enterprise) in (2:mainland) (1:China),
-  es: una (3:famosa) (6:empresa) de (4:alta) (5:tecnología) en (1:China) (2:continental), y
+  zh-hans: (1:中国)(2:大陆)(3:有名)的(4:高)(5:新)(6:技术)(7:企业)，
+  pinyin: (1:Zhōngguó) (2:dàlù) (3:yǒumíng) de (4:gāoxīn) (6:jìshù) (7:qǐyè),
+  en: (3:famous) (4:high) and (5:new) (6:technology) (7:enterprise) in (2:mainland) (1:China),
+  es: una (3:famosa) (7:empresa) de (4:alta) y (5:nueva) (6:tecnología) en (1:China) (2:continental), y
 - id: 32dc7af6213c49c4a8785a34bef519a5
   zh-hans: 在(1:中国)不少(2:城市)都有(3:业务:2)。
   pinyin: zài (1:Zhōngguó) bù shǎo (2:chéngshì) dōu yǒu (3:yèwù).
