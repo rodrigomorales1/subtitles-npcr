@@ -160,6 +160,7 @@ sentences:
   en: Did you know, Dawei’s works have been in an exhibition.
   es: Sabes, el trabajo de Dawei ha estado en una exposición.
 - id: 9bcb3a90-6e10-48cc-b505-8bc4a5b2f294
+  context: video
   zh-hans: 是吗？
   pinyin: Shì ma?
   en: Really?
@@ -195,6 +196,7 @@ sentences:
   en: What you say is correct. Protecting the environment is protecting ourselves.
   es: Tienes razón. Proteger el medio ambiente es protegernos a nosotros mismos.
 - id: 381c6134-9ae4-4114-a720-b109bebeb431
+  context: video
   zh-hans: 你们看……
   pinyin: Nǐmen kàn。
   en: Look guys...
