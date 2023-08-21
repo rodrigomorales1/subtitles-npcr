@@ -43,7 +43,7 @@ sentences:
   zh-hans: 在(1:中国)不少(2:城市)都有(3:业务:2)。
   pinyin: zài (1:Zhōngguó) bù shǎo (2:chéngshì) dōu yǒu (3:yèwù).
   en: and does (3:business) across many (1:Chinese) (2:cities).
-  es: (3:trabaja) en muchas (2:ciudades) de (11:China).
+  es: (3:trabaja) en muchas (2:ciudades) de (1:China).
 - id: df6bfeaa49f94627a0826a4ba1532839
   zh-hans: (1:本人:3)对贵(2:公司)的(3:业务:2)和
   pinyin: (1:běnrén) duì guì (2:gōngsī) de (3:yèwù) hé
@@ -228,7 +228,7 @@ sentences:
   es: (1:Si) hay alguna (2:pregunta) que usted (3:necesita) (4:entender).
 - id: c352753f7bb8491780bd7fe6ed8e0181
   zh-hans: (1:请)(2:用)(3:电子:13)(4:邮件:13)或(5:打电话)跟我(6:联系)。
-  pinyin: (1:qǐng) (2:yòng) (3:diànzǐ) (4:yóujiàn) huò (23:dǎ diànhuà) gēn wǒ (6:liánxì).
+  pinyin: (1:qǐng) (2:yòng) (3:diànzǐ) (4:yóujiàn) huò (5:dǎ diànhuà) gēn wǒ (6:liánxì).
   en: (1:please) (2:use) (3:electronic) (4:email) or (5:give me a call) to (6:contact) me.
   es: (1:Por favor), (2:use) (4:correo) (3:electrónico) o (5:llámeme) para (6:contactarme).
 - id: d9b0cacb582143468f938a543ebdf01e
