@@ -25,6 +25,7 @@ sentences:
   en: Hello!
   es: ¡Hola, Sr. Chen!
 - id: 56e34c91-9436-424c-9f78-2520463a5ca9
+  context: video
   zh-hans: 你好！
   pinyin: Nǐ hǎo!
   en: Hello!
@@ -60,11 +61,13 @@ sentences:
   en: maternal grandmother, hello!
   es: ¡Hola, abuela!
 - id: da792c19-246c-4523-9e97-c79b1a117e84
+  context: video
   zh-hans: 你好！
   pinyin: Nǐ hǎo!
   en: Hello!
   es: ¿Qué tal estás?
 - id: a17daae6-790c-45c9-b218-7deb61eb9ef4
+  context: video
   zh-hans: 好，坐吧。
   pinyin: Hǎo, zuò ba.
   en: Great, let’s sit.
