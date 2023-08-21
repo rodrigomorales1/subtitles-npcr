@@ -92,10 +92,16 @@ sentences:
   en: It’s ok.
   es: Es bastante mediocre.
 - id: 78512956-cf90-4bc8-8951-aca60a5a05a0
-  zh-hans: 快上来。我见过几位老外，
-  pinyin: Kuài shànglái. Wǒ jiànguò jǐ wèi lǎowài,
-  en: Quickly come up. I have met a few foreigners,
-  es: Sube. He conocido a algunos extranjeros.
+  context: video
+  zh-hans: 快上来。
+  pinyin: Kuài shànglái.
+  en: Quickly come up.
+  es: Sube.
+- id: 3f3ffb5e-259d-4412-9219-753d89c8559d
+  zh-hans: 我见过几位老外，
+  pinyin: Wǒ jiànguò jǐ wèi lǎowài,
+  en: I have met a few foreigners,
+  es: He conocido a algunos extranjeros.
 - id: bd828179-8a59-4c47-8a72-91bb89436d37
   zh-hans: 他们汉语说得没有你好，你说得最好。
   pinyin: tāmen Hànyǔ shuō de méiyǒu nǐ hǎo, nǐ shuō de zuì hǎo.
