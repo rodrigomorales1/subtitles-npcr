@@ -190,8 +190,15 @@ sentences:
   en: Oh, “in the city”.
   es: Oh, "en la ciudad".
 - id: c3f8f418-973c-4c5d-8522-020f9bdeacda
+  context: video
   zh-hans: 你们知道吗？结婚是一辈子的大事！
   pinyin: Nǐmen zhīdào ma? Jiéhūn shì yībèizi de dàshì!
+  en: Do you know? Marriage is an important life matter!
+  es: ¿Sabes una cosa? ¡El matrimonio es un acontecimiento para toda la vida!
+- id: 993be8a5-419b-46b2-bf67-eb1970e185f4
+  context: audio
+  zh-hans: 你们知道吗？结婚是一辈子的大事啊！
+  pinyin: Nǐmen zhīdào ma? Jiéhūn shì yībèizi de dàshì a!
   en: Do you know? Marriage is an important life matter!
   es: ¿Sabes una cosa? ¡El matrimonio es un acontecimiento para toda la vida!
 - id: ffb93553-0f6d-48a8-9a67-c69f6ecbf1a0
