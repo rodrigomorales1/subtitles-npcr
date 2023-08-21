@@ -25,6 +25,7 @@ sentences:
   en: No it can’t, please get off the car!
   es: ¡No, por favor bájense!
 - id: 1de60752-5098-4d51-ae94-cb760156f2af
+  context: video
   zh-hans: 下车吧！
   pinyin: Xià chē ba!
   en: Off the car!
@@ -135,6 +136,7 @@ sentences:
   en: She also built a small Tibetan log cabin to live in.
   es: También construyó una cabaña como en la que solía vivir en el Tíbet.
 - id: 19b199d5-c1c6-4546-8bb3-de4e04d15840
+  context: video
   zh-hans: 这边，
   pinyin: Zhè biān,
   en: Here,
@@ -160,6 +162,7 @@ sentences:
   en: Oh, is it that house besides the big tree?
   es: Oh, ¿no es esa la casa al lado del árbol grande?
 - id: 66970f2f-1e4c-4019-ad9e-915cc48d85fa
+  context: video
   zh-hans: 对。走。
   pinyin: Duì.
   en: Correct. Let's go.
@@ -186,11 +189,13 @@ sentences:
   en: I haven’t read it. At the moment I still can’t understand long Chinese articles on the internet.
   es: No, no lo he leído. Todavía no puedo leer artículos largos en chino por Internet.
 - id: 848f85dd-16de-45e0-9ec4-6f8ebeb87b97
+  context: video
   zh-hans: 没关系，到时候我教你吧。
   pinyin: Méiguānxì, dào shíhou wǒ jiào nǐ ba.
   en: No matter, when we arrive I’ll teach you.
   es: No pasa nada. Te enseñaré cuando llegue el momento.
 - id: 07b49df0-1430-4479-a451-8b3de10eea58
+  context: video
   zh-hans: 快点儿！
   pinyin: Kuài diǎnr!
   en: Quickly!
