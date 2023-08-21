@@ -10,6 +10,7 @@ metadata:
   add-groups-es: {finished: false, issue_id: 197}
 sentences:
 - id: 32fc6954-77c3-4832-8f09-5ee3e92f0857
+  context:  video
   zh-hans: 谢谢。
   pinyin: Xièxiè.
   en: Thanks.
