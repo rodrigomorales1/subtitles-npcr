@@ -10,36 +10,43 @@ metadata:
   add-groups-es: {finished: false, issue_id: 512}
 sentences:
 - id: fa2e1fed-1283-42f0-9da5-c6c427d090b9
+  context: video
   zh-hans: 请坐。
   pinyin: Qǐng zuò.
   en: Please take a seat.
   es: Siéntate.
 - id: ce1ff235-1630-4747-bdab-35455684d1cb
+  context: video
   zh-hans: 好。
   pinyin: Hǎo.
   en: Ok.
   es: Muy bien.
 - id: 64938870-fdc8-4039-a729-1a66ca6cbb7f
+  context: video
   zh-hans: 请点菜吧。
   pinyin: Qǐng diǎn cài ba.
   en: Please order.
   es: Orden, por favor.
 - id: 98ba2398-dc0a-4166-ab6d-587c33098731
+  context: video
   zh-hans: 只要这些吗？
   pinyin: Zhǐ yào zhèxiē ma?
   en: Just want these?
   es: ¿Eso es todo?
 - id: 5f7e0c80-b11a-4cc0-8dc9-efd209e261e0
+  context: video
   zh-hans: 对。
   pinyin: Duì.
   en: Correct.
   es: Sí, por favor.
 - id: ed5b9d3d-68fd-4845-8abc-6716f07246d8
+  context: video
   zh-hans: 好的，请稍等。
   pinyin: Hǎo de, qǐng shāo děng.
   en: Ok, please wait a moment.
   es: Sí, por favor espere.
 - id: 49cda3db-7e57-4ea3-81cb-90e689340839
+  context: video
   zh-hans: 谢谢。
   pinyin: Xièxiè.
   en: Thanks.
@@ -125,16 +132,19 @@ sentences:
   en: However, Peking opera is all-over China, as a great many people enjoy Peking opera.
   es: Pero la Ópera de Pekín es para toda China, y hay mucha gente a la que le gusta.
 - id: 22ca0c9f-dad7-431b-a0d8-c7654b03bc06
+  context: video
   zh-hans: 请慢用。
   pinyin: Qǐng màn yòng.
   en: Please enjoy.
   es: Por favor, tómese su tiempo.
 - id: e268a676-5e53-4e6a-8d89-a9ee4fb6be8d
+  context: video
   zh-hans: 谢谢。
   pinyin: Xièxiè.
   en: Thanks.
   es: Muchas gracias.
 - id: 0dfca1d5-508a-44a0-a555-034897650e7a
+  context: video
   zh-hans: 谢谢。
   pinyin: Xièxiè.
   en: Thanks.
@@ -215,16 +225,19 @@ sentences:
   en: You can first listen, then learn to sing.
   es: Puedes escucharla más antes de aprender a cantar.
 - id: 7882d80b-314f-43ad-9afb-ea2afed8c647
+  context: video
   zh-hans: 对不起，打扰一下。
   pinyin: Duìbùqǐ, dǎrǎo yīxià.
   en: Sorry to bother you.
   es: Perdona que te moleste.
 - id: d832fa9c-2527-4719-b7a5-3b34e1ff6be3
+  context: video
   zh-hans: 菜上齐了。
   pinyin: Cài shàng qíle.
   en: Your food is ready.
   es: La comida está lista.
 - id: 5980b94b-d502-4528-85ec-7f42fde62e69
+  context: video
   zh-hans: 请漫用，慢用。
   pinyin: Qǐng màn yòng, màn yòng.
   en: Please enjoy.
