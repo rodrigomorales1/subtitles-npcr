@@ -172,10 +172,15 @@ sentences:
   en: and in (2:February) (1:last year) I (3:started)
   es: en (2:febrero) del (1:año pasado) (3:empecé)
 - id: 0b56a92ce11448f284c531bccf7e644f
-  zh-hans: 在(1:北京)(2:语言)(3:学院)(4:进修)(5:中国)(6:文学)，
-  pinyin: zài (1:Běijīng) (2:Yǔyán) (3:Xuéyuàn) (4:jìnxiū) (5:Zhōngguó) (6:wénxué),
-  en: (4:advance studies) in (5:Chinese) (6:literature) at (1:Beijing) (2:Language) and Culture (3:University),
-  es: (4:estudios avanzados) de (6:literatura) (5:china) en la (3:Universidad) de (2:Lengua) y Cultura de (1:Pekín),
+  zh-hans: 在(1:北京)(2:语言)(3:学院)
+  pinyin: zài (1:Běijīng) (2:Yǔyán) (3:Xuéyuàn)
+  en: at (1:Beijing) (2:Language) and Culture (3:University),
+  es: en la (3:Universidad) de (2:Lengua) y Cultura de (1:Pekín),
+- id: a1b66a67-4e0d-42ce-8d59-83e480da16d3
+  zh-hans: (1:进修)(2:中国)(3:文学)，
+  pinyin: (1:jìnxiū) (2:Zhōngguó) (3:wénxué),
+  en: to undertake (1:advanced studies) in (2:Chinese) (3:literature)
+  es: (1:estudios avanzados) de (3:literatura) (2:china)
 - id: 96138b79470045a6ae55c6c3e2b516ff
   zh-hans: (1:现在)(2:已经)(3:结业)。
   pinyin: (1:xiànzài) (2:yǐjīng) (3:jiéyè).
