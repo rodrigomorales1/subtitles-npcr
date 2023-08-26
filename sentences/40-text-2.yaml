@@ -9,82 +9,82 @@ metadata:
   add-groups-en: {finished: false, issue_id: 788}
   add-groups-es: {finished: false, issue_id: 789}
 sentences:
-- id: 7ec525a42c2f45e093bd06c368dfbb40
+- id: a0f6d088-7226-4108-ad26-a02971b4e93a
   zh-hans: 各位老师，各位同学：
   pinyin: 'Gèwèi lǎoshī, gèwèi tóngxué:'
   en: 'Teachers and students:'
   es: 'Profesores, alumnos:'
-- id: 88c90d0c286f46ccbe368e251e390b4a
+- id: 48d93537-bdd6-4c91-b59b-f200c8d5f256
   zh-hans: 我很高兴有机会跟大家谈谈
   pinyin: Wǒ hěn gāoxìng yǒu jīhuì gēn dàjiā tán tán
   en: I am very pleased to have the opportunity to talk about
   es: Me alegra tener la oportunidad de hablarles sobre la
-- id: cb000607691d416ab9654ea611797939
+- id: 9dd5bc6e-c4d7-41de-8a5c-1ad1b680506e
   zh-hans: 中国妇女的地位问题。
   pinyin: Zhōngguó fùnǚ de dìwèi wèntí.
   en: the status of Chinese women.
   es: situación de la mujer en China.
-- id: 7785b5485f82407696afc66233021e6a
+- id: da4e0c21-6ed2-4d2c-98b3-72c2d70df516
   zh-hans: 这是一个很大的问题，
   pinyin: Zhè shì yīgè hěn dà de wèntí,
   en: This is a big problem,
   es: Este es un tema muy importante, y
-- id: cc43ef83116d4156b8781fd7e017ad06
+- id: 6e2e54dd-9d24-4fc4-8621-926ee86845c9
   zh-hans: 我想从四个方面简单地谈一谈。
   pinyin: wǒ xiǎng cóng sì gè fāngmiàn jiǎndān de tán yī tán.
   en: that I would like to talk simply about from four aspects.
   es: Me gustaría hablar brevemente sobre ello desde cuatro aspectos.
-- id: 5873fc8fe9dd4564b8630dd324a219b4
+- id: b56a45db-9440-40c7-80ad-b903a272b1fe
   zh-hans: 首先，
   pinyin: Shǒuxiān,
   en: First of all,
   es: En primer lugar
-- id: 6b4461ecdc174bbea6adc52fe9e27e6e
+- id: f6095c26-2008-4f8f-b546-97ddec9cca8d
   zh-hans: 我要谈一下中国妇女的社会地位。
   pinyin: wǒ yào tán yīxià Zhōngguó fùnǚ de shèhuì dìwèi.
   en: I would like to talk a bit about the social status of Chinese women.
   es: Me gustaría hablar de la condición social de la mujer china.
-- id: e8772a4485dc4f54b63b69d311c2401d
+- id: 6df85cac-ceaf-4cea-9a12-f08b2c4de50e
   zh-hans: 中国人常说妇女是“半边天”。
   pinyin: Zhōngguó rén cháng shuō fùnǚ shì “bànbiāntiān”.
   en: Chinese people often say that women are “half the sky”.
   es: Los chinos suelen decir que las mujeres son "la mitad del cielo".
-- id: f3ff7dda65dc48b3802021271fb50089
+- id: 4b66c8cc-03a3-476f-8609-8cec562a964b
   zh-hans: “半边天”是什么意思呢？
   pinyin: “Bànbiāntiān” shì shénme yìsi ne?
   en: What does “half the sky” mean?
   es: ¿Qué significa "la mitad del cielo"?
-- id: e6b6abeed2094b4fb439a35bd63d6dfe
+- id: 04d27cbf-0a63-4a6a-8fec-fce82534b52b
   zh-hans: 就是妇女几乎担负着一半的社会工作。
   pinyin: Jiùshì fùnǚ jīhū dānfùzhe yībàn de shèhuì gōngzuò.
   en: It means that women carry almost half of society’s work.
   es: Significa que las mujeres son responsables de casi la mitad del trabajo en la sociedad.
-- id: 383f16eed04a424dad5ca6f0daa08907
+- id: bbd321d3-6385-424d-bee4-b8b328d2cdf4
   zh-hans: 她们跟男人一样，
   pinyin: Tāmen gēn nánrén yīyàng,
   en: They, like men,
   es: Al igual que los hombres
-- id: 8015e89696b9483cbecb751b1f6e780a
+- id: 0f0e719b-0114-4082-9de1-8fd1b3e46c5e
   zh-hans: 对社会进步和国家的发展发挥着重要的作用。
   pinyin: duì shèhuì jìnbù hé guójiā de fǎ zhǎn fāhuī zhuó zhòngyào de zuòyòng.
   en: play an important role in social progress and national development.
   es: Desempeñan un papel importante en el progreso de la sociedad y el desarrollo del país.
-- id: fbcea01ae1c443dcbbb15ece3008d444
+- id: 5f12a821-7f09-4690-af39-29b679947d9e
   zh-hans: 在全中国的职工中，
   pinyin: Zài quán Zhōngguó de zhígōng zhōng,
   en: Of all the workers in China,
   es: De todos los trabajadores de China, el 40% son mujeres.
-- id: 490f7d0fb8c94bb38de11cc967af81ee
+- id: 280f0bf9-b3e2-4e21-a72c-a433a54c97f8
   zh-hans: 女职工占百分之四十。
   pinyin: nǚ zhígōng zhàn bǎi fēn zhī sìshí.
   en: female workers constitue 40 percent.
   es: Las mujeres representan el 40% de todos los trabajadores de China.
-- id: bd4cd8528c794ef4ac13bb57db7dc321
+- id: 405a1598-fc66-497f-b0f8-6252fd627771
   zh-hans: 现在中国既有女副总理、
   pinyin: Xiànzài Zhōngguó jì yǒu nǚ fù zǒnglǐ,
   en: Now China not only has female vice-premiers,
   es: China tiene ahora mujeres viceprimeras ministras,
-- id: 928e2a1ac0df4d41bb1d0c767a0a3e91
+- id: 4538428b-7885-44eb-b82c-3da1abecafc7
   zh-hans: 女部长、女外交官、女经理，
   pinyin: nǚ bùzhǎng, nǚ wàijiāo guān, nǚ jīnglǐ,
   en: female ministers, female diplomats, female managers,
@@ -94,327 +94,327 @@ sentences:
   pinyin: 
   en: 
   es: 
-- id: c3c8286c2d9e44b3a9cbb2fcb33139d4
+- id: 43608c37-3176-4918-8590-b14f9e88bda2
   zh-hans: 又有女科学家、女教授、女画家、女诗人……
   pinyin: yòu yǒu nǚ kēxuéjiā, nǚ jiàoshòu, nǚ huàjiā, nǚ shīrén……
   en: it also has female scientists, female professors, female painters, female poets…
   es: También hay mujeres científicas, profesoras, pintoras y poetas. ......
-- id: bc38f369a4954a7d9b60b8d11926f500
+- id: 334a2984-71e0-4feb-abeb-8774976a1528
   zh-hans: 一般地说，
   pinyin: yībān de shuō,
   en: Generally speaking,
   es: En general.
-- id: b35b32da7af345c7bb0d4fd0dca6ad2f
+- id: 989e2a84-1323-454b-b9e6-5b1b67e3169a
   zh-hans: 男人能做的工作没有妇女不能做的。
   pinyin: nánrén néng zuò de gōngzuò méiyǒu fùnǚ bùnéng zuò de.
   en: there is no work that men can do that women cannot do.
   es: No hay ningún trabajo que puedan hacer los hombres que no puedan hacer las mujeres.
-- id: bdb84a51e26145c997b741853bc932c5
+- id: 5d8ade79-70d9-4a34-8eca-08631722f0b3
   zh-hans: 有的工作，比如
   pinyin: Yǒu de gōngzuò, bǐrú
   en: Some work, such as
   es: Algunos trabajos, como
-- id: 089bfbe185b54ee5b9b1aaac558fe3ce
+- id: 0bf7a99a-5422-49b1-80e5-6f375b07813c
   zh-hans: 纺织工人、护士，几乎都是妇女；
   pinyin: fǎngzhī gōngrén, hùshì, jīhū dōu shì fùnǚ;
   en: textile workers, nurses, are almost all women;
   es: trabajadoras textiles, enfermeras, casi todas son mujeres;
-- id: 4c5d70ce3f4743fa9de1999345e30776
+- id: 88cfc82b-6d1c-45a1-ab5f-7677dd0430db
   zh-hans: 中小学教师，大学里的外语老师，
   pinyin: zhōng xiǎoxué jiàoshī, dàxué lǐ de wàiyǔ lǎoshī,
   en: primary and secondary school teachers, university teachers in foreign languages,
   es: profesoras de primaria y secundaria, y profesoras de lenguas extranjeras en las universidades.
-- id: a32eeb101af24b38b76985a88a71da9a
+- id: 571a0743-e030-4254-bba7-f64d8ed1a6b3
   zh-hans: 也是女的比男的多。
   pinyin: yěshì nǚ de bǐ nán de duō.
   en: also have more women than men.
   es: También hay más mujeres que hombres.
-- id: 29341959b3e0474895181ecf6ed47ea4
+- id: 548e4ef8-ea4b-49a1-b00e-3017ce63ffd2
   zh-hans: 大家都知道，
   pinyin: Dàjiā dōu zhīdào,
   en: As we all know,
   es: Todos sabemos que
-- id: b5e54f2a1b154db1b39ca80f378a06ea
+- id: 38b504b4-0370-4d56-9977-e7e5d9d7ecba
   zh-hans: 在中国两千多年的封建社会中，
   pinyin: zài Zhōngguó liǎng qiān duō nián de fēngjiàn shèhuì zhōng,
   en: during China’s more than two thousand years of feudal society,
   es: Durante más de 2.000 años en la China feudal, las mujeres no tenían estatus social.
-- id: d084cba236774cf8945aabda5cb9a258
+- id: cb18278c-b94c-44d6-a340-2e7764164262
   zh-hans: 妇女没有社会地位。
   pinyin: fùnǚ méiyǒu shèhuì dìwèi.
   en: women had no social status.
   es: Las mujeres no tenían estatus social.
-- id: ba2049068ad640359eda5dff2e5c7964
+- id: e6f86c7f-5d25-40a7-a622-94a951139fff
   zh-hans: 她们一辈子要服从自己的父母、丈夫和儿子。
   pinyin: Tāmen yībèizi yào fúcóng zìjǐ de fùmǔ, zhàngfū hé érzi.
   en: Throughout their lives they had to obey their parents, husband and son.
   es: Tenían que obedecer a sus padres, maridos e hijos toda su vida.
-- id: 1f8b3942d1374d2093d5d66bea9a0003
+- id: 31b6edb1-44df-4898-9224-cb36f553ed95
   zh-hans: 她们没有受教育的权利，
   pinyin: Tāmen méiyǒu shòu jiàoyù de quánlì,
   en: They had no right to education,
   es: No tenían derecho a la educación.
-- id: 4c7bd8e4446844679e49954266b5727d
+- id: 79d3cf78-b26f-4ce1-9bc8-94e6d0cc8fa3
   zh-hans: 也不能走出家门到外边去工作，
   pinyin: yě bùnéng zǒuchū jiāmén dào wàibian qù gōngzuò,
   en: and could not go outside the house to work,
   es: Tampoco podían salir a trabajar fuera de casa.
-- id: 6d2923f5c121410e981b1ea3537bba5c
+- id: 5f10f161-00b8-41aa-bf87-3704bcccffc1
   zh-hans: 只能在家里做家务，照顾丈夫和孩子。
   pinyin: zhǐ néng zài jiālǐ zuò jiāwù, zhàogù zhàngfū hé háizi.
   en: they could only stay at home doing housework, and take care of her husband and children.
   es: Sólo podían realizar tareas domésticas y cuidar de sus maridos e hijos.
-- id: 5630511e16e2498297b8ea16b6a1eeb9
+- id: 423d42c3-703f-4357-8682-1a760d505c7a
   zh-hans: 现在情况不同了，
   pinyin: Xiànzài qíngkuàng bùtóngle,
   en: Now the situation is different,
   es: Ahora la situación es diferente.
-- id: d39a0e77c8874920b9ca3c6076576b95
+- id: 2cb2e068-94dc-4475-8698-a1d3d08eb389
   zh-hans: 妇女能发挥“半边天”的作用，
   pinyin: fùnǚ néng fā huī “bànbiāntiān” de zuòyòng,
   en: women can play their “half the sky” role,
   es: Las mujeres pueden desempeñar el papel de "la mitad del cielo".
-- id: 0c3a004db6da4b31853ad9a631f70fdc
+- id: edfceaea-099c-44a9-a426-0f8b78d7c476
   zh-hans: 在社会上有了跟男子平等的地位。
   pinyin: zài shèhuì shàng yǒule gēn nánzǐ píngděng dì dìwèi.
   en: and in society have an equal position with men. This
   es: Tienen el mismo estatus que los hombres en la sociedad.
-- id: afe3437df2a7495281bb5a02e18f7f76
+- id: baa62448-3017-4663-88b4-335d5159e14a
   zh-hans: 这是中国社会的进步。
   pinyin: Zhè shì Zhōngguó shèhuì de jìnbù.
   en: is China’s social progress.
   es: Esto es progreso en la sociedad china.
-- id: 932c4525f79f4ec0be992dbd256928eb
+- id: 6ca9dd00-48a8-473c-bff6-3a5d330c11a9
   zh-hans: 第二，中国妇女在家庭里的地位。
   pinyin: Dì èr, Zhōngguó fùnǚ zàijiātíng lǐ dì dìwèi.
   en: Second, the status of Chinese women in the family.
   es: En segundo lugar, el estatus de la mujer china en la familia.
-- id: dfb6ba16ea0b4d768db70e455641a2bf
+- id: ed4d3f5b-29aa-4ff7-af51-267664e45b32
   zh-hans: 一般地说，妇女只有社会地位提高了，
   pinyin: Yībān de shuō, fùnǚ zhǐyǒu shèhuì dìwèi tígāole,
   en: In general, if women have improved social status,
   es: En general, el estatus de la mujer en la familia sólo puede mejorar si mejora su estatus social.
-- id: f0ffc34b738b4abcbdf01fc0936a84e1
+- id: ba164318-e188-4b00-94cc-9cff4d738c08
   zh-hans: 在家庭里的地位才能提高。
   pinyin: zài jiātíng lǐ dì dìwèi cáinéng tígāo.
   en: their status in the family is improved.
   es: En general, la situación de la mujer en la familia sólo puede mejorar si mejora su estatus social.
-- id: 0ffe2bf3ac7d42048aa25770ff2d2cb8
+- id: d95d1595-a99f-4e57-948d-51bd7adc3870
   zh-hans: 她们在外边有自己的工作和经济收入，
   pinyin: Tāmen zài wàibian yǒu zìjǐ de gōngzuò hé jīngjì shōurù,
   en: If they have their own work and economic income outside,
   es: Cuando tienen su propio trabajo e ingresos económicos fuera de casa, tienen el mismo estatus en la familia.
-- id: 4f0dde3ed2a849bf9ab4998f8898e6f6
+- id: 3d044878-29a0-4726-8dbf-67730f4e8932
   zh-hans: 在家里就有了平等的地位。
   pinyin: zài jiālǐ jiù yǒule píngděng de dìwèi.
   en: then they will have an equal status at home.
   es: En casa, tienen el mismo estatus.
-- id: c9098a555b0f4d1a9e632c4dad375a86
+- id: 89c27d8a-cbf8-4352-8b2f-47d9129c6f93
   zh-hans: 过去，家里的大事常常由丈夫决定，
   pinyin: Guòqù, jiālǐ de dàshì chángcháng yóu zhàngfū juédìng,
   en: In the past, important family matters were often decided by the husband,
   es: Antes, el marido decidía los asuntos importantes de la familia.
-- id: 2067a6c031b648298e9bad195edc9ff1
+- id: eb6fce97-c9f6-49e8-8cd2-5a15fe7d36b3
   zh-hans: 现在丈夫要跟妻子商量。
   pinyin: xiànzài zhàngfū yào gēn qī zǐ shāngliáng.
   en: now the husband will talk them over with his wife.
   es: Ahora, el marido consulta con su mujer.
-- id: cc2f83e7f8434deba5594994151adfdb
+- id: 34c87cab-73a7-4803-a18e-530bcd88c726
   zh-hans: 过去，家务事总是由妻子一个人来做，
   pinyin: Guòqù, jiāwù shì zǒng shì yóu qīzi yīgè rén lái zuò,
   en: In the past, housework was always done by the wife,
   es: Antes, la mujer se ocupaba sola de las tareas domésticas.
-- id: fe14a99f42d7490bbd386b01baea1c85
+- id: 0fdcde26-63b3-4e5f-aaa0-b032d103a9c9
   zh-hans: 现在丈夫在家也要发挥“半边天”的作用。
   pinyin: xiànzài zhàngfū zài jiā yě yào fāhuī “bànbiāntiān” de zuòyòng.
   en: now her husband will also play a “half the sky” role at home.
   es: Ahora el marido tiene que desempeñar el papel de "medio cielo" en casa.
-- id: 4ed7cf8daca240ecb2ffea9bcf66192f
+- id: ca349623-7a32-4aca-a6b7-01c0621eb5e2
   zh-hans: 很多家庭的家务事都有了分工：
   pinyin: 'Hěnduō jiātíng de jiāwù shì dōu yǒule fēngōng:'
   en: 'Many families divide the household chores:'
   es: 'En muchas familias hay un reparto de tareas domésticas:'
-- id: ebe5649b1fe04ee19be78ed569999e7d
+- id: 503b0500-ecc5-45c1-9c22-ee9fe82c5ea6
   zh-hans: 常常是丈夫买菜，妻子做饭；
   pinyin: Chángcháng shì zhàngfū mǎi cài, qīzi zuò fàn;
   en: often it is husband who buys food, his wife who does the cooking;
   es: A menudo, el marido hace la compra y la mujer cocina;
-- id: 710090c2923245eaada6c72b13ddcf0f
+- id: 51be7be9-df88-4352-ae85-8ebcc0ee1c5c
   zh-hans: 丈夫打扫房间，妻子洗衣服；
   pinyin: zhàngfū dǎsǎo fángjiān, qīzi xǐ yīfú;
   en: the husband cleans the room, his wife does the laundry;
   es: El marido limpia la casa y la mujer lava la ropa;
-- id: cf9929e444f9461bbf94c228b5a0e02f
+- id: d23a046c-4afc-422c-acaa-aa801af0f161
   zh-hans: 丈夫管孩子学习，妻子管孩子的吃穿。
   pinyin: zhàngfū guǎn hái zǐ xuéxí, qī zǐ guǎn háizi de chī chuān.
   en: the husband takes care of their children’s study, his wife takes care of the children’s food and clothing.
   es: El marido se ocupa de los estudios de los hijos y la mujer de la comida y la ropa de los niños.
-- id: a86e9d72ca464dc49bfd5e1de3bc2d17
+- id: 22102105-bfdc-4e14-8f30-d0728b38cba9
   zh-hans: 有的外国朋友看到中国男人会做菜，
   pinyin: Yǒu de wàiguó péngyǒu kàn dào Zhōngguó nánrén huì zuò cài,
   en: Some foreign friends see Chinese men cooking,
   es: Algunos de nuestros amigos extranjeros ven a hombres chinos cocinando.
-- id: f66b6c1a41a94702966dbfd427cb3d2f
+- id: ae519799-4323-474b-a954-26bcf1f9e1cb
   zh-hans: 觉得很奇怪。
   pinyin: juéde hěn qíguài.
   en: and think it is very strange.
   es: lo encuentran muy extraño.
-- id: 1717570723f548b497e4597f9695c880
+- id: dc1f8b4b-eb1d-4fac-9389-f6130f16357c
   zh-hans: 要是你生活在中国人的家里，
   pinyin: Yàoshi nǐ shēnghuó zài Zhōngguó rén de jiālǐ,
   en: If you live in the Chinese people’s homes,
   es: Si vives en un hogar chino
-- id: e57c8f026d874abb8dc36c1aaafa75ad
+- id: 518ace2f-0680-418b-874e-88446edeb516
   zh-hans: 就会发现丈夫每天也要下厨房，
   pinyin: jiù huì fāxiàn zhàngfū měitiān yě yào xià chúfáng,
   en: you will find the husband every day in the kitchen,
   es: Usted encontrará que los maridos tienen que ir a la cocina todos los días.
-- id: 8526498c122b4590b00a8bb99ca37f77
+- id: 68dda936-f68c-41c7-8edb-7236ad913fc3
   zh-hans: 他们的做菜技术就是这样练出来的。
   pinyin: tāmen de zuò cài jìshù jiùshì zhèyàng liàn chūlái de.
   en: it appears this way they practice their cooking skills.
   es: Así es como desarrollaron sus habilidades culinarias.
-- id: f5da8c2e4c6f4df088e099f53a48da19
+- id: 58780df1-f64a-49c9-9e64-44b8c1e2fd53
   zh-hans: 当然，总的来说家务事儿妇女要比男人干得多，
   pinyin: Dāngrán, zǒng de lái shuō jiāwù shìr fùnǚ yào bǐ nánrén gàn de duō,
   en: Of course, on the whole women do more housework than men do,
   es: Por supuesto, en general, las mujeres hacen más tareas domésticas que los hombres.
-- id: 252ba90667be45beafa5c240f4f9a43f
+- id: 13fc7b37-8ff2-4fca-8074-64371083b63d
   zh-hans: 而且不做家务的丈夫现在也还有。
   pinyin: érqiě bù zuò jiāwù de zhàngfū xiànzài yě hái yǒu.
   en: and there are still some husbands who do not do housework.
   es: Y todavía hay maridos que no hacen tareas domésticas.
-- id: 1e847ac9901f4230ac2f981590bc194b
+- id: 19daaca5-6e1d-41e1-a0b9-8976533b1078
   zh-hans: 第三呢，是职业妇女的困难。
   pinyin: Dì sān ne, shì zhíyè fùnǚ de kùnnán.
   en: And third, the difficulties of professional women.
   es: En tercer lugar, están las dificultades de las mujeres trabajadoras.
-- id: 1d0880e3baa94447b4af3717b7590894
+- id: 1ddef2c4-0a24-4c86-91a4-e64121936ffc
   zh-hans: 职业妇女在外边担负一定的工作，
   pinyin: Zhíyè fùnǚ zài wàibian dānfù yīdìng de gōngzuò,
   en: Professional women are responsible for a certain amount of work outside the home,
   es: Las mujeres trabajadoras tienen una cierta cantidad de trabajo fuera de casa.
-- id: 5c125a0e959d4f5f95fc4179f80b3e20
+- id: 854a1a16-f6f4-4e96-9f6f-397ae576a772
   zh-hans: 在家里又担负很重的家务。
   pinyin: zài jiālǐ yòu dānfù hěn zhòng de jiāwù.
   en: and at home also responsible for important housework.
   es: En casa, también tienen una pesada carga de tareas domésticas.
-- id: fe32e1bc3b1646d7a1e03cfdc3fee66a
+- id: 5a1c8333-868a-4532-a685-1e861746a5db
   zh-hans: 她们既要做一个好的工作人员，
   pinyin: Tāmen jì yào zuò yīgè hǎo de gōngzuò rényuán,
   en: They not only want to be a good worker,
   es: Tienen que ser buenas trabajadoras.
-- id: 4cce2648e8204348993568f0fee07276
+- id: d7176e43-09fd-4fb4-9a52-6202b407cf40
   zh-hans: 又要做一个好妻子、好母亲，
   pinyin: yòu yào zuò yīgè hǎo qīzi, hǎo mǔqīn,
   en: but also to be a good wife, and good mother,
   es: Al mismo tiempo, tienen que ser buenas esposas y madres.
-- id: 2775ee095bd742deb93fb13981b2051b
+- id: 8501dc32-82cd-4e15-8163-146ff857a68a
   zh-hans: 所以生活很不容易，比男人辛苦得多。
   pinyin: suǒyǐ shēnghuó hěn bù róngyì, bǐ nánrén xīnkǔ de duō.
   en: therefore their lives are not easy, much harder than men.
   es: Así que la vida no es fácil y es mucho más dura que para los hombres.
-- id: 792fa071e8584907904d5077c2bd470c
+- id: 2b62f812-23f6-46bd-ad55-eb952780efa0
   zh-hans: 有的女职工说，一天二十四小时，
   pinyin: Yǒu de nǚ zhígōng shuō, yītiān èrshísì xiǎoshí,
   en: Some working women say, during the 24 hours in a day,
   es: Algunas trabajadoras dicen que veinticuatro horas al día.
-- id: 69bfd0f0f01e4f829198d556167c25a3
+- id: 1d6ffe82-c34e-4491-8ce0-23a139bf21fd
   zh-hans: 除了吃饭睡觉以外，
   pinyin: chúle chīfàn shuìjiào yǐwài,
   en: except for eating and sleeping,
   es: Aparte de comer y dormir.
-- id: bb32acff4219447b989670e4808d2a8e
+- id: bc9651d5-2ba2-4298-934f-c2f51f0f0e76
   zh-hans: 几乎没有一分钟是她自己的！
   pinyin: jīhū méiyǒu yī fēnzhōng shì tā zìjǐ de!
   en: she almost has not even one minute to herself!
   es: apenas tienen un minuto para sí mismas.
-- id: 19058c0d5b4b4e6fa677ccb774f58c2c
+- id: d8289cc2-af8f-41c5-82e6-80e1cf59927d
   zh-hans: 她们没有时间学习，没有休闲活动。
   pinyin: Tāmen méiyǒu shíjiān xuéxí, méiyǒu xiūxián huódòng.
   en: They do not have time to study, nor leisure activities.
   es: No tienen tiempo para estudiar ni para actividades de ocio.
-- id: 9bf069d80ab947afb44cd2060e7ad47b
+- id: a220cca7-df9a-42a8-bbd2-3d2d57eb6096
   zh-hans: 家庭和事业的矛盾是职业妇女很难解决的问题。
   pinyin: Jiātíng hé shìyè de máodùn shì zhíyè fùnǚ hěn nán jiějué de wèntí.
   en: For professional women, the conflict of family and career is a difficult problem to solve.
   es: El conflicto entre familia y carrera profesional es un problema difícil de resolver para las trabajadoras.
-- id: 4a0a087594af48ad99d9500242db5b9a
+- id: 533c530d-4639-441a-a0cd-c1ac37d45d17
   zh-hans: 最后我要谈的问题是，
   pinyin: Zuìhòu wǒ yào tán de wèntí shì,
   en: Finally, the question I want to discuss is,
   es: La última cuestión que me gustaría abordar es.
-- id: f16dfdff5aaf4c4d97141c25cce6dac9
+- id: f93c31bc-67c2-45dc-897b-00c5b8ad5f5a
   zh-hans: 现在男女已经平等了吗？
   pinyin: xiànzài nánnǚ yǐjīng píngděngle ma?
   en: are men and women already equal now?
   es: ¿Son iguales ahora los hombres y las mujeres?
-- id: 4a06317b79ab4b15ae7b9e82e7c9a133
+- id: 2efe23ed-4974-481f-b33d-5819cd96208e
   zh-hans: 很多中国妇女认为，
   pinyin: Hěnduō Zhōngguó fùnǚ rènwéi,
   en: Many Chinese women consider that,
   es: Muchas mujeres chinas piensan que
-- id: 09d0888796cb46009dd094af5c018566
+- id: f14727df-69d6-47d6-82dc-0994742f03b3
   zh-hans: 现在在一些方面还没有完全实现男女平等。
   pinyin: xiànzài zài yīxiē fāngmiàn hái méiyǒu wánquán shíxiàn nánnǚ píngděng.
   en: there are a few areas now where equality between men and women are still not completely realised.
   es: La igualdad entre hombres y mujeres aún no se ha alcanzado plenamente en algunos aspectos.
-- id: 88f773a72a064fecb47cc3c5079d0839
+- id: 49af3d47-0aa8-465a-ae0b-94a3bc9f2c3c
   zh-hans: 比如在就业方面，
   pinyin: Bǐrú zài jiùyè fāngmiàn,
   en: For example, in regards to employment,
   es: Por ejemplo, en el ámbito del empleo.
-- id: be26f5320f77412cb4bd5cb65d91e86d
+- id: afb718be-fd3b-4c04-859a-9af81f06a17c
   zh-hans: 有的地方对妇女还很不公平，
   pinyin: yǒu dì dìfāng duì fùnǚhái hěn bù gōngpíng,
   en: there are still some places that are not fair to women,
   es: Algunos lugares siguen siendo muy injustos con las mujeres.
-- id: cfdd9199bd6f4fcf832d7962a11c31ed
+- id: f1190a3e-bf15-4148-81b8-c87cfaa35406
   zh-hans: 妇女做同样的工作，
   pinyin: fùnǚ zuò tóngyàng de gōngzuò,
   en: where women do the same work,
   es: Las mujeres no cobran lo mismo que los hombres por el mismo trabajo.
-- id: cf42659aa30b429aa7ebc2a35bcaa957
+- id: 852aecc7-78f3-4735-a642-c2250d96f7f5
   zh-hans: 得到的报酬没有男人高。
   pinyin: dédào de bàochóu méiyǒu nánrén gāo.
   en: but are not as highly paid as men.
   es: Las mujeres no cobran tanto como los hombres por el mismo trabajo.
-- id: 41109c522a664ced9218e23b1a020bfd
+- id: 90294da0-a93c-43fc-8b87-4c2a7812d599
   zh-hans: 在一些农村，
   pinyin: Zài yīxiē nóngcūn,
   en: In some villages,
   es: En algunas zonas rurales
-- id: cd21874cfd544c27b00af797f581f60c
+- id: beccc3b9-595d-4e32-9f02-0da258999022
   zh-hans: 女孩受教育的机会比男孩少得多；
   pinyin: nǚ hái shòu jiàoyù de jīhuì bǐ nánhái shǎo de duō;
   en: opportunities for girls to receive an education are much less than boys;
   es: Las niñas tienen mucho menos acceso a la educación que los niños;
-- id: 387415a1b1c84f29a2d148cd50e07d6d
+- id: 0d2a8d2b-fd05-42df-8dcc-d59302f99551
   zh-hans: 在科学家、教授、经理中，妇女还非常少。
   pinyin: zài kēxuéjiā, jiàoshòu, jīnglǐ zhōng, fùnǚ hái fēicháng shǎo.
   en: and among scientists, professors, and managers, women are still very few.
   es: Entre los científicos, profesores y directivos, sigue habiendo muy pocas mujeres.
-- id: 8daddebc127645d6820cacb1537d8d87
+- id: d6360c57-a126-4c09-a9e9-4c2cfa473ee5
   zh-hans: 这些情况不但中国有，
   pinyin: Zhèxiē qíngkuàng bùdàn Zhōngguó yǒu,
   en: Not only does China have this situation,
   es: Estas situaciones no sólo se dan en China, sino también en muchas partes del mundo.
-- id: 711c381dc53a4d2288f28558c3c53d14
+- id: d70d5a21-cb4f-4f40-9fa4-f4ed8ba8686f
   zh-hans: 世界很多地方也都有。
   pinyin: shìjiè hěnduō dìfāng yě dōu yǒu.
   en: but many places in the world also have it.
   es: También se dan en muchas partes del mundo.
-- id: b5592547d8994bf2a22437a19169a1bf
+- id: eea144c5-fc95-4e9f-92a8-cc84f19ea88b
   zh-hans: 总的来说，为了完全实现男女平等，
   pinyin: Zǒng de lái shuō, wèile wánquán shíxiàn nánnǚ píngděng,
   en: In general, in order to fully achieve gender equality,
   es: En general, para realizar plenamente la igualdad entre hombres y mujeres
-- id: d249c038cf6a47f2b2df34b4f0d5f6b4
+- id: 3f37b18c-9a61-4ff7-844d-9e36615bbdd5
   zh-hans: 我们还有很长的路要走。
   pinyin: wǒmen hái yǒu hěn zhǎng de lù yào zǒu.
   en: we still have a long way to go.
   es: aún nos queda mucho camino por recorrer.
-- id: 720860b8c74946188c1217edf99bcd11
+- id: 3c20ab7e-e9a6-42ec-a6d5-0677369080ed
   zh-hans: 谢谢，大家。
   pinyin: Xièxiè, dàjiā.
   en: Thank you, everyone.

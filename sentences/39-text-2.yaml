@@ -9,357 +9,357 @@ metadata:
   add-groups-en: {finished: false, issue_id: 772}
   add-groups-es: {finished: false, issue_id: 773}
 sentences:
-- id: 385097cc66c14c13bafe30e590dc6ad2
+- id: 465edb3e-c052-4803-aa4b-26a1eb9ddf91
   zh-hans: 王小云给林娜讲了一个故事。
   pinyin: Wáng Xiǎoyún gěi Lín Nà jiǎngle yīgè gùshì.
   en: Wang Xiaoyun tells Lin Na a story.
   es: Wang Xiaoyun le contó una historia a Linna.
-- id: eb45e4d0eb784b2d9938ce831d5ac2a1
+- id: 2c0e66fa-a2de-40d7-97b0-1605a592b62f
   zh-hans: 一个12岁的男孩和一个13岁的女孩同一年上初中。
   pinyin: Yīgè shí’èr suì de nánhái hé yīgè shísān suì de nǚhái tóngyī nián shàng chūzhōng.
   en: A 12 year old boy and a 13 year old girl are in the same year in junior high school.
   es: Un chico de 12 años y una chica de 13 iban al instituto el mismo año.
-- id: ac50f3f956a5440f9d02fcebcbe45aa7
+- id: 37c833be-6031-4872-b79e-fc41e42fa7bd
   zh-hans: 男孩和女孩都不太爱说话，
   pinyin: Nánhái hé nǚhái dōu bù tài ài shuōhuà,
   en: The boy and the girl both don’t like to talk,
   es: Tanto el chico como la chica no eran muy habladores.
-- id: 9a3a0909d6dd42a790db1728a2814a1b
+- id: d159f7ce-c3fe-4ea4-9b1e-eb9a2b630e1a
   zh-hans: 他们常常跟几个好朋友一起学习，一起玩儿。
   pinyin: tāmen chángcháng gēn jǐ gè hǎo péngyǒu yīqǐ xuéxí, yīqǐ wánr.
   en: but they often study and have fun together with a few good friends.
   es: A menudo estudiaban y jugaban juntos con algunos buenos amigos.
-- id: d5637b914c744e24bdf00e02d009296f
+- id: e7e520b7-1505-4666-b3df-d9d4f51f1aff
   zh-hans: 女孩总是像姐姐一样管着男孩，
   pinyin: Nǚhái zǒng shì xiàng jiejie yīyàng guǎnzhe nánhái,
   en: The girl looks after the boy just like an older sister,
   es: La chica siempre fue como una hermana mayor para el chico.
-- id: 2801e5de98854c359a93c9f30a1ac53f
+- id: 9b735e80-25c0-441c-8089-d0c0f28cb473
   zh-hans: 男孩也非常愿意让她管。
   pinyin: nánhái yě fēicháng yuànyì ràng tā guǎn.
   en: and the boy is more than willing to let her look after
   es: El chico también está muy dispuesto a dejarse controlar por ella.
-- id: 3ca0ba333970456d869e25c3bdb979be
+- id: a4882198-9009-4022-a8d1-f6118f6c7ddc
   zh-hans: 三年以后，
   pinyin: Sān nián yǐhòu,
   en: him. Three years later,
   es: Tres años después.
-- id: 09ed0b38c17342e89f4da22465cf7d2b
+- id: d3e4a727-6d97-4d5d-abe0-a1fc839cc6c0
   zh-hans: 男孩和女孩都上了高中。
   pinyin: nánhái hé nǚhái dōu shàngle gāozhōng.
   en: the boy and the girl are both in high school.
   es: Chico y chica fueron al instituto.
-- id: 58b2093ebfeb4037908be7a2dbe03a70
+- id: 3180f2aa-a961-4017-bacf-606a112c6eae
   zh-hans: 男孩记着女孩的生日，
   pinyin: Nánhái jìzhe nǚhái de shēngrì,
   en: The boy remembers the girl’s birthday, and
   es: El chico se acordó del cumpleaños de la chica.
-- id: 97c8eb971a364d2a84d6966fd94e25d0
+- id: 50d129f0-2225-4b21-83bf-7ac0dc35de02
   zh-hans: 给她寄去了一封信，
   pinyin: gěi tā jì qùle yī fēng xìn,
   en: writes her a letter,
   es: Le envió una carta.
-- id: 42e2d7d27d94460fba55162086c1637b
+- id: 6f2aeb5e-afa0-4127-8500-84ceca1b5d08
   zh-hans: 祝她生日快乐。
   pinyin: zhù tā shēngrì kuàilè.
   en: wishing her a happy birthday.
   es: deseándole un feliz cumpleaños.
-- id: 7ff705b1de3b47df92fac6f2b6f675f1
+- id: 65d1ce56-01a1-4c9f-9a7e-68e3f8f1df9b
   zh-hans: 他怕女孩生气，不敢写上自己的名字。
   pinyin: Tā pà nǚhái shēngqì, bù gǎn xiě shàng zìjǐ de míngzì.
   en: He is afraid the girl will be angry, so he doesn’t dare write his name.
   es: No se atrevió a escribir su nombre por miedo a que la chica se enfadara.
-- id: bc56b6cd11a442e9be0eee799f71f01f
+- id: c670cfc0-ada8-441c-bd57-9ccfb6f3d074
   zh-hans: 女孩给他回了信，
   pinyin: Nǚhái gěi tā huíle xìn,
   en: The girl writes him a reply, and
   es: La chica le contestó.
-- id: e2593cd6c05d4bf3810b5e1508779b95
+- id: c24dff56-9f18-4fde-80f2-94b4b7abf6cd
   zh-hans: 也没有写自己的名字。
   pinyin: yě méiyǒu xiě zìjǐ de míngzì.
   en: also doesn’t write her name.
   es: Tampoco escribió su nombre.
-- id: 97158e08240d4f3ca29cdabcd4c56be7
+- id: db32d978-edef-4598-b3bc-8e2958bd495b
   zh-hans: 高中生活比初中忙得多，
   pinyin: Gāozhōng shēnghuó bǐ chūzhōng máng de duō,
   en: Life is much busier in high school than in junior high school,
   es: El instituto era mucho más ajetreado que la secundaria.
-- id: f6f74339ac3a42c29a1bc23be22d7377
+- id: ea570e90-fd7a-459b-86fe-134bcb66a47a
   zh-hans: 她和他除了学习以外，没有想别的。
   pinyin: tā hé tā chúle xuéxí yǐwài, méiyǒu xiǎng bié de.
   en: aside from study, both she and him don’t think of anything else.
   es: Ella y él no pensaban en otra cosa que en sus estudios.
-- id: fe4b7dba1b3a4960a955afeb96ee30db
+- id: 12e7806f-9d4b-470c-9a2b-0c901b0842ea
   zh-hans: 中学毕业了，
   pinyin: Zhōngxué bìyèle,
   en: After graduating high school,
   es: Cuando se graduaron en el instituto.
-- id: 307a77862b8f4133bea7bbdbec19986c
+- id: c29fcd0c-91ba-4d65-bb99-0475a7552fa1
   zh-hans: 他们已经是小伙子和大姑娘了。
   pinyin: tāmen yǐjīng shì xiǎohuǒzi hé dà gūniangle.
   en: they are a young man and a young woman.
   es: Ya eran un chico y una chica.
-- id: 5aa1ac7bac324e96b1b4a8db5aa758a7
+- id: b9625241-827c-4165-b150-90d126cc5916
   zh-hans: 小伙子考上了北京的大学，
   pinyin: Xiǎohuǒzi kǎo shàngle Běijīng de dàxué,
   en: The young man gets into a Beijing university,
   es: El joven fue a la Universidad de Pekín, y la chica fue a la Universidad de Shanghai a estudiar lenguas extranjeras.
-- id: 86cd82525ed7441387ccc4c8488ee56b
+- id: 8689f1fe-71f4-4653-bea5-35f53aa2a53a
   zh-hans: 姑娘考到上海的大学学外语。
   pinyin: gūniang kǎo dào Shànghǎi de dàxué xué wàiyǔ.
   en: the young woman gets into a Shanghai university to study foreign languages.
   es: La chica se fue a Shanghai a estudiar lenguas extranjeras.
-- id: 910c96f037d04a4e8ecd8668e855bdc6
+- id: 6adb73e9-ee18-4776-ad37-8c5e407b8a4b
   zh-hans: 姑娘去上海的前一天晚上，
   pinyin: Gūniang qù Shànghǎi de qián yītiān wǎnshàng,
   en: The night before the young woman goes to Shanghai,
   es: La noche antes de que la chica se fuera a Shanghai.
-- id: 2bf42c3d251c46ea951cd080969dc343
+- id: a8d542f7-0a54-4e6e-a367-8ffd047bbd94
   zh-hans: 小伙子来到了她家的门口，
   pinyin: xiǎohuǒzi lái dàole tā jiā de ménkǒu,
   en: the young man arrives outside the door to her home,
   es: El chico llamó a su puerta.
-- id: 8d9b8ed5b69e4730930819ecaee4929f
+- id: bb7c6fea-7389-496c-ab29-14a49768172a
   zh-hans: 但他没敢敲门。
   pinyin: dàn tā méi gǎn qiāo mén.
   en: but he doesn’t have the courage to knock on the door.
   es: Pero no se atrevió a llamar.
-- id: ac71d41c58ce40c7966facaf49dafa2f
+- id: 8c391c43-bd42-4510-89bd-da2b34e6c1e4
   zh-hans: 他，一个小伙子，去看一个姑娘，
   pinyin: Tā, yīgè xiǎohuǒzi, qù kàn yīgè gūniang,
   en: He, the young man, going to see the young woman,
   es: Él, un hombre joven, fue a ver a una chica.
-- id: 5bfebdcb1ea548b494eaf3e73a056ee2
+- id: 927bceac-c56d-48b6-b4b2-da76c3aa22c1
   zh-hans: 她家里人会怎么想呢？
   pinyin: tā jiālǐ rén huì zěnme xiǎng ne?
   en: what would her family think?
   es: ¿Qué pensaría su familia?
-- id: a45599861fdb4b78b2387b82f21840c8
+- id: bcf10829-b56a-4b09-a9d7-541325099d07
   zh-hans: 姑娘那天晚上也睡得很晚，
   pinyin: Gūniang nèitiān wǎnshàng yě shuì de hěn wǎn,
   en: That evening the young woman also went to bed late,
   es: La chica también durmió hasta tarde esa noche.
-- id: 2b9e34d6c24a4d4ca0870682df69194f
+- id: ec490029-ae5b-46ba-b3eb-48e0851d3d8b
   zh-hans: 她在等着他说声“再见”。
   pinyin: tā zài děngzhe tā shuō shēng “zàijiàn”.
   en: she was waiting for him to say “goodbye”.
   es: Estaba esperando a que él se despidiera.
-- id: f77d8be11e804de09e8786d810cf3a59
+- id: 19638583-8d1c-456e-8770-f78c705aefcc
   zh-hans: 一个月过去了，
   pinyin: Yīgè yuè guòqùle,
   en: One month passes,
   es: Pasó un mes.
-- id: 6b0611e160124e499aecbe04fd0b265a
+- id: 7611b15a-40c1-432a-a9eb-64126d7ad856
   zh-hans: 两个月过去了。
   pinyin: liǎng gè yuè guòqùle.
   en: two months pass.
   es: Pasaron dos meses.
-- id: 7f2e3a63ef834cff8cb4c012d68e3f63
+- id: fcc23c31-cc02-4dd9-95f9-181f86c8f4ff
   zh-hans: 姑娘想了很多办法，
   pinyin: Gūniang xiǎngle hěnduō bànfǎ,
   en: The young woman thought of a many ways
   es: La chica tuvo que pensar en muchas maneras.
-- id: ade7eed309ec463e91a465ec50da5e7c
+- id: 3e8324ae-04e7-4ca4-9518-0cba9f447795
   zh-hans: 才打听到了小伙子在学校的地址。
   pinyin: cái dǎtīng dàole xiǎohuǒzi zài xuéxiào de dìzhǐ.
   en: before finally finding out the address of the school the young man was at.
   es: Averiguó dónde estaba el chico en la escuela.
-- id: da0fa2843e8f48569512097a47424065
+- id: 49974aed-3e78-4d24-be26-88ed8426797b
   zh-hans: 一天，小伙子突然收到了一封信，
   pinyin: Yītiān, xiǎohuǒzi túrán shōu dàole yī fēng xìn,
   en: One day, the young man received a letter,
   es: Un día, el chico recibió una carta.
-- id: d3fa287bd24e4bddae770b5ccc9d6b65
+- id: f3e58b47-905e-4a27-bf5a-5adf9ef9a9da
   zh-hans: 是姑娘写来的！
   pinyin: shì gūniang xiě lái de!
   en: it was from the young woman!
   es: Era de la chica.
-- id: f2fbea8ba7624807bc68e90c9062aa46
+- id: 28fda4c4-e344-40c7-bd65-9ff38b3aa535
   zh-hans: 信上只有一句话：
   pinyin: 'Xìn shàng zhǐyǒu yījù huà:'
   en: 'The letter only had one sentence:'
   es: 'Sólo había una frase en la carta:'
-- id: 3688fce5c7e946dcb8c7d1f3108e8945
+- id: 54bde297-3021-41d9-927b-c3023465b511
   zh-hans: 祝贺你开始大学生活。
   pinyin: Zhùhè nǐ kāishǐ dàxué shēnghuó.
   en: Congratulations on starting university life.
   es: Enhorabuena por el comienzo de tu vida universitaria".
-- id: 21595a1838184aa08224f5cd6f3d2093
+- id: 15a33485-8769-4ade-acb4-44343a64f46f
   zh-hans: 小伙子高兴得像疯了一样，
   pinyin: Xiǎohuǒzi gāoxìng de xiàng fēngle yīyàng,
   en: The young man was so happy it was like he went crazy,
   es: El chico estaba tan contento que se volvió loco.
-- id: 3c0c838a51e545ba9ff67b951757292f
+- id: 5081c9ca-a704-438a-9847-90d7b4930a19
   zh-hans: 他每天早上、中午、晚上都要在宿舍里读一遍。
   pinyin: tā měitiān zǎoshang, zhōngwǔ, wǎnshàng dōu yào zài sùshè lǐ dú yībiàn.
   en: every morning, afternoon, and night he would read the letter in his dorm.
   es: La leía cada mañana, tarde y noche en su dormitorio.
-- id: 4486137612f142a1941af1f8ec405ba7
+- id: 56a7e799-3ba3-4497-9710-40568dcbb07d
   zh-hans: 第二年，姑娘病了，要休息一年。
   pinyin: Dì èr nián, gūniang bìngle, yào xiūxí yī nián.
   en: The next year, the young woman was sick, and had to rest for one year.
   es: Al año siguiente, la chica enfermó y tuvo que tomarse un año sabático.
-- id: 87bf59e0e7ee4ebeaf90a3554231b7f8
+- id: 63d39cda-b2cc-4a18-b4c4-804cdbfe124a
   zh-hans: 她一个人回到家里，谁也没有告诉。
   pinyin: Tā yīgè rén huí dào jiālǐ, sheí yě méiyǒu gàosu.
   en: She went back home, and didn’t tell anyone.
   es: Volvió sola a casa y no se lo dijo a nadie.
-- id: 2d63fab03f3a43a1945f5c48677b235f
+- id: 8f43437e-1055-4372-9d44-61ae6b5430dd
   zh-hans: 小伙子一封一封的信寄到她学校，
   pinyin: Xiǎohuǒzi yī fēng yī fēng de xìn jì dào tā xuéxiào,
   en: The young man wrote letter after letter to her school,
   es: El chico envió una carta tras otra a su colegio.
-- id: 838ba469fbb24af18e97ba32445fd4bb
+- id: 3e429c67-1f99-4719-b673-727ecda3ca66
   zh-hans: 但都没有回信。
   pinyin: dàn dōu méiyǒu huíxìn.
   en: but always no reply.
   es: Pero ninguna obtuvo respuesta.
-- id: 92a784e3973c4bd9823580d62b6d091a
+- id: 6c825513-7295-4b6f-8741-8f4feac1eb78
   zh-hans: 她为什么不回信呢？
   pinyin: Tā wèishéme bù huíxìn ne?
   en: Why wasn’t she writing back?
   es: ¿Por qué no contestó?
-- id: 664f3f08068b44a1bb335afa329f4a4a
+- id: af75a0ab-7663-4098-a7c9-c3df8a435dc2
   zh-hans: 姑娘究竟怎么了？
   pinyin: Gūniang jiùjìng zěnmele?
   en: What happened to the girl?
   es: ¿Qué le pasó a la chica?
-- id: 84d253109f3249a09040a1878badc06e
+- id: f5ad0cbe-2c43-4110-9aab-729a4dab4b50
   zh-hans: 小伙子一天比一天瘦了。
   pinyin: Xiǎohuǒzi yītiān bǐ yītiān shòule.
   en: The young man became skinnier and skinnier by the day.
   es: El chico estaba cada día más delgado.
-- id: ba9c88b9fe9f473d8f583ce977ad3861
+- id: 11d116aa-a864-4800-b2aa-8831a98011f2
   zh-hans: 一年以后姑娘的病好了，又回到了学校，
   pinyin: Yī nián yǐhòu gū niáng de bìng hǎole, yòu huí dàole xuéxiào,
   en: After one year the girl’s illness got better, she returned to school,
   es: Un año más tarde, la niña se recuperó y volvió al colegio.
-- id: 8a92a187a7cf486c95e8984f5ce4c8a5
+- id: 5121f1b6-6d3c-44c4-b19d-6570d979242e
   zh-hans: 小伙子才等到了姑娘的回信。
   pinyin: xiǎohuǒzi cái děng dàole gū niáng de huíxìn.
   en: and the young man finally received her replies.
   es: El chico esperó la respuesta de la chica.
-- id: 08a98d2f76614a97a2d6bfe64e2a801b
+- id: a927c81d-dd7c-40d5-9188-493d5fb9e03b
   zh-hans: 他们在信中谈生活、谈学习、谈世界大事，
   pinyin: Tāmen zài xìn zhōng tán shēnghuó, tán xuéxí, tán shìjiè dàshì,
   en: In their letters they talked about life, about study, about world affairs,
   es: Hablaron de sus vidas, de sus estudios y de los acontecimientos mundiales.
-- id: 2573b94e1549421481cbc9e4a543b738
+- id: e38ed07c-6446-4ab0-8eab-9c86466bf32e
   zh-hans: 但是他们没有说过一个“爱”字。
   pinyin: dànshì tāmen méiyǒu shuōguò yīgè “ài” zì.
   en: but they never mentioned the word “love”.
   es: Pero nunca dijeron la palabra "amor".
-- id: 53dada67daf74b6a9c28c0ce0906ad99
+- id: 1a68b70c-b573-4a55-8036-d5c7fa20a364
   zh-hans: 在小伙子的心里，
   pinyin: Zài xiǎohuǒzi de xīnlǐ,
   en: In the young man’s heart,
   es: En el corazón del joven.
-- id: 80d9efa49b324ec39b3e6b7671945014
+- id: 76fda213-82bf-4065-b06d-a5e10bdddd52
   zh-hans: 姑娘是他的理想，
   pinyin: gūniang shì tā de lǐxiǎng,
   en: the young woman was his ideal,
   es: La chica era su ideal.
-- id: cd579bf4047b4c479db01118099ad96d
+- id: f9476ad1-a106-47d0-a8bd-2a4725bf5f13
   zh-hans: 是他的梦；
   pinyin: shì tā de mèng;
   en: his dream;
   es: Ella era su sueño;
-- id: aebdd4ed9ab845848eb1c6aefb940e5d
+- id: 26b7679a-ace5-4c0d-8b7f-b174de0e5a77
   zh-hans: 他也能从姑娘平平常常的信里读懂她的心。
   pinyin: tā yě néng cóng gūniang píngpíng chángcháng de xìnlǐ dú dǒng tā de xīn.
   en: from her frequent letters he also understood her heart.
   es: También podía leer el corazón de la chica en sus cartas ordinarias.
-- id: 82a0d440d16745b2bf3fae55e7dcef4f
+- id: 473d321f-a22d-4669-ae64-ef3f4753b8e5
   zh-hans: 小伙子比姑娘早一年毕业，
   pinyin: Xiǎohuǒzi bǐ gūniang zǎo yī nián bìyè,
   en: The young man graduated one year earlier than the young woman,
   es: El joven se graduó un año antes que la chica.
-- id: 1bfcd8031bbc49fab164fc399ed2c889
+- id: 77d6cfa5-7d73-4cea-8c70-cad97dbee9d7
   zh-hans: 他在忙着考研究生。
   pinyin: tā zài mángzhe kǎo yánjiūshēng.
   en: and he was busy taking the graduate student test.
   es: Estaba ocupado con sus estudios de postgrado.
-- id: c626e5f77bff4160bbea5d9e87cd56dd
+- id: 4f0d2b31-eda3-4e1b-9edd-68c5d28d6991
   zh-hans: 姑娘因为实习总也没有时间回家。
   pinyin: Gūniang yīnwèi shíxí zǒng yě méiyǒu shíjiān huí jiā.
   en: Because of her internship, the young woman did not have time to return home.
   es: La chica nunca tenía tiempo de ir a casa debido a sus prácticas.
-- id: f81a683462b44adb83cb5fa6b613b806
+- id: 533b8b80-2011-442e-adfe-f748e9627ae9
   zh-hans: 小伙子成了上海一所大学的研究生。
   pinyin: Xiǎo huǒ zǐ chéngle Shànghǎi yī suǒ dàxué de yánjiūshēng.
   en: The young man became a graduate student at a university in Shanghai.
   es: Se hizo estudiante de posgrado en una universidad de Shanghai.
-- id: 7e594c61aea2412ea3fbd71b06be60ad
+- id: a2a54ef7-486d-41d6-9d5b-78bf2dd2123d
   zh-hans: 那一年的暑假，
   pinyin: Nà yī nián de shǔjià,
   en: In the summer holiday of that year,
   es: Aquellas vacaciones de verano.
-- id: 5fea71261a6849d699628debb25620d2
+- id: 9df8baf4-91ed-4540-a45f-80153e11e1ab
   zh-hans: 他们终于见面了。
   pinyin: tāmen zhōngyú jiànmiànle.
   en: they finally meet.
   es: Por fin se conocieron.
-- id: d9ec3445f28a48feae118de5d871a4eb
+- id: 3c381ad8-2e23-45cc-98fb-daaf5b444070
   zh-hans: 小伙子看着这个又高又美的姑娘，
   pinyin: Xiǎohuǒzi kànzhe zhège yòu gāo yòu měide gūniang,
   en: The young man looks at this tall and beautiful young woman,
   es: El joven miró a aquella chica alta y hermosa.
-- id: d66e228f8a794f31b5fe5eb78349f5c6
+- id: ea2bac30-4a5b-4e09-8875-f9012c389cc3
   zh-hans: 心里有很多话要说，但是一句也说不出来。
   pinyin: xīn li yǒu hěnduō huà yào shuō, dànshì yījù yě shuō bu chūlái.
   en: has so many words in his heart that he wants to say, but not even one sentence comes out.
   es: Tenía mucho que decir, pero no pudo pronunciar palabra.
-- id: ee5a175c53e044e9be285f1e855616e5
+- id: 0f0e1a14-5d22-4a04-bae6-b144cdfb8a3b
   zh-hans: 他连跟姑娘握一握手也忘了。
   pinyin: Tā lián gēn gūniang wò yī wòshǒu yě wàngle.
   en: He even forgets to shake hands with the young woman.
   es: Incluso se olvidó de darle la mano.
-- id: fbe2a5168a304950a1610c1ce0294356
+- id: c4bec90c-2d0f-433e-aaa4-7604637bab48
   zh-hans: 那个暑假，他们天天在一起聊天，一起散步，
   pinyin: Nàgè shǔjià, tāmen tiāntiān zài yīqǐ liáotiān, yīqǐ sànbù,
   en: That summer holiday, they spend every day together chatting, going for walks,
   es: Aquellas vacaciones de verano, pasaron todos los días hablando juntos, paseando juntos, yendo al parque.
-- id: cab39b5bc75c48859485f781bd90881a
+- id: 0c958908-23d0-43ef-9d49-d47631b7c816
   zh-hans: 一起去公园。
   pinyin: yīqǐ qù gōngyuán.
   en: going to the park.
   es: Iban juntos al parque.
-- id: 08e4204e0b9e423ab6d7f99ecfd3760b
+- id: e8cb001e-bc14-4fd1-a960-195b32864261
   zh-hans: 一天，小伙子终于对姑娘说了，
   pinyin: Yītiān, xiǎohuǒzi zhōngyú duì gūniang shuōle,
   en: One day, the young man finally says to the young woman,
   es: Un día, el chico por fin le dijo a la chica.
-- id: 604bc1a9b9f04a799a101fc8c0820a65
+- id: f1da721e-3382-4743-b49e-c1c11f107ffd
   zh-hans: 他心里有一个字，
   pinyin: tā xīn li yǒu yīgè zì,
   en: there is only one word in his heart,
   es: Tenía una palabra en su corazón.
-- id: 8afdf6abf01a4bb4b8eaabdb28a33459
+- id: 5da228d3-ac97-4fee-81cc-3309842ed5f9
   zh-hans: 一个最珍贵的字。
   pinyin: yīgè zuì zhēnguì de zì.
   en: a most precious word.
   es: Una palabra preciosa.
-- id: 5eb638d9c53f4206981a19a19e616629
+- id: 7a129a08-c2b1-4b77-a1ae-4a60b49c5f73
   zh-hans: 这个字跟着他到今天……
   pinyin: Zhège zì gēnzhe tā dào jīntiān……
   en: This word has stayed with her until today…
   es: Esta palabra le sigue hasta el día de hoy ......
-- id: 2592d57c83ba4522b310ddf5f1a68f56
+- id: 544f1b46-8c30-4a11-935f-2a622cc1e1ad
   zh-hans: 王小云说，
   pinyin: Wáng Xiǎo Yún shuō,
   en: Wang Xiaoyun says,
   es: Wang Xiaoyun dijo.
-- id: 1d4d4bcca1bf4e41bf992c2cd3f53bd0
+- id: cff3f86d-8a73-4b02-b214-7ed61f7dd1e7
   zh-hans: 这是三十多年前的故事了。
   pinyin: zhè shì sānshí duō nián qián de gùshìle.
   en: this is a story from thirteen years ago.
   es: Esta es una historia de hace más de treinta años.
-- id: fb8f22efe6b14b5fa2b985959d35618c
+- id: 4396cc8c-9e92-459f-b58e-f74fb8426579
   zh-hans: 故事里的姑娘是她妈妈，
   pinyin: Gùshì lǐ de gūniang shì tā māmā,
   en: The young woman in the story is her mother,
   es: La chica de la historia es su madre.
-- id: 857bc9bae3364fa0b2f0b4e9ae2bf535
+- id: eb512967-35c2-4d2f-ac8e-9d13144f4833
   zh-hans: 小伙子就是她爸爸。
   pinyin: xiǎohuǒzi jiùshì tā bàba.
   en: and the young man is her father.

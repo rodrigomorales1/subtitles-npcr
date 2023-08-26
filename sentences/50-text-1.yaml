@@ -9,287 +9,287 @@ metadata:
   add-groups-en: {finished: false, issue_id: 459}
   add-groups-es: {finished: false, issue_id: 460}
 sentences:
-- id: 43df3868d7f74cc8ac9667eeda8bbfff
+- id: 6fe86c4f-e8a0-48e4-a820-b61078c2bf17
   zh-hans: 喂，宋华，
   pinyin: Wèi, Sòng Huá,
   en: Hey, Song Hua,
   es: Hola, Song Hua,
-- id: 62aeaf0c95a54f7f9b15276598200edb
+- id: 6d20bed9-eedb-45dc-8b80-f0d49195e203
   zh-hans: 你在网上看什么呢？
   pinyin: nǐ zài wǎngshàng kàn shénme ne?
   en: what are you looking at on the Internet?
   es: ¿Qué estás leyendo en línea?
-- id: 8e4fde23b97445c3a0702804dae5e53d
+- id: ba9ba20e-c5d3-411d-bbac-a7e20bfdb658
   zh-hans: 看今天的新闻。
   pinyin: Kàn jīntiān de xīnwén.
   en: Reading today’s news.
   es: Viendo las noticias de hoy.
-- id: fe1265c3dd2248b3af12257e57a74b13
+- id: 64b48508-d2ba-45c3-97ac-04636b08fade
   zh-hans: 有什么重要的消息吗？
   pinyin: Yǒu shénme zhòngyào de xiāoxi ma?
   en: Is there anything important?
   es: ¿Alguna noticia importante?
-- id: 0d9a95691a814e6fa2011468f8912fb0
+- id: 58efe03c-b8a3-480c-bc1c-6bc7df5f4a5a
   zh-hans: 听说神舟五号载人飞船发射成功了。
   pinyin: Tīng shuō Shénzhōu wǔ hào zài rén fēichuán fāshè chénggōngle.
   en: It says that the Shenzhou V manned spacecraft launched successfully.
   es: He oído que la nave espacial tripulada Shenzhou V ha sido lanzada con éxito.
-- id: 52f49fb0c350470f931a1c7955c23cde
+- id: 916cf02a-0be4-457f-965d-e053d5074816
   zh-hans: 我刚才恨不得早点儿下课到网上查一下。
   pinyin: Wǒ gāngcái hènbude zǎodiǎnr xiàkè dào wǎngshàng chá yīxià.
   en: Just now I couldn’t wait to get off class a little earlier to go online and check.
   es: No puedo esperar a salir de clase temprano para comprobarlo en línea.
-- id: ebb6ab89b1e545a3aa5abbd739003d3e
+- id: 1b97b468-a12f-4940-b326-33e12c8ea2bf
   zh-hans: 是吗？
   pinyin: Shì ma?
   en: Really?
   es: ¿Enserio?
-- id: 8660f5270957478ebbdfef2ae8909420
+- id: 3790c573-c468-452e-b9dd-e7d0902f21c5
   zh-hans: 咱们快看看。
   pinyin: Zánmen kuài kàn kàn.
   en: Let’s take a quick look.
   es: Echemos un vistazo.
-- id: 3b5c7fdac1f54b3eac9c263832388c0a
+- id: 1a8bee0d-e465-4801-8f18-e0b496570ad4
   zh-hans: 哦，在这儿呢：
   pinyin: 'Ó, zài zhèr ne:'
   en: 'Oh, here it is:'
   es: 'Oh, aquí está:'
-- id: 4ebb645bf1d942989efba5dbfad1f9fc
+- id: 33a38fca-bb5d-4f50-ab3f-83868afcd30f
   zh-hans: “这次发射成功，
   pinyin: '"Zhè cì fāshè chénggōng,'
   en: '"The success of this launch,'
   es: '"El exitoso lanzamiento.'
-- id: fb8ddd294d3f40e2b59fbb27923480cf
+- id: da21051b-1fe1-4fc3-9b96-151c2a8a3ccd
   zh-hans: 说明中国载人航天事业
   pinyin: shuōmíng Zhōngguó zài rén hángtiān shìyè
   en: shows that China’s manned aerospace industry
   es: significa que el programa espacial tripulado de China
-- id: 6524f1d5a55e4b03bf9ec0ad3a848ce6
+- id: c5997971-9c7d-4412-94a0-ea6a42be0566
   zh-hans: 已经跨出了重要的一步。
   pinyin: yǐjīng kuà chūle zhòngyào de yībù.
   en: has already crossed an important step.
   es: ha dado un importante paso adelante.
-- id: 15417e8f78dc4a8697bade31f21174f4
+- id: b9fd6967-7d8f-4334-aa5a-eb5654f380a9
   zh-hans: 从此，中国航天事业的历史
   pinyin: Cóngcǐ, Zhōngguó hángtiān shìyè de lìshǐ
   en: Henceforth, the history of China’s aerospace industry
   es: A partir de ahora, la historia del programa espacial de China
-- id: 41f135bdfda542ff95199b747cd44d08
+- id: 5f99262e-b583-4013-a0d3-c280b4f4de25
   zh-hans: 开始了新的一页。”
   pinyin: 'kāishǐle xīn de yī yè."'
   en: 'is beginning a new chapter."'
   es: 'ha comenzado una nueva página."'
-- id: 92b17a105f4e404c99e57827f64fb729
+- id: 8da60cf6-cdf9-418a-bb38-0f82e1c8058c
   zh-hans: 简直太棒了！
   pinyin: Jiǎnzhí tài bàngle!
   en: Simply fantastic!
   es: ¡Simplemente fantástico!
-- id: 4d23f107478847d8b7eab7d870b808f5
+- id: 811c814d-4d54-469c-b9ea-cbaa4e012f61
   zh-hans: 中国现在已经成为
   pinyin: Zhōngguó xiànzài yǐjīng chéngwéi
   en: China has now become
   es: China se ha convertido ahora en
-- id: ea5d11ae483b470d9f8127ff6230ce97
+- id: 6795a53a-33cf-483b-bcaf-85f3d4ec9fe6
   zh-hans: 世界上第三个实现载人航天飞行的国家了。
   pinyin: shìjiè shàng dì sān gè shíxiànzài rén hángtiān fēixíng de guójiāle.
   en: the world’s third country to achieve manned space flight.
   es: tercer país del mundo en lograr un vuelo espacial tripulado.
-- id: 768b413d93064433b1dd433e9ee75092
+- id: 6d7f3535-954e-4986-b9bb-ec6f80e58612
   zh-hans: 其实，中国人
   pinyin: Qíshí, Zhōngguó rén
   en: In fact, Chinese people
   es: De hecho, el pueblo chino
-- id: 78283764f8a74c7fb67adbab2fe1e427
+- id: 78411448-9bff-4a66-9d7d-83b77d5936ac
   zh-hans: 是世界上最早想到太空去的民族之一。
   pinyin: shì shìjiè shàng zuìzǎo xiǎngdào tàikōng qù de mínzú zhī yī.
   en: were one of the earliest people in the world to dream of going into space.
   es: es uno de los primeros pueblos del mundo en pensar en ir al espacio.
-- id: 1efe7d16f6ab492e925c7c2762e581bf
+- id: f96d7223-3be6-4d80-bb97-588775f5dae9
   zh-hans: 几千年前，
   pinyin: Jǐ qiānnián qián,
   en: Thousands of years ago,
   es: Hace miles de años
-- id: ae8adea27f89441f8449b98a97af2c94
+- id: 35fcb665-29ab-4525-9337-c579931493f8
   zh-hans: 中国就有了“嫦娥奔月”的传说。
   pinyin: Zhōngguó jiù yǒule “Cháng’é Bēn Yuè” de chuánshuō.
   en: China had the legend of “Chang’e Flys to the Moon”.
   es: China tenía la leyenda de "Chang'e corriendo a la luna".
-- id: b9ed0575825543738211edbd51d9fa2a
+- id: d237ec0b-3481-45f5-807d-b16703ff8a1e
   zh-hans: 到了明代，
   pinyin: Dàole míngdài,
   en: In the Ming dynasty,
   es: En la dinastía Ming
-- id: af9638d00f804287b349918a484887e0
+- id: 3a57ae9f-5e0f-4750-b350-2fa91d78bff9
   zh-hans: 有人想用自己制造的火箭飞到天上去。
   pinyin: yǒurén xiǎng yòng zìjǐ zhìzào de huǒjiàn fēi dào tiānshàng qù.
   en: some people wanted to use their self-made rockets to fly to the moon.
   es: Algunas personas querían volar al cielo con cohetes de su propia fabricación.
-- id: 1aceb48496da49058f8de08ae7c05546
+- id: eb483da5-01eb-4adb-813f-398623cf811c
   zh-hans: 一直到二十一世纪的今天，
   pinyin: Yīzhí dào èrshíyī shìjì de jīntiān,
   en: Up until the 21st centry,
   es: Hasta hoy, en el siglo XXI.
-- id: fccf13bc44ea47d1b9618e4b7d056112
+- id: dbddf05d-885d-4ba9-a64d-c4802f72277e
   zh-hans: 中国完全靠自己的力量
   pinyin: Zhōngguó wánquán kào zìjǐ de lìliàng
   en: China completely relied upon it’s own power to
   es: China completamente dependiendo en su poder
-- id: 329863f2dc2e4270976c9a5a1d115073
+- id: 005eeffa-f352-474b-b362-7b40c286d9d6
   zh-hans: 实现了中国人的这个千年愿望。
   pinyin: shíxiànle Zhōngguó rén de zhège qiān nián yuànwàng.
   en: achieve this wish that the Chinese people have had for thousands of years.
   es: ha hecho realidad este deseo milenario del pueblo chino.
-- id: 8013e2c1b72940fba6eeed845e25a027
+- id: 3ede18c1-1647-4625-90e5-12b5339d2f37
   zh-hans: 看来，现在我也有可能坐中国飞船
   pinyin: Kàn lái, xiànzài wǒ yěyǒu kěnéng zuò Zhōngguó fēichuán
   en: Looks like, maybe I also might be able to take a Chinese spaceship to
   es: Parece que ahora es posible para mí tomar una nave espacial china
-- id: c7f1062ea4ba49a78857635dea22e707
+- id: 9253e819-70ae-43ab-9279-39a9415bfa52
   zh-hans: 带太空去旅行了？
   pinyin: dài tàikōng qù lǚxíngle?
   en: travel into outer space?
   es: para hacer un viaje al espacio ¿no?
-- id: 11e2891f3f2846a29ee89d932f71a3e8
+- id: 44cb4de5-1ed7-4938-93e5-45d2d844c01a
   zh-hans: 在理论上，每个人都有这种可能，
   pinyin: Zài lǐlùn shàng, měi gèrén dōu yǒu zhè zhǒng kěnéng,
   en: In theory, everyone has this sort of possibility,
   es: En teoría, es posible para todos.
-- id: cae73dec3105470ebaec62e4f410d703
+- id: 67e2ea5a-f929-490e-a0d0-acb63e4a45b0
   zh-hans: 但不是每个人都能实现这个愿望。
   pinyin: dàn bùshì měi gèrén dōu néng shíxiàn zhège yuànwàng.
   en: but not everyone can fulfill this wish.
   es: Pero no todo el mundo puede hacer realidad este deseo.
-- id: 296ea74db2d54a86aa2480aa708cb144
+- id: 0ae3f593-7c35-4577-890d-612ab4ea002b
   zh-hans: 尽管神舟五号载人航天成功，
   pinyin: Jǐnguǎn Shénzhōu wǔ hào zài rén hángtiān chénggōng,
   en: Although the Zhenzhou V manned space flight was a success,
   es: A pesar del éxito del vuelo espacial tripulado Shenzhou V.
-- id: 6c36ddf91812450c9eaa771a50006500
+- id: 0c4d3dce-9c3a-492f-bffa-889b02ce8d23
   zh-hans: 我看，离你到太空旅行还是差十万八千里呢。
   pinyin: wǒ kàn, lí nǐ dào tàikōng lǚxíng háishì chà shí wàn bāqiān lǐ ne.
   en: I think, you traveling to outer space is still a long way away.
   es: creo que para que tú puedas viajar al espacio exterior aún hay una ruta larga.
-- id: 014affe517314054bcbade49acbfe70e
+- id: 74c5d908-493c-47ab-984f-2e402093532c
   zh-hans: 为什么？
   pinyin: Wèishéme?
   en: Why?
   es: ¿Por qué?
-- id: 282ac58972bb453997c2d77ccea06313
+- id: 43008362-fd33-4df9-b495-6937bcbc7dd0
   zh-hans: 你知道航天飞机要有什么条件吗？
   pinyin: Nǐ zhīdào hángtiān fēijī yào yǒu shénme tiáojiàn ma?
   en: Do you know what requirements the space shuttle has?
   es: ¿Sabe qué condiciones se requieren para el transbordador espacial?
-- id: fd1fa1177e29480fbc0abd72aaef04e9
+- id: ce28d793-a5c8-4a37-907f-597803c7c76f
   zh-hans: 首先得身体好。
   pinyin: Shǒuxiān děi shēntǐ hǎo.
   en: Firstly must have good health.
   es: En primer lugar, hay que estar en buena forma física.
-- id: ce380dc2121748ef8d48238b61eaf8ff
+- id: 9eb90013-82fa-40d0-871f-047f530bff33
   zh-hans: 那还用说。
   pinyin: Nà hái yòng shuō.
   en: Of course.
   es: Eso no hace falta decirlo.
-- id: 2df80eb1aa0349eeaebc4c3138402d5a
+- id: 46d36413-98a4-4db9-ac15-4d73fc5b2f19
   zh-hans: 根据介绍，
   pinyin: Gēnjù jièshào,
   en: According to the presentation,
   es: Según la introducción,
-- id: c70479c01e4b4a9ab0608ec951d6b7b4
+- id: 2552f304-99f3-4faa-8061-4144bb9dfec7
   zh-hans: 航天员的标准身高一般是一米七零，
   pinyin: hángtiān yuán de biāozhǔn shēngāo yībān shì yī mǐ qī líng,
   en: an astronaut’s standard height is generally 1.7 meters, and
   es: La estatura estándar de los astronautas suele ser de un metro setenta.
-- id: 28522e5193e64de1894bb1ff25f8b8d7
+- id: 0482e285-5b2e-4022-857e-13517fd732d7
   zh-hans: 体重在六十五公斤左右。
   pinyin: tǐzhòng zài liùshíwǔ gōngjīn zuǒyòu.
   en: weight around 65 kilograms.
   es: su peso debe estar alrededor de los 65 kg.
-- id: c215d4c82a594dccbb756eb05f767392
+- id: 0b926b96-ec10-4620-9b20-2f2e27a32799
   zh-hans: 挑选航天员的时候，
   pinyin: Tiāoxuǎn hángtiān yuán de shíhou,
   en: When selecting astronauts,
   es: A la hora de seleccionar astronautas,
-- id: 0e8a859c5833498ead5798bc128939a9
+- id: 7865c19a-78e2-499e-a6b1-b084a2327889
   zh-hans: 要让他们在医院里住一个月的时间，
   pinyin: yào ràng tāmen zài yīyuàn lǐ zhù yīgè yuè de shíjiān,
   en: they are made to stay in hospital for a month,
   es: tienen que permanecer en el hospital durante un mes.
-- id: a4ba4d2e6f7d46df9665698a0ed20069
+- id: e3b17bd7-261d-4e12-9672-dc15eeceb823
   zh-hans: 对他们全身的各个器官都进行检查和化验。
   pinyin: duì tāmen quánshēn de gège qìguān dōu jìnxíng jiǎnchá hé huàyàn.
   en: during which time all of their organs are put through checks and tests.
   es: Se examinan y prueban todos los órganos de su cuerpo.
-- id: e07c9a1b1c77470fa8a1265f34014795
+- id: d839ba13-078f-4b95-9307-7a9e15d24aea
   zh-hans: 别的不说，我的身高和体重就不够标准。
   pinyin: Bié de bù shuō, wǒ de shēngāo hè tǐzhòng jiù bùgòu biāozhǔn.
   en: Don’t say anymore, my height and weight do not meet these standards.
   es: Por no hablar de que mi altura y mi peso no son suficientes para cumplir ese estándar.
-- id: 5f87e238dd2142a89ea1577597020f88
+- id: 4eb655d9-89b7-4996-8514-d76cd083a21a
   zh-hans: 我身高有一米八零，
   pinyin: Wǒ shēngāo yǒuyī mǐ bā líng,
   en: My height is 1.8 meters, and
   es: Tengo 1,8 metros de estatura.
-- id: 8f0f8f82c59148669c979e9f2c20770d
+- id: d510e324-4f29-4c54-856f-6d3da2e4dbd3
   zh-hans: 体重七十五公斤。
   pinyin: tǐzhòng qīshíwǔ gōngjīn.
   en: weight is 75 kilograms.
   es: mi peso es 75 kg.
-- id: 677f33fea98e45a290e2db1819765aa6
+- id: 41b92c9c-bb8c-4ebe-b762-11a487a1d53c
   zh-hans: 不过我不是想当航天员，
   pinyin: Bùguò wǒ bùshì xiǎng dāng hángtiān yuán,
   en: However I do not want to be an astonaut,
   es: Pero no quiero ser astronauta,
-- id: 1923f7ec4be644108179f16dcb5b6e07
+- id: ddc8154a-b5bf-4298-b8ff-0add0210a6f3
   zh-hans: 而是想去旅游啊！
   pinyin: ér shì xiǎng qù lǚyóu a!
   en: I just want to travel!
   es: quiero viajar.
-- id: 98617b8513454fb0a0d80f6529c39364
+- id: 2b66991b-5025-470d-8db4-54faae304b87
   zh-hans: 去旅游也得看你的身体条件，
   pinyin: Qù lǚyóu yě děi kàn nǐ de shēntǐ tiáojiàn,
   en: Going traveling also depends on your health conditions,
   es: Viajar también depende de tu condición física.
-- id: 8f35518f9d3e43cfb494b2891d0b96fb
+- id: eabdc61e-3f32-48f5-9f79-140fb0092c58
   zh-hans: 而且还得接受严格的训练。
   pinyin: érqiě hái děi jiēshòu yángé de xùnliàn.
   en: and furthermore you must also undergo rigorous training.
   es: y hay que recibir a un entrenamiento estricto.
-- id: 2a8898f52e154f7ea7c23e00ab11b9bf
+- id: 8e185356-26d8-43d7-9c75-e45025126c6c
   zh-hans: 这么说，无论我怎么想去太空旅行，
   pinyin: Zhème shuō, wúlùn wǒ zěnme xiǎng qù tàikōng lǚxíng,
   en: So, no matter how much I want to travel to outer space,
   es: Así que, por mucho que quiera viajar al espacio.
-- id: 6224f477276746e9b63030fa70646e54
+- id: f0f122d4-6563-49c6-9fc4-38010b8aaaf5
   zh-hans: 都是没有希望了？
   pinyin: dōu shì méiyǒu xīwàngle?
   en: there is no hope?
   es: ¿no tengo esperanzas?
-- id: 7c276057e2514298874f3bd3a86cdd8f
+- id: a3031e20-3160-4a88-8024-c3c6f469beb0
   zh-hans: 话也不能说得这么绝对。
   pinyin: Huà yě bùnéng shuō de zhème juéduì.
   en: Cannot say so absolutely.
   es: No puedes estar tan seguro.
-- id: e3d8d952e86a41e294ccfb7e6084c626
+- id: 9cfbf4dc-af04-496f-ab78-a19934f9b49b
   zh-hans: 要是将来去太空旅行
   pinyin: Yàoshi jiānglái qù tàikōng lǚxíng
   en: Perhaps in the future going to outer space will be
   es: Si viajaras al espacio en el futuro,
-- id: cef95dd6babc4f5ebf90983183ff6819
+- id: a57379b5-070e-4491-b691-9b1bc0804968
   zh-hans: 跟现在你坐飞机回加拿大一样方便，
   pinyin: gēn xiàn zài nǐ zuò fēijī huí Jiānádà yīyàng fāngbiàn,
   en: as convenient as you taking a plane back to Canada,
   es: es tan fácil como volar de vuelta a Canadá.
-- id: 9dfd5745a77843889b70b3c0445814b7
+- id: ee4c3bb5-2915-4e28-b812-2208d24e1dbc
   zh-hans: 你不就有希望了吗？
   pinyin: nǐ bù jiù yǒu xīwàngle ma?
   en: don’t you hope?
   es: Hay esperanza para ti, ¿no?
-- id: a46ee26c6a27468d92e9c61672bf4629
+- id: 4679ed3e-1a1e-468a-9471-4ef970895261
   zh-hans: 我真希望中国的航天事业发展得更快，
   pinyin: Wǒ zhēn xīwàng Zhōngguó de hángtiān shìyè fāzhǎn de gèng kuài,
   en: I really hope that development of China’s aerospace industry can be faster,
   es: Realmente espero que el programa espacial chino se desarrolle más rápido.
-- id: 478abc8192bb45829b3d4f775da579a0
+- id: 7557266c-c9bd-4e2f-9565-caeb37be06fd
   zh-hans: 这一天早点儿到来就好了。
   pinyin: zhè yītiān zǎodiǎnr dàolái jiù hǎole.
   en: the sooner this day arrives the better.

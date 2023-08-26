@@ -9,312 +9,312 @@ metadata:
   add-groups-en: {finished: false, issue_id: 443}
   add-groups-es: {finished: false, issue_id: 444}
 sentences:
-- id: 5b349913aac5446dbae82dc567b392b7
+- id: 0f86b6c6-d195-4ae1-b5fe-0469b729cde1
   zh-hans: 吃点儿东西吧。
   pinyin: Chī diǎnr dōngxi ba.
   en: Have something to eat.
   es: Come algo.
-- id: 9cb976e9112f43cd9630c998e8d050ea
+- id: 5b910470-54cb-45ae-b937-167ab0ab239c
   zh-hans: 我可能得胃病了，
   pinyin: Wǒ kěnéng dé wèibìngle,
   en: I may have got a stomach ache,
   es: Puede que tenga un virus estomacal.
-- id: c35d2392523f4925bf79ff115920660d
+- id: a05868b7-24d7-471c-803d-7395be37a13b
   zh-hans: 这几天我觉得胃有点不舒服。
   pinyin: zhè jǐ tiān wǒ juéde wèi yǒudiǎn bú shūfú.
   en: these days I feel my stomach is a little uncomfortable.
   es: Me he sentido un poco mal del estómago estos días.
-- id: 27c0d1be0e894ec5b1a02aa92cd4e683
+- id: 90266ded-aa4c-4d63-998e-55330607b2b4
   zh-hans: 我劝你去看看中医。
   pinyin: Wǒ quàn nǐ qù kàn kàn zhòng yī.
   en: I advise you to go see a Chinese doctor.
   es: Te aconsejo que veas a un médico chino.
-- id: f74c5ecf3ff3444e9bb07820125554e0
+- id: 27de1860-cc9a-4e02-88c9-ab92a4cc974f
   zh-hans: 你一方面去看病，
   pinyin: Nǐ yī fāngmiàn qù kànbìng,
   en: On the one hand you can get your illness looked at,
   es: Por un lado, puedes ver a un médico.
-- id: aa85ef325609475e9b8d7c177b2bfe5b
+- id: e7031477-d9fe-4d1d-9354-252931d3d7ab
   zh-hans: 一方面也可以了解一下中医怎么看病。
   pinyin: yī fāngmiàn yě kěyǐ liǎo jiè yīxià zhōngyī zěnme kànbìng.
   en: on the other hand understand how a Chinese doctor looks at illness.
   es: También puedes aprender cómo funciona la medicina china.
-- id: 78f05e11cd27477a9f0bc35d8ef57f9e
+- id: 21c9773b-ee9b-4797-8b8e-560ae88ae68f
   zh-hans: 我在电影里见过。
   pinyin: Wǒ zài diànyǐng lǐ jiànguò.
   en: I saw it in a movie.
   es: Lo he visto en una película.
-- id: 3878414acc43475683eb8a46f1576f8b
+- id: ab432f17-9960-46ab-9085-c0eebcf0aec3
   zh-hans: 对了，中医看病的时候
   pinyin: Duìle, zhōngyī kànbìng de shíhou
   en: That’s right, when the Chinese doctor was seeing the patient
   es: Por cierto, cuando un médico chino ve a un paciente
-- id: f1be446f80e042f79b736932062d9ae3
+- id: f6600740-8a23-4092-bb85-1577e3f1369b
   zh-hans: 把手指放在病人的手腕上，
   pinyin: bǎ shǒuzhǐ fàng zài bìngrén de shǒuwàn shàng,
   en: he put his finger on the patient’s wrist,
   es: Ponen sus dedos en la muñeca del paciente.
-- id: b161566a93f54c83be6f040857574e87
+- id: d22833f4-0040-43d0-ae2d-9916b79e10ab
   zh-hans: 你知道那是做什么吗？
   pinyin: nǐ zhīdào nà shì zuò shénme ma?
   en: do you know what that was for?
   es: ¿Sabes lo que hace eso?
-- id: 3570bf5e4c26493fae810027a38d3b0d
+- id: 7b8cafa1-2c52-4ee7-97d6-4c00dd7287e7
   zh-hans: 那是在给病人号脉。
   pinyin: Nà shì zài gěi bìngrén hàomài.
   en: That was for taking the patient’s pulse.
   es: Eso es tomar el pulso del paciente.
-- id: 195bb9e2461f4d7da5eb4dc9385d09d4
+- id: ae1d744a-60a0-4ca1-ba91-e1a5f1f4e808
   zh-hans: 对中医来说，号脉是最重要的，
   pinyin: Duì zhōngyī lái shuō, hàomài shì zuì zhòngyào de,
   en: According to Chinese medicine, the pulse is most important,
   es: Para los practicantes de medicina china, tomar el pulso es lo más importante.
-- id: d94dd5d106774f8c800038b2b887351f
+- id: 944c8e19-47e5-45b2-8fe1-f34bc48d5366
   zh-hans: 这跟西医用听诊器检查一样。
   pinyin: zhè gēn xīyī yòng tīngzhěnqì jiǎnchá yīyàng.
   en: this is the same as a Western doctor using a stethoscope.
   es: Es lo mismo que usar un estetoscopio en la medicina occidental.
-- id: d6a8157d5cc6458eae2f4cd3a08658ba
+- id: c14d6f57-eee0-4256-ad48-e2fa401b852d
   zh-hans: 号脉怎么跟用听诊器检查一样呢？
   pinyin: Hàomài zěnme gēn yòng tīngzhěnqì jiǎnchá yīyàng ne?
   en: How is taking a pulse the same as using a stethoscope?
   es: ¿Por qué tomar el pulso es lo mismo que usar un estetoscopio?
-- id: eeee4c13f7d1421aa32a2b6fcbeb7a31
+- id: bf0eff2d-f3a7-49d5-8cee-ed11dedba2c3
   zh-hans: 应该说，中医从号脉中
   pinyin: Yīnggāi shuō, zhōngyī cóng hàomài zhōng
   en: It should be said, that Chinese medicine, from the pulse,
   es: Hay que decir que los practicantes de medicina china pueden obtener más información tomando el pulso que los practicantes de medicina occidental escuchando el pulso.
-- id: b81f8dd5661f4715bea3f1fe44019b37
+- id: 6cbbe296-f9d0-4384-b53a-9530e3c03f6a
   zh-hans: 得到的信息比西医从听诊器中得到的还多。
   pinyin: dédào de xìnxī bǐ xīyī cóng tīngzhěnqì zhōng dédào de hái duō.
   en: gets more information than Western medicine gets from the stethoscope.
   es: Hay que decir que los practicantes de medicina china pueden obtener más información de la toma del pulso que los practicantes de medicina occidental del estetoscopio.
-- id: b83efb345a0643f1897568f2a101a703
+- id: a3ab0fc9-3491-4dbc-af33-293550ec69a4
   zh-hans: 中医给你号号脉，看看你的气色，
   pinyin: Zhōngyī gěi nǐ hào hàomài, kàn kàn nǐ de qìsè,
   en: A Chinese doctor will take your pulse, look at your complexion,
   es: Un practicante de medicina china le tomará el pulso, comprobará su color, escuchará su voz y le hará preguntas.
-- id: 8ec5d3c76eb64392b1de048e87f3eccf
+- id: 4cb8548c-9dbf-47da-abf7-60b694531f1a
   zh-hans: 听听你的声音，再问你一些问题，
   pinyin: tīng tīng nǐ de shēngyīn, zài wèn nǐ yīxiē wèntí,
   en: listen to your voice, and then ask you a few questions,
   es: Escucha tu voz y te hace preguntas.
-- id: 735f91ae25e040628471c29663f891bb
+- id: 130d5e56-2fc2-4f56-ab07-348bbaa0a561
   zh-hans: 你全身的情况怎么样，他基本上就清楚了。
   pinyin: nǐ quánshēn de qíngkuàng zěnme yàng, tā jīběn shàng jiù qīngchule.
   en: so how your overall health is, he will essentially understand.
   es: Básicamente, sabe lo que le pasa a todo tu cuerpo.
-- id: 774aa42dbcc74a88a3301f2860e3ecc0
+- id: 558cbf4f-cc3b-413d-8006-cef3e75c0714
   zh-hans: 看来，学中医很难吧。
   pinyin: Kàn lái, xué zhōngyī hěn nán ba.
   en: Looks like, learning Chinese medicine is difficult right?
   es: Parece que es muy difícil aprender medicina china.
-- id: cd6af6305fa34e218aa4b35eb30c9c69
+- id: 407c5e83-a31f-411d-810c-5091e69c065e
   zh-hans: 中医有很深的理论，
   pinyin: Zhōngyī yǒu hěn shēn de lǐlùn,
   en: Chinese medicine has very deep theory, and
   es: La medicina china tiene teorías muy profundas.
-- id: 98167e6ffd2a47469be58194a797e983
+- id: b615f6a5-c4a1-452a-8453-1ccbe2732f90
   zh-hans: 培养中医大夫更重视经验。
   pinyin: péiyǎng zhōngyī dàfū gèng zhòngshì jīngyàn.
   en: training Chinese doctors places more importance on experience.
   es: La formación de los médicos en MTC pone más énfasis en la experiencia.
-- id: 37c3feb27560495e81dc168f8f1c3874
+- id: 6b9e2dbd-f2bd-4647-afaf-f7d045234319
   zh-hans: 就拿号脉来说，
   pinyin: Jiù ná hàomài lái shuō,
   en: Take taking a pulse for example,
   es: Tomemos como ejemplo la toma del pulso.
-- id: 36adfa9a2b214e7eb775ac82a508cc54
+- id: 7d947bae-10c5-4ab0-b0a2-bf0a4f2e6aaa
   zh-hans: 中医专业的学生要跟老师一起看病，
   pinyin: zhōngyī zhuānyè de xuéshēng yào gēn lǎoshī yīqǐ kànbìng,
   en: students of Chinese medicine will see patients together with their teacher,
   es: Si un estudiante de MTC quiere ver a un paciente con su maestro.
-- id: 47cc6fc7c78b486497ee55a82498e6e5
+- id: 44e41f2f-6f98-40b5-838c-fdcdd066aa9a
   zh-hans: 少说也得号几千个病人的脉，
   pinyin: shǎo shuō yě de hào jǐ qiān gè bìngrén de mài,
   en: taking the pulse of a few thousand patients to say the least,
   es: Tiene que tomar el pulso de al menos unos miles de pacientes.
-- id: bea05318fb5e484680c1381d862e763a
+- id: a15f403f-fb30-4dd4-9dd7-aaa558c86b1f
   zh-hans: 一直到他的感觉和看法跟老师的一样，
   pinyin: yīzhí dào tā de gǎnjué hé kànfǎ gēn lǎoshī de yīyàng,
   en: and only until his senses and views are the same as the teacher’s,
   es: Hasta que sus sensaciones y opiniones sean las mismas que las de su maestro.
-- id: 5c829ec6d72e400e8207aeea3007f32c
+- id: d4cebe38-237d-4430-b1ba-02ebf1cc7b27
   zh-hans: 他才算学会了号脉技术。
   pinyin: tā cái suàn xuéhuìle hàomài jìshù.
   en: will he have at last mastered the skill of taking a pulse.
   es: Sólo entonces aprende la técnica de tomar el pulso.
-- id: 38620992044c46998d8de4c162d9c42d
+- id: 24f46602-74ea-4cda-8f32-c8485acc3c72
   zh-hans: 真不容易！
   pinyin: Zhēn bù róngyì!
   en: Really not easy!
   es: No es fácil.
-- id: e1e97158fa3642eba8396965d1232cb8
+- id: 17ef02b0-5425-49e3-86eb-6e5ccd66deb1
   zh-hans: 可是，现代医学发展得这么快，
   pinyin: Kěshì, xiàndài yīxué fāzhǎn de zhème kuài,
   en: But, modern medicine has developed so quickly,
   es: Pero la medicina moderna avanza muy rápido.
-- id: f0bffa7b89d041d99e72b6310921e18d
+- id: 4c8d0a06-9632-4855-9c01-4d27f3849e35
   zh-hans: 难道中医就不需要最新的技术吗？
   pinyin: nándào zhōngyī jiù bù xūyào zuìxīn de jìshù ma?
   en: so does Chinese medicine really not require the latest technology?
   es: ¿No necesita la medicina china la última tecnología?
-- id: d7049627c4e34b6280298ba476a8a17e
+- id: c4d7336a-1f7d-4947-843b-89a35497e996
   zh-hans: 当然需要。
   pinyin: Dāngrán xūyào.
   en: Of course it does.
   es: Por supuesto que sí.
-- id: d2d31ad79a1349fabb1c784e4c2ff2aa
+- id: 427c9b85-9e7e-49bb-937f-32e6d31a3b15
   zh-hans: 中国的医生一直在研究中西医结合的问题，
   pinyin: Zhōngguó de yīshēng yīzhí zài yánjiū zhōng xīyī jiéhé de wèntí,
   en: China’s doctors are continuously studying the integration of Chinese and Western medicine,
   es: Los médicos chinos han estado estudiando la integración de la medicina china y la occidental.
-- id: e0100f13b93f41378ffe1ab65312bd45
+- id: e4a3fb0f-f957-4bf2-bc12-5038a047bf36
   zh-hans: 现在中医看病也做一些检查或者化验。
   pinyin: xiànzài zhōngyī kànbìng yě zuò yīxiē jiǎnchá huòzhě huàyàn.
   en: so nowadays seeing a Chinese doctor also involves check-ups and tests.
   es: Hoy en día, los médicos chinos también hacen algunos exámenes o pruebas de laboratorio.
-- id: c2fd5574c11b42cc97cc7f86b6744d8f
+- id: f5a51703-93d7-45d4-9e99-eac21ba9a35d
   zh-hans: 但是，无论用了什么现代医学的新技术，
   pinyin: Dànshì, wúlùn yòngle shénme xiàndài yīxué de xīn jìshù,
   en: However, no matter what modern medicial technology is used,
   es: Sin embargo, no importa qué nuevas técnicas de la medicina moderna se utilicen.
-- id: 103d859a7c914591b1554e5aa3823a91
+- id: d51f9587-a850-47f1-b009-bdf0a0547938
   zh-hans: 中医还是中医。
   pinyin: zhōngyī háishì zhōngyī.
   en: Chinese medicine will always be Chinese medicine.
   es: La medicina china sigue siendo medicina china.
-- id: 30c5dbe567554e9fb4c78f2fdeb59465
+- id: 50a1ecf5-b346-4dc4-af23-0618fb678c8e
   zh-hans: 为什么？
   pinyin: Wèishénme?
   en: Why?
   es: ¿Por qué?
-- id: 4f5963a526fb479b9701d1f0b6469b56
+- id: 36eb3251-80c4-4eb8-8f7b-0556125ccf1f
   zh-hans: 因为中医对人的身体健康的理解
   pinyin: Yīn wéi zhōngyī duì rén de shēntǐ jiànkāng de lǐjiě
   en: Because Chinese medicine’s understanding of the body’s heath
   es: Porque la medicina china entiende la salud humana
-- id: 0b879dead9a14698b45631f165f50621
+- id: c9f47ed5-3a3d-4010-a643-c1e17934ea5e
   zh-hans: 跟西医不一样。
   pinyin: gēn xīyī bù yīyàng.
   en: is different from Western medicine.
   es: es diferente a la de la medicina occidental.
-- id: 6679cacec07e4365835c6c94c2bc75ed
+- id: e7c15790-dc71-4a7d-9ae3-88d80ecc47b3
   zh-hans: 西医一般把人看成一部机器，
   pinyin: Xīyī yībān bǎ rén kàn chéngyī bù jīqì,
   en: Western medicine generally sees people as machines,
   es: La medicina occidental suele considerar al ser humano como una máquina.
-- id: da447b1e418e4eb4ab366a9c9a707607
+- id: b18f5ba3-682c-4e1c-9828-4c6d05b083fd
   zh-hans: 把人的器官看成是这部机器的零件。
   pinyin: bǎ rén de qìguān kàn chéng shì zhè bù jīqì de língjiàn.
   en: and sees people’s organs as the machine’s parts.
   es: La medicina occidental generalmente considera a los seres humanos como una máquina, y a los órganos de los seres humanos como partes de esta máquina.
-- id: 043a543d62774d5d998cc307e096d801
+- id: 4bb2fb43-9514-46d9-8502-23d6e5bccb29
   zh-hans: 比如说，当你得胃病的时候，
   pinyin: Bǐrú shuō, dāng nǐ dé wèibìng de shíhou,
   en: For example, take you getting a stomach ache,
   es: Por ejemplo, cuando se tiene un problema de estómago.
-- id: 3616b0607fb649148b25445950594f76
+- id: 96b76191-0107-4e03-8113-c050f3675ce7
   zh-hans: 是胃这个零件坏了。
   pinyin: shì wèi zhège língjiàn huàile.
   en: it is your stomach which is the broken part.
   es: Es el estómago el que está roto.
-- id: 7246f2c618e14dc1a28ec2f8af0478a5
+- id: 7f85384b-758c-4fc6-ba11-2fabd4e45166
   zh-hans: 你哪个零件坏了，
   pinyin: Nǐ nǎge língjiàn huàile,
   en: Whichever part of you is broken,
   es: Qué parte de tu cuerpo está rota.
-- id: fb88d3ff8250420e80ffdcba4d75e7bd
+- id: 3de72203-379c-49f5-a698-edb4b2631810
   zh-hans: 西医就给你修理哪个零件。
   pinyin: xīyī jiù gěi nǐ xiūlǐ nǎge língjiàn.
   en: Western medicine will fix that part of you.
   es: La medicina occidental te reparará qué parte.
-- id: 0cb06d997c564716b96b7ca6d7b05ae7
+- id: 09188c2e-506b-4da7-be46-fc903b20a0e4
   zh-hans: 简单地说，
   pinyin: Jiǎndān de shuō,
   en: Simply speaking,
   es: En pocas palabras.
-- id: b74940750b0743c0a6fbf40958ad4701
+- id: d60b382a-1b88-4e9d-b4e2-399add037907
   zh-hans: 西医是“头痛医头、脚痛医脚”。
   pinyin: xīyī shì “tóutòng yī tóu, jiǎo tòng yī jiǎo”.
   en: Western medicine is “for a headache treat the head, for a foot ache treat the foot”.
   es: La medicina occidental es "tratar la cabeza cuando hay dolor de cabeza y tratar el pie cuando hay dolor de pies".
-- id: b7835f4d4fc646b38410f7fadeefcc52
+- id: 66dd680d-bf40-42fa-948b-f08841d8fb31
   zh-hans: 哪个医生不是这样？
   pinyin: Nǎge yīshēng bùshì zhèyàng?
   en: What doctor is not like this?
   es: ¿Qué médico no es así?
-- id: 48b874b80593439c8fd02913ebe62f5a
+- id: 2f1d5314-ac47-4f69-899d-0699195f7797
   zh-hans: 难道还能“头痛医脚”吗？
   pinyin: Nándào hái néng “tóutòng yī jiǎo” ma?
   en: Could you really “treat the foot for a headache”?
   es: ¿Es posible tratar la cabeza cuando hay dolor de cabeza y tratar el pie cuando hay dolor?
-- id: 3e2b9467440541ac872c7e923deaa464
+- id: 78d2f5df-678b-4c6a-89d2-270118742833
   zh-hans: 中医的理论就不一样。
   pinyin: Zhōngyī de lǐlùn jiù bù yīyàng.
   en: The theory of Chinese medicine is not the same.
   es: La teoría de la medicina china es diferente.
-- id: 97d16254d3684c10abdd11a0508f0470
+- id: 0916a4e5-5544-419e-8c71-dc1729c75873
   zh-hans: 中医认为，人是一个整体。
   pinyin: Zhōngyī rènwéi, rén shì yīgè zhěngtǐ.
   en: Chinese doctors consider, that a person is an integrated body.
   es: Según la medicina china, el ser humano es un todo.
-- id: f018a1d239224198b2c66cc2a910d72e
+- id: 8f112d02-f195-41d2-b33e-dd968c3a1d40
   zh-hans: 某个器官有病不只是那个器官的问题，
   pinyin: Mǒu gè qìguān yǒu bìng bù zhǐshì nàgè qìguān de wèntí,
   en: When some organs are sick it is not only that organ which has a problem,
   es: Las enfermedades de un determinado órgano no son sólo un problema de ese órgano.
-- id: 8e8e792ff9704d86a03da1f0b713e698
+- id: 22a3bf52-26b3-4a83-b72c-5698773ed5b0
   zh-hans: 而是有复杂的原因，
   pinyin: ér shì yǒu fùzá de yuányīn,
   en: moreover it is a complicated reason,
   es: Tiene causas complejas.
-- id: 518ad2633c8b4c7680d5c5559b5ce5b7
+- id: 5389064c-5278-44a2-86bc-9558844d2f5f
   zh-hans: 可能还关系到其他部分。
   pinyin: kěnéng hái guānxì dào qítā bùfèn.
   en: and could be also be related to other parts.
   es: También puede estar relacionado con otras partes del cuerpo.
-- id: 5559540189ce41408c4282a72969389a
+- id: 627c849c-bd3b-4f1b-acba-788a334cf3e1
   zh-hans: 比如说，眼睛有病，好像是眼睛的问题，
   pinyin: Bǐrú shuō, yǎnjīng yǒu bìng, hǎoxiàng shì yǎnjīng de wèntí,
   en: For example, if the eyes are sick, it may seem like an eye problem,
   es: Por ejemplo, si los ojos están enfermos, parece ser un problema de los ojos.
-- id: c0bf3138d4c3431c9a1dd1d9f24827b8
+- id: d4d78b73-2e49-46c8-9f5c-aa01a038ec6b
   zh-hans: 其实还可能是肝的问题。
   pinyin: qíshí hái kěnéng shì gān de wèntí.
   en: but actually it could also be liver problem.
   es: En realidad, también puede ser un problema del hígado.
-- id: d7f64d8077c64399a79807cc37bd5b0c
+- id: dd28d900-b477-42ce-9cdd-4d0ea07f84ab
   zh-hans: 所以，中医一方面要治眼睛，
   pinyin: Suǒyǐ, zhōngyī yī fāngmiàn yào zhì yǎnjīng,
   en: Therefore, Chinese doctors on the one hand will the treat eyes,
   es: Por lo tanto, la medicina china debe tratar los ojos, por un lado, y el hígado, por otro.
-- id: 098bf92d510f4be4afbec891700e2021
+- id: fc25e5b9-0510-4c00-9d16-ec515d53587a
   zh-hans: 一方面也要治肝。
   pinyin: yī fāngmiàn yě yào zhì gān.
   en: on the other hand will also treat the liver.
   es: Por un lado, también es necesario tratar el hígado.
-- id: daa47c08a14a41adb7a8b8490befa6ee
+- id: 71bf306e-2663-484f-aa68-0d63ae1fad47
   zh-hans: 在中医那儿，头痛医脚是完全可能的，
   pinyin: Zài zhōngyī nàr, tóutòng yī jiǎo shì wánquán kěnéng de,
   en: For Chinese medicine, treating the foot for a headache is entirely possible,
   es: En la medicina china, es totalmente posible tratar el dolor de cabeza y el pie.
-- id: bfbfdd82000d4f738c75714b412d93db
+- id: 316e3dff-7fde-49ab-8956-48845d970ab2
   zh-hans: 你信不信？
   pinyin: nǐ xìn bù xìn?
   en: would you believe it?
   es: ¿Te lo puedes creer?
-- id: 67fb9b2ef4104d26bd3babf38ab65694
+- id: e6618854-3129-46c1-962f-b56d317fb949
   zh-hans: 按摩脚趾头确实能治某种头疼病。
   pinyin: Ànmó jiǎozhǐ tóu quèshí néng zhì mǒu zhǒng tóuténg bìng.
   en: Massaging the ends of the toes really can treat some types of headaches.
   es: Masajear los dedos de los pies realmente puede curar algún tipo de dolor de cabeza.
-- id: 04f017db1a4947fd978944d96364c125
+- id: b9e7e30a-80a1-477a-8fb3-f80758fb02da
   zh-hans: 真有意思。明天我就去看中医。
   pinyin: Zhēn yǒuyìsi. Míngtiān wǒ jiù qù kàn zhòng yī.
   en: How interesting. Tomorrow I’ll go to see a Chinese doctor.
   es: Qué interesante. Mañana veré a un médico chino.
-- id: fe1f2c9617c1482087557afcb4db157e
+- id: f33b0c94-2c8f-4fdc-9495-2f96b5107db1
   zh-hans: 那，你喝点儿水吧。
   pinyin: Nà, nǐ hē diǎnr shuǐ ba.
   en: Well, drink some water.

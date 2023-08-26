@@ -9,402 +9,402 @@ metadata:
   add-groups-en: {finished: false, issue_id: 812}
   add-groups-es: {finished: false, issue_id: 813}
 sentences:
-- id: 5a19562ab55b4babbdccfec6a0571685
+- id: f9ca44b4-529f-4be0-97cb-ee862dca10f2
   zh-hans: 欢迎杰克和玉兰回家过春节。
   pinyin: Huānyíng Jiékè hé Yùlán huí jiāguò chūnjié.
   en: Welcome Jieke and Yulan back home for Spring Festival.
   es: Bienvenidos Jack y Yulan a casa para el Año Nuevo Chino.
-- id: 25cd81649adf4e1589b4a88100100d30
+- id: e047051a-35b5-4bf1-bab4-1f867a25a80e
   zh-hans: 咱们全家人能在一起吃年夜饭，
   pinyin: Zánmen quánjiā rén néng zài yīqǐ chī nián yèfàn,
   en: Our family can eat New Year dinner together,
   es: Toda nuestra familia podrá cenar juntos en Nochevieja.
-- id: 1d1537d2596b415080ad73186a994fee
+- id: a6ab80ad-729a-49f5-9617-2007b8444573
   zh-hans: 我跟你妈特别高兴。
   pinyin: wǒ gēn nǐ mā tèbié gāoxìng.
   en: so me and your mother are terribly pleased.
   es: Tu madre y yo estamos especialmente contentos.
-- id: e1b8c36c983748c483fa0fbcce3dbf3a
+- id: 75e6f7f8-9de8-42c9-8b4b-5d280751ba26
   zh-hans: 来，咱们先干一杯！
   pinyin: Lái, zánmen xiān gàn yībēi!
   en: Come, let’s cheers first!
   es: ¡Brindemos!
-- id: 64155c72116a4c679ad0374dd37f5c0e
+- id: a7e28895-e3ee-4bb8-9264-dff6d02b8c09
   zh-hans: 祝爸爸、妈妈身体健康！
   pinyin: Zhù bàba, māmā shēntǐ jiànkāng!
   en: Wishing father and mother good health!
   es: ¡Desead buena salud a papá y a mamá!
-- id: 7b9a6468a772487891ce356b943b62cc
+- id: f341efcb-759f-4c21-bc93-b8dbc9dec4d1
   zh-hans: 恭喜发财！
   pinyin: Gōngxǐ fācái!
   en: May you have a prosperous New Year!
   es: ¡Felicidades por vuestra riqueza!
-- id: 3fb3b641971d488080ce280537b2e31d
+- id: e2ede827-e34e-424a-b15b-53f586bca821
   zh-hans: 好，好。
   pinyin: Hǎo, hǎo.
   en: Ok, ok.
   es: Bien, bien.
-- id: 356b7f331a004fec8f8748b59d220f93
+- id: d6aa1965-ec78-4696-a290-3ba35c29b6c9
   zh-hans: 恭喜恭喜！
   pinyin: Gōngxǐ gōngxǐ!
   en: Good wishes, good wishes.
   es: ¡Felicidades!
-- id: b618069f4e9d4992b9c12319117b1020
+- id: a6a822bc-8386-4a8c-b9b6-d42fd56faf53
   zh-hans: 祝你们新年万事如意。
   pinyin: Zhù nǐmen xīnnián wànshì rúyì.
   en: Hope that all your New Year wishes can be fulfilled.
   es: Os deseo lo mejor para el Año Nuevo.
-- id: 4f1cc3b668264a3685abc5a1e5dc7b71
+- id: 17915d4d-9e89-4c55-8c3c-6b50f64d6b83
   zh-hans: 杰克，你要是觉得别扭，
   pinyin: Jiékè, nǐ yàoshi juéde bièniu,
   en: Jieke, if you feel awkward,
   es: Jack, si te sientes incómodo.
-- id: fdb5726f61ef4270b0ba860e0f31ad59
+- id: b4ef9e35-3862-49bd-be7b-e0bf32883fd8
   zh-hans: 就还叫我先生，叫她太太。
   pinyin: jiù hái jiào wǒ xiānshēng, jiào tā tàitài.
   en: just call me Sir, and call her Madam.
   es: Si no te sientes cómodo, llámame Sr. y Sra.
-- id: 575ee6d43cb044c4886c713c67256a18
+- id: 3290afad-5ab4-4698-9aec-e5d836704996
   zh-hans: 怎么叫都行，这没什么，
   pinyin: Zěnme jiào dōu xíng, zhè méishénme,
   en: Whatever you call us is ok, it’s no big deal,
   es: Llámala como quieras. Está bien.
-- id: 89d00f62b3b0485992cb446ffad3effe
+- id: 24cceabc-de9e-4750-bc8a-2f235b55a7e5
   zh-hans: 我知道你们有你们的习惯。
   pinyin: wǒ zhīdào nǐmen yǒu nǐmen de xíguàn.
   en: we know you have your own ways of doing things.
   es: Sé que tienes tus propios hábitos.
-- id: 7e13fe2b5d9d41b281ce41da0125e46c
+- id: db5840e8-da9d-47d5-a907-b5a0799300f0
   zh-hans: 您不会生气吧？
   pinyin: Nín bù huì shēngqì ba?
   en: You won’t get angry, right?
   es: No te ofenderás, ¿verdad?
-- id: 9a9004c447224598afdbb53a56cff143
+- id: c65eeeb5-038b-4732-865e-5b578c650152
   zh-hans: 你说到哪儿去了？
   pinyin: Nǐ shuō dào nǎr qùle?
   en: What are you talking about?
   es: ¿De qué estás hablando?
-- id: 15041ccc37e44c07a5cbecff1715d3a4
+- id: 4b350572-44e9-499f-808f-b2c5863a389a
   zh-hans: 我不但不生气，反而挺高兴。
   pinyin: Wǒ bùdàn bù shēngqì, fǎn’ér tǐng gāoxìng.
   en: I not only will not get angry, on the contrary I will be quite pleased.
   es: No estoy enfadado, estoy feliz.
-- id: 2153bf70aaad4db79fbbe25c7222571b
+- id: f34bb1da-3822-43d6-bc3e-15980f62d69c
   zh-hans: 我也成“太太”了！
   pinyin: Wǒ yě chéng “tàitài”le!
   en: I’ve also become a “Madam”!
   es: ¡Yo también me he convertido en una "madame"!
-- id: 4a74ce82b4a94622b25bbe26a59377be
+- id: 77671cfa-da93-4bf6-84e0-d7acbb6f0244
   zh-hans: 吃菜，吃菜，要不，菜就凉了。
   pinyin: Chī cài, chī cài, yào bù, cài jiù liángle.
   en: Eat, eat, otherwise, the food will get cold.
   es: Come tu comida, o se enfriará.
-- id: 9f4069f32f7c49f495fd90a83a18aca5
+- id: 9825aef5-57e1-4fcd-83a8-0951c85fec8e
   zh-hans: 你尝尝这个红烧鱼。
   pinyin: Nǐ cháng cháng zhège hóngshāo yú.
   en: You should try the braised fish.
   es: Prueba el pescado estofado.
-- id: a775f74ac63446628a094e3c2ba3bca2
+- id: db892761-6a60-41ad-8bcb-f08c808054b8
   zh-hans: 多来点儿。
   pinyin: Duō lái diǎnr.
   en: Have as much as you like.
   es: Toma un poco más.
-- id: c3b7d4f165734c6794cb6caf3710caa5
+- id: 513e7587-f087-4a17-a023-ea13e7bfa589
   zh-hans: 杰克，我们吃年夜饭的时候，
   pinyin: Jiékè, wǒmen chī nián yèfàn de shíhou,
   en: Jieke, when we have New Year dinner,
   es: Jack, cuando tengamos la cena de Nochevieja.
-- id: b4980738bc8d4b85b7c600bc22c5abe3
+- id: 2b5851bc-1b4a-4ad8-b591-74cae2df7954
   zh-hans: 除了鸡和肉以外，
   pinyin: chúle jī hé ròu yǐwài,
   en: in addition to chicken and meat,
   es: Además de pollo y carne.
-- id: 2b741fe7acd740ebbc28dc402dad10e2
+- id: 40297b30-fe87-4ce4-ac33-3ee819206542
   zh-hans: 总要有一条鱼，你知道这是为什么？
   pinyin: zǒng yào yǒu yītiáo yú, nǐ zhīdào zhè shì wèishéme?
   en: must always also have a fish, do you know why?
   es: Siempre hay pescado. ¿Sabes por qué?
-- id: 37ec118ac324448e9815b7781f30506d
+- id: 2319743b-39c3-4fdd-b16d-deeaa05f78c0
   zh-hans: 鸡、鸭、鱼、肉都是好吃的菜啊，
   pinyin: Jī, yā, yú, ròu dōu shì hǎo chī de cài a,
   en: Chicken, duck, fish, and meat are all tasty dishes,
   es: Pollo, pato, pescado y carne son todos platos deliciosos.
-- id: 09403c39cdd447c38c8ba124bc376b80
+- id: 4441c366-30ea-4e54-aff8-5fe1add20033
   zh-hans: 难道还有别的意思吗？
   pinyin: nándào hái yǒu bié de yìsi ma?
   en: is there really any other reason?
   es: ¿Significa algo más?
-- id: 8f8550f8a79d4874a29d483e1a5b99b2
+- id: 5fc9835d-5058-445c-87ab-d3481857b376
   zh-hans: 有啊。
   pinyin: Yǒu a.
   en: There is.
   es: Sí.
-- id: 09aca6d1701c4754a58de54cd2309e57
+- id: dcd6130b-409b-4b11-a9dc-4c63972be3ac
   zh-hans: 因为“鱼”的发音跟结余的“余”一样，
   pinyin: Yīnwèi “yú” de fǎ yīn gēn jiéyú de “yú” yīyàng,
   en: Because the pronounciation of “yu” (fish) is the same as the “yu” in “jieyu” (surplus),
   es: Porque la pronunciación de "pescado" es la misma que "yu".
-- id: dcab1f7311c547cab931165c5989262e
+- id: b7809b77-f611-4fbf-8e7d-565b00bc04ff
   zh-hans: “有鱼”就成了“有余”，
   pinyin: “yǒuyú” jiù chéngle “yǒuyú”,
   en: “having fish” becomes “having surplus”,
   es: '"Fish" se convierte en "Yau Yau".'
-- id: a3f336f4c6ad488b86f439a4ddd758f8
+- id: c0e95f80-b8a2-4dee-b773-fddd30917157
   zh-hans: 意思是希望在新的一年里大家生活得更好，
   pinyin: yìsi shì xīwàng zài xīn de yī nián lǐ dàjiā shēnghuó de gèng hǎo,
   en: meaning that we hope that in this new year everyone’s lives will get better,
   es: Significa que esperamos que todo el mundo tenga una vida mejor en el nuevo año.
-- id: d6fc2ac2f7d34d89b1c986dc0bcf2531
+- id: 13c19f8f-c2ba-4d92-b08e-213afd95490b
   zh-hans: 家家都“有余”。
   pinyin: jiā jiā dōu “yǒu yú”.
   en: that every household will “have surplus”.
   es: Que todos tengan un buen año.
-- id: 2a85b2ef6b914262ad22198fea84f586
+- id: 1910f93f-d9bb-400d-8e0c-43c008d4cd0a
   zh-hans: 哦，我知道了。
   pinyin: Ó, wǒ zhīdàole.
   en: Oh, I get it.
   es: Ah, ya veo.
-- id: ad9eb7320b9a4985ab51ad513ca6b071
+- id: 6f3a62eb-2898-4df9-b463-f1cc43fbdc98
   zh-hans: 有的人喜欢手机号码、汽车号码
   pinyin: Yǒu de rén xǐhuan shǒujī hàomǎ, qìchē hàomǎ
   en: Some people like to have mobile phone numbers, and car license plate numbers,
   es: A algunas personas les gustan los números de móvil, los números de coche
-- id: 4f73f9ba9de843a3b4373e90536381c2
+- id: 9e34fe15-0663-41fc-a902-4874e34393bb
   zh-hans: 带“八”这个字，
   pinyin: dài “bā” zhège zì,
   en: that have the number “eight”,
   es: Con el carácter "ocho".
-- id: ef4d2d4e3ea84b1ca55e1ca7e5be5761
+- id: 87b94928-0f7f-474e-a4ab-43e76ba1fd42
   zh-hans: 不是“一八八”，就是“五一八”，
   pinyin: bùshì “yāobābā”, jiùshì “wǔyāobā”,
   en: if not “one eight eight”, then “five one eight”,
   es: Es "188" o "518".
-- id: 899750a3d4254929a96ab1faffc3ff60
+- id: 1f923a11-9669-40bb-b66a-7121783f6bb4
   zh-hans: 可能也是这个想法吧？
   pinyin: kěnéng yěshì zhège xiǎngfǎ ba?
   en: so maybe it’s also like this kind of thinking?
   es: ¿Tal vez sea la misma idea?
-- id: 294873980aba43c59fad9138a9a5b3d8
+- id: 7b37e28d-b155-4559-b04a-1f2800a6f9e6
   zh-hans: 对啊。
   pinyin: Duì a.
   en: That’s right.
   es: Así es.
-- id: 429757083896498493f5e3f1ec84f2ef
+- id: 7c208116-e13c-4379-8606-e45b640f284c
   zh-hans: 因为有些南方人念“八”跟
   pinyin: Yīnwèi yǒuxiē nánfāng rén niàn “bā” gēn
   en: It’s because when some southern people say “ba” (eight)
   es: Porque algunos sureños lo pronuncian igual.
-- id: 2b9460def7bc428dadf0e7e43ae53e1f
+- id: 6c1a563e-3552-444c-8940-bfea0cd4b00e
   zh-hans: 念“发财”的“发”声音差不多，
   pinyin: niàn “fācái” de “fā” shēngyīn chàbùduō,
   en: it sounds very close to the pronounciation of “fa” in “facai” (get rich),
   es: '"Fat" en "Fat Choy".'
-- id: 4313296a93da4465a85a2972cb6ebb24
+- id: 2676251a-d078-4c15-adf3-f8ab1d00c601
   zh-hans: 念“五”跟念“我”也差不多。
   pinyin: niàn “wǔ” gēn niàn “wǒ” yě chàbùduō.
   en: and “wu” (five) is also very close to “wo” (me).
   es: 'Y "five" suena parecido a "I".'
-- id: 363c0bef311a46c4886c5f45d7e97a6b
+- id: fcea5057-0778-4e22-96c1-34c808b3650a
   zh-hans: 所以“一八八”和“五一八”就成了
   pinyin: Suǒyǐ “yāobābā” hé “wǔyāobā” jiù chéngle
   en: Therefore “one eight eight” and “five one eight” become
   es: 'Por lo tanto, "188" y "518" se han convertido en las palabras'
-- id: 29ddd7381fc24bdb8151b4a8aa92b62e
+- id: 61568f22-f49c-4802-bfcd-b470d896204c
   zh-hans: “要发发”和“我要发”。
   pinyin: “yào fǎ fǎ” hé “wǒ yào fā”.
   en: “want to get rich” and “I want to get rich”.
   es: 'Así que "188" y "518" se han convertido en "quiero enviar" y "quiero enviar".'
-- id: 35085245c0c9402e8d315b1a6ae683f8
+- id: 98a1393c-446e-464f-98ea-4d802589f9ee
   zh-hans: 他们希望“发”，所以喜欢“八”。
   pinyin: Tāmen xīwàng “fā”, suǒyǐ xǐhuan “bā”.
   en: As they wish to “get rich”, they like “eight”.
   es: Deseaban ser "peludos", así que prefirieron "ocho".
-- id: 043f076eb64b431180acb50b2d094c35
+- id: 59ee9e55-12a4-4c90-b184-157b478a2ce2
   zh-hans: 后来，别的地方的人也这样做了。
   pinyin: Hòulái, bié dì dìfāng de rén yě zhèyàng zuòle.
   en: After them, people from other places also adopted this.
   es: Más tarde, la gente de otros lugares hizo lo mismo.
-- id: d73af38868cc4dc199875d508210d147
+- id: 6d264cb3-ee0c-4905-ad82-c272472e1a84
   zh-hans: 咱们的洋姑爷还知道不少中国的事儿呢。
   pinyin: Zánmen de yáng gūyé hái zhīdào bù shǎo Zhōngguó de shìr ne.
   en: Seems like our foreign son-in-law also knows a lot of Chinese things.
   es: Nuestros extranjeros saben mucho de China.
-- id: 1b95501b392949b4aba580e60af10187
+- id: 9c62f80a-395e-4559-a916-59a23bcd4d99
   zh-hans: 吃完了年夜饭，
   pinyin: Chī wánle nián yèfàn,
   en: When we have finished eating New Year dinner,
   es: Después de la cena de Nochevieja.
-- id: 3ba4460d49e046c3be42743025b27b44
+- id: b8aa48f8-b78d-4bbd-bd17-d3f5240e6fa3
   zh-hans: 咱们一边看电视，一边包饺子。
   pinyin: zánmen yībiān kàn diànshì, yībiān bāo jiǎozi.
   en: we can watch television while wrapping dumplings.
   es: Vimos la televisión e hicimos dumplings.
-- id: f8f4a6f4297a4ffa87435fab166990a7
+- id: c7a89d81-1b5c-46c6-bc30-0210aa993c5e
   zh-hans: 都吃完晚饭了，为什么还包饺子？
   pinyin: Dōu chī wán wǎnfànle, wèishéme hái bāo jiǎozi?
   en: Having already finished eating dinner,
   es: ¿Por qué hacemos dumplings después de cenar?
-- id: d0182951a0934f0888ebfcd79a5c0530
+- id: 09aaa14a-8b8f-4819-aefe-4185f1c97d74
   zh-hans: 难道还有客人要来吗？
   pinyin: Nándào hái yǒu kèrén yào lái ma?
   en: why do we also need to wrap dumplings?
   es: ¿Viene algún invitado?
-- id: 8e841dd207f94b1fa3261fd7f1cee507
+- id: 543a6cb1-8c6d-47a5-8c48-4ca27a71216c
   zh-hans: 这是咱们北方的风俗。
   pinyin: Zhè shì zánmen běifāng de fēngsú.
   en: Are other guests coming?
   es: Es una costumbre del norte.
-- id: ed9425736153482a815f262e72d1ac56
+- id: 174b9142-7260-4d28-b5b1-a443373748c5
   zh-hans: 今天除夕，旧的一年快要过去，
   pinyin: Jīntiān chúxì, jiù de yī nián kuàiyào guòqù,
   en: This is our northern custom.
   es: Hoy es Nochevieja. El año viejo está a punto de terminar.
-- id: bb273ad52dd04284b13c9a85580198d0
+- id: 589a7846-df9f-4920-a3b5-eb020f6e813b
   zh-hans: 新的一年就要开始，所以家家都睡得很晚，
   pinyin: xīn de yī nián jiù yào kāishǐ, suǒyǐ jiā jiā dōu shuì de hěn wǎn,
   en: Today is New Year’s Eve, the old year has almost past, the new year has almost begun, so everyhouse household stays up late,
   es: Un nuevo año está a punto de empezar, así que todo el mundo duerme hasta tarde.
-- id: 9a7e2f61307a4903bf32d672ee4102ca
+- id: b9df2ae5-e775-4f0a-a467-85bfdddcb9cb
   zh-hans: 这叫“守岁”。
   pinyin: zhè jiào “shǒusuì”.
   en: this is called “shousui”.
   es: Se llama "observar el Año Nuevo".
-- id: 40a60b1f2637424d9fdfa14623a74b79
+- id: b8786f7c-a92b-42c6-af58-3848601d58c3
   zh-hans: 守岁的时候，北方人一般要包很多饺子，
   pinyin: Shǒusuì de shíhou, běifāng rén yībān yào bāo hěnduō jiǎozi,
   en: During shousui, northern people must wrap many dumplings,
   es: Durante la celebración de Nochevieja, la gente del norte suele hacer muchas bolas de masa.
-- id: 67daae59992549b0aa896718dd910a67
+- id: d3fac10f-72f5-4b49-80c1-12116c58d3cb
   zh-hans: 好在新年慢慢地吃。
   pinyin: hǎo zài xīnnián màn man de chī.
   en: to eat them slowly over the new year.
   es: para poder comerlos despacio en Año Nuevo.
-- id: c81dc44b897344aebe1879ebdb4ce4be
+- id: c53b8320-e607-4bd0-b56e-e1d569c01e05
   zh-hans: 杰克可不会包饺子。
   pinyin: Jiékè kěbù huì bāo jiǎozi.
   en: Jieke might not be able to wrap dumplings.
   es: Jack no sabe hacer dumplings.
-- id: 3ecaa83fd6214e2c891300310b2b1724
+- id: 5ac155da-f6f7-4fd6-980d-f13a4c4275af
   zh-hans: 杰克，守岁的时候，你干什么呢？
   pinyin: Jiékè, shǒusuì de shíhou, nǐ gànshénme ne?
   en: Jieke, during shousui, what will you do?
   es: Jack, ¿qué haces durante la celebración de Año Nuevo?
-- id: e77300a0bc494d87869086796246c233
+- id: 43099ae6-0005-4848-beb2-133808d8c943
   zh-hans: 我随便，我觉得干什么都很有意思，
   pinyin: Wǒ suíbiàn, wǒ juéde gànshénme dōu hěn yǒuyìsi,
   en: I’m easy, I feeling everything is very interesting,
   es: No lo sé. Creo que es divertido.
-- id: 5dc56fbe5c45451f89574cc67d60cab0
+- id: bd056811-243a-49d5-be24-7a4cb16fff53
   zh-hans: 应该入乡随俗。
   pinyin: yīnggāi rùxiāngsuísú.
   en: when in Rome should do as the Romans do.
   es: Creo que es divertido hacer como los romanos.
-- id: d582fdbed86e499280d3e205b78c1715
+- id: 3a5e7038-b35d-4d83-bb47-e05d9ca03812
   zh-hans: 不会包饺子没关系，
   pinyin: Bù huì bāo jiǎozi méiguānxì,
   en: It doesn’t matter if he cannot wrap dumplings,
   es: No importa si no sabe hacer dumplings.
-- id: ece30c75aafa43a49dc2f4fef7b2d62a
+- id: 315df37f-f21f-4267-9504-c9cf1ef8d593
   zh-hans: 让他跟孩子们一起到外边去放鞭炮。
   pinyin: ràng tā gēn háizimen yīqǐ dào wàibian qù fàng biānpào.
   en: he can go outside with the children and let off fireworks.
   es: Déjalo salir con los niños y tirar petardos.
-- id: 66832a2e03214c9992039d02bc510c08
+- id: f9a28594-72c5-469d-8225-cf445a0ade50
   zh-hans: 那他太高兴了。
   pinyin: Nà tā tài gāoxìngle.
   en: He will be so pleased.
   es: Será muy feliz.
-- id: 9552f5bd45bb4c07ab83baf75a9e4b92
+- id: 6e680fc7-4d4e-4fad-bd4e-5073a08e3ea1
   zh-hans: 北京城里禁止放鞭炮，
   pinyin: Běijīng chéng lǐ jìnzhǐ fàng biānpào,
   en: In Beijing city letting off fireworks is prohibited,
   es: Los petardos están prohibidos en Pekín.
-- id: 840e6d13333a42a681db75ad18768b09
+- id: cee8c9f9-d54a-4dc5-9f59-d5d0f00a2648
   zh-hans: 城里人过春节越来越简单，
   pinyin: chéng lǐ rénguò chūnjié yuè lái yuè jiǎndān,
   en: celebrating Spring Festival in the city is becoming more and more plain,
   es: La gente de la ciudad está simplificando cada vez más el Año Nuevo Chino.
-- id: 882f5fa5484647b2a21c35928871609c
+- id: 009cdf98-21e5-4b42-b9ef-084937237254
   zh-hans: 哪儿有农村热闹？
   pinyin: nǎr yǒu nóngcūn rènào?
   en: how can it be as lively as the countryside?
   es: No es tan animado como en el campo.
-- id: 91929749c92047a4968d903121e8702e
+- id: 028de6c2-4e9c-4a44-b165-85649a0c0566
   zh-hans: 现在春节放长假，
   pinyin: Xiànzài chūnjié fàng chángjià,
   en: Now Spring Festival is a vacation,
   es: Ahora que el Festival de Primavera es una larga fiesta.
-- id: 722b5fc2e35342308df888714ef1879c
+- id: 5cc95dd0-da01-4e77-916a-87b66895d8b4
   zh-hans: 怪不得很多城里人不是到外地去旅游，
   pinyin: guàibùdé hěnduō chéng lǐ rén bùshì dào wàidì qù lǚyóu,
   en: no wonder many city people if not going travelling to other places,
   es: No es de extrañar que tantos habitantes de la ciudad viajen al extranjero.
-- id: 0de0695b3e734f0689f31ec2f6606652
+- id: 7bd43d4e-cec9-4c43-8ccd-35560ac0bb12
   zh-hans: 就是到农村来过节。
   pinyin: jiùshì dào nóngcūn lái guòjié.
   en: they spend the festival in the countryside.
   es: O vienen al campo.
-- id: 34739a7800c9441aaffdf5d10a68b263
+- id: 6cf51bab-6cef-45c4-995c-51d81f321eb6
   zh-hans: 我们这儿不但不禁止放鞭炮，
   pinyin: Wǒmen zhèr bùdàn bù jīn zhǐ fàng biānpào,
   en: We here not only have no prohibition on letting off fireworks,
   es: Aquí no prohibimos los petardos.
-- id: 284d2afa47074118a7904ef6c6ca3c76
+- id: 2c4d8a15-9b2a-411a-9f8e-72336a84c6ce
   zh-hans: 反而放得比以前更多了。
   pinyin: fǎn’ér fàng de bǐ yǐqián gèng duōle.
   en: on the contrary we let off more than we did before.
   es: Al contrario, tiramos más petardos que antes.
-- id: 0eb1d2cf8c2d4eff9fef5c1014d3149c
+- id: bf143d4b-149f-4f0d-acc8-4bf887aeacf7
   zh-hans: 今年咱们家就买了不少大鞭炮、小鞭炮，
   pinyin: Jīnnián zánmen jiā jiù mǎi le bù shǎo dà biānpào, xiǎo biānpào,
   en: This year our family bought many large fireworks, and small fireworks,
   es: Este año hemos comprado muchos petardos grandes y pequeños.
-- id: a53a8ce5d5c44a90b6e4c604325ad992
+- id: 6d5e3c66-544a-4462-89d1-0dbc7faf5bde
   zh-hans: 到十二点的时候，你们去放吧。
   pinyin: dào shí’èr diǎn de shíhou, nǐmen qù fàng ba.
   en: so when it gets to 12 o’clock, you can go set them off.
   es: Cuando dan las doce, puedes ir a encenderlos.
-- id: 3312abac403c448eb29001d63261b95f
+- id: 2540d7a0-ffc0-44f1-8181-b9d8f4c615a6
   zh-hans: 现在我们农村过春节是比城里热闹得多。
   pinyin: Xiànzài wǒmen nóngcūnguò chūnjié shì bǐ chéng lǐ rènào de duō.
   en: Now when us villagers celebrate the Spring Festival it is much more lively than in the city.
   es: Hoy en día, la Fiesta de la Primavera en el campo es mucho más animada que en la ciudad.
-- id: 1277d5f86d4f45c6ae7b056c3279b201
+- id: 72aafb47-2958-47b0-beaa-1b9c50d982a0
   zh-hans: 除了吃年夜饭以外，
   pinyin: Chúle chī nián yèfàn yǐwài,
   en: In addition to New Year dinner,
   es: Además de la cena de Nochevieja.
-- id: 63c05fa5b09c4932aeef50b4855fcea8
+- id: 19431d9c-4a0c-43fa-843e-1cbe5f59d372
   zh-hans: 我们还写春联、贴窗花、扭秧歌，
   pinyin: wǒmen hái xiě chūnlián, tiē chuānghuā, niǔyānggē,
   en: we also make New Year couplets, put up window decorations, dance the Yange,
   es: También se escriben coplas de la Fiesta de Primavera, se colocan adornos en las ventanas, se cantan canciones sobre la siembra del arroz y se organizan todo tipo de actuaciones y concursos.
-- id: b569d9c443c14a6fbf12157a4080657e
+- id: ef4fe3c7-1ddc-49cd-be92-64f08eb5ce2b
   zh-hans: 还有各种表演和比赛。
   pinyin: hái yǒu gè zhǒng biǎoyǎn hé bǐsài.
   en: and also have all sorts of performances and competitions.
   es: Hay todo tipo de actuaciones y concursos.
-- id: 027188cf6a5d4699b490a67d0a20a5be
+- id: 7ecda6a2-328b-45e2-a681-8ab242bff1ad
   zh-hans: 你们就在这儿多住几天吧，
   pinyin: Nǐmen jiù zài zhèr duō zhù jǐ tiān ba,
   en: You should stay here a few more days, and
   es: Quédate aquí unos días más.
-- id: 6a1f1101064348908f8a0047db58366d
+- id: da807d77-9507-4a9e-82b3-4e816da15d0f
   zh-hans: 看看我们村是不是也可以发展旅游事业，
   pinyin: kàn kàn wǒmen cūn shì bùshì yě kěyǐ fāzhǎn lǚyóu shìyè,
   en: see whether or not us villagers can develop a tourism industry,
   es: A ver si nuestro pueblo puede desarrollar el turismo.
-- id: f2a9be9f149348e588d923da71a1a8c4
+- id: c34bbe24-39eb-4b8b-8d3f-eeb850c5262e
   zh-hans: 尤其是文化旅游。
   pinyin: yóuqí shì wénhuà lǚyóu.
   en: especially cultural tourism.
   es: Especialmente el turismo cultural.
-- id: cfa4c56976224373bc983e77906dcb0a
+- id: 9d4af0dd-afff-4e81-babe-2639d76e321b
   zh-hans: 来，干一杯！
   pinyin: Lái, gān yībēi!
   en: Come, let’s cheers!
   es: ¡Vamos, salud!
-- id: 736c884ee26a47af8eca4f20dcac0ca3
+- id: 7e58f98a-9be0-4445-8334-ae8a9a734b58
   zh-hans: 来！
   pinyin: Lái!
   en: Cheers!

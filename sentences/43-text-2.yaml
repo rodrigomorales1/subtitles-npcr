@@ -9,176 +9,176 @@ metadata:
   add-groups-en: {finished: true, issue_id: 836}
   add-groups-es: {finished: true, issue_id: 837}
 sentences:
-- id: 388f94e9544a43359aaa55cbf2bb5fbb
+- id: fadfdba4-4e1f-49d0-b6b3-bfe8492e2cda
   zh-hans: 我对(1:中国)(2:现代)(3:文学)很感兴趣，
   pinyin: Wǒ duì (1:Zhōngguó) (2:xiàndài) (3:wénxué) hěn gǎn xìngqù,
   en: I am very interested in (2:modern) (1:Chinese) (3:literature),
   es: Me interesa mucho la (3:literatura) (1:china) (2:moderna),
-- id: 6373aaa3d8f64570858ffb224fede34a
+- id: 8ab1fc76-a218-4c16-9463-344ddaa3c862
   zh-hans: (1:尤其)(2:喜欢)鲁迅、巴金和老舍
   pinyin: (1:yóuqí) (2:xǐhuan) Lǔ Xùn, Bā Jīn hé Lǎo Shě,
   en: I (1:particularly) (2:like) Lu Xun, Ba Jin and Lao She,
   es: (1:particularmente) me (2:gusta) Lu Xuan, Ba Jin y Lao She
-- id: 7b02d4066b6942d5a99a122faa859cb1
+- id: 5e04ca15-5df6-426f-8a20-bdfe2514f30b
   zh-hans: 这些(1:著名)的(2:作家)。
   pinyin: zhèxiē (1:zhùmíng) de (2:zuòjiā).
   en: these (1:famous) (2:writers).
   es: estos (1:famosos) (2:escritores).
-- id: e7ec879a8c9544789e247d3c9049781f
+- id: af1c3a33-8258-4901-9e49-2a7168ee06f0
   zh-hans: 来(1:北京)以前我读过(2:巴金)的小说(3:《家》)，
   pinyin: Lái (1:Běijīng) yǐqián wǒ dúguò (2:Bā Jīn) de xiǎoshuō (3:“Jiā”),
   en: Before coming to (1:Beijing) I read (2:Ba Jin)’s novel (3:“The Family”),
   es: Antes de venir a (1:Beijing), leí la novela (3:"La Familia") de (2:Ba Jin).
-- id: 5031f10ad3a249089494e2cc22015f3d
+- id: d5e69ac2-6169-40b7-a924-4ebb413ca69b
   zh-hans: 是(1:翻译)成(2:英文)的，
   pinyin: shì (1:fānyì) chéng (2:yīngwén) de,
   en: it was an (2:English) (1:translation),
   es: (la novela que leí) era una (1:traducción) en (2:inglés),
-- id: 41c667f72000438390605a10f54a7185
+- id: e4cacd73-2607-4e0e-a208-983c230e01e4
   zh-hans: 也(1:看)过《家》这部电影。
   pinyin: yě (1:kàn)guò “Jiā” zhè bù diànyǐng.
   en: and also (1:saw) the movie “The Family”.
   es: y también (1:vi) la película "La Familia".
-- id: efa348511b2a4d728c8d1e2e76bab3d5
+- id: b172aac6-3da0-4f91-984c-12104f7d552e
   zh-hans: 我来(1:北京)以后，
   pinyin: Wǒ lái (1:Běijīng) yǐhòu,
   en: After I came to (1:Beijing),
   es: Después de venir a (1:Beijing),
-- id: 69cc3ac0c1244ce0b720596dd554f269
+- id: 8d78df04-1e56-4896-a0ed-fcd7b416acc5
   zh-hans: 看过(1:话剧)《茶馆》(2:和)
   pinyin: kànguò (1:huàjù) “Cháguǎn” (2:hé)
   en: I watched the (1:play) “Teahouse” (2:and)
   es: vi la (1:interpretación) "Tienda de té" (2:y)
-- id: 5798a47a71084c7a9c9e3133f82127ca
+- id: 409c9a8a-10b6-425b-aafc-af1ed82ea64e
   zh-hans: (1:电视剧)《阿Ｑ正传》。
   pinyin: (1:diànshìjù) “Ā Q Zhèng Zhuàn”.
   en: the (1:TV drama) “The Story of Ah Q”.
   es: la (1:serie) "La Historia de Ah Q".
-- id: b64802f8359047529a2e520aba7629e9
+- id: 9b07c96c-a8b3-4c6b-b6ec-c20a1a76f198
   zh-hans: 我很想多(1:了解)一些这几位(2:作家)的情况。
   pinyin: Wǒ hěn xiǎng duō (1:liǎojiě) yīxiē zhè jǐ wèi (2:zuòjiā) de qíngkuàng.
   en: I would really like to (1:know) more about these famous (2:writers).
   es: Realmente me gustaría (1:conocer) más sobre estos famosos (2:escritores).
-- id: dd19588dbfd8413caaeca3bbafb98588
+- id: 22009290-9f38-400a-84a3-0fbc054da932
   zh-hans: (1:上)(2:星期)力波对我说：
   pinyin: '(1:Shàng) (2:xīngqí) Lìbō duì wǒ shuō:'
   en: '(1:Last) (2:week) Libo said to me:'
   es: 'La (1:anterior) (2:semana), Libo me dijo:'
-- id: 3a45b632ca5745e7a6ce0b44d9f9dcbe
+- id: 3164685e-b04c-41ec-a0a7-91b9adbe1e00
   zh-hans: “你(1:还是)去(2:参观)一下(3:中国)(4:现代)(5:文学)馆吧。
   pinyin: '"Nǐ (1:háishì) qù (2:cānguān) yīxià (3:Zhōngguó) (4:Xiàndài) (5:Wénxué) Guǎn ba.'
   en: '"You (1:had better) go to (2:visit) the (National) Museum of (3:Modern) (4:Chinese) (5:Literature).'
   es: '(1:Será mejor) que (2:visites) el Museo de (5:Literatura) (4:China) (3:Moderna).'
-- id: 3b2eed3df41a4641bcfe28676b17dc03
+- id: 7e0fcd54-6386-4b8d-b067-d60e31d963db
   zh-hans: (1:中国)现代有名(2:作家)的(3:资料)那儿都有。
   pinyin: (1:Zhōngguó) xiàndài yǒumíng (2:zuòjiā) de (3:zīliào) nàr dōu yǒu.
   en: There is lots of (3:information) there about famous modern (1:Chinese) (2:writers).
   es: Ahí tienen (3:información) sobre famosos (2:escritores) (1:chinos) de la era moderna.
-- id: 1b79a740e75c49e78b2d012d47df5f6e
+- id: cc0032a1-f656-4bc7-ba3b-3626f304f6ab
   zh-hans: 我(1:那天)(2:参观)了一(3:上午)，
   pinyin: Wǒ (1:nàtiān) (2:cānguān) le yī (3:shàngwǔ),
   en: (1:That day) I spent the entire (3:morning) (2:visiting) the museum, and
   es: (1:Ese día) pasé toda la (3:mañana) (2:visitando) el museo, y
-- id: 703aa144f43c4020a689d81ec2486d2e
+- id: e39cf989-ce2e-4b17-8339-e120baad53d7
   zh-hans: 也没有(1:看完)，
   pinyin: yě méiyǒu (1:kàn wán),
   en: I didn’t (1:finish watching) the museum,
   es: no (1:termine de ver) al museo,
-- id: 216f5bff8203475ca4fd042760a8573a
+- id: cdf2711a-8185-4e96-a5ed-44a2341bf3e1
   zh-hans: (1:可)把我累坏了。
   pinyin: (1:kě) bǎ wǒ lèi huàile.
   en: but I was (1:really) exhausted.
   es: pero estaba (1:realmente) cansado.
-- id: ffacbca7f669405582c4fa130aaef3bd
+- id: e8137379-d860-4411-8c2c-45f19ded71f6
   zh-hans: 不过我还想再去(1:几)(2:次)。
   pinyin: Bùguò wǒ hái xiǎng zài qù (1:jǐ) (2:cì).
   en: However, I still want to go (1:a few) more (2:times).
   es: Pero, quiero volver a ir (1:unas) (2:veces) más.
-- id: 514454251cb0495bbb85f10b3d1c95b4
+- id: c629a329-9f2c-4231-9082-67814464f49b
   zh-hans: (1:我们)在(2:北京)的时候(3:不)(4:去)(5:参观参观)，
   pinyin: (1:Wǒmen) zài (2:Běijīng) de shíhou (3:bù) (4:qù) (5:cānguān cānguān),
   en: If (1:we) (3:don’t) (4:go) to (5:visit) it while (1:we) are in (2:Beijing),
   es: Si (1:nosotros) (3:no) (4:vamos) a (5:visitar)lo cuando estamos en (2:Beijing),
-- id: c2d991f640e64f9c98c236e08bd60b56
+- id: f4e65294-e806-42e7-a54a-e677f72fda34
   zh-hans: 以后一定会觉得很(1:遗憾)。”
   pinyin: yǐhòu yīdìng huì juéde hěn (1:yíhàn).”
   en: 'then later on we will definitely (1:regret) it.”'
   es: 'luego lo vamos a (1:lamentar)."'
-- id: ecd4d26f56a5407f9ba52a02efa57cf6
+- id: 85ee59f9-807b-4324-a39b-5bbb633e8941
   zh-hans: 力波还非常(1:认真)地对我说：
   pinyin: 'Lìbō hái fēicháng (1:rènzhēn) de duì wǒ shuō:'
   en: 'Libo also (1:seriously) said to me:'
   es: 'Libo luego me dijo (1:seriamente):'
-- id: 5ae436ff32744d01b871a2ae35f01b72
+- id: 2541f8ad-08bc-4337-a67f-8afa670ca1c5
   zh-hans: “你去(1:参观)(2:文学馆)的时候，
   pinyin: “Nǐ qù (1:cānguān) (2:wénxué guǎn) de shíhou,
   en: “When you (1:visit) the (2:literature museum),
   es: '"Cuando (1:visites) el (2:museo de literatura),'
-- id: 34adc6e7287f4767bd8ba0dc1e476e67
+- id: 9bf64efa-312b-4ec0-8ba3-cb87faf74e43
   zh-hans: 别忘了跟(1:巴金)先生(2:握手)。”
   pinyin: bié wàngle gēn (1:Bā Jīn) xiānshēng (2:wòshǒu).”
   en: don’t forget (2:to shake hands) with Mr. (1:Ba Jin).”
   es: 'no olvides (2:darle la mano) a (1:Ba Jin)."'
-- id: 08b3f7ca32364e47875e65db4520cf5e
+- id: ee95a0f0-7010-45d7-808e-4037b8cbcd89
   zh-hans: 我(2:觉得)很(1:奇怪)，
   pinyin: Wǒ (2:juéde) hěn (1:qíguài),
   en: I (2:thought) this was very (1:strange),
   es: (2:Pensé) que esto era (1:raro),
-- id: 414e68f072ed4720b8a16f382d6f2120
+- id: 00311ae9-d614-45fc-afa8-92852ccc3078
   context: video
   zh-hans: (1:巴金)先生这么大(2:岁数)了，
   pinyin: (1:Bā Jīn) xiānshēng zhème dà (2:suìshu) le,
   en: Mr. (1:Ba Jin) with such large (2:age),
   es: Mr. (1:Ba Jin) con tan alta (2:edad),
-- id: 55be8385507148639387c0a40e600cf5
+- id: 1754c424-431a-4528-9d4c-8ea8dcc474b5
   context: audio
   zh-hans: (1:巴金)先生已经(2:去世)了，
   pinyin: (1:Bājīn) xiānshēng yǐjīng (2:qùshì) le,
   en: Mr. (1:Ba Jin) has (2:passed away),
   es: (1:Ba Jin) ya ha (2:fallecido),
-- id: fe84c35339e74e25a349ebf4dc23c2c1
+- id: 9313aa4e-8919-44b7-bc68-f9bfd3a19970
   context: video
   zh-hans: 难道他会每天在那儿跟(1:参观的人)(2:握手)吗？
   pinyin: nándào tā huì měitiān zài nàr gēn (1:cānguān de rén) (2:wòshǒu) ma?
   en: could he there everyday (2:shaking hands) with the (1:visitors)?
   es: ¿acaso está todos los días ahí (2:dando la mano) a los (1:visitantes)?
-- id: 549dfc85b9724056945c4c081a01a009
+- id: 7edb459f-cf3b-4da0-9d9c-7fa7abb1d17b
   context: audio
   zh-hans: 怎么会每天在那儿跟(1:参观的人)(2:握手)呢？
   pinyin: zěnme huì měitiān zài nà'er gēn (1:cānguān de rén) (2:wòshǒu) ne?
   en: how could he (2:shake hands) with (1:visitors) there every day?
   es: ¿Cómo puede estar ahí todos los días (2:dando la mano) a los (1:visitantes)?
-- id: 2890e61d7012430e929dcaea5be455c9
+- id: d728d476-14e8-4b8d-a3b2-d8502863f01f
   zh-hans: 这(1:当然)是(2:不可能)的，
   pinyin: Zhè (1:dāngrán) shì (2:bù kěnéng) de,
   en: (1:Of course), this is (2:not possible),
   es: (1:Por supuesto), esto (2:no es posible),
-- id: 661ff933cb864fb68a161e1ba6683c67
+- id: 21fc0f1d-5b22-4490-ac1e-269acf91620d
   zh-hans: 那么，(1:力波)是什么意思呢？
   pinyin: nàme, (1:Lìbō) shì shénme yìsi ne?
   en: so then, what did (1:Libo) mean?
   es: Entonces ¿A qué se refiere (1:Libo)?
-- id: 33997323c55945538e7c186dc9d6e4a1
+- id: 3254eda5-1241-4f50-abe7-4ee02c88e8fc
   zh-hans: (1:今天)(2:上午)
   pinyin: (1:Jīntiān) (2:shàngwǔ)
   en: (1:This) (2:morning)
   es: (1:Hoy), en la (2:mañana),
-- id: 8624c5156cdf4a6394c352cd2f9faa5a
+- id: 232d15d5-c8d6-49bd-8ea8-3be3118155ee
   zh-hans: (1:学院)(2:组织)我们去(3:参观)(4:现代)(5:文学)馆。
   pinyin: (1:xuéyuàn) (2:zǔzhī) wǒmen qù (3:cānguān) (4:Xiàndài) (5:Wénxué) Guǎn.
   en: the (1:faculty) (2:organized) us to (3:visit) the Museum of (4:Modern) (5:Literature).
   es: la (1:escuela) (2:organizó) una actividad para ir a (3:visitar) el Museo de (5:Literatura) (4:Moderna).
-- id: 2ee71ecd23ae426790d3b4fae17fed03
+- id: f74862a9-d426-4d83-b1c5-4c886b070105
   zh-hans: 那是一座很(1:普通)的新楼，
   pinyin: Nà shì yīzuò hěn (1:pǔtōng) de xīn lóu,
   en: It is a very (1:ordinary) new building,
   es: (El museo) es un edificio nuevo (1:común),
-- id: 367bb1407f914964a7f2171c831b9b49
+- id: e61a754b-85b8-4f0d-a38e-686798ac814b
   zh-hans: 从(1:外边)看，(2:平平常常)的，(3:简简单单)的。
   pinyin: cóng (1:wàibian) kàn, (2:píngpíng chángcháng) de, (3:jiǎn jiǎndān dān) de.
   en: looking from the (1:outside), it is very (2:common), and (3:simple).
   es: mirándolo desde (1:afuera), es (2:ordinario) y (3:simple).
-- id: 5660b05f48064b21ba8daef5d6b6f56f
+- id: 3a104913-683f-4298-86d8-c52db5e7a845
   context: video
   zh-hans: 但是(2:进)了(1:大楼)，
   pinyin: Dànshì (2:jìn) le (1:dàlóu),
@@ -190,77 +190,77 @@ sentences:
   pinyin: Dànshì (1:jìn) le (2:dàlóu) yǐhòu,
   en: But after (1:entering) the (2:building),
   es: Pero luego de (1:entrar) al (2:edificio),
-- id: b3831df4cc6441d5bf554614e9309d8f
+- id: 6aac4d66-aa9b-49d5-b070-2268238d09c4
   zh-hans: 我们就觉得来到了一座(1:文学)(2:宝库)。
   pinyin: wǒmen jiù juéde lái dàole yīzuò (1:wénxué) (2:bǎokù).
   en: it felt like we had arrived at a (2:treasure trove) of (1:literature).
   es: sentimos que habíamos llegado a un (2:depósito de tesoros) de la (1:literatura).
-- id: 4a8da2950f0b4703841290c06ebe9a4f
+- id: 8afecc1b-62d4-4737-bedd-9d3240da19c4
   zh-hans: 一位(1:讲解员)给我们(2:介绍)了
   pinyin: Yī wèi (1:jiǎngjiě) yuán gěi wǒmen (2:jièshào) le
   en: A (1:guide) gave us an (2:introduction)
   es: Una (1:guía) nos dio una (2:introducción)
-- id: 32d80129e8bb420fb8d7be16a2fe3e75
+- id: ac04f0aa-66b8-4ea6-9387-9de23997378c
   zh-hans: 很多(1:著名)(2:作家)的情况和他们的(3:作品)。
   pinyin: hěnduō (1:zhùmíng) (2:zuòjiā) de qíngkuàng hé tāmen de (3:zuòpǐn).
   en: to many (1:well-known) (2:writers) and their (3:works).
   es: a muchos (2:escritores) (1:conocidos) y a sus (3:trabajos).
-- id: 5ee92a0350e944b8b4af32a7850a0378
+- id: 8768d63f-2c31-4cd4-bcdb-8fb9fcd571ff
   zh-hans: 她(1:讲解)得很(2:认真)，也很(3:清楚)。
   pinyin: Tā (1:jiǎngjiě) de hěn (2:rènzhēn), yě hěn (3:qīngchu).
   en: She (1:explained) things very (2:earnestly), and also very (3:clearly).
   es: Ella (1:explicó) (2:cuidadosamente) y con (3:claridad).
-- id: 22a97c68f9cb44afa6caaeb214d44e7b
+- id: c72a5b36-9022-4282-972c-bd26a9bed8e7
   zh-hans: 我一边(1:看)，一边(2:听)，一边(3:记)，
   pinyin: Wǒ yībiān (1:kàn), yībiān (2:tīng), yībiān (3:jì),
   en: I simultaneously (1:watched), (2:listened), took (3:notes),
   es: Yo (1:observaba), (2:escuchaba) y tomaba (3:notas),
-- id: 2ad8fdcc6c6943ee8255347909b57df5
+- id: 0d30b26d-9478-44af-a3b1-8fe6ba325c44
   zh-hans: (1:有时候)还向(2:她)提些(3:问题)。
   pinyin: (1:yǒushíhou) hái xiàng (2:tā) tí xiē (3:wèntí).
   en: and (1:sometimes) also asked (2:her) a few (3:questions).
   es: (1:a veces) (2:le) hacía algunas (3:preguntas).
-- id: 5f2a91ad7823441f9a7dea7a15038b87
+- id: a56f6842-77f0-4cf5-aff7-91364132ac3e
   zh-hans: 我觉得(1:这样)的(2:参观)很(3:有意思)，
   pinyin: Wǒ juéde (1:zhèyàng) de (2:cānguān) hěn (3:yǒuyìsi),
   en: I found a (2:visit) (1:like this) very (3:interesting),
   es: Sentí que una (2:visita) (1:como esta) es muy (3:interesante),
-- id: 32179fe209db435baeeb6995c32da40e
+- id: a62f3e13-2225-46b9-972b-c41224d3ab59
   zh-hans: (1:不但)可以(2:了解)(3:作家)的(4:情况)，
   pinyin: (1:bùdàn) kěyǐ (2:liǎojiě) (3:zuòjiā) de (4:qíngkuàng),
   en: (1:not only) was I able to (2:know) the (3:writers)’ (4:circumstances),
   es: (1:no solo) pude (2:conocer) sobre las (4:circumstancias) de los (3:escritores),
-- id: e8b9bb834464451aa4934f34ba8060e5
+- id: 36f4cc59-6ece-48cd-88bb-ffc836f4522f
   zh-hans: (1:而且)还可以(2:了解)他们(3:生活)的(4:时代)，
   pinyin: (1:érqiě) hái kěyǐ (2:liǎojiě) tāmen (3:shēnghuó) de (4:shídài),
   en: (1:but also) was able to (2:know) what (3:life) was like in (4:their era),
   es: (1:pero también) pude (2:saber) como era la (3:vida) en su (4:época),
-- id: 65f4e6bf2efd4659a2b65b8b0cacc991
+- id: 5dc423e2-9efb-4ebd-9d4c-328d1dc69580
   zh-hans: 这对(1:理解)(2:作家)的(3:作品)是很(4:有帮助)的。
   pinyin: zhè duì (1:lǐjiě) (2:zuòjiā) de (3:zuòpǐn) shì hěn (4:yǒu bāngzhù) de.
   en: which is very (4:helpful) for (1:understanding) the (2:writers)’ (3:works).
   es: esto es muy (4:útil) para (1:entender) las (3:obras) de los (2:escritores).
-- id: a23c15bef7c745c895d029af197f5434
+- id: fd430916-9ac3-408e-b498-97e84edf84f2
   zh-hans: 我们从楼下看到楼上，
   pinyin: Wǒmen cóng lóu xià kàn dào lóu shàng,
   en: We went from the bottom floor to the top floor,
   es: Nosotros fuimos desde el piso de arriba hasta al de arriba,
-- id: fadc2e6855ca4aafaa13cdd004366999
+- id: ce7ac92d-8253-4aa4-ad90-e8f5975b410b
   zh-hans: 把(1:文学馆)看了(2:一遍)，
   pinyin: bǎ (1:wénxué guǎn) kànle (2:yībiàn),
   en: viewing the (1:literature museum),
   es: así viendo el (1:museo de literatura) completamente (2:una vez),
-- id: d8bcafadb2564b97aa313a30a39e6868
+- id: f7e0fab1-5161-4376-a611-c1136cbb742e
   zh-hans: (1:已经)快(2:十一)点了。
   pinyin: (1:yǐjīng) kuài (2:shíyī) diǎnle.
   en: and it was (1:already) almost (2:11) o’clock.
   es: (1:ya) eran las (2:11):00.
-- id: 4eec766f2db946b4b3cc5e5d2f9fd4e2
+- id: afd16134-aa86-4007-89ee-cb3569eebfdf
   zh-hans: 那位(1:讲解员)(2:热情)地对大家说：
   pinyin: 'Nà wèi (1:jiǎngjiěyuán) (2:rèqíng) de duì dàjiā shuō:'
   en: 'The (1:guide) (2:enthusiastically) said to everyone:'
   es: 'La (1:guía) nos dijo a todos con (2:entusiasmo):'
-- id: b07c0131c4f64d3287065d3b046dddfa
+- id: 8ddc7f0d-d967-4dbc-9c8f-9148251eb100
   zh-hans: “你们(1:走)的时候，别忘了跟(2:巴金)先生(3:握手)。”
   pinyin: “Nǐmen (1:zǒu) de shíhou, bié wàngle gēn (2:Bā Jīn) xiānshēng (3:wòshǒu).”
   en: “When you (1:leave), don’t forget to (3:shake hands) with Mr. (2:Ba Jin).”
@@ -270,38 +270,38 @@ sentences:
   pinyin: (1:Dàjiā) dōu juédé hěn (2:qíguài),
   en: (1:Everyone) thought this was (2:strange),
   es: (1:todos) pensaron que esto era (2:extraño),
-- id: f2a91d20765044a290e59b3d732055d9
+- id: 23450f20-3c6a-43fb-880c-5986dce5234e
   context: video
   zh-hans: “(1:巴金)先生(2:在哪儿)？”
   pinyin: “(1:Bā Jīn) xiānshēng (2:zài nǎr)?”
   en: “(2:Where is) Mr. (1:Ba Jin)?”
   es: ¿(2:Dónde está) (1:Ba Jin)?
-- id: ab1fcf8b2f814135ac84bbd7a447f989
+- id: 21a3e577-eb70-4058-a063-d7a5e00d4fc7
   zh-hans: 那位(1:讲解员)(2:笑着)把我们送到(3:文学馆)(4:门口)。
   pinyin: Nà wèi (1:jiǎngjiěyuán) (2:xiàozhe) bǎ wǒmen sòng dào (3:wénxuéguǎn) (4:ménkǒu).
   en: (2:Smiling), the (1:guide) took us to the (3:literature museum) (4:entrance).
   es: (2:Sonriendo), la (1:guía) nos llevó a la (4:entrada) del (3:museo de literatura).
-- id: c2df34fb6d204000a21d93e1205499ef
+- id: 05521a4f-f547-4fce-92f9-5e90f5c32a83
   zh-hans: 她(1:指着)(2:门)上的(3:铜)(3:把手)说：
   pinyin: 'Tā (1:zhǐzhe) (2:mén) shàng de (3:tóng) (4:bǎshǒu) shuō:'
   en: 'She, (1:pointing) to the (3:copper) (4:handle) on the (2:door), said:'
   es: 'Ella, (1:apuntando) a la (4:manija) de (3:cobre) en la (2:puerta), dijo:'
-- id: 8c853e64c760404aa5a93c0d501d3a47
+- id: 8afdff5a-2bcf-433c-a8f6-8a0e905779b5
   zh-hans: “你们看，(1:这)是什么？”
   pinyin: “Nǐmen kàn, (1:zhè) shì shénme?”
   en: “Look, what is (1:this)?”
   es: '"Miren ¿Qué es (1:esto)?"'
-- id: 5e40e7e20f364403bec9f2b433d858e3
+- id: 6686c514-61d6-43c3-ba83-92e6eeeb68c2
   zh-hans: (1:这时候)我们才(2:注意)到
   pinyin: (1:Zhè shíhou) wǒmen cái (2:zhùyì) dào
   en: Only then did we (2:notice) that
   es: (1:En este entonces), pudimos (2:notar) que
-- id: 14d0afbea99b414ea1b77449c7ae8e94
+- id: a43f261d-bf2f-45f1-a3ef-002cf4acdd53
   zh-hans: 这个(1:门)的(2:把手)做的很(3:特别)，
   pinyin: zhège (1:mén) de (2:bǎshǒu) zuò de hěn (3:tèbié),
   en: the (1:door)’s (2:handle) was very (3:special),
   es: la (2:manija) de la (1:puerta) era muy (3:especial),
-- id: 08991083f86743f68fb5613b3f03671e
+- id: 332e7503-3b7e-41bb-a119-7a2edb903caf
   zh-hans: 像一只(1:真)(2:手)似的。
   pinyin: xiàng yī zhǐ (1:zhēn) (2:shǒu) shì de.
   en: resembling a (1:real) (2:hand).
@@ -311,47 +311,47 @@ sentences:
   pinyin: '(1:Jiǎngjiěyuán) (2:jiēzhe) shuō:'
   en: 'The (1:tour guide) (2:went on) to say:'
   es: 'La (1:guía) (2:luego) dijo:'
-- id: 42ff3eba51e54c71849faaee9c37f4fc
+- id: a6dd98f1-1f48-4f04-b025-62c23f52b917
   zh-hans: “这是(1:巴金)先生(2:九十五)岁的时候，
   pinyin: “Zhè shì (1:Bā Jīn) xiānshēng (2:jiǔshíwǔ) suì de shíhou,
   en: “This is Mr. (1:Ba Jin), when he was (2:95) years old,
   es: '"Ese es (1:Ba Jin), cuando él tenía (2:95) años,'
-- id: 86a8fe2069654834bf20ed9982c777bc
+- id: 6b42d805-74c2-4c39-b48d-26d518612b48
   zh-hans: 按他(1:右手)的(2:模型)做的。
   pinyin: àn tā (1:yòushǒu) de (2:móxíng) zuò de.
   en: a (2:mold) done according to his (1:right hand).
   es: un (2:molde) hecho de acuerdo a su (1:mano derecha).
-- id: d66077d926ec4749974263cced75b2ce
+- id: 92d82b14-68e5-4e12-8462-b99a714c24f9
   zh-hans: 有了这个(1:铜)(2:把手)，(3:表示)
   pinyin: Yǒule zhège (1:tóng) (2:bǎshǒu), (3:biǎoshì)
   en: This (1:copper) (2:handle) (3:expresses)
   es: Esta (2:manija) de (1:cobre) (3:expresa)
-- id: c4517a7d6abf4ed9affe71352e7d9896
+- id: 3dbf37c1-897b-41bb-973f-ce39554977bb
   zh-hans: (1:巴金)先生每天都在这里跟(2:参观的人)(3:握手)！”
   pinyin: (1:Bā Jīn) xiānshēng měitiān dū zài zhèlǐ gēn (2:cānguān de rén) (3:wòshǒu)!”
   en: Mr. (1:Ba Jin) is here everyday (3:shaking hands) with the (2:visitors)!”
   es: 'que (1:Ba Jin) está acá todos los días (3:dando la mano) a los (2:visitantes)!"'
-- id: 0955e831d19e433db79ed3afb489f107
+- id: 33a434e8-171d-41c6-957a-e083612cf8ba
   zh-hans: 我(1:握着)巴金先生的(2:手)，(3:心里想)：
   pinyin: 'Wǒ (1:wòzhe) Bā Jīn xiānshēng de (2:shǒu), (3:xīnlǐ xiǎng):'
   en: 'As I (1:hold) Mr. Ba Jin’s (2:hand), I (3:thought to myself):'
   es: '(1:Sosteniendo) la (2:mano) de Ba Jin, (3:pensé interiormente):'
-- id: e1c65388a86140eaa3ebdfc4a516a857
+- id: 03322164-0020-421e-b921-05bac3629b00
   zh-hans: (1:尊敬)的巴金先生，您好！
   pinyin: (1:Zūnjìng) de Bā Jīn xiānshēng, nín hǎo!
   en: (1:Dear) Mr. Ba Jin, hello!
   es: '(1:Querido) Ba Jin ¡hola!'
-- id: d3c79d987a944f5cbbfd2aea53a57db6
+- id: 0ddbb78d-297a-4a18-88c3-9b75592c0c07
   zh-hans: (1:我)(2:很)(3:喜欢)(4:您)的(5:作品)，
   pinyin: (1:Wǒ) (2:hěn) (3:xǐhuan) (4:nín) de (5:zuòpǐn),
   en: (1:I) (2:really) (3:like) (4:your) (5:work),
   es: (2:Realmente) me (3:gustan) (4:sus) (5:obras),
-- id: c5518f0e2f6c4418867dd67cc52a96a0
+- id: 2317dcb4-d053-4512-ba00-cc8b65fd99d8
   zh-hans: 您是中国(1:青年)的朋友，
   pinyin: nín shì Zhōngguó (1:qīngnián) de péngyǒu,
   en: you are friend of Chinese (1:youth),
   es: usted es amigo de la (1:juventud) china,
-- id: 3a377b05009b4ce3b6a5d202f7d3ea97
+- id: 7f6af5b1-25ff-4aea-8e4b-44cc52d53328
   zh-hans: (1:也)是(2:我们)的(3:朋友)。
   pinyin: (1:yě) shì (2:wǒmen) de (3:péngyǒu).
   en: and (1:also) (2:our) (3:friend).

@@ -9,337 +9,337 @@ metadata:
   add-groups-en: {finished: false, issue_id: 451}
   add-groups-es: {finished: false, issue_id: 452}
 sentences:
-- id: 64e0a00ff73246348bd200a071b6c7e4
+- id: f68edda8-0fb5-4a26-8c56-b71dfefe3edc
   zh-hans: 林娜身体不舒服的时候，总不肯去医院。
   pinyin: Lín Nà shēntǐ bú shūfú de shíhou, zǒng bù kěn qù yīyuàn.
   en: When Lin Na doesn’t feel well, she always is not willing to go to the hospital.
   es: Lin Na siempre se negaba a ir al hospital cuando no se encontraba bien.
-- id: 0bc15d39b3314e1f81fd28700b5bf107
+- id: b86c7d9c-e099-4fe4-b59e-523301af5092
   zh-hans: 这回她接受了王小云的建议，
   pinyin: Zhè huí tā jiēshòule Wáng Xiǎoyún de jiànyì,
   en: This time she accepts Wang Xiaoyun’s suggestion,
   es: Esta vez siguió el consejo de Wang Xiaoyun y
-- id: c65b133c30674aaf91091f27967e09ce
+- id: e81a90c2-3fad-4ebb-a60a-822a88953858
   zh-hans: 去北京同仁堂挂了一个专家号，
   pinyin: qù Běijīng Tóngréntáng guàle yīgè zhuānjiā hào,
   en: goes to Beijing Tongrentang and registers to see a specialist,
   es: ir a Beijing Tong Ren Tang y colgar el número de un especialista.
-- id: 9e88b18dc2364907a145628fb9746e10
+- id: 75f40e74-b35f-4713-810d-e8441c53ad41
   zh-hans: 正好是位老中医给她看病。
   pinyin: zhènghǎo shì wèi lǎo zhōngyī gěi tā kànbìng.
   en: just in time for a Chinese Medicine doctor to see her.
   es: Dio la casualidad de que la atendía un viejo médico chino.
-- id: 345ddf46ddb34ef7acbeceb7d52ebf9e
+- id: 02d8e7ad-ac4b-4771-b4ac-564ac7e39e72
   zh-hans: “您好。”
   pinyin: “Nín hǎo.”
   en: “Hello.”
   es: "Hola."
-- id: b06b22a49c14442e9b1bff1a6f6c7a0d
+- id: f195bde6-9f5f-43ac-9a27-d7487b8c6571
   zh-hans: “来把你的手拿上来，
   pinyin: '"Lái bǎ nǐ de shǒu ná shànglái,'
   en: '"Hold out your hand,'
   es: '"Ven y levanta la mano.'
-- id: 401c24453e5946ff93e6ae3d7d4c709a
+- id: 9102136d-44ed-4fc0-b804-f2fb3794f103
   zh-hans: 反过来。”
   pinyin: 'fǎn guòlái."'
   en: 'turn it over."'
   es: 'Gírala".'
-- id: 6edb342c79964b02b81688d88b80822c
+- id: b1bac160-3bfd-47b1-918f-946be1b192d3
   zh-hans: 那位老先生给林娜号了号脉，
   pinyin: Nà wèi lǎo xiānshēng gěi Lín Nà hàole hàomài,
   en: The old man took Lin Na’s pulse,
   es: El anciano tomó el pulso de Linna.
-- id: 1e4c011741d641bd83e6817be0b7b0d7
+- id: 92416a54-f5af-4d91-8d18-63edc755fd59
   zh-hans: 看了看她的舌头，
   pinyin: kànle kàn tā de shétou,
   en: looked at her tongue,
   es: le miró la lengua.
-- id: 9f108f64244e49269fb39c48139746fc
+- id: 150be092-fa52-43ee-8e5f-56af7972e3a3
   zh-hans: 问了她一些问题，就低头开药方。
   pinyin: wènle tā yīxiē wèntí, jiù dītóu kāi yàofāng.
   en: asked her about her problems, then lowered his head and wrote a perscription.
   es: le hizo algunas preguntas, y luego bajó la vista para escribir una receta.
-- id: 1f2ff54fe8364560aae1aba0a911c1de
+- id: 9fa62e93-b7a0-40a6-8a8a-1d6ebc1e0049
   zh-hans: “大夫，我得了什么病，得吃点儿什么中药？”
   pinyin: '"Dàifū, wǒ dé le shénme bìng, de chī diǎnr shénme zhōngyào?"'
   en: '"Doctor, what illness have I got, what Chinese medicine should I take?"'
   es: '"Doctor, ¿qué tipo de enfermedad tengo y qué tipo de hierbas medicinales debo tomar?".'
-- id: 60b2bb604b884822b729dfdba48f6b6c
+- id: d5c79f72-f74f-4335-af41-f39d6eeda609
   zh-hans: “您没有什么大的病，
   pinyin: '“Nín méiyǒu shé me dà de bìng,'
   en: '“You do not have any great illness,'
   es: '"No estás gravemente enferma.'
-- id: b6194674894a428599d487a7fe8e56aa
+- id: 9ac09943-9ad0-44ad-97fa-01bc0fbacce2
   zh-hans: 不要紧的。
   pinyin: bùyàojǐn de.
   en: don’t worry.
   es: No es nada grave.
-- id: 25093756b7de4ca89edfa1c1193a9da1
+- id: e45d9a5c-e794-412a-a5c4-d89dc067ec9c
   zh-hans: 可能最近学习比较紧张吧？”
   pinyin: 'Kěnéng zuìjìn xuéxí bǐjiào jǐnzhāng ba?"'
   en: 'Perhaps your studies have been relatively stressful lately?"'
   es: '¿Quizá has estudiado mucho últimamente?".'
 - id: 9c28b8d9-e4d2-4cd3-a0f1-0adb853b2791
   zh-hans: 老中医对她说：
-- id: 5b3c88999caf4cf8b763fe067b27de14
+- id: 7200674e-cee6-47d9-a480-8fc64ee91635
   zh-hans: “您自己到市场上去买两斤山楂，
   pinyin: “Nín zìjǐ dào shìchǎng shàngqù mǎi liǎng jīn shānchá,
   en: “Take yourself to the market to buy two jin of hawthorn,
   es: '"Ve al mercado y compra un kilo de espino.'
-- id: 62ca76738236490ead0e908562884a2b
+- id: c9941c53-1770-4a93-88e0-783dcf134623
   zh-hans: 有空儿就吃几个。
   pinyin: yǒu kòngr jiù chī jǐ gè.
   en: and if you have some time eat a few.
   es: Come unos cuantos cuando tengas tiempo.
-- id: 421bd52a37964210ae5e548611a0d47d
+- id: c3ee5007-e825-4cf4-9d71-83babd3ad9bd
   zh-hans: 一方面吃山楂，
   pinyin: Yī fāngmiàn chī shānchá,
   en: On the one hand you should eat hawthorn, and
   es: Por un lado, come espino.
-- id: 7f31a50c36444fd1ae4c6530019a4796
+- id: 30392978-f107-4c11-9b9b-4cbfcf58243d
   zh-hans: 一方面还得多运动，
   pinyin: yī fāngmiàn hái de duō yùndòng,
   en: on the other hand must get more exercise,
   es: Por otro, necesitas hacer más ejercicio.
-- id: a7d9c9d494334e03a9ffd058068acee9
+- id: 536df976-6a47-4913-aa88-e99d4291ab22
   zh-hans: 最好每天锻炼四十分钟。
   pinyin: zuì hǎo měitiān duànliàn sìshí fēnzhōng.
   en: best if you get 40 minutes of exercise everyday.
   es: Lo mejor es hacer ejercicio durante cuarenta minutos todos los días.
-- id: 308c88961fef4320a0dfb1e8dde6f39d
+- id: a6fd1893-ad82-4463-ba6e-bfc4c8ed8d6c
   zh-hans: 过几天你就会好的。”
   pinyin: Guò jǐ tiān nǐ jiù huì hǎo de.”
   en: In a few days you will feel better.”
   es: 'Estarás bien en unos días".'
-- id: e2e7cb19fc9b4986a46b115e4fb024b6
+- id: c5e26fac-5c4a-4b1c-bef1-ce4154d80081
   zh-hans: 他的话，林娜都听懂了，
   pinyin: Tā dehuà, Lín Nà dōu tīng dǒngle,
   en: His words, Lin Na understood,
   es: Lin Na entendió todas sus palabras.
-- id: 4c75ae4a30174a53b1c4278eb76f9a70
+- id: 81b53b1d-f137-4b1d-947e-dc216d1dcb63
   zh-hans: 但她却不明白老中医为什么让她吃山楂。
   pinyin: dàn tā què bù míngbái lǎo zhōngyī wèishéme ràng tā chī shānchá.
   en: but she nevertheless was not clear on why the Chinese Medicine doctor told her to eat hawthorn.
   es: Sin embargo, no entendió por qué el viejo doctor chino le dijo que comiera espino.
-- id: a87dd823fb0844a095e7ffa918bb3583
+- id: e49edf59-6135-48e7-bb4d-77e383b1f64e
   zh-hans: 尽管她觉得有点儿奇怪，
   pinyin: Jǐnguǎn tā juéde yǒudiǎnr qíguài,
   en: Although she felt it was a bit strange,
   es: Aunque se sentía un poco extraña.
-- id: c16e28524159455aad1df0e84c016256
+- id: 9aa54859-6379-429e-93da-b5a650da8d75
   zh-hans: 还是到市场上去买了几斤又红又大的山楂，
   pinyin: háishì dào shìchǎng shàng qù mǎile jǐ jīn yòu hóng yòu dà de shānchá,
   en: she still went to the market and bought a few jin of large, red hawthorn, and
   es: Aun así, fue al mercado y compró varios kilos de espino rojo y grande.
-- id: 5742395b43e14dcd9017375424281012
+- id: 943812d5-95f2-4828-8684-7834e50f52da
   zh-hans: 每天都吃几次。
   pinyin: měitiān dū chī jǐ cì.
   en: ate them several times a day.
   es: Lo comió varias veces al día.
-- id: ebe45443efae4ed1b60667fed8e43aa0
+- id: ab0a38be-eb01-4e6b-92fb-8940f0c07f2a
   zh-hans: 从看病的第二天开始，
   pinyin: Cóng kànbìng de dì èr tiān kāishǐ,
   en: Starting from the day after she saw the doctor,
   es: A partir del segundo día de su visita.
-- id: 1e98333662f145d1b492c6adfbc4d1d1
+- id: d787398b-ac2e-4864-ba95-48b080200ada
   zh-hans: 她天天都很早起床，
   pinyin: tā tiāntiān dōu hěn zǎo qǐchuáng,
   en: she got up early everyday,
   es: Se levantó muy temprano todos los días
-- id: b4170737727844ef95b8a9e9ab79b571
+- id: f3879b9d-3be7-48c6-8f38-27d15579efb0
   zh-hans: 去外边跑跑步，做做操，
   pinyin: qù wàibian pǎo pǎobù, zuò zuò cāo,
   en: went outside to run, do exercise,
   es: Salió a correr y hacer ejercicios.
-- id: 1c1d462af73949e98893e22142e45e73
+- id: a846c338-0129-4db5-8a35-93fe826a376f
   zh-hans: 然后练太极剑。
   pinyin: ránhòu liàn tàijí jiàn.
   en: and practice Chinese swordplay.
   es: Luego practicó Tai Chi Espada.
-- id: 4518417f1ed74406835e3f359d92dfa1
+- id: 5f1cc646-1354-4445-bed0-adeabb4651a3
   zh-hans: 一个星期以后，
   pinyin: Yīgè xīngqí yǐhòu,
   en: A week later,
   es: Después de una semana.
-- id: aab86a929e6e42f599c90dbfbc1fdb7f
+- id: 8dae2643-6cef-4e4b-a562-9f8795e6b260
   zh-hans: 林娜觉得胃病好了，
   pinyin: Lín Nà juéde wèibìng hǎole,
   en: Lin Na felt her stomach problems were better,
   es: Linna sintió que su estómago se había recuperado.
-- id: 19ce5e0ed3b74ef6adef842dc8bbea13
+- id: 0179309e-73e6-482e-9178-8bbafb5277da
   zh-hans: 也想吃东西了。
   pinyin: yě xiǎng chī dōngxile.
   en: and also felt like eating again.
   es: Quería comer.
-- id: 46259d49dc7f4b5b81243b17228b99fa
+- id: 59d669df-fb1a-4225-9cd2-5ab4b2671493
   zh-hans: 没吃药，病就好了，她简直不敢相信。
   pinyin: Méi chī yào, bìng jiù hǎole, tā jiǎnzhí bù gǎn xiāngxìn.
   en: Without taking medicine, she got better, she simply could not believe it.
   es: No podía creer que se hubiera curado sin medicación.
-- id: 4ece918a48a5460c82e0ebc3465d4624
+- id: e580efef-5f39-498b-a083-a84627e2063e
   zh-hans: 一天，林娜见到宋华，
   pinyin: Yītiān, Lín Nà jiàn dào Sòng Huá,
   en: One day, Lin Na met Song Hua, and
   es: Un día, Linna vio a Song Hua.
-- id: 37de67fc380a4dc697abd16096d72396
+- id: abe07f4a-a981-4ff4-a486-7a05d1d24a65
   zh-hans: 就把看中医的事儿对他说了，
   pinyin: jiù bǎ kàn zhòng yī de shìr duì tā shuōle,
   en: 'told him about seeing the Chinese Medicine doctor:'
   es: Le contó su visita al médico chino.
 - id: 22636cde-839a-4ffc-a5a9-33995706bb6a
   zh-hans: 她说：
-- id: c188d387257145d78965c84dd83e00d3
+- id: 1f142ced-8bba-4343-bfa4-cd51f1f7fa35
   zh-hans: “我觉得很奇怪，
   pinyin: “Wǒ juéde hěn qíguài,
   en: “I felt it was very strange,
   es: '"Creo que es extraño que'
-- id: 1aab242fe1774f6988553e6275e91fe5
+- id: e9c8fb37-7289-4de8-a49c-402562d671b4
   zh-hans: 那位老中医没让我吃中药，
   pinyin: nà wèi lǎo zhōngyī méi ràng wǒ chī zhōngyào,
   en: the Chinese Medicine doctor did not make me take any Chinese medicine,
   es: El viejo médico chino no me dejó tomar la medicina china.
-- id: 9b2f5b81d1a94584a6f8fb7596f1dd38
+- id: 1bee68d3-9430-4972-a90a-b5e93b494219
   zh-hans: 只要我吃山楂，还要我多运动。”
   pinyin: zhǐyào wǒ chī shānchá, hái yào wǒ duō yùndòng.”
   en: only asked me to eat hawthorn, and also do more exercise.”
   es: 'Sólo quería que comiera espino y hiciera más ejercicio".'
 - id: 5a840049-e68a-47f4-8e19-4ffd1c31fa31
   zh-hans: 宋华听了，笑着对林娜说：
-- id: 5b486b34f9f64eeb84e6f8355a3b7461
+- id: c7d59482-f1f3-45c0-a0db-11e53eda25ff
   zh-hans: “山楂就是药。
   pinyin: “Shānchá jiùshì yào.
   en: “Hawthorn is a medicine.
   es: '"El espino blanco es medicina.'
-- id: b89c3dbd1c2542fc9220f89bef30b263
+- id: cf6e31cd-0f9d-4f19-9c70-a29d86aaf02b
   zh-hans: 因为你的病是消化不好，
   pinyin: Yīnwèi nǐ de bìng shì xiāohuà bù hǎo,
   en: Because your illness was poor digestion,
   es: Porque tu enfermedad es una mala digestión.
-- id: 713491c69d6448c5bf4105b653cb883f
+- id: d337c6d6-ffb8-4030-a939-bf12cb682c3c
   zh-hans: 山楂正好是治这种病的药。
   pinyin: shānchá zhènghǎo shì zhì zhè zhǒng bìng di yào.
   en: hawthorn was just the medicine to cure this type of illness.
   es: El espino es la medicina adecuada para curar esta enfermedad.
-- id: e8c7a4162ae6483ab0f6abda9640a77e
+- id: bf1958a4-5a86-4316-8f11-1cae20d760b4
   zh-hans: 是山楂把你的胃病治好了。”
   pinyin: Shì shānchá bǎ nǐ de wèibìng zhì hǎole.”
   en: It’s hawthorn that cured your stomach problems.”
   es: 'El espino curó tu problema de estómago".'
 - id: 33acd0a5-3ca6-4ab0-bde4-bb7717f895f9
   zh-hans: 林娜又问他：
-- id: ae0474d3b3f44908afd80d4223248f2b
+- id: 1323b4e7-c571-4757-b9c8-c47670394dc3
   zh-hans: “山楂怎么会是药呢？”
   pinyin: “Shānchá zěnme huì shì yào ne?”
   en: “How is Hawthorn a medcine?”
   es: "¿Cómo puede el espino ser medicina?"
 - id: 63929ed3-d897-4bf5-a753-c6f7c8b638d6
   zh-hans: 宋华对她说：
-- id: 7c9e83765a45487aaebabcb48f9c5cd4
+- id: 3b99300d-4349-41d4-a9e9-e26495aade36
   zh-hans: “中医用的药叫“中药”。
   pinyin: “Zhōngyī yòng de yào jiào “zhōngyào”.
   en: “The medicine that Chinese Medicine uses is called “Chinese medicine”.
   es: '"Los medicamentos utilizados en la medicina china se denominan "hierbas medicinales".'
-- id: e631b9c7e1db4491b8a11a625df479dd
+- id: 89f807b2-d502-4672-afc0-c8f057ad64ed
   zh-hans: 很多中药取自植物、动物和矿物，
   pinyin: Hěnduō zhōngyào qǔ zì zhíwù, dòngwù hé kuàngwù,
   en: Lots of Chinese medicine is taken from plants, animals and minerals,
   es: Muchos medicamentos chinos proceden de plantas, animales y minerales.
-- id: 91b17a6c6bd14311b4de4a23e339af20
+- id: 2d14e76f-0257-469a-87f3-534c1ab771c5
   zh-hans: 中医利用这些大自然的药来治病。
   pinyin: zhōngyī lìyòng zhèxiē dà zìrán de yào lái zhì bìng.
   en: Chinese Medicine makes use of these great natural medicines to treat illness.
   es: Los practicantes de la MTC utilizan estas medicinas naturales para curar enfermedades.
-- id: 765df1d56bcf418eb5fa64383d237fe4
+- id: b5d0a8bc-7c5d-4989-b084-9f54958a9fa1
   zh-hans: 人们平常吃的东西，有些其实就是中药。”
   pinyin: Rénmen píngcháng chī de dōngxi, yǒuxiē qíshí jiùshì zhōngyào.”
   en: Of the things that people usually eat, some are actually Chinese medicine.”
   es: Algunas de las cosas que la gente suele comer son en realidad medicinas chinas."
-- id: f1d6c84cf4ab444a93069a090a62145a
+- id: e4e4333a-cb65-491d-9a55-1e6707c6c470
   zh-hans: 林娜听了，更觉得奇怪。
   pinyin: Lín Nà tīngle, gèng juéde qíguài.
   en: Lin Na listened, and felt even more strange.
   es: Linna oyó esto y se sintió aún más extraña.
-- id: 1813f4a9a69844b58631b7f6c0eaf966
+- id: 76e156b1-4c2e-408b-ba20-6ddcc7664fa0
   zh-hans: “中医中药治病，就这么简单？”
   pinyin: “Zhōngyī zhōngyào zhì bìng, jiù zhème jiǎndān?”
   en: “Chinese Medicine cures illness, is it that simple?”
   es: '"¿Tan sencillo es que la medicina china cure enfermedades?".'
-- id: b932c8b818df459f850de74042957942
+- id: 9678ddd6-3bbc-4eb4-9ce8-8f6bd483f429
   zh-hans: 宋华告诉她，
   pinyin: Sòng Huá gàosu tā,
   en: Song Hua told her,
   es: Song Hua le dijo que
-- id: afe817b9c61d488699fcbc7005f0acfa
+- id: 034c5912-a607-488d-9f94-44cfa0315c27
   zh-hans: 中医中药已经有几千年的历史。
   pinyin: zhōngyī zhōngyào yǐjīng yǒu jǐ qiān nián de lìshǐ.
   en: Chinese Medicine already has a few thousand years of history.
   es: La medicina china tiene una historia de miles de años.
-- id: da8f7c24cf1b441a97b02d2eb7d1861b
+- id: eeb8a0c7-8ceb-4b2f-8ac1-55ee29edffd1
   zh-hans: 人们在长期的劳动和生活中，
   pinyin: Rénmen zài chángqí de láodòng hé shēnghuó zhōng,
   en: People through their long-term physical activities and life,
   es: En su largo trabajo y vida, la gente
-- id: 5ec4ac965b494aaea1f855c144781858
+- id: 8944fd29-c6f0-4361-888b-adabba9a8e15
   zh-hans: 发现很多植物、动物和矿物能治病。
   pinyin: fāxiàn hěnduō zhíwù, dòngwù hé kuàngwù néng zhì bìng.
   en: discovered many plants, animals and minerals that can cure illness.
   es: descubrió que muchas plantas, animales y minerales podían curar enfermedades.
-- id: b0132da706a74d85834a7480ec79a8d5
+- id: fbd929a5-816c-452f-b00e-547ec0785736
   zh-hans: 一些药方都来自民间，
   pinyin: Yīxiē yàofāng dōu láizì mínjiān,
   en: Some perscriptions came from the folk people, and
   es: Algunos de los remedios proceden del folclore.
-- id: 336d3e05ac5640e383de1c08ef7113ac
+- id: 863ca2c1-cfa2-49b3-89c8-48d9bb8427f5
   zh-hans: 经过一代一代有名的医生不断地研究，
   pinyin: jīngguò yīdài yīdài yǒumíng de yīshēng bùduàn de yánjiū,
   en: through generations and generations of continuous study by Chinese Medicine doctors,
   es: Después, generaciones de médicos famosos los han investigado y estudiado.
-- id: deac9c686bea4b199ed5046789143158
+- id: 481c179f-a995-4308-81a7-1b1158fb2724
   zh-hans: 就成为很好的治病方法。
   pinyin: jiù chéngwéi hěn hǎo de zhì bìng fāngfǎ.
   en: they became a good method of treating illness.
   es: Se han convertido en buenos remedios para las enfermedades.
-- id: 3fe9bf5cdc6e4b71beecdff8dcf73632
+- id: 665d950b-528e-4fde-a574-20476456a7fc
   zh-hans: 中医有自己独特的理论，
   pinyin: Zhōngyī yǒu zìjǐ dútè de lǐlùn,
   en: Chinese Medicine has its own unique theory,
   es: La medicina china tiene sus propias teorías.
-- id: 3ebe8a164ab74c68abef4972b98e0011
+- id: c7fd0623-27e4-4bd8-be10-fa6096ed8401
   zh-hans: 这方面的古书很多，
   pinyin: zhè fāngmiàn de gǔshū hěnduō,
   en: many ancient books, and
   es: Hay muchos libros antiguos sobre el tema.
-- id: 762bc25979d44ad38b55615a69611cd5
+- id: 88a7b858-e2a2-4e43-9440-48be781fc9dc
   zh-hans: 现在留下来的就有一万三千多种；
   pinyin: xiànzài liú xiàlái de jiù yǒu yī wàn sānqiān duō zhǒng;
   en: now there is more than 13,000 types;
   es: En la actualidad existen más de 13.000;
-- id: 7a3a10f3f7c94fa3aa1988b3b35b3c59
+- id: 7292fd7d-2109-4b71-bac3-05ed7cc9f986
   zh-hans: 中医也有独特的治病方法，
   pinyin: zhōngyī yěyǒu dútè de zhì bìng fāngfǎ, xiàng zhōngyào,
   en: Chinese medicine also has a unique way of treating
   es: La medicina china también tiene sus propios métodos de tratamiento.
-- id: 3b0aba649c6e4daeb9789827849b45bf
+- id: 4c5909e6-7639-457e-9821-014975ba9cb9
   zh-hans: 像中药、针灸、按摩、气功等。
   pinyin: zhēnjiǔ, ànmó, qìgōng děng.
   en: illness, such as Chinese medicine, acupuncture, massage, breathing techiques and so on.
   es: Medicina china, acupuntura, masajes, qigong, etc.
-- id: 26adb66de1f34fbeb6a2eb3283864c39
+- id: 6465d4b3-b382-408a-b081-afa80fcedf31
   zh-hans: 有些病西医治不好，
   pinyin: Yǒuxiē bìng xīyī zhì bù hǎo,
   en: For some illnesses Western Medicine treatments are not good,
   es: Algunas enfermedades no pueden curarse con la medicina occidental.
-- id: 2890393d6fc9452fa94ad647931d11dd
+- id: 90c1e624-c149-4492-8388-372c54f94d3a
   zh-hans: 但用这些中医的方法却能治好。
   pinyin: dàn yòng zhèxiē zhōngyī de fāngfǎ què néng zhì hǎo.
   en: but using these Chinese Medicine methods can however treat them.
   es: Algunas enfermedades no pueden curarse con la medicina occidental, pero sí con estos métodos de la medicina china.
-- id: 79cf86e39ee44152b18128866ae933cd
+- id: 36bc2a0c-29c3-48d0-a688-c60de86811f2
   zh-hans: 中医中药是中华文化的一个宝库，
   pinyin: Zhōngyī zhōngyào shì zhōnghuá wénhuà de yīgè bǎokù,
   en: Chinese Medicine is treasure of Chinese culture,
   es: La medicina china es un tesoro de la cultura china.
-- id: 5e948363f40c4ec786e5a34369ef8c76
+- id: dbe7ccc0-36fc-4902-8236-c94fbf947bac
   zh-hans: 现在越来越多的西方人对中医中药感兴趣了。
   pinyin: xiànzài yuè lái yuè duō de xīfāng rén duì zhōngyī zhōngyào gǎn xìngqùle.
   en: and now more and more Western people are interested in China’s Chinese Medicine.

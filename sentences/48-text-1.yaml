@@ -9,382 +9,382 @@ metadata:
   add-groups-en: {finished: false, issue_id: 427}
   add-groups-es: {finished: false, issue_id: 428}
 sentences:
-- id: 36ed89bbbaa545ce955971939cbefc9d
+- id: b1aca105-ae90-45a4-b2fd-e712fcfac781
   zh-hans: 大为，你的信。
   pinyin: Dàwéi, nǐ de xìn.
   en: Dawei, your letter.
   es: Dawei, tu carta.
-- id: 3ae325fe27664a68ab76f83ffe525aab
+- id: 19efebc9-80d6-4b71-b28f-166f06470ef7
   zh-hans: 哦，
   pinyin: Ó,
   en: Oh,
   es: Ah.
-- id: 2067cb1bb4a64c1ea71e5f3b19fb07b0
+- id: 2e2174c6-4ea9-4e3f-b4e2-3ad10453a628
   zh-hans: 是我姐姐寄来的。
   pinyin: shì wǒ jiejie jì lái de.
   en: it’s my sister who sent it.
   es: Es de mi hermana.
-- id: 76249569922b4984ae77ae18258ecf79
+- id: f3e4510d-4b27-49b2-9961-f0e40834d638
   zh-hans: 宋华，你是不是独生子女？
   pinyin: Sòng Huá, nǐ shì bùshì dúshēngzǐnǚ?
   en: Song Hua, are you an only child?
   es: Song Hua, ¿eres hija única?
-- id: dbf862b85b444fadbcbd07f67c7d8c2e
+- id: 004b21c2-db07-4df3-b017-11fc216ac129
   zh-hans: 是啊，我是独生子女。
   pinyin: Shì a, wǒ shì dúshēngzǐ nǚ.
   en: Yes, I am an only child.
   es: Sí, soy hija única.
-- id: 3e8dcd7ae5204bd0a8d7857a23366231
+- id: 48348c75-db59-4922-a8b0-f8c3489f5646
   zh-hans: 我发现你们好像个个都是独生子女。
   pinyin: Wǒ fāxiàn nǐmen hǎoxiàng gè gè dōu shì dúshēngzǐ nǚ.
   en: I have discovered that it seems you all are only children.
   es: Veo que todos son hijos únicos.
-- id: 2acaec31312e45eaa1202ae711602ef5
+- id: d3f241af-242c-4c09-bef1-953280e05b28
   zh-hans: 没错。
   pinyin: Méi cuò.
   en: That’s right.
   es: Así es.
-- id: 0e19335bc7dd4a6f9c8139f3d9bd2424
+- id: 5429378f-62d4-4fc5-aa3b-acdfc4a19253
   zh-hans: 我们国家实行计划生育，
   pinyin: Wǒmen guójiā shíxíng jìhuà shēngyù,
   en: Our country has implemented family planning,
   es: Nuestro país practica la planificación familiar.
-- id: e6375e24193046218d2d74807179e0e9
+- id: 8b487b98-cebb-4a6f-984c-34061f0a1954
   zh-hans: 鼓励一对夫妇只生一个孩子，
   pinyin: gǔlì yī duì fūfù zhǐ shēng yīgè háizi,
   en: to encourage couples to only have one child,
   es: Animamos a las parejas a tener un solo hijo.
-- id: d03447d98ca843009980f860d2d38e05
+- id: d40f7d0f-e407-4ec3-825c-fa83da2976b0
   zh-hans: 所以，像我这么大的人，
   pinyin: suǒyǐ, xiàng wǒ zhème dà de rén,
   en: therefore, for people who are as old as me,
   es: Así que, la gente de mi edad.
-- id: 4d523980a7454499acba5a25742847a6
+- id: ca9b0672-6c91-4d61-bd70-6e2cf59a44ae
   zh-hans: 基本上都是独生子女。
   pinyin: jīběn shàng dū shì dúshēngzǐ nǚ.
   en: pretty much all of us are only children.
   es: son básicamente hijos únicos.
-- id: 210f703961604ac09b56e571086c21a0
+- id: fb425a7b-63ac-41ae-b690-c1fd7f1b922a
   zh-hans: 听说中国实现计划生育
   pinyin: Tīng shuō Zhōngguó shíxiàn jìhuà shēngyù
   en: I heard that China family planning
   es: He oído que la planificación familiar de China
-- id: 6dff503eaddb4936817717580b6edc3d
+- id: 71a2e775-4c74-4264-bd17-82ff8a1a9468
   zh-hans: 是从上个世纪七十年代开始的。
   pinyin: shì cóng shàng gè shìjì qīshí niándài kāishǐ de.
   en: started in the seventies.
   es: Desde la década de 1970.
-- id: b909f7eb67ab48ff93e347c400c2ce4d
+- id: 33f2c999-b043-4f20-96a6-cc1c9c48f927
   zh-hans: 对啊！
   pinyin: Duì a!
   en: That’s right!
   es: Así es.
-- id: 00286b853d514fb682973e53d152b5f0
+- id: 70e57ffc-360d-46d8-8fdd-5ee3a33f8a9b
   zh-hans: 你知道为什么要实行计划生育吗？
   pinyin: Nǐ zhīdào wèishéme yào shíxíng jìhuà shēngyù ma?
   en: Do you know why family planning was implemented?
   es: ¿Sabes por qué se introdujo la planificación familiar?
-- id: 6ec001c994764b929045c14b9dd20d2f
+- id: f39dcf8d-e1dc-4a9c-8a3b-f0ea00ca1586
   zh-hans: 五十年代、六十年代，
   pinyin: Wǔshí niándài, liùshí niándài,
   en: In the 1950s and 1960s,
   es: En los años cincuenta y sesenta.
-- id: a1d5f0376004482596d8e85361498f00
+- id: 381908b4-4dbe-4e07-9fde-a9b328608067
   zh-hans: 中国的人口增长得太快。
   pinyin: Zhōngguó de rénkǒu zēngzhǎng de tài kuài.
   en: China’s population grew too quickly.
   es: La población de China crecía demasiado rápido.
-- id: 4691d721b9b6417b87380b1202fa0cf7
+- id: 77038502-b2ad-40be-b442-f6204facd633
   zh-hans: 一九四九年全中国的人口是五点四亿，
   pinyin: Yījiǔsìjiǔ nián quán Zhōngguó de rénkǒu shì wǔ diǎn sì yì,
   en: In 1949 the entire population of China was 54 million,
   es: En 1949, la población de China era de 5.400 millones.
-- id: 6ee0f626d5be490285876314146e1a4c
+- id: 3b49c27e-296c-4f6c-98f9-4bed14214262
   zh-hans: 到一九六九年就达到八亿多了。
   pinyin: dào yījiǔliùjiǔ nián jiù dádào bā yì duōle.
   en: and by 1969 the population had reached more than 800 million.
   es: En 1969, llegó a más de 800 millones.
-- id: 0ff0960987914a93af68dc9687ebecf5
+- id: 12b837de-beff-4c5f-84c5-a40303fef674
   zh-hans: 中国的人口实在太多了！
   pinyin: Zhōngguó de rénkǒu shízài tài duōle!
   en: China’s population really is too many!
   es: La población de China era simplemente demasiado grande.
-- id: 9fd77d1389a746c88166925567121eea
+- id: cc801e3d-76b5-484d-a2a9-cdaf73630aff
   zh-hans: 尽管经济在不断地发展，
   pinyin: Jǐnguǎn jīngjì zài bùduàn de fāzhǎn,
   en: Although the economy has not stopped developing,
   es: Aunque la economía está creciendo.
-- id: 0cdccd54458942d1952aa3374a94adb8
+- id: ace15589-2b85-4fef-8259-d540d4d0b29f
   zh-hans: 还是不能很快地提高人民的生活水平。
   pinyin: háishì bùnéng hěn kuài dì tígāo rénmín de shēnghuó shuǐpíng.
   en: it still cannot quickly improve people’s living standards.
   es: El nivel de vida de China no ha mejorado lo suficientemente rápido.
-- id: 7258fa70838e40c1b4df76d207bfdcd3
+- id: 9c941b79-b31a-4c6b-b040-2a154f9fcfba
   zh-hans: 从七十年代以来，
   pinyin: Cóng qīshí niándài yǐlái,
   en: Since the seventies,
   es: Desde los años setenta
-- id: d048a4a17650455d8cda143cdf5e3fc0
+- id: 826f2041-6210-49dd-b64e-a112f4e937de
   zh-hans: 计划生育成了中国的基本政策。
   pinyin: jìhuà shēngyùchéngle Zhōngguó de jīběn zhèngcè.
   en: family planning has become China’s fundamental policy.
   es: la planificación familiar ha sido la política básica de China.
-- id: 5e4aa98969ae41258d6aac0a039d3507
+- id: 8303a0c0-4b33-497b-b630-b43c289dcb6c
   zh-hans: 最近三十年，
   pinyin: Zuìjìn sānshí nián,
   en: In the last three decades,
   es: En los últimos treinta años
-- id: 1c7046574e484ba7bff17c1149d03ea8
+- id: 5ef95f16-50dd-4a1e-887b-89c95f6ead46
   zh-hans: 中国成功地控制了人口的增长，
   pinyin: Zhōngguó chénggōng de kòngzhìle rénkǒu de zēngzhǎng,
   en: China has succeeded in controlling population growth,
   es: China ha logrado controlar su crecimiento demográfico.
-- id: fac918bb25744afca98c4db3fe75c9f7
+- id: 5991d21f-1868-4337-ab8b-c72e7c530044
   zh-hans: 现在中国人口的增长率
   pinyin: xiànzài Zhōngguó rénkǒu de zēngzhǎng lǜ
   en: and now China’s population growth rate is
   es: La tasa de crecimiento demográfico de China
-- id: cdef3f4d85794116aee8dae9989c0e35
+- id: d43d6077-9dc0-4223-b87f-b779ea491ab0
   zh-hans: 已经低于世界人口的平均增长率。
   pinyin: yǐjīng dī yú shìjiè rénkǒu de píngjūn zēngzhǎng lǜ.
   en: already lower than the average growth rate of the world’s population.
   es: es ahora inferior a la tasa media mundial de crecimiento demográfico.
-- id: 37ff50044a3243debd8730a70e55dace
+- id: e3d78400-7cb5-48dd-964a-a3447c16db58
   zh-hans: 这可是很大的成绩啊。
   pinyin: Zhè kěshì hěn dà de chéngjī a.
   en: This is a big achievement.
   es: Es un gran logro.
-- id: eb99c12f8ed34cf6b7450759a9135755
+- id: 918f66bd-836e-49a2-b0d2-5a6fa03a6071
   zh-hans: 如果中国不控制人口的增长，
   pinyin: Rúguǒ Zhōngguó bù kòngzhì rénkǒu de zēngzhǎng,
   en: If China does not control population growth,
   es: Si China no controla su crecimiento demográfico.
-- id: 59e9c2d053944da68b7246536fc8b0bc
+- id: 9b2e6a61-5940-4e6f-9191-723b88a25263
   zh-hans: 每年经济要保持百分之七八的增长速度，
   pinyin: měinián jīngjì yào bǎochí bǎi fēn zhī qībā de zēngzhǎng sùdù,
   en: sustaining economic growth of 7-8 percent per year,
   es: Para mantener una tasa de crecimiento económico anual de siete u ocho por ciento.
-- id: ee9715c108e1432296a759f810827e80
+- id: 35c2d765-656e-4606-b20e-49284aaeded2
   zh-hans: 那是不可能做到的。
   pinyin: nà shì bù kěnéng zuò dào de.
   en: would be impossible.
   es: Sería imposible hacerlo.
-- id: fe073ff0f9ef4cd9a42c55d09f053b92
+- id: 9b908ef6-d958-4e1a-a4dd-d6218ceca3ff
   zh-hans: 人口增长速度太快，
   pinyin: Rénkǒu zēngzhǎng sùdù tài kuài,
   en: Too fast population growth,
   es: Si la población crece demasiado rápido.
-- id: af0bd3b931d14b8aa17b27be962fd265
+- id: c262d8c4-d063-4414-a08c-8bfb8c75976e
   zh-hans: 其实也会影响到家庭生活水平的提高，对不对？
   pinyin: qíshí yě huì yǐngxiǎng dào jiātíng shēnghuó shuǐpíng de tígāo, duì bùduì?
   en: in fact will also affect the improvement of family living standards, right?
   es: Afectará el nivel de vida de las familias, ¿verdad?
-- id: 098fc62f11b44228b989057ddcee881c
+- id: 8bb46abb-eddc-471d-a804-fd47831543f7
   zh-hans: 那还用说。
   pinyin: Nà hái yòng shuō.
   en: Of course.
   es: Ni que decir tiene.
-- id: 73729dac56004fd88161facf3a8711a3
+- id: c435f29e-aaff-41f0-a108-a425a74264d1
   zh-hans: 穿衣、吃饭、住房、
   pinyin: Chuān yī, chīfàn, zhùfáng,
   en: Clothing, food, housing,
   es: Ropa, comida, vivienda,
-- id: 20786b452be844f68d3facc85914b4e1
+- id: a8d0f096-51eb-4fca-b1a5-52a3ec1a4c06
   zh-hans: 交通、看病、教育等等，
   pinyin: jiāotōng, kànbìng, jiàoyù děng děng,
   en: transportation, medical treatment, education etc.
   es: transporte, atención médica, educación, etc.
-- id: 0b895d50df444e449dfd8a823c4500c0
+- id: 00cd4bde-d438-4eeb-8a52-93a6ee95aef4
   zh-hans: 哪件事跟家庭的经济情况没有关系？
   pinyin: nǎ jiàn shì gēn jiātíng de jīngjì qíngkuàng méiyǒu guānxì?
   en: Which of these is not related to a family’s economic situation?
   es: ¿Cuál de ellos no tiene nada que ver con la situación económica de una familia?
-- id: 500100ea1d54451d8e4eeba1c0011942
+- id: 3e6a1a7e-a30e-4858-89b2-5c4c29cb1dc7
   zh-hans: 中国是发展中国家，
   pinyin: Zhōngguó shì fāzhǎn zhōngguójiā,
   en: China is a developing country,
   es: China es un país en desarrollo.
-- id: 728187e376784a6f8ebb287c3e06b7b7
+- id: 477437be-ba1a-4811-8f02-6d979c25ed56
   zh-hans: 大部分家庭还不很富裕，
   pinyin: dà bùfèn jiātíng hái bù hěn fùyù,
   en: and most families are not very wealthy,
   es: La mayoría de las familias no son muy ricas.
-- id: bdbda0566b8f48278bbc3efd9cd067bf
+- id: 87b77105-4b9c-4c00-b3b9-8973d96bf140
   zh-hans: 家庭人口越多，经济负担就越重。
   pinyin: jiātíng rénkǒu yuè duō, jīngjì fùdān jiù yuè zhòng.
   en: so the more families, the greater the economic burden.
   es: Cuanto mayor es el tamaño de la familia, más pesada es la carga financiera.
-- id: a01567f858e6454bb1e4b6e295f40f50
+- id: 12c24a24-a35e-4345-9646-dc962d3a6196
   zh-hans: 所以，计划生育也是关系到
   pinyin: Suǒyǐ, jìhuà shēngyù yěshì guānxì dào
   en: Therefore, family planning is also related to
   es: Por lo tanto, la planificación familiar también
-- id: f65a74a73102466f8b8a020913df8d3c
+- id: 35e2b578-09ec-4344-b650-3d19b7411259
   zh-hans: 每个家庭生活水平提高的大问题。
   pinyin: měi gè jiātíng shēnghuó shuǐpíng tígāo de dà wèntí.
   en: the problem of improving each families’ living standards.
   es: El nivel de vida de cada familia.
-- id: 0e015293fe7d4be89906975550506aea
+- id: e8baab11-42b0-4f96-953c-44cf4103f20f
   zh-hans: 中国这么大，农村人口又特别多，
   pinyin: Zhōngguó zhème dà, nóngcūn rénkǒu yòu tèbié duō,
   en: China is so big, and the rural population is particularly large,
   es: China es un país tan grande, y la población rural es particularmente numerosa.
-- id: 0afaca6ddb2c4a5abf7916f6da15475a
+- id: 56beadb4-950c-4252-a8f6-071478fd210e
   zh-hans: 一直坚持实行这个政策真不容易。
   pinyin: yīzhí jiānchí shíxíng zhège zhèngcè zhēn bù róngyì.
   en: so implementing this policy really is not easy.
   es: No es fácil atenerse a esta política.
-- id: 11acfd9e2b9e4ee6828f077743d10f5c
+- id: aa109a30-1314-4cbc-859f-bde4374712e9
   zh-hans: 可不。
   pinyin: Kěbù.
   en: That’s right.
   es: No lo es.
-- id: 322cf9c34fe74b739578ddf942430380
+- id: 09b4bae4-9f03-4323-a56c-dd585e596822
   zh-hans: 控制人口增长是一个很复杂的问题。
   pinyin: Kòngzhì rénkǒu zēngzhǎng shì yīgè hěn fùzá de wèntí.
   en: Controlling population growth is a complex issue.
   es: Controlar el crecimiento de la población es una cuestión muy compleja.
-- id: 98f8786a59164cc1aa774435b3d90770
+- id: 6b81c7d0-7942-4ce4-977b-f900b6fd3620
   zh-hans: 计划生育在城市做得比较好，
   pinyin: Jìhuà shēngyù zài chéngshì zuò de bǐjiào hǎo,
   en: Family planning in the cities has been relatively better,
   es: La planificación familiar es mejor en las ciudades.
-- id: f81f82614edc4975a81f511ec6e147e4
+- id: 80670288-9c44-460f-b65d-aa69bf108595
   zh-hans: 农村还有不少问题。
   pinyin: nóngcūn hái yǒu bù shǎo wèntí.
   en: but the countryside still has many problems.
   es: En el campo sigue habiendo problemas.
-- id: 46d7af7d788b4b26b9601296c56476ba
+- id: b2b01f2a-99c4-45e8-96e4-b7c7fd8f996e
   zh-hans: 传统的“重男轻女”的生育观念影响还很深。
   pinyin: Chuántǒng de “zhòngnán qīng nǚ” de shēngyù guānniàn yǐngxiǎng hái hěn shēn.
   en: The traditional sense of “valuing males and belittling females” still runs deep.
   es: El concepto tradicional de "favorecer a los hijos en detrimento de las hijas" sigue estando muy presente.
-- id: d1698ccfc0fd4a08a0682c687f1e7bf1
+- id: ca7f0a0a-42bc-42ed-829f-aa3d24528d4f
   zh-hans: 特别是一些比较穷的地方，
   pinyin: Tèbié shì yīxiē bǐjiào qióng dì dìfāng,
   en: Especially in some of the poorer places,
   es: Sobre todo en las zonas más pobres.
-- id: faf4dc0e595046239c8e6cb75542d631
+- id: f30d0961-19aa-4bdf-9731-4d2402322cc0
   zh-hans: 有的夫妇尽管已经有了两个女孩了，
   pinyin: yǒu de fūfù jǐnguǎn yǐjīng yǒule liǎng gè nǚháile,
   en: although some couples already have two girls,
   es: Algunas parejas, aunque ya tengan dos niñas, siguen queriendo tener otro niño.
-- id: faf0b051df844097af2f16615e99f5f3
+- id: f549043e-eb97-4add-921d-1acb3eaf6b72
   zh-hans: 他们还是希望再生一个男孩。
   pinyin: tāmen háishì xīwàng zàishēng yīgè nánhái.
   en: they still wish to have a boy.
   es: Siguen queriendo tener otro varón.
-- id: f008d0dfd200466abd13f5f83d1db72b
+- id: ac7a51bf-a602-4066-8dca-45f1a6a89d20
   zh-hans: 如果第三个又是女孩，
   pinyin: Rúguǒ dì sān gè yòu shì nǚhái,
   en: If the third child is also a girl,
   es: Si el tercero es una niña.
-- id: 1ecee4357863476499937b03bb2cd5a5
+- id: c45e3f94-12c0-4c6e-bbb4-bafb3fc55964
   zh-hans: 他们也许还要生第四个。
   pinyin: tāmen yěxǔ hái yào shēng dì sì gè.
   en: they may perhaps also have a fourth.
   es: Puede que quieran tener un cuarto.
-- id: 4ca3829582854ceaad7f226821163d14
+- id: 9ce55561-02fc-4e41-8bd6-9592fae231b9
   zh-hans: 这样生下去，
   pinyin: Zhèyàng shēng xiàqù,
   en: Giving birth like this,
   es: Si siguen teniendo hijos así.
-- id: bb91045a95e7414bb4780f6121eb0761
+- id: aac993cb-d750-4c4e-9607-86e017142347
   zh-hans: 当然会影响到农村的经济发展和
   pinyin: dāngrán huì yǐngxiǎng dào nóngcūn de jīngjì fāzhǎn hé
   en: of course will influence rural economic development and
   es: afectará por supuesto al desarrollo económico del campo y
-- id: 62ef29ee4e05489ebd27bb58cd29b475
+- id: 92d1143c-5e20-4c19-9155-ed4f782470dd
   zh-hans: 农民的生活水平的提高。
   pinyin: nóngmín de shēnghuó shuǐpíng de tígāo.
   en: raising rural living standards.
   es: el nivel de vida de los campesinos.
-- id: f9f0dd4a47c6451f86f2b3b28009d9c9
+- id: 603df3ed-d647-4c85-a2b0-71a7f7b39867
   zh-hans: 有不少外国人
   pinyin: Yǒu bù shǎo wàiguó rén duì nǐmen guójiā de
   en: There are many foreigners who
   es: Muchos extranjeros
-- id: 1d460d4d844d4e3d88c2dbf0b715e4f9
+- id: 8fe320de-c6a1-41a7-a38a-720e96b754b4
   zh-hans: 对你们国家的计划生育政策是有看法的，
   pinyin: jìhuà shēngyù zhèngcè shì yǒu kànfǎ de,
   en: take a view on your country’s family planning policy,
   es: tienen opiniones sobre la política de planificación familiar de su país.
-- id: 6ffefaddb93d462da5c1e55d922b952a
+- id: e8d47b72-9a99-4446-81d2-a4302a0213e3
   zh-hans: 他们不太理解这个政策。
   pinyin: tāmen bù tài lǐjiě zhège zhèngcè.
   en: but they do not really understand this policy.
   es: No acaban de entender esta política.
-- id: e59522642d364a25937b46d8af4c6f8b
+- id: 4135e0c5-0333-4b9e-8631-df0cb88e8b1f
   zh-hans: 其实只要客观地分析一下，就不难理解了。
   pinyin: Qíshí zhǐyào kèguān dì fēnxī yīxià, jiù bù nán lǐjiěle.
   en: In fact, as long as the analysis is objective, it is not difficult to understand.
   es: En realidad, si la analizamos objetivamente, no es difícil de entender.
-- id: ee0235f3a3094fadabf69d4657f518ef
+- id: 269aa58b-6fab-4aca-887f-60933cf6f9b7
   zh-hans: 就拿你们国家来说，
   pinyin: Jiù ná nǐmen guójiā lái shuō,
   en: Take your country for example,
   es: Pongamos como ejemplo su país.
-- id: 0be4214f1be346ff96a522f970437745
+- id: 0f068d82-37f7-49b1-8347-2645efbc32fa
   zh-hans: 它的面积比中国稍微小一点儿，
   pinyin: tā de miànjī bǐ Zhōngguó shāowéi xiǎo yīdiǎnr,
   en: it’s area is a little smaller than China’s,
   es: Es ligeramente más pequeño que China en superficie
-- id: aed68b11fccd469cb1c3cdf381e0b34a
+- id: e7f192b0-a65e-4a4a-8afb-f02233d24b92
   zh-hans: 可是人口却只有中国的五分之一。
   pinyin: kěshì rénkǒu què zhǐyǒu zhòng guó de wǔ fēn zhī yī.
   en: but it’s population is only one-fifth of China’s.
   es: Pero su población es sólo una quinta parte de la de China.
-- id: cc9588beab6f4f6a8b4ffec32cdb0c9c
+- id: 1ee09f32-b2ac-42e7-b243-aad44ff1a644
   zh-hans: 要是你们国家的人口跟中国一样多，
   pinyin: Yàoshi nǐmen guójiā de rénkǒu gēn Zhōngguó yīyàng duō,
   en: If your country’s population is as much as that of China,
   es: Si la población de su país fuera tan grande como la de China.
-- id: a9a6d32b464745ab8af9b4d5ad8237d0
+- id: 68cd89e6-22a2-4cf0-9508-757a3b5f1d75
   zh-hans: 恐怕你们也得实行计划生育。
   pinyin: kǒngpà nǐmen yě de shíxíng jìhuà shēngyù.
   en: then I am afraid you will also have to do family planning.
   es: Me temo que usted también tendría que practicar la planificación familiar.
-- id: dcf7af5d10294800b826e2d607285cc2
+- id: d408afa6-751b-406f-82d0-c2e8b6c3bb74
   zh-hans: 中国是世界人口最多的国家，
   pinyin: Zhōngguó shì shìjiè rénkǒu zuìduō de guójiā,
   en: China is the world’s most populous country,
   es: China es el país más poblado del mundo.
-- id: 039764efedcc40e3b0ecba5a82900390
+- id: bba7372b-83a9-4c27-9e6b-6a3dc12e27ed
   zh-hans: 全世界百分之二十二的人口在中国。
   pinyin: quán shìjiè bǎi fēn zhī èrshí’èr de rénkǒu zài Zhōngguó.
   en: with 22 percent of the world’s population in China.
   es: El 22% de la población mundial está en China.
-- id: e9c3e8eb27f646a387f3aaa51ab8b7d3
+- id: 06b45380-ddd3-4f64-8164-28ecbf319be3
   zh-hans: 如果中国不控制人口的增长，
   pinyin: Rúguǒ Zhōngguó bù kòngzhì rénkǒu de zēngzhǎng,
   en: If China does not control the growth of it’s population,
   es: Si China no controla su crecimiento demográfico.
-- id: a28dce48e78f426bae235c3af9d5ea0d
+- id: 127e61ce-39d0-444d-8ccb-e6b6ccec1dea
   zh-hans: 你算得出现在全世界会有多少人吗？
   pinyin: nǐ suàndé chūxiàn zài quán shìjiè huì yǒu duōshǎo rén ma?
   en: how many people do you think the world would have now?
   es: ¿Sabes cuánta gente habría ahora en el mundo?
-- id: 55d07d6a0bec4e8faafda0e4df45b955
+- id: 1a8fffc4-ec0b-47d1-bc89-26d8aea6ad58
   zh-hans: 中国的计划生育政策
   pinyin: Zhōngguó de jìhuà shēng yù zhèngcè
   en: China’s family planning policy
   es: La política de planificación familiar de China
-- id: c089cb1e25fa4319b8103a82573fbc0b
+- id: 34f2f807-5a9c-476a-aa63-8e71d3eb00de
   zh-hans: 不但关系到中国的发展，
   pinyin: bùdàn guānxì dào Zhōngguó de fǎ zhǎn,
   en: is not only related to China’s development,
   es: No sólo es importante para el desarrollo de China, sino también para el desarrollo del mundo.
-- id: 8a117b78ee32419388a4a5d775658036
+- id: e70447a3-e1e8-4161-a4a0-7eac3402440a
   zh-hans: 也关系到世界的发展。
   pinyin: yě guānxì dào shìjiè de fǎ zhǎn.
   en: but also related to the development of the world.
   es: También concierne al desarrollo del mundo.
-- id: 7fdc0154739d4490befbe54c573fe391
+- id: e4089ad3-4200-4cb3-a58e-0379ea0dce4c
   zh-hans: 人们应该好好地研究一下这个问题。
   pinyin: Rénmen yīnggāi hǎohǎo de yánjiū yīxià zhège wèntí.
   en: People should closely study this issue.
   es: La gente debería analizar bien esta cuestión.
-- id: b67335dc1c4b4d6a8ac71b1104dad2d8
+- id: f69ce92e-c28f-4886-a454-e8fba562c13a
   zh-hans: 嗯！
   pinyin: Ń!
   en: Yes!

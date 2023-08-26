@@ -9,82 +9,82 @@ metadata:
   add-groups-en: {finished: false, issue_id: 868}
   add-groups-es: {finished: false, issue_id: 869}
 sentences:
-- id: 987fed2414ce4b7f9d88c545e8aef8ad
+- id: 3b28dff0-58f6-447f-924c-38ceeb07b6a7
   zh-hans: (1:尊敬)的(2:总)(3:经理)(4:先生)：(5:您好)！
   pinyin: '(1:Zūnjìng) de (2:zǒng) (3:jīnglǐ) (4:xiānshēng): (5:Nín hǎo)!'
   en: '(1:Respectful) (4:Sr). (2:General) (3:Manager): (5:Hello)!'
   es: '(1:Respetado) (2:Director) (3:Gerente): ¡(5:Hola)!'
-- id: 70e31e9f73a5439185e4a06f3f916908
+- id: 34e3c3c0-f70f-4da8-ad52-8e52e5760228
   zh-hans: 从(1:网上)(2:了解到)贵(3:公司)(4:市场)(5:开发)(6:部)
   pinyin: Cóng (1:wǎngshàng) (2:liǎojiě) dào guì (3:gōngsī) (4:shìchǎng) (5:kāifā) (6:bù)
   en: From the (1:Internet) I (2:knew) that the (4:Business) (5:Development) (6:Department) of your (3:company)
   es: De (1:Internet), he (2:sabido) que el (5:desarrollo) de (4:mercado) de su (3:empresa)
-- id: 302d6eac2dcc4cc996b9e928e4fc15e5
+- id: 674dbb8a-e93f-4d8f-8c56-d702163dda37
   zh-hans: (1:正在)(2:招聘)(3:经理)。
   pinyin: (1:zhèngzài) (2:zhāopìn) (3:jīnglǐ).
   en: (1:is) currently (2:recruiting) a (3:manager).
   es: (1:está) (2:reclutando) a un (3:gerente).
-- id: a30038ada7454f23a49717c1eb3334ae
+- id: ea781cfc-de56-4c77-8451-ca0f334fa93f
   zh-hans: 贵(1:公司)是(2:中)(3:加)(4:合资:1)(5:企业)，
   pinyin: Guì (1:gōngsī) shì (2:Zhōng) (3:Jiā) (4:hézī) (5:qǐyè),
   en: Your (1:company) is a (2:Chinese)-(3:Canadian) (4:joint venture),
   es: Su (1:empresa) es un (4:capital mixto) (2:china)-(3:canadiense).
-- id: 4f1590aed7004faeb30a52aea8acb540
+- id: 94878388-98d2-4cb7-b56e-a6a8305924e9
   zh-hans: (1:现在)已(2:发展)(3:成为)
   pinyin: (1:xiànzài) yǐ (2:fāzhǎn) (3:chéngwéi)
   en: which has (1:now) (2:developed) and (3:turned into) a
   es: (1:ahora) se ha (2:desarrollado) y (3:convertido) en
-- id: 1c671c4d28fe49c1bd28462ed1b4b88d
+- id: 5647efe7-09da-4b11-a799-806a30c1a38a
   zh-hans: (1:中国)(2:大陆)(3:有名)的(4:高)(5:新)(6:技术)(7:企业)，
   pinyin: (1:Zhōngguó) (2:dàlù) (3:yǒumíng) de (4:gāo)(5:xīn) (6:jìshù) (7:qǐyè),
   en: (3:famous) (4:high) and (5:new) (6:technology) (7:enterprise) in (2:mainland) (1:China),
   es: una (3:famosa) (7:empresa) de (4:alta) y (5:nueva) (6:tecnología) en (1:China) (2:continental), y
-- id: 32dc7af6213c49c4a8785a34bef519a5
+- id: fc83cf73-7418-4b30-a153-fb6184a025f6
   zh-hans: 在(1:中国)不少(2:城市)都有(3:业务:2)。
   pinyin: zài (1:Zhōngguó) bù shǎo (2:chéngshì) dōu yǒu (3:yèwù).
   en: and does (3:business) across many (1:Chinese) (2:cities).
   es: (3:trabaja) en muchas (2:ciudades) de (1:China).
-- id: df6bfeaa49f94627a0826a4ba1532839
+- id: 18724441-d62d-4aec-9d05-6d3e4f394c37
   zh-hans: (1:本人:3)对贵(2:公司)的(3:业务:2)和
   pinyin: (1:běnrén) duì guì (2:gōngsī) de (3:yèwù) hé
   en: I am very interested in your (2:company)’s (3:business) and
   es: Me interesa el (3:trabajo) de su (2:empresa) y
-- id: 424a2cb1a3d84c9c9bcafead1d5181b1
+- id: 0f41c8d0-52f2-4762-abdd-0bc07f090e82
   zh-hans: (1:市场)(2:开发)(3:部)(4:经理)的(5:职务)很感兴趣，
   pinyin: (1:shìchǎng) (2:kāifā) (3:bù) (4:jīnglǐ) de (5:zhíwù) hěn gǎn xìngqù,
   en: in the (4:Manager) (5:position) for the (1:Business) (2:Development) (3:Department),
   es: en el (5:puesto) de (4:gerente) en el (3:departamento) de (2:Desarrollo) de (1:Mercado).
-- id: d453bab8d6c24a92bc7619dca102ba72
+- id: b91a987a-226d-4a21-a204-f2f37ca28dfe
   zh-hans: (1:现在)(2:写)这封(3:信)是向贵(4:公司)(4:正式)提出求职的(5:申请:4)。
   pinyin: (1:xiànzài) (2:xiě) zhè fēng (3:xìn) shì xiàng guì (4:gōngsī) (4:zhèngshì) tíchū qiúzhí de (5:shēnqǐng).
   en: so I am (1:now) (2:writing) this (3:letter) to the (4:company) to (4:formally) put forward my (5:application).
   es: (1:Ahora) (2:escribo) esta (3:carta) a la (4:empresa) para (4:formalmente) (5:solicitar) el empleo.
-- id: b2ebf8cc10254f6887cebc5e9c70833c
+- id: 4216351d-2428-47f9-b576-daa9dbf210c9
   zh-hans: 我叫(1:马)(2:大为)，
   pinyin: Wǒ jiào (1:Mǎ) (2:Dàwéi),
   en: My name is (1:Ma) (2:Dawei),
   es: Me llamo (1:Ma) (2:Dawei).
-- id: 0cc482b923264457a33f7e0bbd3b9089
+- id: 4f871ec6-3460-453c-a98c-18c8b8397b04
   zh-hans: 是(1:美国人)，
   pinyin: shì (1:Měiguó rén),
   en: I am a (1:United States resident),
   es: Soy (1:estadounidense).
-- id: 3108f2c73d6b4e55981b95af1df3ec09
+- id: 49079f09-5ade-47f8-92b7-96f3ddee4246
   zh-hans: 毕业于(1:ABC:18)(2:商:18)(3:学院:18)。
   pinyin: bìyè yú (1:ABC) (2:shāng) (3:xuéyuàn).
   en: and I graduated from (1:ABC) (2:business) (3:school).
   es: Me gradué de la (3:Facultad) de (2:Económicas y Empresariales) de (1:ABC).
-- id: ce2cd478d9e64e06b242667f1a24ce49
+- id: 29b8bd6b-0194-45ac-8290-b13170f3963a
   zh-hans: (1:毕业)(2:以后)，
   pinyin: (1:Bìyè) (2:yǐhòu),
   en: (2:After) (1:graduating),
   es: (2:Después) de (1:graduarme),
-- id: e31f26f96fe148108064516d048fe54a
+- id: f7fe52fa-0ffb-4016-9ec4-62108acf333b
   zh-hans: 我在(1:加拿大)一家(2:贸易)(3:公司)(4:工作)，
   pinyin: wǒ zài (1:Jiānádà) yījiā (2:màoyì) (3:gōngsī) (4:gōngzuò),
   en: I (4:worked) at a (1:Canadian) (2:trading) (3:company),
   es: (4:trabajé) en una (3:empresa) (2:comercial) (1:canadiense),
-- id: c0176c79701f4f25894c6af070f8d0ec
+- id: c33e458c-101c-4633-9e4d-0a5d19f275ab
   context: video
   zh-hans: (1:负责:5)(2:联系:6)(3:亚洲:19)，
   pinyin: (1:fùzé) (2:liánxì) (3:Yàzhōu),
@@ -96,17 +96,17 @@ sentences:
   pinyin: (1:fùzé) (2:liánxì) (3:Yàzhōu)——
   en: and was (1:responsible) for (2:contacting) (3:Asia)
   es: (1:era responsable) de (2:contactar) con (3:Asia)
-- id: 0d4fa189bb394e11bd5d8e6139f73470
+- id: ffa53034-88d8-405c-90c8-4dd76305fdbe
   zh-hans: (1:主要)是(2:中国)的(3:业务)。
   pinyin: (1:zhǔyào) shi (2:Zhōngguó) de (3:yèwù).
   en: (1:mainly) (3:business) in (2:China).
   es: (1:principalmente) el (3:trabajo) con (2:China).
-- id: 5ed9f69208594c3382c22cf42ac613ae
+- id: bccea4c7-9ac5-4b76-ba73-1ed5e981941c
   zh-hans: 在(1:工作)中，(2:无论)有多少(3:困难)，
   pinyin: Zài (1:gōngzuò) zhōng, (2:wúlùn) yǒu duōshǎo (3:kùnnán),
   en: In this (1:job), (2:no matter) the (3:difficulties),
   es: En mi (1:trabajo), (2:sin importar) las (3:dificultades)
-- id: 6af48ffe96b446778f84c176d3a1bc6e
+- id: 2e75f2ad-e47a-4829-bd98-db9da76a7ed6
   zh-hans: 我都(1:想)(2:办法)(3:解决)，
   pinyin: wǒ dōu (1:xiǎng) (2:bànfǎ) (3:jiějué),
   en: I always (1:thought) of (2:ways) to (3:solve) them, and
@@ -116,62 +116,62 @@ sentences:
   pinyin: (4:nǔlì) (5:kāifā) (6:shìchǎng).
   en: (4:worked hard) to (5:develop) the (6:market).
   es: me (4:esforzaba) en (5:desarrollar) el (6:mercado).
-- id: a495eed91fb344ee9f46190c97f23495
+- id: d51b35c0-790f-4e76-9035-c41348de8783
   zh-hans: 在很(1:短)的(2:时间)里，
   pinyin: Zài hěn (1:duǎn) de (2:shíjiān) lǐ,
   en: Within a (1:short) (2:time),
   es: En muy (1:poco) (2:tiempo),
-- id: b26e680f2d054a4e9e0d7736b43f70f8
+- id: 90955438-24a6-4851-ad18-4a8e49e55abf
   zh-hans: 我们(1:公司)对(2:中国)的(3:贸易)有了很(4:大)的(5:发展)。
   pinyin: wǒmen (1:gōngsī) duì (2:Zhōngguó) de (3:màoyì) yǒule hěn (4:dà) de (5:fǎzhǎn).
   en: our (1:company) had (5:developed) (4:a lot) of (3:trade) with (2:China).
   es: el (3:comercio) de nuestra (1:empresa) con (2:China) se ha (5:desarrollado) (4:mucho).
-- id: 5531c3800402406da2efa20eff7c4b38
+- id: 3e08289e-d962-453b-a2c1-2bf3615bef31
   zh-hans: 我的(1:负责:5)的(2:精神:7)和(3:热情)的(4:态度)，
   pinyin: Wǒ de (1:fùzé) de (2:jīngshén) hé (3:rèqíng) de (4:tàidù),
   en: My (1:responsible) (2:spirit) and my (3:enthusiast) (4:attitude)
   es: Mi (2:espíritu) (1:responsable) y mi (4:actitud) (3:entusiasta)
-- id: 03a4f69fa4104c1bbc2ae12748637e77
+- id: 8707d198-cc8e-4643-8c19-dd8501513c29
   zh-hans: 也(1:多)(2:次)得到(2:中国)(3:方面)的(4:称赞)。
   pinyin: yě (1:duō) (2:cì) dédào (2:Zhōngguó) (3:fāngmiàn) de (4:chēngzàn).
   en: was (4:praised) (1:many) (2:times) by the (2:Chinese) (3:side).
   es: (1:muchas) (2:veces) recibió el (4:elogio) del (3:lado) (2:chino).
-- id: b77a8ee5c71a4e4ba5a11bd8ce8f9c04
+- id: 4df5c583-48d7-4492-bdab-d6721a45a192
   zh-hans: (1:公司)对我的(2:工作)很(3:满意)，
   pinyin: (1:Gōngsī) duì wǒ de (2:gōngzuò) hěn (3:mǎnyì),
   en: The (1:company) was very (3:satisfied) with my (2:work),
   es: La (1:empresa) está muy (3:satisfecha) con mi (2:trabajo),
-- id: d7913b4a04324467ba4b95eed449ee83
+- id: 208d25d1-fd41-455b-8cc5-1ec6cc594b7e
   zh-hans: 认为我(1:熟悉)(2:业务:2)，
   pinyin: rènwéi wǒ (1:shúxī) (2:yèwù),
   en: felt that I was (1:familiar) with (2:business),
   es: estoy (1:familiarizado) con el (2:negocio) y
-- id: 596c756062a04b12a1388d42a7a574c5
+- id: 9ba94576-f43e-4d31-9c21-171fab912537
   zh-hans: 有(1:创新:8)(2:精神:7)。
   pinyin: yǒu (1:chuàngxīn) (2:jīngshén).
   en: and I have an (1:innovative) (2:spirit).
   es: y tengo un (2:espíritu) (1:innovador).
-- id: 963b0a0993dd43c6a5f806d1d37892f8
+- id: 49bc6f23-11e2-4e2f-ac53-cbd82ffb7cf7
   zh-hans: (1:一)(4:年)(2:以后)我(3:当)了(4:公司)的(5:商务)(6:代表)。
   pinyin: (1:Yī) (4:nián) (2:yǐhòu) wǒ (3:dāng)le (4:gōngsī) de (5:shāngwù) (6:dàibiǎo).
   en: (1:One) (4:year) (2:later) I (3:became) the (4:company)’s (5:business) (6:representative).
   es: (1:Un) (4:año) (2:después) me (3:convertí) en (6:representante) (5:comercial) de la (4:empresa).
-- id: d8aad2049e8d425e87dd475a4994db83
+- id: da384c65-86b1-416a-ae2f-8218f3372d52
   zh-hans: (1:为了)更多地(2:了解)(3:中国)的(4:社会)和(5:文化)，
   pinyin: (1:Wèile) gèng duō de (2:liǎojiě) (3:Zhōngguó) de (4:shèhuì) hé (5:wénhuà),
   en: (1:In order to) (2:understand) more about (3:Chinese) (4:society) and (5:culture),
   es: (1:Para) (2:conocer) mejor la (4:sociedad) y la (5:cultura) (3:china).
-- id: a04655c8f9e94fe7832aac552a60f7e1
+- id: 1ca83b94-6690-4c44-9503-ff8661ffdaf0
   zh-hans: 我(1:辞:9)去了(2:公司)的(3:工作)，
   pinyin: wǒ (1:cí) qùle (2:gōngsī) de (3:gōngzuò),
   en: I (1:resigned) from the (2:company),
   es: (1:dejé) mi (3:trabajo) en la (2:empresa) y
-- id: fb15e84f989e4e4db3960df4bfeb032c
+- id: bf31926e-8d3a-455e-af99-52456c8992d2
   zh-hans: 于(1:去年)(2:2月)(3:开始)
   pinyin: yú (1:qùnián) (2:èr yuè) (3:kāishǐ)
   en: and in (2:February) (1:last year) I (3:started)
   es: en (2:febrero) del (1:año pasado) (3:empecé)
-- id: 0b56a92ce11448f284c531bccf7e644f
+- id: a824fd4a-0df1-48df-b9cf-13536fc222ed
   zh-hans: 在(1:北京)(2:语言)(3:学院)
   pinyin: zài (1:Běijīng) (2:Yǔyán) (3:Xuéyuàn)
   en: at (1:Beijing) (2:Language) and Culture (3:University),
@@ -181,87 +181,87 @@ sentences:
   pinyin: (1:jìnxiū) (2:Zhōngguó) (3:wénxué),
   en: to undertake (1:advanced studies) in (2:Chinese) (3:literature)
   es: (1:estudios avanzados) de (3:literatura) (2:china)
-- id: 96138b79470045a6ae55c6c3e2b516ff
+- id: 5baf6259-8111-4838-bc1e-31615254a6a0
   zh-hans: (1:现在)(2:已经)(3:结业)。
   pinyin: (1:xiànzài) (2:yǐjīng) (3:jiéyè).
   en: (1:now) I have (2:already) (3:finished my studies).
   es: (1:ahora) (2:ya) he (3:terminado mis estudios).
-- id: bb399fc3f12e40068f0c36d0f3cffa60
+- id: 3217e98f-0619-4618-8dc3-34b2a17e554a
   zh-hans: (1:根据:10)贵(2:公司)的(3:招聘)(4:要求)，
   pinyin: (1:Gēnjù) guì (2:gōngsī) de (3:zhāopìn) (4:yāoqiú),
   en: (1:According to) your (2:company)’s (3:recruitment) (4:requirements),
   es: (1:Según) los (4:requisitos) de (3:contratación) de su (2:empresa)
-- id: 3c1a5351f7d44ef181e219bab695e509
+- id: 71514c1d-c2d8-407b-9a77-7a66c49ad16c
   zh-hans: (1:我)认为(2:本人:3)很(3:适合)这项工作。
   pinyin: (1:wǒ) rènwéi (2:běnrén) hěn (3:shìhé) zhè xiàng gōngzuò.
   en: (1:I) think (2:I) am very (3:suitable) for this work.
   es: (1:Yo) creo que (2:yo) soy muy (3:adecuado) para este trabajo.
-- id: 517fec815c694e88b2210001e9ccedf2
+- id: a1c40a14-b228-4405-8fcd-93798d7ebce1
   zh-hans: 我(1:非常)想(2:参加)
   pinyin: Wǒ (1:fēicháng) xiǎng (2:cānjiā)
   en: I would (1:really) like to (2:participate)
   es: Estoy (1:muy) interesado en participar
-- id: d7ab24720d0e45d3b18c0c3655415ce6
+- id: ec0989e2-c1c1-4860-a2b8-fe5fccb9c708
   zh-hans: 贵(1:公司)(2:开发)(3:中国)(4:西北:11)(5:市场)的工作，
   pinyin: guì (1:gōngsī) (2:kāifā) (3:Zhōngguó) (4:xīběi) (5:shìchǎng) de gōngzuò,
   en: in the (2:development) of your (1:company) in the (4:Northwest) (3:China) (5:market),
   es: en su (1:empresa) para desarrollar el (5:mercado) en el (4:noroeste) de (3:China).
-- id: 56217670394c42ef9382c0c4a2605edd
+- id: faabf7e5-d2e3-4b80-90ee-5c4ce391ee24
   zh-hans: 我(1:相信)贵(2:公司)(3:一定)会(4:成功)，
   pinyin: wǒ (1:xiāngxìn) guì (2:gōngsī) (3:yīdìng) huì (4:chénggōng),
   en: I (1:believe) your (2:company) will (3:definitely) be (4:successful),
   es: Yo (1:creo) que su (2:empresa) (3:definitivamente) (4:tendrá éxito) y que
-- id: b07a10a005bd45d19ee204e8807b88df
+- id: 13f61f8c-191e-4f7f-a542-0a8e32edd056
   zh-hans: (1:我)自己也会(2:有)(4:更)(5:大)的(5:发展)(6:前途)。
   pinyin: (1:wǒ) zìjǐ yě huì (2:yǒu) (4:gèng) (5:dà) de (5:fǎzhǎn) (6:qiántú).
   en: (1:I) will also (2:have) higher (6:prospects) for (5:development).
   es: (1:yo) mismo (2:tendré) una (6:perspectiva) de (5:desarrollo) (4:más) (5:alta).
-- id: 2e807caad04d48a4ad8f88e986a83e62
+- id: f1fab52f-b410-4c96-83cb-54e4c38aad07
   zh-hans: (1:如果)贵(2:公司)能给我这个(3:机会)，
   pinyin: (1:Rúguǒ) guì (2:gōngsī) néng gěi wǒ zhège (3:jīhuì),
   en: (1:If) your (2:company) can give me this (3:opportunity),
   es: (1:Si) su (2:empresa) puede darme esta (3:oportunidad)
-- id: d9ee18789d3c47dfbcf4edf01ae864b7
+- id: c768995e-d06c-4635-9022-c572a8bdff47
   zh-hans: 那么，我(1:一定)会(2:努力)为贵(3:公司)(4:服务)。
   pinyin: nàme, wǒ (1:yīdìng) huì (2:nǔlì) wéi guì (3:gōngsī) (4:fúwù).
   en: then, I will (1:definitely) (2:work hard) to (4:serve) your (3:company).
   es: (1:Definitivamente), me (2:esforzaré) para (4:servir) a su (3:empresa).
-- id: d8e096131f6d4aaa9c5adffe55305fd2
+- id: 3193311d-0056-4c27-85a9-dbdf56783bab
   zh-hans: (1:附:12)上(2:本人:3)的(3:简历)。
   pinyin: (1:Fù) shàng (2:běnrén) de (3:jiǎnlì).
   en: (1:Attached) is (2:my) (3:resume).
   es: (1:Adjunto) (2:mi) (3:curriculum vitae).
-- id: cf9a9e530dd24716afee91cefad4dd07
+- id: b30d1795-5a02-4096-9b4b-3bed5bcb76a8
   zh-hans: (1:如果)有什么(2:问题)(3:需要)(4:了解)，
   pinyin: (1:Rúguǒ) yǒu shénme (2:wèntí) (3:xūyào) (4:liǎojiě),
   en: (1:If) there are any (2:questions) that (3:need) to (4:understand),
   es: (1:Si) hay alguna (2:pregunta) que usted (3:necesita) (4:entender).
-- id: c352753f7bb8491780bd7fe6ed8e0181
+- id: bc93e5d1-a721-463e-bc44-f8d36d06f74d
   zh-hans: (1:请)(2:用)(3:电子:13)(4:邮件:13)或(5:打电话)跟我(6:联系)。
   pinyin: (1:qǐng) (2:yòng) (3:diànzǐ) (4:yóujiàn) huò (5:dǎ diànhuà) gēn wǒ (6:liánxì).
   en: (1:please) (2:use) (3:electronic) (4:email) or (5:give me a call) to (6:contact) me.
   es: (1:Por favor), (2:use) (4:correo) (3:electrónico) o (5:llámeme) para (6:contactarme).
-- id: d9b0cacb582143468f938a543ebdf01e
+- id: 8e6dc00e-9796-45ea-a01b-4bf3f2478ccb
   zh-hans: (1:谢谢)！
   pinyin: (1:Xièxiè)!
   en: (1:Thank you)!
   es: ¡(1:Gracias)!
-- id: b49d68da9b8a425d88ecc8893169a096
+- id: 58e6c450-1ca7-4229-9e9e-66fc5f9207fd
   zh-hans: (1:顺致:14)
   pinyin: (1:Shùn zhì)
   en: (1:Sincerely)
   es: (1:Atentamente)
-- id: b80814fad90144fcaab2eb34e5d4c380
+- id: b3fc82a5-3463-4b0b-a00a-61307db284e0
   zh-hans: (1:诚挚:15)的(2:敬意:16)
   pinyin: (1:Chéngzhì) de (2:jìngyì)
   en: My (1:sincere) (2:respect)
   es: Mis (1:sinceros) (2:respetos)
-- id: bdb9178ee8ec43708cfa71b5821d0fb1
+- id: 75e43301-0ad2-46a6-b6ab-ea0ffdd462ae
   zh-hans: (1:马)(2:大为)
   pinyin: (1:Mǎ) (2:Dàwéi)
   en: (1:Ma) (2:Dawei)
   es: (2:Dawei) (1:Ma)
-- id: 319a9303ccf44722b9bdab40fd656775
+- id: d4f8ee03-00d9-44b2-925a-77a99adcb18f
   context: video
   zh-hans: (1:2004)年(2:5月)20日 于(3:北京)
   pinyin: (1:èr líng líng sì) nián (2:wǔ yuè) èrshí rì yú (3:Běijīng)

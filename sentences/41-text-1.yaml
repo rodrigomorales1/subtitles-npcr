@@ -9,87 +9,87 @@ metadata:
   add-groups-en: {finished: false, issue_id: 796}
   add-groups-es: {finished: false, issue_id: 797}
 sentences:
-- id: 256ab023579147a98d15d13fcaec780b
+- id: a011cb52-de5d-4ac8-aebc-7550dc4ff14a
   zh-hans: 宋华，毕业以后，
   pinyin: Sòng Huá, bìyè yǐhòu,
   en: Song Hua, after graduation,
   es: Song Hua, después de la graduación.
-- id: 4e1e809d1e1d4f4a877607caeec22035
+- id: 46f0e578-5221-4090-9e49-335aa69f23f7
   zh-hans: 你打算干什么？
   pinyin: nǐ dǎsuàn gànshénme?
   en: what do you intend to do?
   es: ¿Qué vas a hacer?
-- id: 0596dca2181c46c0acb73566ae2d5a7e
+- id: 95b57a03-9ecb-485b-ba8b-85fa7eb34d47
   zh-hans: 我想先去一个律师事务所干几年，
   pinyin: Wǒ xiǎng xiān qù yīgè lǜshī shìwù suǒ gàn jǐ nián,
   en: I would like to go work for a law firm for several years,
   es: Quiero trabajar en un bufete de abogados durante unos años.
-- id: 94ea9eea878c46159802ba05105df3d6
+- id: a6c87ec4-c1a8-4368-a931-32c969d018d8
   zh-hans: 熟悉熟悉这方面的情况，
   pinyin: shúxī shúxī zhè fāngmiàn de qíngkuàng,
   en: get familiar with this,
   es: Me gustaría familiarizarme con la situación.
-- id: 9b4be81d302b415abf1bc2285f3ce4ac
+- id: 029affb4-42c2-41be-ae76-ceb0fcd6bae6
   zh-hans: 然后自己开个律师事务所。
   pinyin: ránhòu zìjǐ kāi gè lǜshī shìwù suǒ.
   en: and then start my own law firm.
   es: Entonces voy a empezar mi propio bufete de abogados.
-- id: d0609538d25d4000bd2b3f92e66438eb
+- id: f22b1654-641c-4842-8e27-e76fcbcc04ac
   zh-hans: 这个想法很好啊。
   pinyin: Zhège xiǎngfǎ hěn hǎo a.
   en: This idea is very good.
   es: Es una buena idea.
-- id: 8514a064be3248149b282aea5c0e88c8
+- id: 8ad820bb-be02-4bd5-936c-7500a0cdc424
   zh-hans: 在咱们国家，
   pinyin: Zài zánmen guójiā,
   en: In our country,
   es: En nuestro país.
-- id: dc1511ff7e1f481a8078092d2a8049c8
+- id: 265bae87-4431-4a4d-8494-b6ed5499a1b9
   zh-hans: 律师算是很新的职业。
   pinyin: lǜshī suànshì hěn xīn de zhíyè.
   en: lawyer is considered a new occupation.
   es: Los abogados son una profesión nueva.
-- id: 3fe17d63d6374f3e93c7fe7bacb34e76
+- id: 4d34ff70-2ad1-4f08-b681-387325d861ae
   zh-hans: 有不少人还很怕打官司，
   pinyin: Yǒu bù shǎo rén hái hěn pà dǎ guānsī,
   en: There are many people are still afraid of lawsuits,
   es: Mucha gente todavía tiene miedo de las demandas.
-- id: 20079cb9dba4469184777837b1f3eab3
+- id: 82b8e267-7c4c-426f-aeb6-b1cc421cad3b
   zh-hans: 他们也不太了解
   pinyin: tāmen yě bù tài liǎojiě
   en: and they also do not really know
   es: Ellos no saben mucho acerca de
-- id: e93b2050c3d24e3285399b923fef8e67
+- id: 5a04857a-cc63-4350-9d85-5806716d6cf6
   zh-hans: 怎样请律师帮助自己打官司。
   pinyin: zěnyàng qǐng lǜshī bāngzhù zìjǐ dǎ guānsī.
   en: how to ask lawyers to help them with lawsuits.
   es: cómo contratar a un abogado que les ayude en un pleito.
-- id: 548ac9076eb44c70a26ab038e817c219
+- id: 7fcd0ba5-6714-4f68-b22b-35eae8d728b5
   zh-hans: 不过，现在大家已经开始注意
   pinyin: Bùguò, xiànzài dàjiā yǐjīng kāishǐ zhùyì
   en: However, now everyone is beginning to pay attention
   es: Sin embargo, hoy en día la gente ha empezado a prestar atención a
-- id: c42c205721e142af88d259dee4fa4128
+- id: 964b620f-ed06-4017-9489-5ef4c063e158
   zh-hans: 用法律来保护自己的权利了，
   pinyin: yòng fǎlǜ lái bǎohù zìjǐ de quánlìle,
   en: to the law to protect their rights,
   es: a utilizar la ley para proteger sus derechos.
-- id: 986f06cf415542d0974eb2946e14a37c
+- id: 63e60d16-d02c-4517-994e-052a5fb56fdb
   zh-hans: 我想人们会越来越需要律师。
   pinyin: wǒ xiǎng rénmen huì yuè lái yuè xūyào lǜshī.
   en: and I think people will increasingly need a lawyer.
   es: Creo que la gente necesita cada vez más a los abogados.
-- id: 4df2f7e9901f4df8ade62533e8dc6232
+- id: cc53e95c-e29a-4c38-94a7-627010114c65
   zh-hans: 可是我爸爸的看法就不一样。
   pinyin: Kěshì wǒ bàba de kànfǎ jiù bù yīyàng.
   en: But my father’s view is not the same.
   es: Pero mi padre piensa de otra manera.
-- id: 3f84d8335bb94021bc558cd5b70b6ecf
+- id: 13ef4ffa-1a5b-4003-bc29-bd00942b191b
   zh-hans: 他认为我应该去考国家公务员，
   pinyin: Tā rènwéi wǒ yīnggāi qù kǎo guójiā gōngwùyuán,
   en: He thinks I should become a civil servant,
   es: Cree que debería opositar para funcionario nacional, como juez o profesor.
-- id: 968f56a2b1ca4a4493269ff8905da2a8
+- id: 1d3f799b-edfc-4fc8-a5be-c60b22010a93
   zh-hans: 比如法官、老师什么的，
   pinyin: bǐrú fǎguān, lǎoshī shénme de,
   en: such as a judge, teacher, etc.,
@@ -99,222 +99,222 @@ sentences:
   pinyin: dào zhèngfǔ bùmén gōngzuò,
   en: to work in a government department,
   es: para trabajar en un departamento del gobierno,
-- id: 7a87a3980f4d457397e46c401fffdaa8
+- id: 62f23c6a-6359-4373-bb23-44959f6a7d9f
   zh-hans: 我妈妈也让我到国营公司找个工作，
   pinyin: wǒ māmā yě ràng wǒ dào guóyíng gōngsī zhǎo gè gōngzuò,
   en: and my mother wants me to find a job at a state-owned company,
   es: Mi madre quiere que trabaje en una empresa pública.
-- id: b79760f120d74ca98231e7e30b7a3c84
+- id: ed22d124-633c-496a-94e0-2715328fa467
   zh-hans: 他们都不同意我当律师。
   pinyin: tāmen dōu bù tóngyì wǒ dāng lǜshī.
   en: they do not agree with me being a lawyer.
   es: No están de acuerdo con que me haga abogado.
-- id: 81d61f5171264b0b9a650483757345c8
+- id: 0d2f0151-f064-4995-bd10-4aafc90cc675
   zh-hans: 他们说律师靠帮别人打官司挣钱，
   pinyin: Tāmen shuō lǜshī kào bāng biérén dǎ guānsī zhèng qián,
   en: They say that lawyers rely on other people making lawsuits to earn money,
   es: Dicen que los abogados ganan dinero ayudando a la gente.
-- id: 713faeb2033d4ee6b9c829806f668930
+- id: cd64f37d-19e9-48cc-9bd2-39469c427e17
   zh-hans: 不像公务员那样，
   pinyin: bù xiàng gōngwùyuán nàyàng,
   en: not like civil servants,
   es: A diferencia de los funcionarios.
-- id: 0e0bc6cc3eb74fd28e772f290751680a
+- id: 591ac486-4204-4e24-a902-fd9eaeb883c7
   zh-hans: 有稳定的收入。
   pinyin: yǒu wěndìng de shōurù.
   en: who have stable incomes.
   es: A diferencia de los funcionarios, que tienen un ingreso estable.
-- id: eec325ae1f004b3d9385ed9b25ff89f9
+- id: 9f331bec-bc81-4aa9-8c23-6fad0ec69cc0
   zh-hans: 对，我想起来了，
   pinyin: Duì, wǒ xiǎng qǐláile,
   en: Yes, now that I think of it,
   es: Sí, lo recuerdo.
-- id: a15b8ef2984b4992923a78fb36822104
+- id: e66b42ac-c904-4942-8027-7f3b6270d740
   zh-hans: 上次去你家的时候，
   pinyin: shàng cì qù nǐ jiā de shíhou,
   en: the last time I went to your home,
   es: Cuando fui a tu casa la última vez.
-- id: 78a61d6ed1874ad69d93eda2f41bf9ff
+- id: a7813f60-5b89-4ae7-be1e-8742c3da7379
   zh-hans: 他们说过这个意思。
   pinyin: tāmen shuōguò zhège yìsi.
   en: they said this.
   es: Dijeron eso.
-- id: 38091ff448fc4df3a70412d05ea9147c
+- id: ddd3f226-2ce9-4271-a911-9a5619fbc73a
   zh-hans: 你同意这种看法吗？
   pinyin: Nǐ tóngyì zhè zhǒng kànfǎ ma?
   en: Do you agree with this sort of view?
   es: ¿Estás de acuerdo con eso?
-- id: 8b1c8b4fd5764682bd957b9addf49ffa
+- id: 542c42aa-c795-452f-b21f-535bbb8907a9
   zh-hans: 当然不同意。
   pinyin: Dāngrán bù tóngyì.
   en: Of course not.
   es: Claro que no.
-- id: 9eeacf487ea84a30ae6d660cdc224bb4
+- id: 773f927b-3c8b-4985-b904-54cbb980c14b
   zh-hans: 我爸爸希望我找个稳定的工作，
   pinyin: Wǒ bàba xīwàng wǒ zhǎo gè wěndìng de gōngzuò,
   en: My father wants me to find a stable job,
   es: Mi padre quiere que encuentre un trabajo estable.
-- id: 73596608b9e94fb08da109b48cb7d192
+- id: b8f2b875-1b99-4b84-bcdf-0489bfff1c2f
   zh-hans: 也就是说，拿国家的工资，
   pinyin: yě jiùshì shuō, ná guójiā de gōngzī,
   en: that is to say, receive a state salary,
   es: Es decir, que me pague el Estado.
-- id: 23a307fcb24645b6abff14f8e5e9531e
+- id: bc3552cf-8ad4-47b3-8404-ea7291f57de8
   zh-hans: 平平安安地过日子。
   pinyin: píngpíng ān’ān dì guòrìzi.
   en: and have a safe life.
   es: Y vivir en paz.
-- id: 2878aaaf7adc497b99683163e9d82d16
+- id: 48c80fb4-1029-4d21-a99f-c5c8c31984ee
   zh-hans: 他们那一代人，
   pinyin: Tāmen nà yīdài rén,
   en: For their generation,
   es: En su generación.
-- id: e2bc7672cdbc43b6b766e663834a1895
+- id: a99284be-376d-4c27-af1d-9f485065930f
   zh-hans: 大学毕业以后都由国家分配工作。
   pinyin: dàxué bìyè yǐhòu dōu yóu guójiā fēnpèi gōngzuò.
   en: after graduating university they were all assigned work by the state.
   es: Después de graduarse en la universidad, el estado les asignaba trabajos.
-- id: 6367be472a634585945cda3b6e61bc55
+- id: b5a57ac2-fe52-4f3b-809e-ebb8d0b8b0e9
   zh-hans: 国家让你去哪儿就去哪儿。
   pinyin: Guójiā ràng nǐ qù nǎr jiù qù nǎr.
   en: Wherever the state sent you, you went.
   es: Ibas donde el estado te dijera que fueras.
-- id: 80b91edaa8f341b4a6a81f5b228350bf
+- id: 48827852-bf2a-44a5-9620-5d159cec5515
   zh-hans: 即使自己有些想法，
   pinyin: Jíshǐ zìjǐ yǒuxiē xiǎngfǎ,
   en: Even if you had your own ideas,
   es: Incluso si tienes algunas ideas.
-- id: 39981b11cd1d499e94be61af9259553e
+- id: f63c1838-7da9-4eca-9fd7-ae68bdefc42c
   zh-hans: 也得服从国家分配。
   pinyin: yě de fúcóng guójiā fēnpèi.
   en: you still had to follow the state assignment.
   es: Tienes que obedecer al estado.
-- id: 7c2950165f91480fbd50ee8d1389683e
+- id: 55245d3d-a9be-4af0-9a72-8b0c609d292d
   zh-hans: 确实是这样。
   pinyin: Quèshí shì zhèyàng.
   en: Indeed it was like this.
   es: Eso es verdad.
-- id: d6e597253bb546c3b0eadac6aab81d2b
+- id: c8944a48-d565-424a-a844-39ec67e6fabb
   zh-hans: 关于就业的问题，
   pinyin: Guānyú jiùyè de wèntí,
   en: Regarding employment issues,
   es: Sobre la cuestión del empleo.
-- id: 77f0e514470c472482300a94e2279536
+- id: 1e7d9d94-aedc-46a0-875f-085ee93e3ba4
   zh-hans: 我们跟上一代人的想法不一样，
   pinyin: wǒmen gēn shàng yīdài rén de xiǎngfǎ bù yīyàng,
   en: our generation’s ideas are not the same,
   es: Pensamos diferente a la generación anterior.
-- id: 2a8cf865238c4c0aa25debb5db5d43bd
+- id: 65c7b785-de2a-4462-ac89-76191e9e0934
   zh-hans: 我们首先想到怎样去做自己喜欢的工作，
   pinyin: wǒmen shǒuxiān xiǎngdào zěnyàng qù zuò zìjǐ xǐhuan de gōngzuò,
   en: we first think of how we can do the work we enjoy,
   es: Pensamos ante todo en cómo hacer el trabajo que nos gusta.
-- id: d72ae8c7008d4cf281687336aa1a77d1
+- id: fb5847c8-fadd-4114-b46b-42db9cadd27d
   zh-hans: 能不能实现自己的理想。
   pinyin: néng bùnéng shíxiàn zìjǐ de lǐxiǎng.
   en: how to realise our dreams.
   es: Pensamos ante todo en cómo hacer lo que nos gusta, y si podemos realizar nuestras ambiciones.
-- id: 8ca90dcbe13048e58a8c29c52c22b23b
+- id: 416a7dd8-c5f6-4427-8202-19c1774d1416
   zh-hans: 我们希望生活中有挑战，
   pinyin: Wǒmen xīwàng shēnghuó zhōng yǒu tiǎozhàn,
   en: We want our lives to have challenges,
   es: Queremos retos en la vida.
-- id: bba3b04a9fe14bd3a1c48381da58eba9
+- id: a77f029d-ea1c-4118-9809-21e457d6b597
   zh-hans: 工作中有竞争。
   pinyin: gōngzuò zhōng yǒu jìngzhēng.
   en: work to competitive.
   es: Queremos competencia en nuestro trabajo.
-- id: 7975379e5c624275a809126531b0cdfa
+- id: c995f035-5fe7-4d87-8f2f-f1b2e3ec2632
   zh-hans: 还有，能得到比较满意的收入。
   pinyin: Hái yǒu, néng dédào bǐjiào mǎnyì de shōurù.
   en: Also, can get a more satisfactory income.
   es: Y unos ingresos más satisfactorios.
-- id: 6213e3d24eb3426c85045f3c4fa12ac3
+- id: 28508fdb-173c-4a28-936d-f37f24f28ded
   zh-hans: 对。
   pinyin: Duì.
   en: Correct.
   es: Es cierto.
-- id: 04aa377508cb4f23a86f4c41496cfe2b
+- id: e8a6abb9-3355-4873-99fe-d2247a3e2eda
   zh-hans: 我爸爸妈妈听说我打算以后自己开事务所，
   pinyin: Wǒ bàba māmā tīng shuō wǒ dǎsuàn yǐhòu zìjǐ kāi shìwù suǒ,
   en: After my father and mother heard I plan to later open my own firm,
   es: Cuando mi madre y mi padre se enteraron de que estaba planeando empezar mi propia empresa.
-- id: c2a228ef59474787a2493cb87a5faf6c
+- id: 9bc47f3a-b498-4249-8271-4585a5239d05
   zh-hans: 就更着急了。
   pinyin: jiù gèng zhāojíle.
   en: they were even more anxious.
   es: Están aún más ansiosos.
-- id: afe8b1506be34810af7b91cabdd3de30
+- id: 3192ed75-46de-422a-b789-73f6ea2f4f2b
   zh-hans: 不管老人怎么看，
   pinyin: Bùguǎn lǎorén zěnme kàn,
   en: No matter what old people think,
   es: No importa lo que piensen.
-- id: 14c99fce4c204d66a98525cdf50d9bd8
+- id: 10984acd-6da2-48c8-aa1b-73bd5a5a0180
   zh-hans: 你都应该努力实现自己的理想。
   pinyin: nǐ dōu yīnggāi nǔlì shíxiàn zìjǐ de lǐxiǎng.
   en: you should always strive to realise your own dreams.
   es: Deberías intentar realizar tu sueño.
-- id: 701748f34fda4a89bf6a74763221b74d
+- id: c225ce63-df2e-4e33-b1ea-b2881feaa614
   zh-hans: 那当然。
   pinyin: Nà dāngrán.
   en: Of course.
   es: Por supuesto.
-- id: 65267f6cf4484f4389c4338a12fa2c35
+- id: c1470d06-f614-4d29-a952-e780ae62c12f
   zh-hans: 现在企业和公司也都需要有自己的律师，
   pinyin: Xiànzài qǐyè hé gōngsī yě dōu xūyào yǒu zìjǐ de lǜshī,
   en: Nowadays firms and companies also need to have their own lawyers,
   es: Hoy en día, las corporaciones y empresas necesitan sus propios abogados.
-- id: d459e6552d4f40ffb37f8e1af224b93f
+- id: 0a18d6dc-9872-4646-997c-ea20153d7fb1
   zh-hans: 所以律师这个职业
   pinyin: suǒyǐ lǜshī zhège zhíyè
   en: so the lawyer profession
   es: Es por eso que la profesión de abogado
-- id: af975b3704ac43e6a4485ad7590fb3f9
+- id: 0cc70bb1-8393-4fa0-97a1-d0b82037a58f
   zh-hans: 一天比一天受欢迎。
   pinyin: yītiān bǐ yītiān shòu huānyíng.
   en: is becoming more popular everyday.
   es: es cada día más popular.
-- id: fa036372d7974297b844f544aa112456
+- id: b58cb61c-ae1c-4cc5-bec5-c953ab08f98c
   zh-hans: 我想只要努力工作，
   pinyin: Wǒ xiǎng zhǐyào nǔlì gōngzuò,
   en: I think as long as one works hard,
   es: Creo que si trabajas duro.
-- id: 1cd03d457d1c4a228e89508a059ef3aa
+- id: 2155fda3-a4a2-40a3-ad69-27f1e102811b
   zh-hans: 就一定会有一个好的前途。
   pinyin: jiù yīdìng huì yǒu yīgè hǎo de qiántú.
   en: he definitely will have good prospects.
   es: Estoy seguro de que tendré un buen futuro.
-- id: 59c3d53c3ac44c35af5f8c6b8d569c4f
+- id: 44eb67ca-637e-41fd-bdc3-6ed96febaf2c
   zh-hans: 小云，你有什么打算？
   pinyin: Xiǎo Yún, nǐ yǒu shé me dǎsuàn?
   en: Xiao Yun, what do you have planned?
   es: Yun, ¿cuáles son tus planes?
-- id: b453f2d73e7b43b681f0e0e38da3915b
+- id: f12ec612-850e-4b4a-bb74-37dfe1c1b7c0
   zh-hans: 我打算先考研究生。
   pinyin: Wǒ dǎsuàn xiān kǎo yánjiūshēng.
   en: I plan to first go to graduate school.
   es: Planeo ir a la escuela de posgrado en primer lugar.
-- id: ca3f2e6e02644e94b0b0ee9ff85f5c43
+- id: 067893cc-a968-4b60-9a2d-76e19cc7f9a1
   zh-hans: 不过，现在我还没有决定。
   pinyin: Bùguò, xiànzài wǒ hái méiyǒu juédìng.
   en: However, I have not decided yet.
   es: Pero aún no lo he decidido.
-- id: f9763f5d2f644ddc944e8c7ff42419f6
+- id: c1917e18-17d8-4a19-a7d5-07130daf1c90
   zh-hans: 要是有合适的工作，
   pinyin: Yàoshi yǒu héshì de gōngzuò,
   en: If there is a suitable job,
   es: Si hay un trabajo adecuado.
-- id: f4cf16b01b194fb18a033a652c2ef0c6
+- id: 47d9e031-4c60-472a-abe1-44e485f58091
   zh-hans: 我就先干起来。
   pinyin: wǒ jiù xiān gàn qǐlái.
   en: I will do that first.
   es: Lo haré primero.
-- id: c3c1c9ad897a41d79765d3b57568ceb6
+- id: c89a7b61-0891-467b-ba96-a26ae3807ec6
   zh-hans: 呦，天晚黑了，咱们走吧。
   pinyin: Yōu, tiān wǎn hēile, zánmen zǒu ba.
   en: Oh, it’s dark now, we should go.
   es: Yo, está oscureciendo. Vamos.
-- id: 6f83469d3bcc4702a331f877c9b6510b
+- id: 2eee0834-31b9-45c2-a1b2-19ac9384c3e0
   zh-hans: 走吧。
   pinyin: Zǒu ba.
   en: Let’s go.

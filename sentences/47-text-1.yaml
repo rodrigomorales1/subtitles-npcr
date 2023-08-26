@@ -9,397 +9,397 @@ metadata:
   add-groups-en: {finished: false, issue_id: 411}
   add-groups-es: {finished: false, issue_id: 412}
 sentences:
-- id: bd20877737fe4931bb38ef5cc4e80e0b
+- id: 3a99025d-0bca-4724-a3e7-2ab1d452f6ab
   zh-hans: 中国的大学生打工吗？
   pinyin: Zhōngguó de dàxuéshēng dǎgōng ma?
   en: Do Chinese university students do part time work?
   es: ¿Trabajan a tiempo parcial los universitarios en China?
-- id: 6c03ac98a2804de5bc7245cce3e06f7b
+- id: db0439f1-da0d-40f8-9e84-824ad48108e9
   zh-hans: 打工。不过，
   pinyin: Dǎgōng. Bùguò,
   en: They do. However,
   es: Trabajos a tiempo parcial. Sin embargo.
-- id: 9bc60a8ab2264029bc1c6ef9d33383e8
+- id: b02e8c2b-76be-4100-af1f-885682f7b3c6
   zh-hans: 过去的大学生基本上不打工，
   pinyin: guòqù de dàxuéshēng jīběn shàng bù dǎgōng,
   en: in the past university students basically didn’t do part time work,
   es: En el pasado, los estudiantes universitarios básicamente no trabajaban.
-- id: af8cb9e8965a49a4ab0a9982f04ebe4e
+- id: a4802ae1-454d-4102-99f9-7fb9f1d594ee
   zh-hans: 最近一二十年，打工的学生多起来了。
   pinyin: zuìjìn yī’èrshí nián, dǎgōng de xuéshēng duō qǐláile.
   en: it’s only been in the last 10-20 years, that university students working part-time have appeared.
   es: En la última década o dos, más estudiantes están trabajando.
-- id: 6912e00245f943fab71b5a4e8a3aeba9
+- id: 2559b8b0-cb47-442b-bfa1-e3c6da80528f
   zh-hans: 这就奇怪了。
   pinyin: Zhè jiù qíguàile.
   en: This is strange.
   es: Es extraño.
-- id: 5287c71958b5455fbad0fc62692c111b
+- id: edf7e788-562d-4e2d-98c2-30300e57ddeb
   zh-hans: 我听说在实行改革开放以前，
   pinyin: Wǒ tīng shuō zài shíxíng gǎigé kāifàng yǐqián,
   en: I heard that before the implementation of reform and opening up,
   es: He oído que antes de la reforma y la apertura
-- id: 55843815585b4f21bb9843e2c1a80c6b
+- id: 72f31e18-27ee-407e-8255-d13a79af0343
   zh-hans: 中国人的生活水平比现在低多了，
   pinyin: Zhōngguó rén de shēnghuó shuǐpíng bǐ xiànzài dī duōle,
   en: Chinese people’s living standards were much lower than now,
   es: el nivel de vida de los chinos era mucho más bajo que ahora.
-- id: a88254ddbb1549f09f6c692c60687dbd
+- id: 47ec4ae1-88ba-4e6a-a555-56a5d48c311e
   zh-hans: 很多大学生的经济条件也不太好。
   pinyin: hěnduōdàxuéshēng de jīngjì tiáojiàn yě bù tài hǎo.
   en: and many university student’s financial conditions were not too good.
   es: Muchos estudiantes universitarios no tenían una buena situación económica.
-- id: c019d8355a6f4322a62cd5015abfc67c
+- id: e56937f3-95ba-49e8-85e7-f2fd5d54f820
   zh-hans: 他们既然经济有困难，
   pinyin: Tāmen jìrán jīngjì yǒu kùnnán,
   en: Since they have financial difficulties,
   es: Ya que tienen dificultades financieras.
-- id: b05df84442a243c9a8ec4f6e2ab76188
+- id: 435a289a-2e16-479b-a2c9-6860ee1adc85
   zh-hans: 就应该去打工啊。
   pinyin: jiù yīnggāi qù dǎgōng a.
   en: they should go to part-time jobs.
   es: Deberían haber ido a trabajar.
-- id: b55ab7321ee94287b13e2b939972ab6a
+- id: f87bdc1e-f193-4c97-99ec-48a0e584b6e7
   zh-hans: 那时候大学生不打工的原因很多：
   pinyin: 'Nà shíhou dàxuéshēng bù dǎgōng de yuányīn hěnduō:'
   en: 'At that time university students had many reasons for not having part-time jobs:'
   es: 'Había muchas razones por las que los universitarios no trabajaban entonces:'
-- id: 0bae0e867003483fb2d460fa72b90da3
+- id: f28437e3-ef40-4bcc-8e46-33a8ce1fd50f
   zh-hans: 第一，过去上大学，
   pinyin: Dì yī, guòqù shàng dàxué,
   en: firstly, to attend university back then,
   es: En primer lugar, antes, cuando iban a la universidad, no tenían que pagar matrícula.
-- id: 85aeb8ecbad643b09fcb0451090de5ad
+- id: 3318b451-181e-4b82-b1f6-094dd2967935
   zh-hans: 学生不用交学费。
   pinyin: xuéshēng bùyòng jiāo xuéfèi.
   en: students did not have to pay school fees.
   es: los estudiantes no tenían que pagar tasas de matrícula.
-- id: e7ff9768e32d4789bf08846ff09c2725
+- id: 3d6d1d81-4cf0-4dfd-b68c-4eeab39d67b8
   zh-hans: 家庭经济困难的学生
   pinyin: Jiātíng jīngjì kùnnán de xuéshēng
   en: Those students from family’s with financial difficulties
   es: Los que tenían dificultades económicas
-- id: d2cba0886e0a43d4afc0025f5b5f20ad
+- id: bd516ef3-60a8-4eba-a2f0-3a10ee573701
   zh-hans: 还可以得到国家的帮助，
   pinyin: huán kěyǐ dédào guójiā de bāngzhù,
   en: could receive help from the state,
   es: podían obtener ayuda del estado.
-- id: 54da06b97cff471d9abaed5a2bcd9bab
+- id: 48625ae4-89b0-4960-963e-61b2f35e75ec
   zh-hans: 他们吃、住基本上没有问题。
   pinyin: tāmen chī, zhù jīběn shàng méiyǒu wèntí.
   en: so their food and living was basically no problem.
   es: Básicamente, no tenían problemas con la comida y la vivienda.
-- id: 97e9fa5e2ce8476a8d4c02d7e3175bd1
+- id: 3623198d-c82e-4bfa-b3ff-92431a2c7490
   zh-hans: 第二，中国的父母
   pinyin: Dì èr, Zhōngguó de fùmǔ
   en: Secondly, Chinese parents all
   es: En segundo lugar, los padres chinos
-- id: 6d3dcb9ec8f24c42ac24d37b5e876758
+- id: 51419ec1-53c6-4a05-9951-06a5202161be
   zh-hans: 一般都希望把自己的孩子
   pinyin: yībān dōu xīwàng bǎ zìjǐ de háizi
   en: generally want to raise their children
   es: generalmente quieren criar a sus hijos
-- id: 31b5358912024c4d929c2d40b343d7ff
+- id: 04c666b4-84ba-48ac-a5a2-cd027938aaff
   zh-hans: 培养成为大学生，
   pinyin: péiyǎng chéngwéi dàxuéshēng,
   en: to become university students, and
   es: para convertirse en estudiantes universitarios.
-- id: fad209ca369f4f01a2d43ce5b9f9b016
+- id: 2d0c637b-833f-4adc-8c45-8b96a2e34d92
   zh-hans: 而且他们认为孩子在正式工作以前，
   pinyin: érqiě tāmen rènwéi háizi zài zhèngshì gōngzuò yǐqián,
   en: moreover they consider that before children are formally working,
   es: Y piensan que antes de que sus hijos trabajen formalmente
-- id: 7e93749fdbe44876b0ae9d86aa4b3261
+- id: 4e73cea3-4533-4e02-950a-36a85916fcb0
   zh-hans: 无论岁数多大，
   pinyin: wúlùn suìshu duō dà,
   en: no matter how old,
   es: no importa la edad que tengan.
-- id: 1b4fd94d699c4eb79739f291df408df1
+- id: 689d5671-61a0-4e3a-a557-e99b987ddc49
   zh-hans: 生活上都应该由父母来负担。
   pinyin: shēnghuó shàng dōu yīnggāi yóu fùmǔ lái fùdān.
   en: their livelihood’s should borne by the parents.
   es: sus padres deben ocuparse de su subsistencia.
-- id: df492f472d124f2abd34fbcbd1fb90eb
+- id: 9eacacbd-a4d9-4558-a6c2-476591debea1
   zh-hans: 所以大学生在经济上
   pinyin: Suǒyǐ dàxuéshēng zài jīngjì shàng
   en: Therefore, for finances university students
   es: Por lo tanto, los estudiantes universitarios
-- id: 8581a1de30c04cf1adb0d49684d4db54
+- id: f29a0d28-741a-4e5e-a5bb-1d5a20ea5702
   zh-hans: 还要靠父母来支持，
   pinyin: hái yào kào fùmǔ lái zhīchí,
   en: could rely on their parents for support,
   es: también dependen económicamente de sus padres.
-- id: 292281d9bbe34c0aa4b54b90eba30516
+- id: 752013f4-3fed-46e8-acba-5e5c1b678b1e
   zh-hans: 中国的父母也愿意想办法支持孩子上学。
   pinyin: Zhōngguó de fùmǔ yě yuànyì xiǎng bànfǎ zhīchí háizi shàngxué.
   en: and Chinese parents are also willing to find a way to support their children to attend university.
   es: Los padres chinos también están dispuestos a encontrar formas de apoyar la escolarización de sus hijos.
-- id: 21103ed53d574656978dd097ccdd9e7e
+- id: 60cc2a8c-b790-413a-8af2-617bf02d0653
   zh-hans: 第三，人们认为，
   pinyin: Dì sān, rénmen rènwéi,
   en: Thirdly, it is believed that
   es: En tercer lugar, la gente piensa que
-- id: 2a16fa517d294088858ffd7c8a6822de
+- id: 8f5428f6-a869-4b96-ac6c-a4d54c7a12cd
   zh-hans: 对大学生来说，
   pinyin: duì dàxuéshēng lái shuō,
   en: for college students,
   es: Para los estudiantes universitarios, el
-- id: 4732f0062ee24e0aa4e2d0f97a56841c
+- id: c91c0268-80ff-4e72-84d9-46d52873e7bc
   zh-hans: 主要的时间都应该用于学习，
   pinyin: zhǔyào de shíjiān dōu yīnggāi yòng yú xuéxí,
   en: the main time should be spent on studying,
   es: su tiempo principal debe dedicarse a estudiar.
-- id: c19fbf1b4dc34db8bbaf7e689bd9e914
+- id: 7a31d6d7-3eb5-401a-8eee-8ebd096bf56a
   zh-hans: 这个时候，他们不应该自己去挣钱。
   pinyin: zhège shíhou, tāmen bù yìng gāi zìjǐ qù zhèng qián.
   en: so during this time, they should not have to go earn money on their own.
   es: En esta época, no deberían ganar dinero por sí mismos.
-- id: e4a9523ec17047459a8c7bc30fad53da
+- id: c1f88916-3af5-4c1a-ae5b-a4876e8f7851
   zh-hans: 噢，他们认为打工会影响学习。
   pinyin: Ō, tāmen rènwéi dǎgōng huì yǐngxiǎng xuéxí.
   en: Oh, they consider that a part-time job will have an effect on studies.
   es: Piensan que trabajar a tiempo parcial afectará a sus estudios.
-- id: e8610f2ca66948cfa991248ae607b6d5
+- id: f9ac3fd0-6a83-4638-a43e-dbce6d40697d
   zh-hans: 除了上边我说的那些原因以外，
   pinyin: Chúle shàngbian wǒ shuō dì nàxiē yuányīn yǐwài,
   en: In addition to the reasons I spoke of before,
   es: Aparte de las razones antes mencionadas.
-- id: b075cc2ef9ff460a9c0ce15d5d8f6a87
+- id: b019479a-881e-4f5f-b046-226c61d8dc35
   zh-hans: 还有一个重要原因是：
   pinyin: 'hái yǒu yīgè zhòngyào yuányīn shì:'
   en: 'another important reason is:'
   es: 'Hay otra razón importante:'
-- id: 8a181ee1d56c4a1b979acf6f73973b97
+- id: 379707e6-a104-490b-836f-ef31e8e63bb0
   zh-hans: 即使你想去打工，也没有单位用你。
   pinyin: Jíshǐ nǐ xiǎng qù dǎgōng, yě méiyǒu dānwèi yòng nǐ.
   en: even if you want to go work part-time, there are still no work units that need you.
   es: Aunque quieras trabajar a tiempo parcial, no hay unidades que te contraten.
-- id: e19c9074f2194bc3a8c72e4a3d24be74
+- id: bdb91b11-d17f-4c86-a145-4a214827df89
   zh-hans: 是不是因为中国劳动力太多了？
   pinyin: Shì bùshì yīn wéi Zhōngguó láodònglì tài duōle?
   en: Is this because China’s labour force is too many?
   es: ¿Es porque hay demasiados trabajadores en China?
-- id: b71612efcac64622b5c6a4cdffb4e2c9
+- id: d3055328-b6e9-4cbb-bfef-980733db8697
   zh-hans: 不完全是。
   pinyin: Bù wánquán shì.
   en: Not completely.
   es: No exactamente.
-- id: 98cecf3d1124477a856db3625e1e81c6
+- id: 5ba77d65-3693-4cbf-a761-045aa05394b5
   zh-hans: 那时候，无论国营企业，还是集体企业，
   pinyin: Nà shíhou, wúlùn guóyíng qǐyè, háishì jítǐ qì yè,
   en: At that time, not only for state-owned enterprises, but also for collective enterprises,
   es: En aquella época, tanto si se trataba de una empresa estatal como de una empresa colectiva.
-- id: ade95d7c44d04a28a4137f6f5dfdabdb
+- id: f8b6f83f-171c-413b-9d54-7145ee4408e3
   zh-hans: 工作岗位和工资都是由国家来计划的。
   pinyin: gōngzuò gǎngwèi hé gōngzī dōu shì yóu guójiā lái jìhuà de.
   en: job postings and wages were planned by the state.
   es: Los empleos y los salarios estaban todos planificados por el Estado.
-- id: accd6c848c0f49dbaf3bb4698967c3d4
+- id: afc325b5-8028-4d12-910e-193d319e6c37
   zh-hans: 在这种情况下，
   pinyin: Zài zhè zhǒng qíngkuàng xià,
   en: Under this sort of situation,
   es: En estas circunstancias.
-- id: d69bb5387ade4c7da192dca2c622eee9
+- id: 2dc0050c-2112-48f3-8b49-40839a409064
   zh-hans: 你去打工，单位没办法付给你工资。
   pinyin: nǐ qù dǎgōng, dānwèi méi bànfǎ fù gěi nǐ gōngzī.
   en: you go to part-time work, the work unit has no way of paying you a salary.
   es: ibas a trabajar, no había forma de que la organización te pagara.
-- id: 1b9b4a88588242c2915f0afae2ce7595
+- id: bcddbf15-f0fc-4eed-a580-35a1612f254b
   zh-hans: 可是我在书上看到过，
   pinyin: Kěshì wǒ zài shū shàng kàn dàoguò,
   en: But I read in a book,
   es: Pero he leído en los libros.
-- id: ccec365e9bb54273b0b4d095f3fc45b4
+- id: d7133442-8dbe-468d-82a2-5bb37d815e11
   zh-hans: 以前是不是也有大学生去工厂和农村劳动吗？
   pinyin: yǐqián shì bùshì yěyǒu dàxuéshēng qù gōngchǎng hé nóngcūn láodòng ma?
   en: in the past didn’t university students also have to go to the factories and villages to do manual work?
   es: ¿No solía haber estudiantes universitarios trabajando en fábricas y zonas rurales?
-- id: b8f6c7024eb04987929a35db81461f87
+- id: 51d9165f-494a-47b2-aeeb-eb4f880a9836
   zh-hans: 是有。不过，那时候他们无论去工厂干活，
   pinyin: Shì yǒu. Bùguò, nà shíhou tāmen wúlùn qù gōngchǎng gàn huó,
   en: They did. However, at that time no matter whether they went to work in a factory,
   es: Sí, los había. Pero en aquella época, si iban a trabajar a fábricas.
-- id: 1a32558df5ab4e5d9475a2b89ff1bbc5
+- id: 2a99e606-ba32-4fef-b006-84054f3c0920
   zh-hans: 还是去农场干活，
   pinyin: háishì qù nóngchǎng gàn huó,
   en: or went to the villages to work,
   es: Trabajaban en fábricas y en granjas.
-- id: d994b3309ff14b01a9c096a67781f8d0
+- id: d59bdca1-50a3-410d-813c-ea01398e93d2
   zh-hans: 都是义务劳动，没有报酬。
   pinyin: dōu shì yìwù láodòng, méiyǒu bàochóu.
   en: it was all an obligation to work, and there was no remuneration.
   es: Era todo trabajo voluntario sin remuneración.
-- id: 239bac1207594c1182b7b465cb08cb8e
+- id: 337cf7d1-0878-41de-a674-dfdb766096c3
   zh-hans: 那么，现在的大学生都打工吗？
   pinyin: Nàme, xiànzài de dàxuéshēng dōu dǎgōng ma?
   en: So, university students now all do part-time work?
   es: Entonces, ¿trabajan todos los universitarios hoy en día?
-- id: aa5a0a3f2c2f4d5badb56099b81ada71
+- id: 3c9f084c-b8df-4aac-9c6d-db897e112501
   zh-hans: 这很难说，可能大部分都打工。
   pinyin: Zhè hěn nánshuō, kěnéng dà bùfèn dōu dǎgōng.
   en: This is difficult to say, possibly most do part-time work.
   es: Es difícil de decir, probablemente la mayoría sí.
-- id: 1b95e3ce7ff9499f90b64665a56a65c2
+- id: 981fb0f7-97f5-4215-b47d-702000fe01dc
   zh-hans: 拿我来说，我也在打工。
   pinyin: Ná wǒ lái shuō, wǒ yě zài dǎgōng.
   en: Speaking of myself, I also do part-time work.
   es: Tómame como ejemplo, yo también trabajo.
-- id: 71635d454c1548639bb13df51de6035b
+- id: 3a183042-1a27-4d56-aca0-1cd030d8d109
   zh-hans: 你既然也在打工，
   pinyin: Nǐ jìrán yě zài dǎgōng,
   en: Since you also do part-time work,
   es: Ya que tú también trabajas.
-- id: 98fbf1252c454e98a1d2f3fbfe665eb0
+- id: 0d7ea05d-8954-491f-9385-e28a0c21a784
   zh-hans: 就给我介绍一下中国大学生打工的情况吧。
   pinyin: jiù gěi wǒ jièshào yīxià Zhōngguó dàxuéshēng dǎgōng de qíngkuàng ba.
   en: you can give me an introduction to Chinese university students’ part-time work situation.
   es: Háblame de la situación de los universitarios chinos que trabajan a tiempo parcial.
-- id: 843a71bdae4347b3bbd0d81ea58eb64b
+- id: 5a95f0f2-c7b8-4dee-8f38-81585dece057
   zh-hans: 你们都干些什么工作呢？
   pinyin: Nǐmen dōu gàn xiē shénme gōngzuò ne?
   en: What sort of work do you all do?
   es: ¿Qué tipo de trabajo hacen?
-- id: 3a1c996230624f7b8481d82befb96a30
+- id: 573f117e-7633-4e79-891e-8fa3c0a55900
   zh-hans: 干什么的都有：
   pinyin: 'Gànshénme de dōu yǒu:'
   en: 'All sorts of work:'
   es: 'Hay todo tipo de trabajos:'
-- id: dc7e03e54b6a4a1b88a860b7ebe2363c
+- id: c723d4a7-c04d-4e26-92bd-ecd4b40c491b
   zh-hans: 有送报纸的，有做家教的，
   pinyin: Yǒu sòng bàozhǐ de, yǒu zuò jiājiào de,
   en: some deliver newspapers, some are home teachers,
   es: Hay repartidores de periódicos, tutores.
-- id: f1eb3802301f47cda3411d15666ca7f4
+- id: ebdfac28-9bc1-4e21-81e9-bc15c83b0841
   zh-hans: 也有在商店或者公司干活的。
   pinyin: yěyǒu zài shāngdiàn huòzhě gōngsī gàn huó de.
   en: some also work in shops or companies.
   es: Y algunos trabajan en tiendas y empresas.
-- id: 0f388d7f35074581b630f5ab1e1bd9a1
+- id: 18844ad2-131d-4076-ae02-fa31255a8a8a
   zh-hans: 我和几个同学一起搞家教，
   pinyin: Wǒ hé jǐ gè tóngxué yīqǐ gǎo jiājiào,
   en: Me and a few students together do home teaching,
   es: Yo trabajo como tutor con algunos estudiantes.
-- id: 432f990bdbba4f278b1219510ed6f9d3
+- id: 40abfad1-ed8c-4cea-820b-899d3aa019d3
   zh-hans: 我们组织了一个家教小组，
   pinyin: wǒmen zǔzhīle yīgè jiājiào xiǎozǔ,
   en: we have organised a small home teaching group,
   es: Organizamos un grupo de tutoría.
-- id: 170f78356bd94827b6620696d85bc3bc
+- id: 731c4e10-bb4e-4ec4-ab63-5fb321fe1cda
   zh-hans: 他们选我当组长。
   pinyin: tāmen xuǎn wǒ dāng zǔ zhǎng.
   en: and they have chosen me as the group leader.
   es: Me eligieron como líder.
-- id: 96a39f526d494e579c12e0b902df3d83
+- id: f2236560-c5fb-4bc8-acc7-646199c25c92
   zh-hans: 大家都开玩笑地称他为“打工头儿”。
   pinyin: Dàjiā dōu kāiwánxiào de chēng tā wèi “dǎgōng tóur”.
   en: Everyone has jokingly named him the “Head of Part-Time Work”.
   es: En broma lo llamaban "el tutor jefe".
-- id: 3a37bcf128ce4d6ab65dc6856604612f
+- id: f18c76d7-0c91-4347-9b2f-de09e483e065
   zh-hans: 我想你们打工并不都是为了
   pinyin: Wǒ xiǎng nǐmen dǎgōng bìng bù dōu shì wèi liǎo
   en: I guess your part-time work is actually not just to
   es: Creo que no todos trabajáis para
-- id: 683e165747e8458d897282d7a095ce6c
+- id: 2b703680-cd87-43ab-b60c-37d5861993ea
   zh-hans: 解决经济问题吧 ？
   pinyin: jiějué jīngjì wèntí ba?
   en: solve financial issues, right?
   es: resolver sus problemas financieros, ¿verdad?
-- id: 3cfea644fa17428cbe7df87fa5c37817
+- id: f2869414-a7ad-41ab-8c62-0e542af34423
   zh-hans: 对。
   pinyin: Duì.
   en: That’s right.
   es: Sí que lo hacen.
-- id: efe2507e6fc14b95ae064988a0545782
+- id: 3f556cbd-679f-47d2-aabb-28eeee6b0079
   zh-hans: 很多学生是为了早点儿到社会上去锻炼自己，
   pinyin: Hěnduō xuéshēng shì wèile zǎodiǎnr
   en: Many students for the purpose of forging themselves in society early,
   es: Muchos estudiantes lo hacen para conseguir experiencia laboral.
-- id: 37dca69e4cc14a46904f6475d824efda
+- id: 7e460a82-d963-4d71-bdbb-76da31630914
   zh-hans: 得到一些工作经验。
   pinyin: dédào yīxiē gōngzuò jīngyàn.
   en: obtain a few part-time work experiences.
   es: Quieren adquirir experiencia laboral.
-- id: 37501a059e3541589b87996666f2dbc1
+- id: a2532544-3579-45e8-b9ff-dc1bc1508054
   zh-hans: 有的学生想知道什么工作适合自己。
   pinyin: Yǒu de xuéshēng xiǎng zhīdào shénme gōngzuò shìhé zìjǐ.
   en: Some students want to know what work suits them.
   es: Algunos estudiantes quieren saber qué tipo de trabajo es adecuado para ellos.
-- id: cbfcdc97ed48432aa8b996527c73acf7
+- id: 64fb39ca-f537-48b8-a76d-99681767b810
   zh-hans: 不过，
   pinyin: Bùguò,
   en: However,
   es: Sin embargo.
-- id: 753bd4ee03d34d8f957479d6596e852b
+- id: 8ec9e709-3be8-446d-ad44-db4d38d1bccb
   zh-hans: 对城市低收入的家庭和很多农民家庭来说，
   pinyin: duì chéngshì dī shōurù de jiātíng hé hěnduō nóngmín jiātíng lái shuō,
   en: for urban low-income families and many rural families,
   es: Para las familias de bajos ingresos de la ciudad y muchas familias de agricultores
-- id: 36757de4b59941d696c160fe968fc3bf
+- id: 092bd085-820c-4559-9b33-5e74ea73a34a
   zh-hans: 每年拿出那么多的钱来培养一个大学生，
   pinyin: měinián ná chū nàme duō de qián lái péiyǎng yīgè dàxuéshēng,
   en: every year taking out so much money for cultivating a unversity student,
   es: gastar tanto dinero cada año para educar a un estudiante universitario
-- id: eab4487886cf4148b8fd0da5e411443e
+- id: f6fa2ea2-e184-4e91-a25e-475993de3350
   zh-hans: 确实是一个很重的负担，
   pinyin: quèshí shì yīgè hěn zhòng de fùdān,
   en: is indeed a heavy burden,
   es: es sin duda una carga muy pesada.
-- id: ab505e42aa9c472e8f6ffdc175fa7a04
+- id: e4bc1e7d-28d8-4cea-8eff-90f7a9fa90c1
   zh-hans: 所以，这些家庭的孩子
   pinyin: suǒyǐ, zhèxiē jiātíng de háizi
   en: so, these families’ children
   es: Por eso, los hijos de estas familias
-- id: 8a4f47680d9c4b4cad61f73daa5df3a1
+- id: 8ff713d4-f468-4c91-b06f-02ffab45f379
   zh-hans: 大部分是靠向银行申请贷款
   pinyin: dà bùfèn shì kào xiàng yínháng shēnqǐng dàikuǎn
   en: for the most part rely on applying for bank loans
   es: La mayoría de los hijos de estas familias recurren a solicitar préstamos a los bancos
-- id: a80cf181a47446eaad6bb49d98d62640
+- id: 60a7f075-beab-447a-9960-269b6ef2c55b
   zh-hans: 和打工挣钱来完成自己的学习的。
   pinyin: hé dǎgōng zhèng qián lái wánchéng zìjǐ de xuéxí de.
   en: and part-time work to earn money to complete their studies.
   es: y trabajar para ganar dinero para completar sus estudios.
-- id: 80ec721ba70b43d7a0dfda5b4343d6bf
+- id: 3a80e04e-4fba-4d38-81e5-ab1759f86113
   zh-hans: 有打工经验的学生是不是更容易找到工作？
   pinyin: Yǒu dǎgōng jīngyàn de xuéshēng shì bùshì gèng róngyì zhǎodào gōngzuò?
   en: Is it easier for students with part-time work experience to find a job?
   es: ¿No es más fácil encontrar trabajo para los estudiantes con experiencia laboral?
-- id: 6daa09ec088e4be4bcfefa96a196e000
+- id: 8066dc79-99c7-46f4-b131-a1b40c1f6324
   zh-hans: 也许是这样。
   pinyin: Yěxǔ shì zhèyàng.
   en: Perhaps this is the case.
   es: Puede que sí.
-- id: bf936c25feab4564a7222b856901a64a
+- id: 7b8dd08e-3c29-430e-bac2-3042d1d3701f
   zh-hans: 打过工的学生在生活经验上，
   pinyin: Dǎguò gōng de xuéshēng zài shēnghuó jīngyàn shàng,
   en: Students who have part-time work experience,
   es: Los estudiantes que han trabajado a tiempo parcial tienen más experiencia en la vida
-- id: 427a40401b5c42b3acfe18087fc6804d
+- id: ca17590d-b8c3-4994-8517-8fa92c200e51
   zh-hans: 在工作能力上，
   pinyin: zài gōngzuò nénglì shàng,
   en: in terms of their work abilities,
   es: En términos de capacidad laboral, los
-- id: aaa1adc4d02144388880bbc7d64eb088
+- id: 232c47ee-615b-4bff-8257-0a4ad0a28ed9
   zh-hans: 一般都比没有打过工的学生强。
   pinyin: yībān dōu bǐ méiyǒu dǎguò gōng de xuéshēng qiáng.
   en: are generally stronger than students who do not have work experience.
   es: suelen ser mejores que los que nunca han trabajado.
-- id: 4fc5abd9f40d4d068e9049f5dc859472
+- id: a6238a23-6412-40b3-8d94-0daa29babaf4
   zh-hans: 招聘单位当然要考虑一点。但是，
   pinyin: Zhāopìn dānwèi dāngrán yào kǎolǜ yīdiǎn. Dànshì,
   en: Recruitment units will of course consider this. But,
   es: Sin duda, los responsables de la contratación lo tendrán en cuenta. Pero.
-- id: 62831ae147f64adcae206d43c5880516
+- id: 1f81a24a-e04f-42c2-9fab-df3a96d42455
   zh-hans: 如果学生因为打工的时间太多，
   pinyin: rúguǒ xuéshēng yīnwèi dǎgōng de shíjiān tài duō,
   en: if because a student has spent too much time doing part-time work,
   es: Si un estudiante trabaja demasiadas horas debido a un trabajo a tiempo parcial
-- id: 3e28342c15a3426697b728729268a942
+- id: 109fe862-5a5c-4020-addd-6e6d6bc69f6b
   zh-hans: 学生成绩差了，
   pinyin: xuéshēng chéngjī chàle,
   en: and their grades have suffered,
   es: las notas del estudiante empeoran.
-- id: 3f65f0ec033e4aa799a956c86f2ea9d7
+- id: 09107e46-07a3-4cba-bc3d-9f61909e4bdf
   zh-hans: 招聘单位也不会欢迎。
   pinyin: zhāopìn dānwèi yě bù huì huānyíng.
   en: the recruitment units will not be complimentary of this.

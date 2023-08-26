@@ -9,302 +9,302 @@ metadata:
   add-groups-en: {finished: false, issue_id: 435}
   add-groups-es: {finished: false, issue_id: 436}
 sentences:
-- id: 6730805e743e49e2b8bfa77712d42697
+- id: 698b03a3-e5c2-4f0b-9826-16e21ba378cb
   zh-hans: 在中国农村，
   pinyin: Zài Zhōngguó nóngcūn,
   en: In China’s rural areas,
   es: En la China rural.
-- id: 9157e1a14e1c487c8418f9a46785d308
+- id: 26fc7cc3-e906-447f-ab6b-44d4740e09df
   zh-hans: “重男轻女”和
   pinyin: “zhòngnán qīng nǚ” hé
   en: “valuing males and belittling females”and
   es: '"Preferir los hijos a las hijas" y'
-- id: 0eb81362328046e79a08f1419f63adac
+- id: c1b59176-5d7c-4898-9af0-46a3d739bde1
   zh-hans: “养儿防老”
   pinyin: “yǎng er fánglǎo”
   en: “raising children for the purpose of being looked after in old age”
   es: "criar hijos para la vejez"
-- id: 5684d2498d7d45bea63d5e39dc5d06c1
+- id: c4128a55-66b6-43b4-b45d-4f5ae2a32358
   zh-hans: 的生育观念影响是很深的。
   pinyin: de shēngyù guānniàn yǐngxiǎng shì hěn shēn de.
   en: the influence of these fertility concepts still runs deep.
   es: los conceptos de la maternidad son muy influyentes.
-- id: b46426e33bee40eebf77f86751791b33
+- id: 09933cb6-5110-421d-919f-aa376443cafe
   zh-hans: 一对夫妇如果只生女孩，
   pinyin: Yī duì fūfù rúguǒ zhǐ shēng nǚhái,
   en: If a husband and wife only have girls,
   es: Si una pareja sólo tiene niñas
-- id: f5a081d9c61a440f8ab53902ee5ae0bf
+- id: ef70cd47-9c84-47cb-8c26-e68999ff8181
   zh-hans: 即使已经有了两三个，
   pinyin: jíshǐ yǐjīng yǒule liǎng sān gè,
   en: even if they already have two or three,
   es: Incluso si ya tienen dos o tres
-- id: 4942bc1833784b20acb256a6a651204d
+- id: c96cb6f6-2561-4e57-aa74-8acea8abe64f
   zh-hans: 也还要继续生，
   pinyin: yě hái yào jìxù shēng,
   en: they will continue to have children,
   es: Seguirán dando a luz
-- id: e44774e91645482da9045820a13f7865
+- id: fd88003a-ff6a-4f3e-b735-7453ff0fdc41
   zh-hans: 总希望再生一个男孩。
   pinyin: zǒng xīwàng zàishēng yīgè nánhái.
   en: hoping that the next one will be a boy.
   es: Siempre quieren tener otro niño.
-- id: b55ea79253b744e78eae3c50387b7439
+- id: bb6cfee6-6087-4e9b-86e1-cc2296bb0ea3
   zh-hans: 这是因为长期以来中国是一个农业社会。
   pinyin: Zhè shì yīnwèi chángqí yǐlái Zhōngguó shì yīgè nóngyè shèhuì.
   en: This is because for a long time China was an agricultural society.
   es: Esto se debe a que China ha sido durante mucho tiempo una sociedad agrícola.
-- id: 6f2518fca96d48bb874e58556f7438b4
+- id: f62a7f6d-262d-4d1a-90dc-8b76154133bd
   zh-hans: 劳动力对家庭来说是非常重要的。
   pinyin: Láodònglì duì jiātíng lái shuō shì fēicháng zhòngyào de.
   en: The labour force was very important to the family.
   es: El trabajo es muy importante para las familias.
-- id: c8f5fa565c784fd6a6d2b4172e7319f1
+- id: d1220c52-71f8-4383-bd97-9bd05e4c2b2b
   zh-hans: 当父母老了、不能干活的时候，
   pinyin: Dāng fùmǔ lǎole, bùnéng gàn huó de shíhou,
   en: When parents got old, and could not work,
   es: Cuando los padres envejecen y no pueden trabajar.
-- id: 73d27b9df6a44d0f9dfbc2d000fb4a0c
+- id: 4831ff77-c862-42cb-8052-c8a2b475bfee
   zh-hans: 就要靠自己的子女来照顾。
   pinyin: jiù yào kào zìjǐ de zǐnǚ lái zhàogù.
   en: they relied on their children to take care of them.
   es: Dependen de sus hijos para cuidar de ellos.
-- id: 3297af2f74ad4483a875de032f298191
+- id: df6f0f48-79a2-4b59-8ed5-6371fc0d63e0
   zh-hans: 女儿又要嫁到别人家，
   pinyin: Nǚ’ér yòu yào jià dào biérén jiā,
   en: Daughters would marry into someone else’s home,
   es: Las hijas, a su vez, tienen que casarse con familias ajenas.
-- id: 99ab49c2c1794befba367e03639afd30
+- id: 0ab07574-7e34-4261-a139-a9b78ee05436
   zh-hans: 所以只能靠儿子，人们也就常说
   pinyin: suǒyǐ zhǐ néng kào érzi, rénmen yě jiù cháng shuō
   en: therefore only a son can be relied upon, so people also used to say
   es: Así que tienen que depender de sus hijos, y la gente solía decir
-- id: d4e52ecaa533498f8a72419448adcaa3
+- id: 3b705177-197e-4992-aefd-d9b32c67872a
   zh-hans: “多子多福”。
   pinyin: “duō zi duō fú”.
   en: “the more sons, the more happiness”.
   es: '"Muchos hijos, muchas bendiciones".'
-- id: 035d054859774141a2b8dfefa834f7c3
+- id: 50a8381c-55d3-4c99-a941-e1cc902571eb
   zh-hans: 如果没有儿子，
   pinyin: Rúguǒ méiyǒu érzi,
   en: If they have no sons,
   es: Si no tienes un hijo, te preocupas por lo que harás cuando seas viejo.
-- id: d737e60ebdd44b14ab958931fa68dec3
+- id: 96b09cb1-8ed1-40d3-8d99-3d93f71c7e54
   zh-hans: 就会担心自己老了以后怎么办。
   pinyin: jiù huì dānxīn zìjǐ lǎole yǐhòu zěnme bàn.
   en: then they will worry about what to do after they are old.
   es: Yo me preocuparía por lo que haría en mi vejez.
-- id: 08f5a8cc1f894ddbbb4b11419365e7c4
+- id: 9361dd8d-3282-4507-bddd-d199ee46fed2
   zh-hans: 今天社会发展了，情况也不同了，
   pinyin: Jīntiān shèhuì fāzhǎnle, qíngkuàng yě bùtóngle,
   en: Today society has developed, and the situation is not the same,
   es: Hoy, la sociedad se ha desarrollado y la situación es diferente.
-- id: da006c64315f46208f5983964f6c0e46
+- id: 5436ce44-539a-410b-8ac9-39585e0733a2
   zh-hans: 各种社会保险制度已经开始建立，
   pinyin: gè zhǒng shèhuì bǎoxiǎn zhìdù yǐjīng kāishǐ jiànlì,
   en: a variety of social insurance systems have already been established,
   es: Se han creado varios sistemas de seguridad social.
-- id: 07a1d0c61a0443fa996af33e1db91bfc
+- id: 9b7f66d6-cd3e-4f42-b6db-49d15b2294eb
   zh-hans: 老人也有了退休金，
   pinyin: lǎorén yěyǒule tuìxiū jīn,
   en: the elderly also have pensions,
   es: Las personas mayores tienen pensiones.
-- id: 5fa14ba94f4344b7b663e398a9454540
+- id: af2978ae-740c-4f81-9440-d3bd0580a825
   zh-hans: 不需要完全靠子女生活了。
   pinyin: bù xūyào wánquán kào zǐnǚ shēnghuóle.
   en: so their lives do not entirely depend upon their children.
   es: No tienen que vivir exclusivamente de sus hijos.
-- id: 29bb936b5f474a12a569abef83a79c95
+- id: 048d320f-2762-4077-995f-44e65fb201db
   zh-hans: 尽管社会上已经有了这些变化，
   pinyin: Jǐnguǎn shèhuì shàng yǐjīng yǒule zhèxiē biànhuà,
   en: Although society already made these changes,
   es: A pesar de todos estos cambios en la sociedad.
-- id: 5304ccfcf24c489a8d22f3eb60557b0d
+- id: a904899e-d46b-42a8-81e2-0de92faccd4e
   zh-hans: 这种“多子多福”的传统观念
   pinyin: zhè zhǒng “duō zi duō fú” de chuántǒng guānniàn
   en: this traditional concept of “more sons, more happiness”
   es: El concepto tradicional de "muchos hijos, muchas bendiciones"
-- id: 68ac7a4b203247ac9fbc4f83c39782e8
+- id: a167889b-3c31-4822-82c0-41c886bf62b2
   zh-hans: 在农村还是有很大的影响。
   pinyin: zài nóngcūn háishì yǒu hěn dà de yǐngxiǎng.
   en: still has a big influence in the rural areas.
   es: sigue siendo muy influyente en el campo.
-- id: 8a18a087180e4b1a8a8b1e6e4518db12
+- id: 11c90647-a0a9-4e1e-b67b-6eb1f76163c6
   zh-hans: 但是，
   pinyin: Dànshì,
   en: However,
   es: Sin embargo
-- id: a3624809a627495784ab637983b3f30d
+- id: 2cb568fc-5413-44bb-b40c-dd447be31ab1
   zh-hans: 城市里的年轻人对生育问题却有了新的想法。
   pinyin: chéngshì lǐ de niánqīng rén duì shēngyù wèntí què yǒule xīn de xiǎngfǎ.
   en: young people in the cities have a new view on the birth issue.
   es: los jóvenes de las ciudades tienen nuevas ideas sobre tener hijos.
-- id: 39b5da66800c49ada899f86ca5cf3050
+- id: 436ac133-fc5e-43d2-af99-57c0118fc767
   zh-hans: 根据最新的调查，
   pinyin: Gēnjù zuìxīn de diàochá,
   en: According to the latest survey,
   es: Según la última encuesta.
-- id: 6c78c59c75654aff816a873c3cd31b3c
+- id: 90e741b3-94f3-472b-b9cd-c88f45b1e332
   zh-hans: 在北京、上海、广州三个城市的居民中，
   pinyin: zài Běijīng, Shànghǎi, Guǎngzhōu sān gè chéngshì de jūmín zhōng,
   en: of the residents in three cities of Beijing, Shanghai and Guangzhou,
   es: Pekín, Shanghai y Guangzhou, el 21% de los residentes en estas tres ciudades
-- id: 982a235d8d4c4c85bb09073b237432bd
+- id: 38c8f74c-8fc4-4fd3-86c2-6b9fd2b8ad00
   zh-hans: 有百分之二十一的居民
   pinyin: yǒu bǎi fēn zhī èrshíyī de jūmín
   en: 21 percent of these residents were
   es: El 21% de los residentes
-- id: db8aeb2636084b9497ffae13c78551c2
+- id: a3328f2f-246e-405c-9813-5ce72cad3fce
   zh-hans: “赞成”或者“比较赞成”结婚不要孩子。
   pinyin: “zànchéng” huòzhě “bǐjiào zànchéng” jiéhūn bùyào háizi.
   en: “in favour” or “relatively in favour” of marriage without children.
   es: están "a favor" o "más a favor" de casarse sin hijos.
-- id: adc6b0a05fc54e86b572253a622567e0
+- id: 6ebad436-b86f-4084-a183-0bf2935f8e5a
   zh-hans: 有一部分年轻夫妇选择了“丁克家庭”。
   pinyin: Yǒu yībùfèn niánqīng fūfù xuǎnzéle “dīngkè jiātíng”.
   en: Some young husbands and wives have chosen to be a “DINK [double income no kids]
   es: Algunas parejas jóvenes han optado por convertirse en "Dinks".
-- id: 30ac06e9eccc427483c5b2ef14ff7730
+- id: 88713197-d5d4-46c9-b6d2-471c7325162f
   zh-hans: “丁克”是什么意思？它就是
   pinyin: “Dīngkè” shì shénme yìsi?
   en: family”. What does “DINK” mean?
   es: ¿Qué significa "Dink"? Significa
-- id: 2440a01d8d8a4c9ca2c8850d085ded1b
+- id: a8caaec4-1f41-4fb4-ab0a-698edb01705e
   zh-hans: 夫妇俩都工作、没有小孩的家庭。
   pinyin: Tā jiùshì fūfù liǎ dōu gōngzuò, méiyǒu xiǎohái de jiātíng.
   en: It means a family where both the husband and wife are working, with no children.
   es: Una familia en la que ambos cónyuges trabajan y no tienen hijos.
-- id: 58638d16d4024308bf87c5eef39e6527
+- id: 294eaef4-7607-4311-85a8-553e351bacc2
   zh-hans: 这种家庭是上个世纪六十年代在美国出现的，
   pinyin: Zhè zhǒng jiātíng shì shàng gè shìjì liùshí niándài zài Měiguó chūxiàn de,
   en: This kind of family appeared in America in the 60s of the last century,
   es: Este tipo de familia apareció en Estados Unidos en los años 60, y se ha hecho cada vez más común en las dos últimas décadas.
-- id: c57f1f3d22304da6934df2699b96a8a5
+- id: 0d8750e8-aeca-4b21-90c2-403fd778cb0e
   zh-hans: 近二十多年以来越来越多了。
   pinyin: jìn èrshí duō nián yǐlái yuè lái yuè duōle.
   en: and has become more and more common over the last twenty years.
   es: Se han hecho cada vez más comunes en los últimos 20 años aproximadamente.
-- id: 6ebbe6e0866148978a41b38a04d1eea3
+- id: 038e7d37-42a0-42cd-bf68-61c8b39370a3
   zh-hans: 现在，“丁克家庭”在中国也出现了，
   pinyin: Xiànzài,“dīngkè jiātíng” zài Zhōngguó yě chūxiànle,
   en: Now, the “DINK family” has also appeared in China,
   es: Ahora, las "familias Dink" también han aparecido en China.
-- id: f5ec6541e3d9470092e53b22cc212043
+- id: 4dc35414-b2a2-4470-af1e-102534731d2b
   zh-hans: 根据政府的调查，
   pinyin: gēnjù zhèngfǔ de diàochá,
   en: and according to government surveys,
   es: Según una encuesta del gobierno.
-- id: ade73f28b59240d481c3f8b68cf34fea
+- id: 43e24b7c-ff57-4768-85aa-56b0ed1a6093
   zh-hans: 在中国城市里“丁克夫妇”的总数
   pinyin: zài Zhōngguó chéngshì lǐ “dīngkè fūfù” de zǒngshù
   en: in Chinese cities the total number of “DINK couples”
   es: Según una encuesta gubernamental, el número total de "parejas Dink" en la China urbana
-- id: 6a20b3c0624f4bf38e771c830c50c5e1
+- id: 28c4d08f-6255-4b1e-8018-f63c8876739f
   zh-hans: 已达到六十多万对，
   pinyin: yǐ dádào liùshí duō wàn duì,
   en: has already reached more than 600,000,
   es: ha alcanzado más de 600.000 parejas.
-- id: 2751d3ffb19940d39c8c2494dc0427cc
+- id: 75ffa554-9095-4b3d-b4d9-975cbbbf67c0
   zh-hans: 以后大概还会更快地增加。
   pinyin: yǐhòu dàgài hái huì gèng kuài dì zēngjiā.
   en: and will only increase at a faster rate in the future.
   es: Es probable que el número aumente aún más rápido en el futuro.
-- id: e2c329657f6b4c3390924d1e04e0aeee
+- id: a245f32a-51ee-45fc-8849-e242757eace0
   zh-hans: “丁克家庭”实际上
   pinyin: “Dīngkè jiātíng” shíjì shang
   en: “DINK family” has actually
   es: 'De hecho, la "familia Dink'
-- id: cb854cd846ca4bd890f3d3f67f7caf36
+- id: 4e16d7cd-9391-48f0-8149-ab92ee71fa26
   zh-hans: 已经成为一种新的城市家庭的形式，
   pinyin: yǐjīng chéngwéi yī zhǒng xīn de chéngshì jiātíng de xíngshì,
   en: already become a new form or urban family,
   es: se ha convertido en una nueva forma de familia urbana.
-- id: b48d25a80b824634a4c162c19adc5845
+- id: e2fcabd0-84a1-4699-9e1e-bff9dd85f0cf
   zh-hans: 正从大城市向中小城市发展。
   pinyin: zhèng cóng dà chéngshì xiàng zhōngxiǎo chéngshì fāzhǎn.
   en: and is developing from large cities to small and medium-sized cities.
   es: 'La "familia Dink" se ha convertido en la práctica en una nueva forma de familia urbana, que se está desarrollando desde las grandes ciudades a las ciudades pequeñas y medianas.'
-- id: 22d4a18056864398b44104778716d25a
+- id: 66a98dc3-a0c0-4891-9216-1f7c8a4b3245
   zh-hans: 中国的“丁克家庭”有两大特点：
   pinyin: 'Zhōngguó de “dīngkè jiātíng” yǒu liǎng dà tèdiǎn:'
   en: 'China’s “DINK families” have two big characteristics:'
   es: 'Hay dos características principales de la "familia Dink" en China:'
-- id: 7e1898305626427991a3691560b47625
+- id: 2cc63065-a85c-4b73-9c9f-6b40d765e162
   zh-hans: 一是夫妇受过比较好的教育，
   pinyin: Yī shì fūfù shòuguò bǐjiào hǎo de jiàoyù,
   en: the first is that the couple have received a relatively good education,
   es: Una es que las parejas están mejor educadas y
-- id: 0ef8a05e6c1049deacef65633433e4f4
+- id: ab1aa329-5d2b-4d91-8ffb-34da9737ec0d
   zh-hans: 文化水平都比较高；
   pinyin: wénhuà shuǐpíng dōu bǐjiào gāo;
   en: and their literacy levels are relatively high;
   es: La primera es que las parejas están mejor educadas y tienen un nivel cultural más alto;
-- id: 7af1059fa98f4c038560849821b30cbb
+- id: e55a24d0-a4c5-42f7-9a56-d43d30c650a0
   zh-hans: 二是他们的收入也比较高。
   pinyin: èr shì tāmen de shōurù yě bǐjiào gāo.
   en: the second is that their incomes are also relatively high.
   es: La segunda es que tienen mayores ingresos.
-- id: 0e3c1b2d82c8428798347ba143c0f6a7
+- id: 0417facd-8121-48c6-99e3-6e64a59bd66d
   zh-hans: 对这种“结婚不要孩子”的生育观念，
   pinyin: Duì zhè zhǒng “jiéhūn bùyào háizi” de shēngyù guānniàn,
   en: Regarding this concept of “marriage without children”,
   es: 'Ya hay diferentes opiniones en la prensa sobre este concepto de "matrimonio sin hijos".'
-- id: 0d57085b3c1d4eec93dc45e918531cc7
+- id: 8dd7ed96-ed8a-4664-b5d6-ecd7dff36afd
   zh-hans: 报上已经有不同的看法了。
   pinyin: bào shàng yǐjīng yǒu bùtóng de kànfǎle.
   en: the newspapers already have a different view.
   es: Ya hay diferentes opiniones en la prensa.
-- id: 92d761c98bed4ed5b8a9b55100989fa4
+- id: 49d76d9f-5cf2-47d1-8bda-7f9fefef419f
   zh-hans: 不少人批评结婚不生孩子是违反自然规律的，
   pinyin: Bù shǎo rén pīpíng jiéhūn bù shēng háizi shì wéifǎn zìrán guīlǜ de,
   en: Many people criticize that marriage without children is a violation of natural law,
   es: Mucha gente critica la idea de que va contra las leyes de la naturaleza casarse y no tener hijos.
-- id: cf687819143f41c7b1affb497b6de54d
+- id: 48713795-4136-453b-8e46-a7e7994d9f80
   zh-hans: 对国家是不利的。
   pinyin: duì guójiā shì bùlì de.
   en: and is detrimental to the country.
   es: No es bueno para el país.
-- id: 102bbb1d5908460fa6edb1b67a83231b
+- id: 6cd071e1-a50d-4464-ae97-20c8e04f35c8
   zh-hans: 可是，有些刚从大学毕业的夫妇却认为
   pinyin: Kěshì, yǒuxiē gāng cóng dàxué bìyè de fūfù què rènwéi
   en: However, some couples who have just graduate from university nontheless consider
   es: Sin embargo, algunas parejas que acaban de terminar la universidad piensan que
-- id: 6ea3da4b6ecf42a7bc768b7848c65fd8
+- id: 84dddbe2-b5b3-418b-9194-384596530d2e
   zh-hans: 不要孩子是很实际的考虑，
   pinyin: bùyào háizi shì hěn shíjì de kǎolǜ,
   en: that not wanting children is a very practical consideration,
   es: no tener hijos es una consideración muy práctica.
-- id: 073cc3f1ca3b414cb049dc82ca909a75
+- id: 00b67100-e10c-4b7b-815e-224edc988cd7
   zh-hans: 对国家、对个人都是有利的。
   pinyin: duì guójiā, duì gèrén dōu shì yǒulì de.
   en: for the country, and for the benefit of the individual.
   es: beneficioso para el país y para el individuo.
-- id: 4c408ddaab1842ce89fe15bb26af8238
+- id: 218c1b1d-930d-4bb8-8921-bf15008e3f00
   zh-hans: 有些专家认为，
   pinyin: Yǒuxiē zhuānjiā rènwéi,
   en: Some experts think,
   es: Algunos expertos creen que
-- id: 79898cebeca44cfa897a61e70b24cca1
+- id: 4d3232c1-dd77-4eaa-8a68-1c5175ba5828
   zh-hans: 生不生孩子应该让年轻夫妇自由地选择。
   pinyin: shēng bù shēng háizi yīnggāi ràng niánqīng fūfù zìyóu de xuǎnzé.
   en: that having or not having children should be a decision for the young couple to make freely.
   es: Algunos expertos creen que las parejas jóvenes deben ser libres de elegir si quieren o no tener hijos.
-- id: d58949080e304954b4f6e34004c0697e
+- id: 720e1aa9-5f8c-43e7-86b7-67d3f84fcfef
   zh-hans: “丁克家庭”的出现，
   pinyin: “Dīngkè jiātíng” de chūxiàn,
   en: The appearance of “DINK families”,
   es: La aparición de las "familias Dink" demuestra que la sociedad es más respetuosa con las decisiones individuales.
-- id: c7f4272baf0e4def9e60a877d9be6d66
+- id: 6f9bdd57-4044-4b95-9e47-a55a81546f56
   zh-hans: 说明社会对个人的选择更尊重了。
   pinyin: shuōmíng shèhuì duì gèrén de xuǎnzé gèng zūnzhòngle.
   en: shows that society is placing more importance of individual’s choice.
   es: La aparición de las "familias Dink" demuestra que la sociedad es más respetuosa con las decisiones individuales.
-- id: ee54612f48f0456ba2b53e56a2e01177
+- id: 7e70f36d-cd71-406a-9e21-c171673c41af
   zh-hans: 对“丁克家庭”，
   pinyin: Duì “dīngkè jiātíng”,
   en: Regarding “DINK families”,
   es: ¿Qué opinas de la "familia Dink"?
-- id: 49f606f9500c48b9ae28010b169ae2b3
+- id: 321e375f-cdc1-4367-badc-1e9b73940b6e
   zh-hans: 你有什么看法？
   pinyin: nǐ yǒu shénme kànfǎ?
   en: what are your thoughts?

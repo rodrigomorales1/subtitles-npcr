@@ -9,7 +9,7 @@ metadata:
   add-groups-en: {finished: false, issue_id: 852}
   add-groups-es: {finished: false, issue_id: 853}
 sentences:
-- id: e127a9b968c540cebb522692fdcc5312
+- id: 6666d9d7-2e37-424c-a4c0-b0d7c8cc8df3
   zh-hans: (1:1998)(2:年)，
   pinyin: (1:Yījiǔjiǔbā) (2:nián),
   en: In the (2:year) (1:1998),
@@ -19,12 +19,12 @@ sentences:
   pinyin: (1:Yījiǔjiǔ’èr) (2:nián),
   en: In the (2:y)ear (1:1992),
   es: En el (2:año) (1:1992),
-- id: 2c32eb281c144636a6869342f268e72d
+- id: e775356c-77dc-4e47-933b-920e64476fdf
   zh-hans: (1:胖:1)(2:阿姨:2)从(3:上海)的一家(4:纺织)(5:工厂)(6:下岗:4)了。
   pinyin: (1:pàng) (2:āyí) cóng (3:Shànghǎi) de yījiā (4:fǎngzhī) (5:gōngchǎng) (6:xiàgǎng) le.
   en: (1:fat) (2:auntie) was (6:laid off) from a (3:Shanghai) (4:textile) (5:factory).
   es: La (2:Tía) (1:Gordita) fue (6:despedida) de una (5:fábrica) (4:textil) de (3:Shanghai).
-- id: d5a9f51fdac04e0d8f1135af275e8531
+- id: b1da8e15-a7e9-475b-9435-5a042d0a0497
   zh-hans: 她(1:十九)(2:岁)(3:进)(4:厂)，
   pinyin: Tā (1:shíjiǔ) (2:suì) (3:jìn) (4:chǎng),
   en: She had (3:entered) at this (4:factory) when she was (1:19) (2:years old), and
@@ -34,132 +34,132 @@ sentences:
   pinyin: zài zhège (1:chǎng) (2:gàn) le (3:shíliù) (4:nián).
   en: had (2:worked) in this (1:factory) for (3:16) (4:years).
   es: (2:trabajó) en esta (1:fábrica) (3:dieciséis) (4:años).
-- id: 68816401eb334b5383b3dba18e9bbb72
+- id: 5ddd71bf-5bc3-49d4-97d5-d7e1490fd415
   zh-hans: 现在(1:下岗:4)了，
   pinyin: Xiànzài (1:xiàgǎng) le,
   en: Now that she had been (1:laid off),
   es: Ahora que la han (1:despedido),
-- id: 5cf4ff6dc5114737ada4c64bf10ccb7c
+- id: de65a0db-e8a8-4997-9f79-77d04b942e4d
   zh-hans: 她(1:真)不(2:知道)自己该怎么办。
   pinyin: tā (1:zhēn) bù (2:zhīdào) zìjǐ gāi zěnme bàn.
   en: she (1:really) didn’t (2:know) what to do.
   es: ella (1:realmente) no (2:sabe) qué hacer.
-- id: f3ac7cf2e5414468bd90569acbcbb37c
+- id: f60d46b3-52c0-4c93-8eff-1e3af7edf772
   zh-hans: (1:丈夫)是(2:工人)，(3:工资)也不(4:高)，
   pinyin: (1:Zhàngfū) shìgè (2:gōngrén), (3:gōngzī) yě bù (4:gāo),
   en: Her (1:husband) is a (2:worker), his (3:salary) is not (4:high),
   es: Su (1:marido) es (2:obrero) y su (3:sueldo) no es (4:alto),
-- id: ee0b5d2ce99b41f1a08b67ecd4507a97
+- id: c58e517d-3bca-4e00-86cd-3392f00a2a69
   zh-hans: (1:孩子)正在(2:上学)，
   pinyin: (1:háizi) zhèngzài (2:shàngxué),
   en: her (1:child) is currently (2:attending school),
   es: los (1:niños) están en la (2:escuela).
-- id: 39ba594315534e628ae5e5ae9ca47e39
+- id: 37d527c0-6dc4-4a20-bd7e-cc2a72beb8e6
   zh-hans: 一(1:家)(2:三口人)的(3:生活)(4:一下子)就(5:困难)多了。
   pinyin: yī(1:jiā) (2:sānkǒu rén) de (3:shēnghuó) (4:yīxià zi) jiù (5:kùnnán) duōle.
   en: the (3:lives) of the (1:family) (2:of three) have all (4:at once) become much more (5:difficult).
   es: La (3:vida) de una (1:familia) de (2:tres miembros) se ha vuelto muy (5:difícil) (4:repentinamente).
-- id: 9748e40a682042f4907cb2a23fa3af20
+- id: 955cf6ae-c56c-4599-83b2-3f8559cc13d0
   zh-hans: (1:胖:1)(2:阿姨:2)去过(3:不少)(4:招聘)的单位，
   pinyin: (1:Pàng) (2:āyí) qùguò (3:bu shǎo) (4:zhāopìn) de dānwèi,
   en: (1:Fat) (2:auntie) went to (3:many) work units that were (4:recruiting),
   es: La (2:Tía) (1:Gordita) ha ido a (3:muchos) (4:recrutamientos) para puestos de trabajo,
-- id: 4493f20ff72c4f888b90e6ffb76e376f
+- id: 535f3908-2ff5-4837-9a3a-205ecfc329a1
   zh-hans: 想找个(1:新)(2:工作)，可是，
   pinyin: xiǎng zhǎo gè (1:xīn) (2:gōngzuò), kěshì
   en: as she wanted to find a (1:new) (2:job), but
   es: ella quería encontrar un (1:nuevo) (2:trabajo), pero
-- id: dc10125cfd97451e8b068efcce637094
+- id: 55e6316f-b5df-4e54-9552-6c9a7de6cd9d
   zh-hans: 这些(1:单位)不是说她(2:年龄)(3:大)了点儿，
   pinyin: zhèxiē (1:dānwèi) bùshì shuō tā (2:niánlíng) (3:dà) le diǎnr,
   en: these (1:work units) either said that her (2:age) was a bit (3:high),
   es: en estos (1:puestos de trabajo) le decían o que su (2:edad) era un poco (3:alta)
-- id: 039f3773f7b449618a36a111e871299e
+- id: d5e659b9-c00a-4714-9088-6cccabf3f9db
   zh-hans: 就是说她(1:文化)(2:低)了点儿。
   pinyin: jiùshì shuō tā (1:wénhuà) (2:dī) le diǎnr.
   en: or that her (1:cultural level) was a little bit (2:low).
   es: o que su (1:nivel cultural) era un poco (2:bajo).
-- id: 1b92aa84f13d428592e47aa6497656e8
+- id: bdcbdc73-f015-483f-a2d0-95f9d9151d2a
   zh-hans: 她(1:总是)找不到(2:工作)。
   pinyin: Tā (1:zǒng shì) zhǎo bù dào (2:gōngzuò).
   en: She (1:always) couldn’t find a (2:job).
   es: Ella (1:siempre) no encontraba (2:trabajo).
-- id: 54426598c17d4b55a377d3569527d8fb
+- id: b946fec1-1d9f-4986-88fb-7401370607b2
   zh-hans: (1:胖:1)(2:阿姨:2)没有(3:失去:5)(4:信心:6)，
   pinyin: (1:Pàng) (2:āyí) méiyǒu (3:shīqù) (4:xìnxīn),
   en: (1:Fat) (2:auntie) didn’t (3:lose) (4:confidence),
   es: La (2:Tía) (1:Gordita) no (3:perdió) la (4:fe),
-- id: 036d9b879ace40bdac361ea45c7098dd
+- id: 2c714866-cd10-49fb-b8b3-8657ceaef61d
   zh-hans: 她(1:想)还是自己(2:招聘)自己吧，
   pinyin: tā (1:xiǎng) háishì zìjǐ (2:zhāopìn) zìjǐ ba,
   en: she (1:thought) she had better (2:recruit) herself,
   es: (1:pensó) que sería mejor (2:reclutarse) a sí misma,
-- id: 3cfa0359fee142bdb8213ff04ee8f697
+- id: feaa364d-63de-48cf-9fc2-56967d3e09ff
   zh-hans: 就先(1:摆)个小(2:摊子:7)，
   pinyin: jiù xiān (1:bǎi) gè xiǎo (2:tānzi),
   en: and at first (1:arranged) a small (2:stall),
   es: (1:puso) un (2:puesto).
-- id: 46af97341fd44974a125f3870c852cfa
+- id: 928cc4a2-4804-4fbf-9604-7af93f9f09dc
   zh-hans: (1:卖)些小孩(2:玩具:8)。
   pinyin: (1:mài) xiē xiǎohái (2:wánjù).
   en: (1:selling) some children’s (2:toys).
   es: (1:vendía) (2:juguetes) para niños.
-- id: bc7dcb3e31c146599eaf581659842c2b
+- id: d6f4dc76-cc17-4e3d-9c96-503a6496dbab
   zh-hans: 一天，有位(1:老)(2:先生)在买(2:玩具:8)的时候，
   pinyin: Yītiān, yǒu wèi (1:lǎo) (2:xiānshēng) zài mǎi (2:wánjù) de shíhou,
   en: One day, while an (1:old) (2:gentleman) was buying (2:toys),
   es: Un día, un (2:señor) (1:anciano) que estaba comprando (2:juguetes)
-- id: 8dbfaa30cbec4836a26eef8dd4d88aa7
+- id: c8df8cdc-7523-443d-bd62-3893365d93eb
   zh-hans: 对(1:胖:1)(2:阿姨:2)说：
   pinyin: 'duì (1:pàng) (2:āyí) shuō:'
   en: 'he said to (1:fat) (2:auntie):'
   es: 'le dijo a La (2:Tía) (1:Gordita):'
-- id: b692d2d32aaf427e8798d211f14ba57e
+- id: d67d892a-6d26-4853-8ae9-950050a2a82a
   zh-hans: “你(1:要是)再(2:卖)些(3:文具:3)，
   pinyin: '"Nǐ (1:yàoshi) zài (2:mài) xiē (3:wénjù),'
   en: '"(1:If) you (2:sell) some (3:stationery),'
   es: '"(1:Si) (2:vendieras) (3:artículos de papelería),'
-- id: 673dfdd7243043f59e44d5041919c3b4
+- id: 3c04cb3a-fc16-486e-9c7e-8217ca9787b9
   zh-hans: 那对(1:小学生)就更方便了。”
   pinyin: 'nà duì (1:xiǎoxuéshēng) jiù gèng fāngbiànle."'
   en: 'then for the (1:pupils) it will be more convenient."'
   es: 'sería más conveniente para los (1:estudiantes de primaria)."'
-- id: e583047cfd694c3f9fc9477b8004c2b7
+- id: e1b6ecb9-b17b-4f69-bf6c-f50026face92
   zh-hans: 那位先生是(1:随便)说说的，
   pinyin: Nà wèi xiānshēng shì (1:suíbiàn) shuō shuō de,
   en: The gentleman was speaking (1:casually),
   es: El señor hablaba (1:casualmente),
-- id: 18f2ba324c0841e7969ebcc3196dc8f3
+- id: ace5c5c0-fe50-47e3-be00-0c5e7977e02d
   zh-hans: 可是，(1:胖:1)(2:阿姨:2)觉得这是个好(3:主意)，
   pinyin: kěshì, (1:pàng) (2:āyí) juéde zhè shìgè hǎo (3:zhǔyì),
   en: but, (1:fat) (2:auntie) thought this was a good (3:idea), and
   es: pero "La (2:Tía) (1:Gordita)" pensó que era una buena (3:idea), y
-- id: 237295041a5e4cc9a534938ee8d3c81a
+- id: 803c8434-b175-44af-b254-934efbc6ea68
   zh-hans: 她想(1:试一试)。
   pinyin: tā xiǎng (1:shì yī shì).
   en: she wanted to (1:give it a try).
   es: quiso (1:intentarlo).
-- id: cac80d5947b1416d96e4c41f7382b25f
+- id: 9bb0d415-36fe-4f64-9d7e-bf32fe18a049
   zh-hans: 她(1:租)了一间不到六(2:平方米)的(3:房子)，
   pinyin: Tā (1:zū) le yī jiàn bù dào liù (2:píngfāng mǐ) de (3:fángzi),
   en: She (1:rented) a (3:room) that was no more than six (2:square meters),
   es: (1:Alquiló) una (3:habitación) de menos de seis (2:metros cuadrados),
-- id: a163390ddaf5480497a634469deb06ea
+- id: 58d4bfaf-fc47-4d0e-bde7-8627d6ed56ba
   zh-hans: 开了一个“(1:胖:1)(2:阿姨:2)”(3:文具店:3)。
   pinyin: 'kāile yīgè "(1:pàng) (2:āyí)" (3:wénjùdiàn).'
   en: 'and opened "(1:Fat) (2:Auntie)’s" (3:stationery store).'
   es: 'abrió una (3:papelería) llamada "La (2:Tía) (1:Gordita)".'
-- id: f228e67a310b4551882141935c3cd789
+- id: 66db33ab-6d9e-4f9d-abfc-8d42533ae5df
   zh-hans: (1:胖:1)(2:阿姨:2)每天都早开门，晚(1:关门:9)，
   pinyin: (1:Pàng) (2:āyí) měitiān dōu zǎo kāimén, wǎn (1:guānmén),
   en: Everyday (1:fat) (2:auntie) opened early, (1:closed) late,
   es: La (2:Tía) (1:Gordita) abría temprano y (1:cerraba) tarde todos los días.
-- id: b44ca36cc1a64603b1cf83667654651f
+- id: aac78f0b-dd76-4d7b-8bcc-d1fc8d7c4969
   zh-hans: 对(1:小学生)(2:尤其)(3:热情)。
   pinyin: duì (1:xiǎoxuéshēng) (2:yóuqí) (3:rèqíng).
   en: and was (2:especially) (3:nice) to the (1:primary school students).
   es: hacia los (1:estudiantes de primaria), era (2:especialmente) (3:apasionada).
-- id: 46910b978e834964b4d520047c987214
+- id: 51997e59-f25d-4bba-a75a-14006347e4a2
   zh-hans: 她卖的(1:文具:3)，
   pinyin: Tā mài de (1:wénjù),
   en: As for the (1:stationery) that she sold,
@@ -169,27 +169,27 @@ sentences:
   pinyin: (1:cónglái bu) duō shōu (2:háizimen) yī fēn qián.
   en: she would (1:never) overcharge one cent from the (2:children).
   es: (1:nunca) cobraba a los (2:niños) ni un céntimo más.
-- id: afcf0b3c89bf4213abd12ed6dfc53daa
+- id: 300bd22b-d3de-4881-b622-1fae81ec904c
   zh-hans: 要是孩子(1:忘)了(2:找钱)，
   pinyin: Yàoshi háizi (1:wàng) le (2:zhǎoqián),
   en: If children (1:forgot) to take their (2:change),
   es: Si los niños se (1:olvidaban) del (2:vuelto),
-- id: b06a71e17fe4406e8380ace2ee39b75f
+- id: 1ab8e292-8cc3-449c-ab54-81e50f581832
   zh-hans: 她就会(1:追:10)上去把钱找给孩子，
   pinyin: tā jiù huì (1:zhuī) shàngqù bǎ qián zhǎo gěi háizi,
   en: she would (1:chase after) them to give them their change,
   es: ella los (1:perseguía) y les daba el dinero y
-- id: aeaaa9fb7a864f72bfb3ddbbda0b8f05
+- id: b2cc365b-840d-489b-b7c3-54a54ccb349a
   zh-hans: 还要(1:告诉)他们，
   pinyin: hái yào (1:gàosu) tāmen,
   en: and also (1:tell) them,
   es: les (1:decía) (a los niños)
-- id: ab97ea6c9ad449a0939c5913ae4ed8f4
+- id: ccca3b80-549d-4374-8aab-bbada93dce6d
   zh-hans: (1:办)(2:事情)不能这样(1:马虎)。
   pinyin: (1:bàn) (2:shìqíng) bùnéng zhèyàng (1:mǎhǔ).
   en: when (1:doing) (2:things) they cannot be so (1:careless).
   es: Al (1:hacer) las (2:cosas), no se puede ser tan (1:descuidado).
-- id: 78c4ecb84cec434492d91709b4ab5844
+- id: 4c108c61-8510-4930-9da0-a71a63f4e47a
   zh-hans: (1:小学生)有时
   pinyin: (1:Xiǎoxuéshēng) yǒushí
   en: The (1:pupils) would sometime
@@ -199,27 +199,27 @@ sentences:
   pinyin: bǎ (1:shūbāo) shénme de (2:wàng) zài (3:diàn) lǐ,
   en: (2:forget) their (1:bags) and things inside the (3:store),
   es: (2:olvidan) sus (1:mochilas) y otras cosas en la (3:tienda),
-- id: 87e10bb959fe43d286884ecea5c08001
+- id: 015e1afc-a6e6-4455-bd1a-6f08c03353ad
   zh-hans: 她会给他们(1:保管:12)好，
   pinyin: tā huì gěi tāmen (1:bǎoguǎn) hǎo,
   en: and she would (1:take care) of them,
   es: ella los (1:guardaba) bien,
-- id: 90597e48b70f4ef185cbf516d8fb63e7
+- id: 195aaf1a-6920-4273-906c-05533188ff06
   zh-hans: (1:等)他们(2:来)(3:取)。
   pinyin: (1:děng) tāmen (2:lái) (3:qǔ).
   en: and (1:wait) until they (2:came) to (3:pick) them (3:up).
   es: y (1:esperaba) a que (2:vengan) a (3:recogieran).
-- id: fb1e8a6de0554f56a663df73cc91181e
+- id: bf717897-8723-4393-854d-ddaad453c4ce
   zh-hans: 有个(1:小学生)还给(2:晚报:13)写了信，
   pinyin: Yǒu gè (1:xiǎoxuéshēng) huán gěi (2:wǎnbào) xiěle xìn,
   en: A (1:pupil) wrote a letter to the (2:evening newspaper),
   es: Un (1:estudiante de primaria) escribió una carta al (2:diario de la tarde),
-- id: e5dbb7cf563b4ffba810839c8d268303
+- id: 952fe6c5-3012-420f-9adb-5b4107cb8862
   zh-hans: 赞扬(1:胖:1)(2:阿姨:2)的服务(3:态度:14)。
   pinyin: zànyáng (1:pàng) (2:āyí) de fúwù (3:tàidù).
   en: praising (1:fat) (2:auntie)’s service (3:attitude).
   es: elogiando la (3:actitud) de servicio de La (2:Tía) (1:Gordita).
-- id: 3622ab24c3024c7f88a046c529fac036
+- id: 698bced6-9501-41eb-af41-8a51f6ce9716
   zh-hans: (1:附近:15)的(2:中)(3:小)(4:学生)
   pinyin: (1:Fùjìn) de (2:zhōng) (3:xiǎo) (4:xuéshēng)
   en: (1:Nearby) (2:middle school) and (3:primary school) (4:students)
@@ -229,67 +229,67 @@ sentences:
   pinyin: dōu lái dào zhèr mǎi (5:dōngxi),
   en: came to buy (5:things), and
   es: vienen aquí a comprar (5:cosas),
-- id: a6910fbf05884a8d8dae6aa3c9767ec9
+- id: 31c1b621-f0ba-43a5-a05f-c217fb5534bf
   zh-hans: “(1:胖:1)(2:阿姨:2)”(2:文具店:3)的(3:生意)(4:一天比一天)好。
   pinyin: '"(1:pàng) (2:āyí)" (3:wénjùdiàn) de (3:shēngyì) (4:yītiān bǐ yītiān) hǎo.'
   en: '"(1:Fat) (2:Auntie)’s" (3:stationery store) (3:business) improved (4:day-by-day).'
   es: 'El (3:negocio) de la (3:papelería) "La (2:Tía) (1:Gordita)" va (4:cada día) mejor.'
-- id: 9b66e83482c6458f958d9578d9f18284
+- id: c09a34a0-573d-4250-8c32-ebde986dba0a
   zh-hans: 现在，“(1:胖:1)(2:阿姨:2)”(3:文具店:3)已经(4:发展)起来了，
   pinyin: Xiànzài, “(1:pàng) (2:āyí)” (3:wénjùdiàn) yǐjīng (4:fāzhǎn) qǐláile,
   en: Now, “(1:Fat) (2:Auntie)’s” (3:stationery store) has (4:developed),
   es: Ahora la papelería "La (2:Tia) (1:Gordita)" ha (4:crecido),
-- id: b71d691776bf4a6d9f525426bb1a20b8
+- id: 306a2bf0-d2fa-4403-baed-60a228070f70
   zh-hans: 她开了第一家(1:连锁店:16)，
   pinyin: tā kāile dì yījiā (1:liánsuǒdiàn),
   en: she has opened her first (1:chain store),
   es: Ha abierto su primera (1:cadena de tiendas),
-- id: 4c3a3c5230cc47cc89aa5c2ca444b0a8
+- id: 9429452f-b479-4899-a9f2-866982352158
   zh-hans: 招聘了六位(1:下岗:4)(2:女工:17)。
   pinyin: zhāopìnle liù wèi (1:xiàgǎng) (1:nǚgōng).
   en: and hired six (1:laid-off) (1:female workers).
   es: ha contratado a seis (2:trabajadoras) (1:despedidas).
-- id: 45a4193ea8844e808b4da94a4a64f4b2
+- id: f7e7d084-0b20-46ae-9e2c-8e61712af4c9
   zh-hans: (1:胖:1)(2:阿姨:2)家也比以前(3:富裕:18)多了，
   pinyin: (1:Pàng) (2:āyí) jiā yě bǐ yǐqián (1:fùyù) duōle,
   en: (1:Fat) (2:auntie)’s family is also more (3:wealthy) than before,
   es: La familia de La (2:Tía) (1:Gordita) es mucho más (3:rica) que antes,
-- id: f8378e5e645447158584f171fa1ea8c0
+- id: 8240b371-68ac-4913-b34c-3e36f7fef7f6
   zh-hans: 可是她(1:仍然)过着(2:勤俭)(3:朴素)的生活。
   pinyin: kěshì tā (1:réngrán) guòzhe (2:qínjiǎn) (3:púsù) de shēnghuó.
   en: but she (1:still) lives a (2:hardworking) and (3:simple) life.
   es: Pero ella (1:sigue) llevando una vida (2:frugal) y (3:sencilla).
-- id: ae602c3f0287463fb317f5166568f115
+- id: a11adfde-9012-4d62-9e0e-af55b30795f0
   zh-hans: 有人建议她买(1:房子)。
   pinyin: Yǒurén jiànyì tā mǎi (1:fángzi).
   en: Someone suggested she buy a (1:house).
   es: Alguien le sugirió que se comprara una (1:casa).
-- id: dd48f2813f694090a88ff9965cdf5ee9
+- id: c36ab41e-fcb5-4978-8a5f-a78a755768f2
   zh-hans: 她说：“(1:现在)还不能买(2:房子)，
   pinyin: 'Tā shuō: "(1:Xiànzài) hái bùnéng mǎi (2:fángzi),'
   en: 'She said: "(1:Now) still can not buy a (2:house), as'
   es: 'Ella respondió: "(1:Ahora) aún no puedo comprar una (2:casa),'
-- id: 5e46eeb291214790af2177a52f9dca1c
+- id: f32d6b41-6648-4450-ab6a-826b60bdc7e7
   zh-hans: 我打算开一家‘(1:胖:1)(2:阿姨:2)’(3:文具:3)(4:超市:19)，
   pinyin: wǒ dǎsuàn kāi yī jiā ‘(1:pàng) (2:āyí)’ (3:wénjù) (4:chāoshì),
   en: I plan to open a ‘(1:Fat) (2:Auntie)’s’ (3:stationery) (4:supermarket),
   es: voy a abrir un (4:supermercado) de (3:papelería) 'La (2:Tia) (1:Gordita)'.
-- id: e0bc70ed355744738bbbac1d21888b67
+- id: 5b92644d-8765-4a49-888a-6d28d05f9181
   zh-hans: 把(1:生意)做得更大些。
   pinyin: bǎ (1:shēngyì) zuò de gèng dà xiē.
   en: and make the (1:business) even bigger.
   es: y ampliaré mi (1:negocio).
-- id: 96d59f7255894a96b1271bb781294df6
+- id: 4309e72f-76d2-4b57-ba51-303f3fe17033
   zh-hans: 我(1:相信)，等(2:事业)(3:真正)(4:发展)起来了，
   pinyin: Wǒ (1:xiāngxìn), děng (2:shìyè) (3:zhēnzhèng) (4:fāzhǎn) qǐláile,
   en: I (1:believe), when the (2:business) has (3:truly) (4:developed),
   es: Yo (1:creo) que cuando el (2:negocio) se (4:desarrolle) (3:de verdad),
-- id: 375ee6cbc5624c3292dbfff3ff6b5bd9
+- id: a5325453-cdb8-42cc-b842-a2336e4f0575
   zh-hans: (1:房子)会有的，(2:车子)也会有的，
   pinyin: (1:fángzi) huì yǒu de, (2:chēzi) yě huì yǒu de,
   en: then will have a (1:house), and also a (2:car), and
   es: tendré una (1:casa) y un (2:coche).
-- id: f8b8c547e78d48419bee96dbcebdd2ed
+- id: deb4d195-57b1-45ac-add7-eb766f70aed6
   zh-hans: (1:生活)会更加(2:美好)。你说对不？”
   pinyin: (1:shēnghuó) huì gèngjiā (2:měihǎo). Nǐ shuō duì bù?”
   en: (1:life) will be much (2:better). Don’t you think?”

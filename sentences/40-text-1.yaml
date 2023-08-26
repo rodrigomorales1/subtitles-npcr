@@ -9,132 +9,132 @@ metadata:
   add-groups-en: {finished: true, issue_id: 780}
   add-groups-es: {finished: true, issue_id: 781}
 sentences:
-- id: 83707ba210f642358d2f856b3fb63c38
+- id: bf7b8fee-61a4-445c-af8b-935eb5f42426
   zh-hans: 有人提出(1:妇女:3)结婚以后，
   pinyin: Yǒurén tíchū (1:fùnǚ) jiéhūn yǐhòu,
   en: Some people have suggested that after (1:women) are married,
   es: Algunas personas sugieren que después de que una (1:mujer) se casa,
-- id: b2d205cfd5724fe5bcb6dfcd8f355820
+- id: 0a3a4e43-7aa8-4735-99b0-932ea4d96bbd
   zh-hans: 特别是有了孩子以后，
   pinyin: tèbié shì yǒule hái zǐ yǐhòu,
   en: and especially after they have children,
   es: especialmente después de tener hijos,
-- id: c893493464b24573ab1b85bcac8a0724
+- id: 92457f38-0244-479b-8a78-6c41c6235e5d
   zh-hans: 应该回到家里做“(1:全职:2)太太”，
   pinyin: yīnggāi huí dào jiālǐ zuò “(1:quánzhí) tàitài”,
   en: they should stay home to be “(1:full time) wives”,
   es: deben volver a casa para ser "esposas a (1:tiempo completo)",
-- id: 8dab5ac7c5eb4e898839c105b8c27ae5
+- id: c3948ef9-bda6-4c6e-badc-ba671f90b80e
   zh-hans: 因为她们要(1:照顾:4)孩子，
   pinyin: yīnwèi tāmen yào (1:zhàogù) háizi,
   en: because they need to (1:look after) their children,
   es: porque tienen que (1:cuidar) de los niños y
-- id: 23a51ace2f314f049dcec46a2bf0075f
+- id: f79c490f-0158-4c2d-9f90-b4b467d7c759
   zh-hans: 要做(1:家务:5)。
   pinyin: yào zuò (1:jiāwù).
   en: and do the (1:housework).
   es: tienen que hacer las (1:tareas del hogar).
-- id: 937b413d9b5f47de88a87fb5cf4b8cd9
+- id: c2c5227e-17b1-4383-824a-a014ddb754fd
   zh-hans: 对这个问题，
   pinyin: Duì zhège wèntí,
   en: On this issue,
   es: Respecto a este tema,
-- id: 812a5b56c6fa4c6eb3add29a085af971
+- id: 45a63117-1d21-483d-9d37-8f6d8760ecc7
   zh-hans: 你们有什么看法？
   pinyin: nǐmen yǒu shénme kànfǎ?
   en: what are your thoughts?
   es: ¿Qué opinión tienen?
-- id: 3aafa09a3aee4e43945b66cf1f0e267d
+- id: 5a5aff09-a752-4bcf-a341-6180cc4c3910
   zh-hans: 这个主意很可能是(1:男人:6)想出来的吧？
   pinyin: Zhège zhǔyì hěn kěnéng shì (1:nánrén) xiǎng chūlái de ba?
   en: This idea must have come from a (1:man), right?
   es: Esta idea muy probablemente fue pensada por los (1:hombres) ¿no?
-- id: 2f8f7ea9829b49bb8e60da3ea796554d
+- id: 664a4796-80a0-4f44-bf40-e5cdf082254b
   zh-hans: (1:妇女:3)经过了多少个世纪的努力，
   pinyin: (1:Fùnǚ) jīngguòle duōshǎo gè shìjì de nǔlì,
   en: (1:Women) struggled for centuries,
   es: Después de siglos de esfuerzos de las (1:mujeres),
-- id: c82705e25dee4e2abe9f73d04ba56bf6
+- id: e9771a8c-f474-40cf-9f9b-a2642162f7d5
   zh-hans: 终于从家里走出来，
   pinyin: zhōngyú cóng jiālǐ zǒu chūlái,
   en: they finally were able to leave from home,
   es: finalmente han salido de las casas,
-- id: 4cf96a65e5b94aa19ce899b9678e1613
+- id: 8cbcf45e-747d-4d40-8c1a-6a0205b027c4
   zh-hans: 得到工作的(1:权利:7)，
   pinyin: dédào gōngzuò de (1:quánlì),
   en: gaining the (1:right) to work,
   es: para conseguir el (1:derecho) a trabajar, y
-- id: 8b787a7c42e24bf7a2047e6e897e8474
+- id: d8395b9e-ddb0-4549-be01-880edc716de0
   zh-hans: 而且能(1:发挥:8)“(2:半边天:1)”的(3:作用:9)。
   pinyin: érqiě néng (1:fāhuī) “(2:bànbiāntiān)” de (3:zuòyòng).
   en: and moreover (1:developing) the “(2:half the sky)” (3:effect).
   es: además puedan (1:desempeñar) el (3:papel) de "(2:la mitad del cielo)".
-- id: 698b92d6679d45e88bbc1e9c85786c37
+- id: 2decc61b-4529-431f-9c0c-522150f5f6a0
   zh-hans: 这是(1:社会:10)的进步。
   pinyin: Zhè shì (1:shèhuì) de jìnbù.
   en: This is (1:social) progress.
   es: Esto es progreso (1:social).
-- id: 6e1512e01d0f40a4b6397f67077ac1a3
+- id: c568e0cd-1d8c-4478-aed4-dc25a1621c32
   zh-hans: 现在怎么又要让(1:妇女:3)回到厨房去呢？
   pinyin: Xiànzài zěnme yòu yào ràng (1:fùnǚ) huí dào chúfáng qù ne?
   en: How can (1:women) now be made to go back to the kitchen?
   es: ¿Cómo podemos ahora volver a meter a las (1:mujeres) a la cocina?
-- id: bd20cc1afb0c45829024a4ccad4bf3b3
+- id: 3bc6369c-d5da-4f69-b471-cf3baa75a0fc
   zh-hans: 这(1:不只:11)是一些(2:男人:6)的看法，
   pinyin: Zhè (1:bùzhǐ) shì yīxiē (2:nánrén) de kànfǎ,
   en: This is (1:not only) the view of some (2:men),
   es: (1:No sólo) algunos (2:hombres) piensan así,
-- id: 1d0647cf80a847c6b0441d09da124355
+- id: b2fbe7f7-fd39-4a10-807a-3b3e1c44c781
   zh-hans: 有些(1:妇女:3)也有这样的看法。
   pinyin: yǒuxiē (1:fùnǚ) yěyǒu zhèyàng de kànfǎ.
   en: some (1:women) also think like this.
   es: algunas (1:mujeres) también tienen este punto de vista.
-- id: 1cf820e9f0e74f53a08a044159576713
+- id: af2dac53-630e-4032-ab5e-1600beb1a589
   zh-hans: 大家都知道，
   pinyin: Dàjiā dōu zhīdào,
   en: As we all know,
   es: Todos sabemos que
-- id: 4220d379b9a04905a78be08aa2b31896
+- id: e4446758-2544-4957-b1e2-983a95ec330b
   zh-hans: 城市里(1:几乎:12)都是(2:双职工:13)的(3:家庭:14)，
   pinyin: chéngshì lǐ (1:jīhū) dōu shì (2:shuāngzhígōng) de (3:jiātíng),
   en: (1:almost) all (3:families) in the city are on (2:double-incomes),
   es: en la ciudad, (1:casi) en todas las (3:familias) (2:ambos en la pareja trabajan),
-- id: 352955d5ce4f45489c4186f1d2559a6b
+- id: 003b19ae-b6b3-419a-8c6a-00046bf587f2
   zh-hans: 丈夫和妻子每天都要在外边工作，
   pinyin: zhàngfū hé qīzi měitiān dōu yào zài wàibian gōngzuò,
   en: husband and wife both have to work outside the home,
   es: los maridos y las mujeres tienen que trabajar fuera todos los días.
-- id: 94ae2faeae5048dfa6150139e16a66ce
+- id: 252a266f-e642-4fdd-98eb-4c8c44382b1d
   zh-hans: 他们没时间(1:照顾:4)孩子。
   pinyin: tāmen méi shíjiān (1:zhàogù) háizi.
   en: and they do not have time (1:to take care) of their children.
   es: No tienen tiempo para (1:cuidar) a sus hijos.
-- id: a8de10ebc16d4382a5df01ee731915be
+- id: c1b3b33a-1237-44cf-b69f-f4a2705c351e
   zh-hans: 没有一个母亲不关心自己的孩子，
   pinyin: Méiyǒu yīgè mǔqīn bù guānxīn zìjǐ de háizi,
   en: There's no mother that is not worried of her own children,
   es: No hay madre que no se preocupe por sus hijos.
-- id: 2441d2d35f3440ca98701c5f6ab0df6a
+- id: e2b9a81a-7d15-4897-89bc-bd9d7907a3c3
   zh-hans: (1:要是:15)(2:妇女:3)回家，
   pinyin: (1:yàoshi) (2:fùnǚ) huí jiā,
   en: but (1:if) (2:women) stay home,
   es: (1:Si) las (2:mujeres) van a casa,
-- id: e16b7fbb366f40b48041bcc0e283018d
+- id: 5c3ae6ba-e7ca-41d4-8166-e5e685a57900
   zh-hans: 孩子的教育问题就可以解决得更好。
   pinyin: háizi de jiàoyù wèntí jiù kěyǐ jiějuéde gèng hǎo.
   en: childrens’ educational issues can be much better resolved.
   es: el problema de la educación de los hijos podría resolverse mejor.
-- id: 5df1341da9aa424fa8c3fbeb81cc1a32
+- id: 97dba85f-2ccd-4d43-894e-1f92543b4d18
   zh-hans: 这不是(1:看不起:16)(2:妇女:3)，
   pinyin: Zhè bùshì (1:kànbùqǐ) (2:fùnǚ),
   en: This isn’t (1:looking down) on (2:woman),
   es: No se trata de (1:menospreciar) a las (2:mujeres).
-- id: 53a00f61397d424ca521b0e1dd5050a6
+- id: bd37ec38-0cb0-49fa-8e3a-934cec574b72
   zh-hans: 而是(1:为了:17)更好得(2:发挥:8)(3:妇女:3)的(4:作用:9)。
   pinyin: ér shì (1:wèile) gèng hǎo de (2:fāhuī) (3:fùnǚ) de (4:zuòyòng).
   en: rather it’s (1:for) a better (2:development) of the (4:effect) of (3:women).
   es: sino (1:para) (2:desempeñar) mejor el (4:papel) de la (3:mujer).
-- id: 836e709b05944c4fb108b98eb92ce81c
+- id: a1861bd0-df45-49a9-a713-1a2154a6554c
   zh-hans: 我认为，(1:照顾:4)孩子和做(2:家务:5)
   pinyin: Wǒ rènwéi, (1:zhàogù) háizi hé zuò (2:jiāwù)
   en: I think, (1:taking care) of children and doing (2:housework)
@@ -144,52 +144,52 @@ sentences:
   pinyin: (3:bùzhǐ) shì (4:fùnǚ) de shìr,
   en: (3:is not just) a matter for (4:women),
   es: (3:no es sólo) cosa de (4:mujeres),
-- id: 23c55a4c5eaf4ef282ad8acf85617afc
+- id: 62315a44-e751-428c-850b-1603e4506da7
   zh-hans: 也是(1:男人:6)的事儿。应该 (2:男女:18)都一样：
   pinyin: 'yěshì (1:nánrén) de shìr. Yīnggāi (2:nánnǚ) dōu yīyàng:'
   en: 'it is also a matter for (1:men). (2:Men and women) should be the same:'
   es: 'también es tarea de los (1:hombres). Debería ser igual para (2:hombres y mujeres):'
-- id: 8cbb821b82e14328badd2fd5e9704962
+- id: 9e314a47-9664-458b-ad66-39dd4ddceaa4
   zh-hans: (1:要是:15)愿意回家(2:照顾:4)孩子，就回家照顾孩子；
   pinyin: (1:Yàoshi) yuànyì huí jiā (2:zhàogù) háizi, jiù huí jiā zhàogù háizi;
   en: (1:if) one wants to stay at home to (2:take care) of the children, he or she stays at home and take care of the children;
   es: (1:Si) quieren ir a casa y (2:cuidar) de sus hijos, que vayan a casa y cuiden de sus hijos;
-- id: 823be103a28b438cb696fa9738332f2e
+- id: 1ff71d85-bf6a-494e-bfd1-c7824dc09d28
   zh-hans: (1:要是:15)愿意出来工作，就出来工作。
   pinyin: (1:yàoshi) yuànyì chūlái gōngzuò, jiù chūlái gōngzuò.
   en: (1:if) one wants to go out to work, he or she goes out to work.
   es: (1:si) quieren trabajar, que trabajen.
-- id: 5a13dc4d9c83420d88d28887b2bd5bca
+- id: b1020c8e-d7d2-48d1-b687-fa77591e74bb
   zh-hans: 如果大家都愿意回家(1:照顾:4)孩子，
   pinyin: Rúguǒ dàjiā dōu yuànyì huí jiā (1:zhàogù) háizi,
   en: If everyone wants to stay home and (1:take care) of children,
   es: Si todos quieren ir a casa a (1:cuidar) de los hijos y
-- id: 14f294cb454c4063ad1f20ee87d1bb44
+- id: cca574a6-79ee-4289-a00a-48226d9d6411
   zh-hans: 不愿意出来工作，怎么办？
   pinyin: bù yuànyì chūlái gōngzuò, zěnme bàn?
   en: and doesn’t want to go out to work, what then?
   es: no están dispuestos a trabajar ¿qué debemos hacer?
-- id: 67ff17e7ba4e4172958a3b4d798e1403
+- id: dfbbefe5-953f-4947-b192-cfc90e47f309
   zh-hans: 这不可能。不会没有人愿意出来工作。
   pinyin: Zhè bù kěnéng. Bù huì méiyǒurén yuànyì chūlái gōngzuò.
   en: This isn’t possible. No way nobody is willing to go out to work.
   es: Eso no es posible. No habrá nadie que no este dispuesto a salir a trabajar.
-- id: 48655b4f2d454068a18b25b7055052de
+- id: b259aa0f-8e4a-4e2c-a4bf-87a14398059a
   zh-hans: 有人还认为，中国人口太多，
   pinyin: Yǒu rén hái rènwéi, Zhōngguó rénkǒu tài duō,
   en: Some people also consider, China’s population is so large,
   es: También hay quien piensa que la población de China es demasiado grande y
-- id: da4c025aafd947e48f915a453e103bcc
+- id: 584021bd-90b2-48eb-812a-f32d5e37b61f
   zh-hans: (1:就业:19)的问题很大；(2:要是:15)(3:妇女:3)回家，
   pinyin: (1:jiùyè) de wèntí hěn dà; (2:yàoshi) (3:fùnǚ) huí jiā,
   en: which makes (1:employment) a big problem; (2:if) (3:women) stay at home,
   es: hay un gran problema de (1:empleo). (2:Si) las (3:mujeres) se van a casa,
-- id: 4d41991ecfcb4033afe7253926e97c02
+- id: c27e1cdc-76de-4a32-8d6f-73823a0bca83
   zh-hans: 这个问题就比较容易解决了。
   pinyin: zhège wèntí jiù bǐjiào róngyì jiějuéle.
   en: this problem becomes relatively easier to solve.
   es: este problema es fácil de resolver.
-- id: d361aaebcbac420c8972f76ccd752e79
+- id: 8465cab8-4de0-4a5f-ab2d-7ab957525c46
   zh-hans: (1:为了:17)解决(2:就业:19)问题，
   pinyin: (1:Wèile) jiějué (2:jiùyè) wèntí,
   en: In order (1:to) solve (2:employment) problems,
@@ -199,17 +199,17 @@ sentences:
   pinyin: jiù bìxū ràng (3:fùnǚ) huí jiā ma?
   en: (3:women) must be made to stay at home?
   es: ¿tenemos que dejar que las (3:mujeres) se vayan a casa?
-- id: 798d97e49a92402b8e6990d10399d6c2
+- id: e644aa04-251a-46f0-87c0-154106809d34
   zh-hans: 这不(1:公平:20)。
   pinyin: Zhè bù (1:gōngpíng).
   en: This is not (1:fair).
   es: Eso no es (1:justo).
-- id: 505b20f282204d5db4bfb842243eaf2c
+- id: f0ee6934-a29c-4fd6-8205-538be10503f7
   zh-hans: 我觉得，
   pinyin: Wǒ jué de,
   en: I think,
   es: En mi opinión,
-- id: 88b1be3e15e94374b47999173170fab9
+- id: bb932252-3235-438e-a6c6-61343f1bbf1e
   zh-hans: 现在首先要解决
   pinyin: xiànzài shǒuxiān yào jiějué
   en: we first need to solve
@@ -219,37 +219,37 @@ sentences:
   pinyin: (1:jiùyè) zhōng de (2:nánnǚ) (3:píngděng) wèntí.
   en: the problem of (3:equality) between (2:men and women) in (1:employment).
   es: el problema de la (3:igualdad) entre (2:hombres y mujeres) en el (1:empleo).
-- id: 38ed452e20fe4bd9bb1175b550e51c81
+- id: 123840eb-617b-41da-9188-77b03065e7c6
   zh-hans: 比如说，有的工作(1:男女:18)都可以干，
   pinyin: Bǐrú shuō, yǒu de gōngzuò (1:nánnǚ) dōu kěyǐ gàn,
   en: For example, some work both (1:men and women) can do,
   es: Por ejemplo, hay trabajos que pueden hacer tanto (1:hombres) como (1:mujeres),
-- id: 5e0757fd5dd74641bebe09c1c65b7807
+- id: 2a00c41c-e33a-4d78-bf22-313bc4f2579d
   zh-hans: 可是一些(1:单位:22)只要男的，不要女的。
   pinyin: kěshì yīxiē (1:dānwèi) zhǐyào nán de, bùyào nǚ de.
   en: however some (1:work units) only want men, and don’t want women.
   es: pero algunos (1:puestos de trabajo) sólo quieren hombres, pero no mujeres.
-- id: 8c098f01a9ef44f5951ed30285d4a859
+- id: 4dbc572f-13e2-4a6d-9239-9e15f8eae59b
   zh-hans: 我认为这是很不对的。
   pinyin: Wǒ rènwéi zhè shì hěn bùduì de.
   en: I consider this is really not correct.
   es: Creo que esto está muy mal.
-- id: 2a551620543b4313b597afea72db3976
+- id: eb702e61-1467-4701-82c2-6cf89f3cd424
   zh-hans: 你不认为有的工作(1:男人:6)来做更合适吗？
   pinyin: Nǐ bù rènwéi yǒu de gōngzuò (1:nánrén) lái zuò gèng héshì ma?
   en: You don’t think there are some jobs that are more suitable for (1:men)?
   es: ¿No cree que hay trabajos más adecuados para los (1:hombres)?
-- id: 11f4211902d1454a9ee3c46eda528733
+- id: d787663f-c3dd-41df-b0bf-6d71699baa7f
   zh-hans: 当然有，
   pinyin: Dāngrán yǒu,
   en: Of course there are,
   es: Claro que los hay,
-- id: b60e333eb0c44252b2a5a37e14d894e3
+- id: 0b093254-3f7f-40ca-92f6-56d3dc21f2b0
   zh-hans: 但是也有的工作(1:妇女:3)比(2:男人:6)做得更好。
   pinyin: dànshì yěyǒu de gōngzuò (1:fùnǚ) bǐ (2:nánrén) zuò de gèng hǎo.
   en: but there are also some jobs that (1:women) do better than (2:men).
   es: pero también hay trabajos que las (1:mujeres) hacen mejor que los (2:hombres).
-- id: 6b23c81d0b4d4b0a89d98bdb6a196136
+- id: ce690809-f648-4d37-ac73-1d38050a999c
   zh-hans: 重要的是，
   pinyin: Zhòngyào de shì,
   en: The most important thing is that
@@ -259,12 +259,12 @@ sentences:
   pinyin: (1:nánnǚ) dōu yīnggāi yǒu (2:gōngpíng) (3:jìngzhēng) de (4:jīhuì).
   en: both (1:men and women) have (2:fair) (4:opportunities) to (3:compete).
   es: (1:hombres y mujeres) deben tener una (4:oportunidad) (2:justa) de (3:competir).
-- id: a985583dcda84e2e9d2d9d512cf51de9
+- id: 6b1f121c-875f-49ec-a170-bd704bd4367e
   zh-hans: 最后，我们不能不谈到这个问题：陈老师，
   pinyin: 'Zuìhòu, wǒmen bùnéng bù tán dào zhège wèntí: Chén lǎoshī'
   en: 'Finally, we cannot not discuss this question: Teacher Chen,'
   es: 'Por último, no podemos dejar de hablar de esta cuestión: Profesora Chan,'
-- id: fe3eb2abdddb4a509a5bf4e366d4f1fc
+- id: 7472e980-d15b-44b4-91a6-45507d383b62
   zh-hans: 你认为究竟应该怎样
   pinyin: nǐ rènwéi jiùjìng yīnggāi zěnyàng
   en: how exactly do you think
@@ -274,27 +274,27 @@ sentences:
   pinyin: cáinéng shíxiàn (1:nánnǚ) (2:píngděng) ne?
   en: can we achieve the (2:equality) between (1:men and women)?
   es: poder lograr la (2:igualdad) entre (1:hombres y mujeres)?
-- id: 1f547303368f44278a5421820577fcfe
+- id: d2abe4aa-f7d1-4673-8f07-c4563aa0cfcc
   zh-hans: (1:只有:25)在各个(2:方面:26)
   pinyin: (1:Zhǐyǒu) zài gège (2:fāngmiàn)
   en: (1:Only) when, in every (2:aspect),
   es: (1:Sólo) cuando, en todos los (2:aspectos),
-- id: 1f547303368f44278a5421820577fcfe
+- id: d2abe4aa-f7d1-4673-8f07-c4563aa0cfcc
   zh-hans: (3:男女:18)都享受(4:同样:27)的(5:权利:7)，
   pinyin: (3:nánnǚ) dōu xiǎngshòu (4:tóngyàng) de (5:quánlì),
   en: (3:men and women) enjoy (4:equal) (5:rights),
   es: (3:hombres y mujeres) gocen de los (4:mismos) (5:derechos),
-- id: 7d05ee3c88f5430ab039e819aa027717
+- id: a2f5a574-1693-48ae-bebc-664366038ec7
   zh-hans: (1:男女:18)才能(2:平等:21)。
   pinyin: (1:nánnǚ) cáinéng (2:píngděng).
   en: can (1:men and women) be (2:equal).
   es: (1:hombres y mujeres) pueden ser (2:iguales).
-- id: 10b895c197c243d78f137ac1185fc8e4
+- id: 97a40e16-7bae-4b7d-a03a-f081cd4e3499
   zh-hans: 谢谢你们接受我的访问。
   pinyin: Xièxiè nǐmen jiēshòu wǒ de fǎngwèn.
   en: Thank you for accepting my interview.
   es: Gracias por aceptar mi entrevista.
-- id: 1ccaefeb4d124453bd743abb2b6b2122
+- id: 757fd35c-9bf6-4631-bdce-7d21356be0e7
   zh-hans: 客气。
   pinyin: Kèqì.
   en: You’re welcome.

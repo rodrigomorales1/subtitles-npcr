@@ -9,262 +9,262 @@ metadata:
   add-groups-en: {finished: false, issue_id: 764}
   add-groups-es: {finished: false, issue_id: 765}
 sentences:
-- id: 8921f1e35f974651941d36d8d1251060
+- id: 70ce0327-f521-4ee7-bd68-4e3ebbfdedaa
   zh-hans: 大为，吃饭了。
   pinyin: Dàwéi, chīfànle.
   en: Dawei, let’s eat.
   es: Dawei, es hora de comer.
-- id: d0a4f141c537445c9d50b0b4a228b195
+- id: a340c2b5-97b9-476b-8550-5729f608dafc
   zh-hans: 今天请你吃我做的菜。
   pinyin: Jīntiān qǐng nǐ chī wǒ zuò de cài.
   en: Today I’ve cooked for you.
   es: Hoy te invito a mi comida.
-- id: b00191a0c9164637ae67bdb2552dae9d
+- id: f5050477-81b0-4944-a829-a690a8d98b6f
   zh-hans: 亲爱的，你累了一个上午，
   pinyin: Qīn’ài de, nǐ lèile yīgè shàngwǔ,
   en: Darling, you’ve worked all morning,
   es: Cariño, has estado cansado toda la mañana.
-- id: 114a91515a124e4c99042aa6827b82f9
+- id: 8c0f00e5-0037-48b3-8b2c-c7edd0361a4f
   zh-hans: 饭终于做好了。
   pinyin: fàn zhōngyú zuò hǎole.
   en: and the food is finally ready.
   es: La comida por fin está lista.
-- id: a08b3263d6e64619af9ab8130b512817
+- id: f47aeb70-bbed-4ace-8fee-95d15b213674
   zh-hans: 谢谢。
   pinyin: Xièxiè.
   en: Thank you.
   es: Gracias.
-- id: 53bff4e0ba1e410b8b67d58d6a25ad20
+- id: f80689cd-c8b9-4645-9ac9-e18f09150909
   zh-hans: 你做了那么多好吃的，你真能干！
   pinyin: Nǐ zuòle nàme duō hào chī de, nǐ zhēn nénggàn!
   en: You’ve cooked so much nice food, you really are capable!
   es: Has hecho una comida deliciosa. ¡Eres tan capaz!
-- id: a0ddf3238f664a4dbde8c9e5b0d6247d
+- id: 4c206257-7ba0-4a27-abde-b1a11620c5ce
   zh-hans: 先别夸奖，还不知道味道怎么样呢。
   pinyin: Xiān bié kuājiǎng, hái bù zhīdào wèidào zěnme yàng ne.
   en: Don’t give praise just yet, you still don’t know how it tastes.
   es: No me elogies todavía. Aún no sé cómo sabe.
-- id: 376ac0f6fa104a67981b59afef742c05
+- id: 3e9cbbf7-1cbc-480d-b58f-1f5c520e28ff
   zh-hans: 你要多少米饭？
   pinyin: Nǐ yào duōshǎo mǐfàn?
   en: How much rice do you want?
   es: ¿Cuánto arroz quieres?
-- id: 235bfd4b12ed41f2a1d1b2fbb702b54f
+- id: ee158c61-9ce5-45c4-b55c-37303164907e
   zh-hans: 我一看见这么好的菜，就觉得特别饿。
   pinyin: Wǒ yī kànjiàn zhème hǎo de cài, jiù juéde tèbié è.
   en: As soon as I see such good food, I feel terribly hungry.
   es: Siento un hambre especial cuando veo un plato tan bueno.
-- id: 6aec6dfe7fe44af9a989a7a1425221c1
+- id: 241189be-0b38-47cb-a07f-49cd1e2c2e1b
   zh-hans: 我要满满的一碗，可能还不够。
   pinyin: Wǒ yào mǎn mǎn de yī wǎn, kěnéng hái bùgòu.
   en: I want one very full bowl, probably won’t be enough though.
   es: Tomaré un cuenco lleno, puede que no sea suficiente.
-- id: 4f90e44460664c6bb849f99c19278877
+- id: 7dc7c419-70f5-42da-83a3-4c2f674756ee
   zh-hans: 你想吃多少就吃多少，
   pinyin: Nǐ xiǎng chī duōshǎo jiù chī duōshǎo,
   en: You can have as much as you want,
   es: Puedes tomar todo el que quieras.
-- id: 6370441a7c1948c88ef1fcb1be1c3847
+- id: 7cafa6da-5935-4c1b-a034-185267828bc8
   zh-hans: 米饭多得很。
   pinyin: mǐfàn duō dé
   en: there is lots of rice.
   es: Hay mucho arroz.
-- id: 8b1d33549672404db9912fa0d96f1e3b
+- id: 0c66595a-7746-4ef2-97a9-ea63e35567c9
   zh-hans: 菜做得真好吃，
   pinyin: hěn. Cài zuò de zhēn hào chī,
   en: The food really has been cooked well,
   es: La comida es realmente buena.
-- id: 08127e321d8b43f293069ac5f1c12c1d
+- id: c269ea50-1901-41b8-81da-7906f090210b
   zh-hans: 你做菜的技术一天比一天好。
   pinyin: nǐ zuò cài de jìshù yītiān bǐ yītiān hǎo.
   en: your cooking stills are getting better every day.
   es: Cada día está mejor.
-- id: 9b89a25817a44275869d55e03f9356b2
+- id: 9d2c7cc8-3125-40aa-be7d-a1aa406dc20d
   zh-hans: 特别是这个炒鸡丁，
   pinyin: Tèbié shì zhège chǎo jī dīng,
   en: Especially this stir-fried chicken,
   es: Especialmente este pollo frito.
-- id: 310a8878a50846589efbff772ba54c8f
+- id: 9782cb4b-52d3-4e6f-8e8e-3e153f80d3c8
   zh-hans: 不但好吃，而且样子也很好看。
   pinyin: Tèbié shì zhège chǎo jī dīng, bùdàn hào chī, érqiě yàngzi yě hěn hǎokàn.
   en: not only is it delicious, it also looks great.
   es: No sólo es sabroso, también tiene buen aspecto.
-- id: 20163dd947374511b525b1f1f0838545
+- id: e425253d-2f34-4db8-b1ed-4ba376156bd6
   zh-hans: 这个菜比饭馆做的好得多，
   pinyin: Zhège cài bǐ fànguǎn zuò de hǎo de duō,
   en: This food is much better than a restaurant’s,
   es: Es mucho mejor que el del restaurante.
-- id: 9f7a6fa8dfa540989f532800633a3aef
+- id: c6d7e8e4-757d-4125-bc1e-2f969cb8b300
   zh-hans: 谢谢你，亲爱的！
   pinyin: xièxiè nǐ, qīn’ài de!
   en: thank you, darling!
   es: ¡Gracias, cariño!
-- id: fcdf350475334ba2936932cc03b0fdac
+- id: 8f7945d2-37db-46a8-bac3-90f3db47eb2f
   zh-hans: 好了，别谢了。
   pinyin: Hǎole, bié xièle.
   en: Ok, that’s enough thanking.
   es: Vale, no me des las gracias.
-- id: 212f32e5287c4377a5afe59de65b0ec5
+- id: 1e9db72a-c667-445b-8c98-fd5dbbe83a7c
   zh-hans: 你觉得好吃，就多吃一点。
   pinyin: Nǐ juéde hào chī, jiù duō chī yīdiǎn.
   en: If you think it is delicious, eat some more.
   es: Si crees que está bueno, come un poco más.
-- id: 2c98cabde318410c8516ff090c304f18
+- id: c39df125-b25c-4bb5-aa27-d574350d35c3
   zh-hans: 还有，你炒的这个大虾也好吃得很。
   pinyin: Hái yǒu, nǐ chǎo de zhège dà xiā yě hào chī de hěn.
   en: Your stir-fried prawns here are also very tasty.
   es: Y las gambas que has frito también están deliciosas.
-- id: df800906113741f7ae36bae3205d4a1b
+- id: f5d0cd57-db7a-4974-a627-d90e3f40f109
   zh-hans: 我看咱们结婚以后，可以在美国开一家饭馆，
   pinyin: Wǒ kàn zánmen jiéhūn yǐhòu, kěyǐ zài Měiguó kāi yījiā fànguǎn,
   en: I think after we are married, we could open a restaurant in America,
   es: Creo que cuando nos casemos, podemos abrir un restaurante en América.
-- id: b94f0aa5944242c4a63012892ecc9746
+- id: c7d198b2-b128-403d-baea-aa1fa66c771c
   zh-hans: 你当厨师，我当经理。
   pinyin: nǐ dāng chúshī, wǒ dāng jīnglǐ.
   en: you can be the chef, and I’ll be the manager.
   es: Tú serás el chef y yo el gerente.
-- id: b0d150b9b991417b9db5629fcb946cbf
+- id: ab6d075b-5bde-489b-adc0-25bcfd610db1
   zh-hans: 咱们一定能挣很多的钱。
   pinyin: Zánmen yīdìng néng zhēng hěnduō qián.
   en: We can definitely earn a lot of money.
   es: Ganaremos mucho dinero.
-- id: ff1ab96b83a14df78300b15992366848
+- id: a01bab11-7b09-4637-977d-789554373db6
   zh-hans: 哦，你是老板，让我给你打工，
   pinyin: Ó, nǐ shì lǎobǎn, ràng wǒ gěi nǐ dǎgōng,
   en: Oh, so you’ll be the boss, and I’ll work for you,
   es: Tú eres el jefe. Déjame trabajar para ti.
-- id: 01c0c8cf5e7949ddaf881cb8ffbcce81
+- id: d8fef4d3-46d5-4637-afb8-5707a4419501
   zh-hans: 我可不干。
   pinyin: wǒ kěbù gān.
   en: I won’t do it.
   es: No lo haré.
-- id: 2668639d4f154396b58702035c8d4800
+- id: 5548f8b3-5e20-4ace-9835-0c014803c0ff
   zh-hans: 这不是谁给谁打工，
   pinyin: Zhè bùshì sheí gěi sheí dǎgōng,
   en: This isn’t someone working for someone else,
   es: No se trata de quién trabaja para quién.
-- id: f3ca2e7fbe664f21b6c5c4ccaf516db5
+- id: cc600c43-bace-4c3d-a1a9-9716c8433877
   zh-hans: 而是咱们俩分工合作。
   pinyin: ér shì zánmen liǎ fēngōng hézuò.
   en: rather it’s us working together and dividing the work.
   es: Se trata de nosotros dos trabajando juntos.
-- id: 164c371b8d244338bb1f4d3205804d22
+- id: 36182fff-498b-49ef-87fe-099511945b65
   zh-hans: 你有技术，我懂管理，
   pinyin: Nǐ yǒu jìshù, wǒ dǒng guǎnlǐ,
   en: You have the technical skills, I understand management,
   es: Tú tienes las habilidades, yo tengo la gestión.
-- id: 7f24b9b1a1f64829b9079ff0d10e2e2d
+- id: 8287b1f2-af76-477a-ab38-6d8a43cca21e
   zh-hans: 咱们一起干，这有什么不好？
   pinyin: zánmen yīqǐ gàn, zhè yǒu shénme bù hǎo?
   en: what’s wrong with this?
   es: ¿Qué hay de malo en que trabajemos juntos?
-- id: 27c3477984454cd5a59b50f9b8256108
+- id: 99ec9c3f-63ae-4b55-a396-4d34723d3cc4
   zh-hans: 你看，我吃完一碗了。
   pinyin: Nǐ kàn, wǒ chī wán yī wǎnle.
   en: Look, I’ve finished my bowl of rice.
   es: Mira, he terminado mi tazón.
-- id: 6729971a90ef41e1b306dabd55595a27
+- id: b820a624-e004-4089-a121-95bc1794ae4f
   zh-hans: 我还想再来一碗，亲爱的！
   pinyin: Wǒ hái xiǎng zàilái yī wǎn, qīn’ài de!
   en: I would like another bowl, darling!
   es: ¡Me gustaría otro tazón, cariño!
-- id: 7a7da80198b1426d93b629614e6a6b39
+- id: e7319e47-9b3b-42f7-a5b0-09d276f1279a
   zh-hans: 你怎么一开口就是“亲爱的”？
   pinyin: Nǐ zěnme yī kāikǒu jiùshì “qīn’ài de”?
   en: How come whenever you open your mouth “darling” comes out?
   es: ¿Por qué siempre dices "cariño"?
-- id: 02ad3266fe7c4a80aa7aad5ed312e50e
+- id: b0a4c881-bbcc-41e2-b04d-b4f8bfcab312
   zh-hans: 你真是一天比一天话多了。
   pinyin: Nǐ zhēnshi yītiān bǐ yītiān huà duōle.
   en: You’re saying it more and more everyday.
   es: Cada día estás más hablador.
-- id: fcb3963a31a743c18b62aa80d2b3d1df
+- id: 6f75085c-daed-4f33-a6bd-cdc191484a94
   zh-hans: 我怎么了？
   pinyin: Wǒ zěnmele?
   en: What have I done?
   es: ¿Qué me pasa?
-- id: 60ecb30eb26b48a78f6653d83ffc0874
+- id: 0d58cacc-6e50-4fe7-a289-27cacc165b9c
   zh-hans: 你为什么不高兴呢？
   pinyin: Nǐ wèishéme bù gāoxìng ne?
   en: Why are you upset?
   es: ¿Por qué te enfadas?
-- id: 3f85cabf37874a9ea36bafb2e966be60
+- id: 7a9a45b2-f44c-4cfe-ac0e-b87624cf9c56
   zh-hans: 你不喜欢开饭馆？说实在的，
   pinyin: Nǐ bù xǐhuan kāi fànguǎn? Shuō shízài de,
   en: You don’t like opening a restaurant? Frankly speaking,
   es: ¿No te gusta llevar un restaurante? Sinceramente.
-- id: ea460ee6c8584f0a9a3fa4ec8788460f
+- id: 8b5a61a8-56a6-4771-8e97-6a8317c60187
   zh-hans: 这个主意很不错啊。
   pinyin: zhège zhǔyì hěn bùcuò a.
   en: this idea is not that bad.
   es: Es una gran idea.
-- id: c8829df6f48e4c64af7711c94b99f362
+- id: d2f5b2fa-4123-4cf7-a2e9-728543f309fc
   zh-hans: 你知道，有不少华人在美国开饭馆挣钱。
   pinyin: Nǐ zhīdào, bù shǎo huárén zài Měiguó kāi fànguǎn zhèng qián.
   en: You know, lots of Chinese have opened restaurants in America.
   es: Sabes, muchos chinos hacen dinero en América abriendo restaurantes.
-- id: a01b81fd7edc475d852c80d42eff72b4
+- id: f613b99a-0037-4237-bcb8-a46f2ecf8137
   zh-hans: 再说，中国菜世界有名，
   pinyin: Zàishuō, Zhōngguó cài shìjiè yǒumíng,
   en: Furthermore, Chinese food is world famous,
   es: Además, la comida china es famosa en todo el mundo.
-- id: 8dfe7634bca9463ea9261bc3af75a5c8
+- id: fc548d25-5952-46f9-bc68-36da0377d89b
   zh-hans: 让更多的西方人吃到你做的菜，
   pinyin: ràng gèng duō de xīfāng rén chī dào nǐ zuò de cài,
   en: so let's allow more western people to taste your food,
   es: Deja que más occidentales coman tu comida.
-- id: 0bccee1a6c68414b936a90a1a30e7d09
+- id: 19fdcef0-95ba-4e1a-8dde-96926e2bf513
   zh-hans: 更多地了解中国文化，这不挺好吗？
   pinyin: gèng duō de liǎojiě Zhōngguó wénhuà, zhè bù tǐng hǎo ma?
   en: and understand more about Chinese culture, isn’t this quite good?
   es: Y aprender más sobre la cultura china, ¿no es bueno?
-- id: 3e5e68bae32f4e6d841265f2e485a2a4
+- id: b944c07f-b873-42dc-a6c9-0375edf48753
   zh-hans: 挣钱的办法多得很，不必都去开饭馆。
   pinyin: Zhèng qián de fāngfǎ duō dé hěn, bùbì dōu qù kāi fànguǎn.
   en: There are many ways to make money, not just opening a restaurant.
   es: Hay muchas formas de ganar dinero, no hace falta abrir un restaurante.
-- id: 5ea31290024b4f06a108d5840253f8b4
+- id: 93f58759-7122-4ef7-818e-38d2652bb56a
   zh-hans: 我喜欢做饭菜，
   pinyin: Wǒ xǐhuan zuò fàncài,
   en: I enjoy cooking,
   es: Me gusta cocinar.
-- id: 17ed5daa04cf47b0a85d49031512869a
+- id: 5b001257-9465-4ca4-bb30-9fde5f4ddc41
   zh-hans: 可是，离厨师的水平还差得远呢！
   pinyin: kěshì, lí chúshī de shuǐpíng hái chà de yuǎn ne!
   en: but, my skills are far below a chef’s!
   es: ¡Pero ni siquiera se acerca a ser chef!
-- id: b839ef5169614b2191ac826b0fcbe932
+- id: a103acda-55a7-43a6-b400-71694c0c0fcc
   zh-hans: 厨师必须是专业学校毕业的。
   pinyin: Chúshī bìxū shì zhuānyè xuéxiào bìyè de.
   en: A chef must graduate from a professional school.
   es: Un chef debe graduarse en una escuela profesional.
-- id: 2d9215f852c84f70b67ec75149e1ac0b
+- id: ea9e5a67-5da8-434d-a7a9-61db11d70e85
   zh-hans: 还有，别总说“亲爱的”，好不好？
   pinyin: Hái yǒu, bié zǒng shuō “qīn’ài de”, hǎobù hǎo?
   en: Also, can you stop always saying “darling”, ok?
   es: Y no digas "cariño" todo el tiempo, ¿vale?
-- id: da587d5727d541bd9f10b474ff1aa406
+- id: 6c7965c7-ecbb-4674-a991-4cd64e7187b8
   zh-hans: 我听着，总觉得别扭。
   pinyin: Wǒ tīngzhe, zǒng juéde bièniu.
   en: Hearing this always makes me feel awkward.
   es: Siempre me suena raro.
-- id: 982ad8c00a3346229b2250073ae3c074
+- id: f35e6752-2857-4880-b30b-1c55fe816494
   zh-hans: 好吧，亲爱的——
   pinyin: Hǎo ba, qīn’ài de–
   en: Ok, darling…
   es: Bueno, querida--
-- id: b4189fbe164f494a9cb18f17a8402386
+- id: 1f4f6a15-0abd-47d3-832e-0cddee061495
   zh-hans: 你看，我恐怕改不了了。
   pinyin: nǐ kàn, wǒ kǒngpà gǎi bùliǎole.
   en: Look, I’m afraid I cannot change.
   es: Verás, me temo que no puedo cambiar.
-- id: 44849503f3964d08b4493fb3b7ddd692
+- id: ad508c98-3dc2-4039-8396-b4041093fa12
   zh-hans: 可是我真不懂，
   pinyin: Kěshì wǒ zhēn bù dǒng,
   en: But I really don’t understand,
   es: Pero no lo entiendo.
-- id: ab741aac77b04c539efc5a5e9feb09b8
+- id: ba16ed8b-ebc0-4fd3-bd92-84350046b4d2
   zh-hans: 你究竟为什么不愿意听这三个字呢？
   pinyin: nǐ jiùjìng wèishéme bù yuànyì tīng zhè sān gè zì ní?
   en: why exactly is it that you don’t like hearing these three characters?

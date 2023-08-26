@@ -9,199 +9,199 @@ metadata:
   add-groups-en: {finished: false, issue_id: 636}
   add-groups-es: {finished: false, issue_id: 637}
 sentences:
-- id: dd58918315744da2a4ea24fb47ce5c73
+- id: 66b82123-3556-46cb-8c69-05438a726db8
   zh-hans: 宋华，
   pinyin: Sòng Huá,
   en: Song Hua
-- id: 694d1b67a25b494d8636254ec8597bb9
+- id: bb90560d-f51e-485c-95ff-da8c9485f24a
   zh-hans: 学校让我和力波
   pinyin: xuéxiào ràng wǒ hé Lìbō
   en: the school has asked me and Libo
-- id: 191ef022a7e74128995b2c0aeb5268c0
+- id: 10415c61-f793-4697-b4e4-3cc69d83125d
   zh-hans: 参加中国通知识大赛。
   pinyin: cānjiā Zhōngguó tōng zhīshì dàsài.
   en: to participate in the China expert knowledge competition
-- id: e15705b1c5334abebe9fe4db47e367b1
+- id: 3033e595-bf41-4cb3-97e2-b5293792bfc4
   zh-hans: 我们虽然来中国一年多了，
   pinyin: Wǒmen suīrán lái Zhōngguó yī nián duō le,
   en: Although we have been here for over a year,
-- id: 0abaa58cc2944e7aa8775bcff5213449
+- id: dd13eb24-001c-476a-b043-213691900544
   zh-hans: 可是对中国的地理知识
   pinyin: kěshì duì Zhōngguó dì dìlǐ zhīshì
   en: but regarding knowledge on China's geoegraphy
-- id: 66b8d53123bd4ddcabd4bbd1b5685532
+- id: 3175557d-5842-45da-b3ce-3b63b649645f
   zh-hans: 还了解得不太多。
   pinyin: hái liǎojiě dé bù tài duō.
   en: we still don't know too much.
-- id: 19cadc9d41794e0a9c8aa1f26592d6ec
+- id: 0eee1979-fdc6-4e2f-8b61-857f4cab50c1
   zh-hans: 现在只有一个多月的时间准备了，
   pinyin: Xiànzài zhǐyǒu yīgè duō yuè de shíjiān zhǔnbèile,
   en: Now we only have one month to prepare,
-- id: 3c04fe10d70b4487bc28ae03c25e157a
+- id: b903bbc3-7ee1-47c0-b58d-b64cb6c78ca9
   zh-hans: 我们着急得吃不下饭睡不好觉。
   pinyin: wǒmen zhāojí de chī bù xiàfàn shuì bù hǎo jué.
   en: we are so nervous that we cannot ear not sleep.
-- id: 690e0b13b9fd4125bc651ce52cac11d6
+- id: 2e45212a-e6cb-44ce-b646-70d780557147
   zh-hans: 一共有多少人参加这次比赛？
   pinyin: Yīgòng yǒu duōshǎo rén cānjiā zhè cì bǐsài?
   en: In total, how many people will be participating in this competition?
-- id: 64f4c5293ed2401abe56acc46dde75db
+- id: f7765aae-7c25-4e2b-9933-6466be6763df
   zh-hans: 听说有二十几个人。
   pinyin: Tīng shuō yǒu èrshí jǐ gèrén.
   en: I heard it will be around twenty people.
-- id: d8b4b1724d334318932bd668ed078f32
+- id: 41b80348-5460-46f9-8f45-41338284b58c
   zh-hans: 不用着急。
   pinyin: Bùyòng zhāojí.
   en: No need to be nervous.
-- id: 149da4c8e85b425fb88cf7ddd2f9b881
+- id: 802d47ea-1997-415d-92fc-6d3fa20d9f7c
   zh-hans: 你们只要认真准备，
   pinyin: Nǐmen zhǐyào rènzhēn zhǔnbèi,
   en: As long as you both prepare seriously,
-- id: e93a6882570a4e61b03cf8bc24a01e2f
+- id: 347add9e-4380-4050-8d75-aac373da759b
   zh-hans: 就一定会得到好的成绩。
   pinyin: jiù yīdìng huì dédào hǎo de chéngjī.
   en: you definitely will get a good result.
-- id: 00b2da487acd46dabd6c150133d4311c
+- id: dba8bb36-e472-4a16-9314-8f680b2d3420
   zh-hans: 你帮我们准备一下，好吗？
   pinyin: Nǐ bāng wǒmen zhǔnbèi yīxià, hǎo ma?
   en: Could you help us prepare a little?
-- id: 584c10ed88bc4789b3a55a071a89ea0d
+- id: 61da6699-799d-459e-b532-b12374f3a24a
   zh-hans: 好啊。
   pinyin: Hǎo a.
   en: Ok.
-- id: 325c5c4ea12b4100aae90b6e6b240feb
+- id: 41e7d6e0-aedc-4783-9fba-ca5f49f20a78
   zh-hans: 我先问你们一个问题：
   pinyin: "Wǒ xiān wèn nǐmen yīgè wèntí:"
   en: "I'll first ask you a question:"
-- id: 265c05d4b5bc4216b3fbcac5190c4d37
+- id: 217310fe-4ec6-4b7a-b9bf-5f556824a7ca
   zh-hans: 中国很大，有多大呢？
   pinyin: Zhōngguó hěn dà, yǒu duōdà ne?
   en: China is very big, how big is it?
-- id: 3685a857d41840e8aec4718e5b282b2d
+- id: 13dd91f2-f437-4906-92e3-98e831c82397
   zh-hans: 中国的面积有九百六十万平方公里，
   pinyin: Zhōngguó de miànjī yǒu jiǔbǎi liùshí wàn píngfāng gōnglǐ,
   en: China's area is 9.6 million square kilometers,
-- id: 3ba4dcdb4d0949b182c4c0360c8bd244
+- id: c83c43e7-5e83-4040-8276-ce1c1f4f4b20
   zh-hans: 从东到西，
   pinyin: cóng dōng dào xi,
   en: from east to west,
-- id: 782aa610e89f40f8b97b2017d3521b64
+- id: 9b32e3a6-f8fc-45a7-9962-a0281da7afa0
   zh-hans: 有五千多公里，
   pinyin: yǒu wǔqiān duō gōnglǐ,
   en: more than five thousand kilometers,
-- id: 37f4aee5a3e04386bc5b7203341b333e
+- id: 86f492c5-a8f6-4302-96c7-465e6ffc35ca
   zh-hans: 从南到北，
   pinyin: cóng nán dào běi,
   en: from south to north,
-- id: db92afa3b40140c4a2204e87a98d77d7
+- id: fa2f92a7-6eb0-4723-b46c-83a12a026194
   zh-hans: 有五千五百多公里，
   pinyin: yǒu wǔqiān wǔbǎi duō gōnglǐ,
   en: more than five thousand five hundred kilometers,
-- id: 1ee3c95691904bdfa0ddab10a2c00233
+- id: dc4e41ce-2168-4f62-a558-f88e6bd734f7
   zh-hans: 是世界第三大国家。
   pinyin: shì shìjiè dì sān dà guójiā.
   en: it's the world's third largest country
-- id: e81fcc4e03a04564ba0ed984b5de4560
+- id: a3d1f765-c689-44c1-8c0e-faf8fd5a3c9a
   zh-hans: 对。
   pinyin: Duì.
   en: Correct.
-- id: ecfc8dd611bb44ef833b0697f3a49966
+- id: 49c131a1-18be-4aa8-9f33-7ae2a99f5ff8
   zh-hans: 俄罗斯最大。
   pinyin: Èluósī zuìdà.
   en: Russia is the largest (country in the world).
-- id: 62c310464f2d44c6b1a189d5f6c1feec
+- id: bfa85889-dcb4-4103-82bb-35f965b2b674
   zh-hans: 中国比美国大一点儿，
   pinyin: Zhōngguó bǐ Měiguó dà yīdiǎnr,
   en: China is a little larger than America,
-- id: f8a4e94e8f3f40dfaf2149c0c257bbba
+- id: 24da7bce-e243-4b2e-88d2-3929730e62c1
   zh-hans: 比加拿大小一点儿。
   pinyin: bǐ Jiānádà xiǎo yīdiǎnr.
   en: a little smaller than Canada.
-- id: 70f10b06a40b48c9a0ff088c1ae7ecff
+- id: 57ce038d-ceba-4ce6-af01-6f9b5aa10669
   zh-hans: 中国的人口有多少？
   pinyin: Zhōngguó de rénkǒu yǒu duōshǎo?
   en: What is China's population
-- id: 131d529f21cb496fad16547e9e3d8865
+- id: b63e510c-5a1d-4d0c-9b1f-513c0b84c94d
   zh-hans: 中国的人口，
   pinyin: Zhōngguó de rénkǒu,
   en: China's population
-- id: ee4fabdf2b084e86a076096118a886bf
+- id: 4daebaed-b2d6-4969-979d-230e55b6430b
   zh-hans: 包括大陆，台湾，香港和澳门，
   pinyin: bāokuò dàlù, Táiwān, Xiānggǎng hé Àomén,
   en: including mainland China, Taiwan, Hong Kong and Macau,
-- id: eeb243a0ee6a4f5199416e82ebcd47a4
+- id: c5ccf469-2fa9-4ef6-9f1e-1a9a21f59145
   zh-hans: 一共有十二亿九千多万人。
   pinyin: yīgòng yǒu shí’èr yì jiǔqiān duō wàn rén.
   en: altogether it has more than 1.29 billion people.
-- id: 8f18890d0e2742b1a38fab12886b10b3
+- id: 39bb0db8-e5e5-4a34-8afa-ec83a2279065
   zh-hans: 中国是世界上人口最多的国家。
   pinyin: Zhōngguó shì shìjiè shàng rénkǒu zuìduō de guójiā.
   en: China has the largest population in the world.
-- id: de1566aeea8d477eba34aeaa3f82009e
+- id: 75e84b6d-7d48-4f46-a95b-4218e1499fe1
   zh-hans: 回答正确。
   pinyin: Huídá zhèngquè.
   en: Correct answer.
-- id: 71ad22d113914f4e9f3a968e4df3c7a7
+- id: 2c4c5d2c-376a-44fe-87cd-eb6378f783dc
   zh-hans: 下一个问题：
   pinyin: "Xià yīgè wèntí:"
   en: "Next question:"
-- id: 1c68ffef7f0c4d2b9aae7cc1f94afb6d
+- id: 1e054988-ccef-4dbc-8296-190ca6620133
   zh-hans: 世界上最高的地方在哪儿？
   pinyin: Shìjiè shàng zuìgāo dì dìfāng zài nǎr?
   en: Where's is the world's highest place?
-- id: 20ae96c937df44a1a76bc07ff18f4e6e
+- id: 48034d20-77dd-466e-a05e-793307961ab4
   zh-hans: 在中国的西藏。
   pinyin: Zài Zhōngguó de Xīcáng.
   en: In China's Tibet.
-- id: c813c03a473a431a831c55f23caef55b
+- id: 1ebf7c0f-cdf2-4170-b159-a251b8ac8fcd
   zh-hans: 世界上最高的山峰叫什么？
   pinyin: Shìjiè shàng zuìgāo de shānfēng jiào shénme?
   en: What is the name of the world's highest mountain peak?
-- id: 04bad704d3a64b80913a5cc6d048cddd
+- id: abd81ef9-6a67-4578-a8a6-b838a3bf7e1a
   zh-hans: 它有多高？
   pinyin: Tā yǒu duō gāo?
   en: How high is it?
-- id: 715bfdafb7164ffb9a73588a421d3259
+- id: a61b9d90-204f-4a96-8c2d-41566d92ed15
   zh-hans: 世界上最高的山峰叫珠穆朗玛峰，
   pinyin: Shìjiè shàng zuìgāo de shānfēng jiào Zhūmùlǎngmǎ fēng,
   en: The world's tallest mountain peak is called Mt. Everest,
-- id: a467f1896ec644528a11890b87888215
+- id: 06912ab2-9681-4a98-b0e1-11205f07b7e4
   zh-hans: 它有八千八百多米高。
   pinyin: tā yǒu bāqiān bābǎi duō mǐ gāo.
   en: it is more than eight thousand eight hundred meters tall.
-- id: b08f164bdf9b4a7ca406b6cd7a76a315
+- id: 21c07c1d-b3f6-483e-a108-d373b70435af
   zh-hans: 中国最长的河是不是黄河？
   pinyin: Zhōngguó zuì zhǎng de hé shì bùshì Huánghé?
   en: Is China's longest river the Yellow River?
-- id: 44812d0ba1404c4fba392a3682531aad
+- id: 0feb1007-351e-404c-b6aa-57e11a05705e
   zh-hans: 不是。中国第一大河是长江，
   pinyin: Bùshì. Zhōngguó dì yī dàhé shì Chángjiāng,
   en: No. China's longest river is the Yangtze River,
-- id: 280142f5331b45da82dae59f86206274
+- id: fec5ed2f-4e51-4aa6-8d76-4baac480cb16
   zh-hans: 有六千三百多公里长。
   pinyin: yǒu liùqiān sānbǎi duō gōnglǐ cháng.
   en: it is more than six thousand three hundred kilometers long.
-- id: ee6fcbdd8b3f41199390661600f0884f
+- id: 84d4981b-3851-4e9f-a105-955ca96cded4
   zh-hans: 它也是世界第三大河。
   pinyin: Tā yěshì shìjiè dì sān dàhé.
   en: It is also the world's third longest river.
-- id: 2b8d36ca38124c5bb324db1926f5fbaa
+- id: fb086bd2-68b9-410f-9da4-5dc948a76493
   zh-hans: 黄河是中国第二大河，
   pinyin: Huánghé shì Zhōngguó dì èr dàhé,
   en: The Yellow River is China's second longest river,
-- id: 20d7d93021f0453d952772c5e1e0f0e6
+- id: f2bdbf4d-cfce-458b-9e11-a7931c75e841
   zh-hans: 有五千四百多公里长。
   pinyin: yǒu wǔqiān sìbǎi duō gōnglǐ cháng.
   en: it is more than five thousand four hundred kilometers long.
-- id: a9db444076c047148449c6665fe162f8
+- id: 9186800b-d7c3-41c2-a475-48fd40348839
   zh-hans: 中国人为什么叫黄河母亲河？
   pinyin: Zhōngguó rén wéi shén me jiào Huánghé mǔqīn hé?
   en: Why do Chinese people call the Yellow River "mother river"?
-- id: 571c0e9efb10407f8048de69ddee2a44
+- id: d0fceb4c-8ecf-4f22-8830-79aa60f5bc68
   zh-hans: 黄河是中华民族的摇篮，
   pinyin: Huánghé shì zhōnghuá mínzú de yáolán,
   en: The Yellow River is the cradle of the Chinese nation,
-- id: 2026fad4fdb54696b3d3f6dd3fe4da3d
+- id: b883f13b-a2d4-4704-865b-928cbb4b4e9e
   zh-hans: 所以中国人叫她“母亲河”。
   pinyin: suǒyǐ Zhōngguó rén jiào tā “mǔqīn hé”.
   en: therefore Chinese people call her the "mother river".
