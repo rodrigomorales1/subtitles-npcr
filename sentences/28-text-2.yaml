@@ -24,7 +24,7 @@ sentences:
   pinyin: (1:Bùguò), wǒ yǒu gè (2:wèntí) xiǎng wèn wèn nǐ.
   en: (1:However), I have a (2:question) I would like to ask you.
   es: (1:Pero) tengo una (2:pregunta) que quiero preguntarte.
-- ido3: 8951568a-39f6-4787-9b66-1529d2bbe9a2
+- id: 8951568a-39f6-4787-9b66-1529d2bbe9a2
   zh-hans: 什么(1:问题)？
   pinyin: Shénme (1:wèntí)?
   en: What (1:question)?
