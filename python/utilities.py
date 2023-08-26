@@ -7,7 +7,7 @@ def get_data_timestamps_sentences(file_path_timestamps, file_path_sentences):
     with open(file_path_timestamps, 'r') as f:
         lines = f.readlines()
         for i in range(len(lines)):
-            if results := re.search(r"^([0-9]{2}:[0-9]{2}:[0-9]{2}.[0-9]{2})[0-9] --> ([0-9]{2}:[0-9]{2}:[0-9]{2}.[0-9]{2})[0-9]", lines[i]):
+            if results := re.search(r"^([0-9]{2}:[0-9]{2}:[0-9]{2}.[0-9]{3}) --> ([0-9]{2}:[0-9]{2}:[0-9]{2}.[0-9]{3})", lines[i]):
                 start = results.group(1)
                 end = results.group(2)
                 id = lines[i+1].rstrip()
