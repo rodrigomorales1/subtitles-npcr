@@ -130,7 +130,7 @@ sentences:
   en: Please count it.
   es: Por favor, cuéntelo.
 - id: 4246c61c-da43-4154-a36f-c6860edd39cb
-!  context: video
+  context: video
   zh-hans: 谢谢，再见。
   pinyin: Xièxiè, zàijiàn.
   en: Thanks, goodbye.
