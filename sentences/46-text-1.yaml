@@ -52,8 +52,8 @@ sentences:
 - id: 48ed78df-d0b0-4c1a-b1d9-ec8c0974860c
   zh-hans: 孩子学习还可以，就是负担太重，
   pinyin: Háizi xuéxí hái kěyǐ, jiùshì fùdān tài zhòng,
-  en: The child’s studies are alright, it’s just the burden is too great,
-  es: Va bien, pero está sobrecargado.
+  en: The child’s studies are alright, it’s just the burden is too heavy,
+  es: Le va bien en sus estudios, es solo que la carga académica es muy pesada.
 - id: 634236f9-f411-4f02-8086-e9f810f9b8b1
   context: video
   zh-hans: 全家人都为他着急。
