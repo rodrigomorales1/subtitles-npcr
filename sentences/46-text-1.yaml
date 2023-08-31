@@ -10,10 +10,10 @@ metadata:
   add-groups-es: {finished: false, issue_id: 877}
 sentences:
 - id: ee57250b-2ee9-488b-a0bf-7b70ca7d199d
-  zh-hans: 陈老师，您好，
-  pinyin: Chén lǎoshī, nín hǎo,
-  en: Teacher Chen, hello,
-  es: Hola, Sr. Chan.
+  zh-hans: (1:陈)(2:老师)，(3:您好)，
+  pinyin: (1:Chén) (2:lǎoshī), (3:nín hǎo),
+  en: (2:Teacher) (1:Chen), (3:hello),
+  es: (2:Profesor) (1:Chen), (3:hola),
 - id: 24c83648-a9ff-410e-93a0-f6dbc4134e46
   zh-hans: (1:星期六)带着(2:孩子)去哪儿(3:玩儿)？
   pinyin: (1:xīngqíliù) dàizhe (2:háizi) qù nǎr (3:wánr)?
@@ -30,20 +30,20 @@ sentences:
   en: I’m (1:accompanying) the (2:child) to (3:computer) (4:tutorial) (5:class).
   es: (1:Acompaño) a mi (2:hijo) a una (5:clase) (4:extracurricular) de (3:informática).
 - id: 6bece3e6-af9c-46e9-af6e-5da5fec657d9
-  zh-hans: 你这位(1:大)(2:记者)，
-  pinyin: Nǐ zhè wèi (1:dà) (2:jìzhě),
-  en: You, such a (1:famous) (2:journalist),
-  es: Tú, un (2:reportero) (1:famoso),
+  zh-hans: (1:你)这位(2:大)(3:记者)，
+  pinyin: (1:Nǐ) zhè wèi (2:dà) (3:jìzhě),
+  en: (1:You), such a (2:famous) (3:journalist),
+  es: (1:Tú), un (3:reportero) (2:famoso),
 - id: 9667d85f-6440-43e7-ab75-ea6b8d41c875
   zh-hans: (1:该)(2:关心)(2:关心)(3:小学)里的(4:情况)了。
   pinyin: (1:gāi) (2:guānxīn) (2:guānxīn) (3:xiǎoxué) lǐ de (4:qíngkuàng) le.
   en: (1:should) (2:pay attention) the (4:situation) in (3:primary school).
   es: (1:debería) (2:prestar atencióna) a la (4:situación) en las (3:escuela primarias).
 - id: efa3678f-e14b-4806-ad84-f84e04b327d9
-  zh-hans: 是啊，(1:以后)我(2:也)要当(3:家长:6)啊！
-  pinyin: Shì a, (1:yǐhòu) wǒ (2:yě) yào dāng (3:jiāzhǎng) a!
-  en: You’re right, (1:later) on I will be a (3:parent) (2:too)!
-  es: ¡Sí, (1:luego) yo (2:también) voy a ser (3:padre)!
+  zh-hans: (1:是啊)，(2:以后)我(3:也)要当(4:家长:6)啊！
+  pinyin: (1:Shì a), (2:yǐhòu) wǒ (3:yě) yào dāng (4:jiāzhǎng) a!
+  en: (1:You’re right), (2:later) on I will be a (4:parent) (3:too)!
+  es: ¡(1:Sí), (2:luego) yo (3:también) voy a ser (4:padre)!
 - id: 1854feed-32eb-44f7-a01f-830ac9f1e0c2
   zh-hans: 您(1:孩子)(2:学习)怎么样？
   pinyin: Nín (1:háizi) (2:xuéxí) zěnme yàng?
@@ -51,7 +51,7 @@ sentences:
   es: ¿Cómo va el (2:estudio) de tu (1:h)ijo?
 - id: 48ed78df-d0b0-4c1a-b1d9-ec8c0974860c
   zh-hans: (1:孩子)(2:学习)还可以，(3:就是:2)(4:负担:3)(5:太)(6:重)，
-  pinyin: (1:Háizi) (2:xuéxí) hái kěyǐ, (3:jiùshì) (4:fùdān) tài (5:zhòng),
+  pinyin: (1:Háizi) (2:xuéxí) hái kěyǐ, (3:jiùshì) (4:fùdān) (5:tài) (6:zhòng),
   en: The (1:child)’s (2:studies) are alright, (3:it’s just that) the (4:burden) is (5:too) (6:heavy),
   es: A mi (1:hijo) le va bien en sus (2:estudios), (3:es solo que) la (4:carga) académica es (5:muy) (6:pesada).
 - id: 634236f9-f411-4f02-8086-e9f810f9b8b1
