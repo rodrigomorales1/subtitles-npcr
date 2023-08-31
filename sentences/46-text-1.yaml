@@ -27,8 +27,8 @@ sentences:
 - id: 69d638b1-6ca9-4aa0-99fb-3a21f90f1b97
   zh-hans: 我是(1:陪)(2:孩子)去上(3:电脑)(4:辅导:1)(5:班)。
   pinyin: Wǒ shì (1:péi) (2:háizi) qù shàng (3:diànnǎo) (4:fǔdǎo) (5:bān).
-  en: I’m (1:accompanying) the (2:child) to (3:computer) (4:tutorial) (5:class).
-  es: (1:Acompaño) a mi (2:hijo) a una (5:clase) (4:extracurricular) de (3:informática).
+  en: I’m (1:accompanying) the (2:child) to a (4:supplementary) (5:class) on (3:computing).
+  es: (1:Acompaño) a mi (2:hijo) a una (5:clase) (4:suplementaria) de (3:informática).
 - id: 6bece3e6-af9c-46e9-af6e-5da5fec657d9
   zh-hans: (1:你)这位(2:大)(3:记者)，
   pinyin: (1:Nǐ) zhè wèi (2:dà) (3:jìzhě),
@@ -281,10 +281,10 @@ sentences:
   en: (1:she) is (2:considered) (4:good) at (3:studying),
   es: (1:ella) es (2:considerada) (4:buena) en sus (3:estudios)
 - id: 4d9da1d4-6624-42f6-866d-fdd1925ddb53
-  zh-hans: 不用(1:补习:19)。
-  pinyin: bùyòng (1:bǔxí).
-  en: and does not need (1:supplementary classes).
-  es: No necesita (1:clases suplementarias).
+  zh-hans: (1:不用)(2:补习:19)。
+  pinyin: (1:bùyòng) (2:bǔxí).
+  en: and (1:does not need) (2:supplementary classes).
+  es: (1:no necesita) (2:clases suplementarias).
 - id: ac5f263f-0a12-4fe3-9c8a-2850cd5aa1bc
   zh-hans: 可是(1:星期六)(2:上午)，
   pinyin: Kěshì (1:xīngqíliù) (2:shàngwǔ),
@@ -294,14 +294,14 @@ sentences:
   context: video
   zh-hans: (1:要么:21)我(2:陪)(3:他)去上(4:电脑)(5:辅导:1)(6:班)，
   pinyin: (1:yàome) wǒ (2:péi) (3:tā) qù shàng (4:diànnǎo) (5:fǔdǎo:1) (6:bān),
-  en: (1:either) I (2:accompany) (3:him) to (4:computer) (5:tutorial) (6:class),
-  es: (1:O) lo (2:acompaño) a una (6:clase) (5:extracurricular) de (4:computación).
+  en: (1:either) I (2:accompany) (3:him) to a (5:supplementary) (6:class) on (4:computing),
+  es: (1:O) lo (2:acompaño) a una (6:clase) (5:suplementaria) de (4:computación).
 - id: c9c4cd7a-b626-4278-a92c-a10fbefd08a5
   context: audio
   zh-hans: (1:要么:21)我(2:陪)她去上(3:电脑)(4:辅导:1)(5:班)，
   pinyin: (1:yàome) wǒ (2:péi) tā qù shàng (3:diànnǎo) (4:fǔdǎo:1) (5:bān),
-  en: (1:either) I (2:accompany) her to (3:computer) (4:tutorial) (5:class),
-  es: (1:O) la (2:acompaño) a una (5:clase) (4:extracurricular) de (3:computación).
+  en: (1:either) I (2:accompany) her to a (5:supplementary) (6:class) on (4:computing),
+  es: (1:O) la (2:acompaño) a una (5:clase) (4:suplementaria) de (3:computación).
 - id: d33fe11b-00fe-42f9-8120-b018bbdb2d84
   context: video
   zh-hans: (1:要么:21)他(2:爸爸)带着他去上(3:书法)(4:班)。
