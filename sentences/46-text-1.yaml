@@ -62,7 +62,7 @@ sentences:
 - id: 634236f9-f411-4f02-8086-e9f810f9b8b1
   context: video
   zh-hans: (1:全家人)都为(2:他)(3:着急)。
-  pinyin: (1:quánjiā rén) dōu wèi tā (3:zhāojí).
+  pinyin: (1:quánjiā rén) dōu wèi (2:tā) (3:zhāojí).
   en: the (1:whole family) is (3:anxious) for (2:him).
   es: (1:Toda la familia) está (3:preocupada) por (2:él).
 - id: 0e266d68-9033-4891-ab0a-41f7c6499335
