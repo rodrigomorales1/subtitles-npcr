@@ -308,6 +308,7 @@ def generate_video(file_path_media,
     keys_for_bottom_subtitles = keys_for_bottom_subtitles.split(',')
 
     data_timestamps_sentences = utilities.get_data_timestamps_sentences(file_path_timestamps, file_path_sentences)
+    utilities.ensure_timestamps_have_two_decimals(data_timestamps_sentences)
 
     # We create the metadata file before creating the ass_files
     # because when creating the ass_files, colors in hexadecimal

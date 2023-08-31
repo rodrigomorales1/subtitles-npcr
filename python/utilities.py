@@ -1,3 +1,5 @@
+import re
+
 def get_data_timestamps_sentences(file_path_timestamps, file_path_sentences):
     import yaml
     import re
@@ -35,6 +37,14 @@ def get_data_timestamps_sentences(file_path_timestamps, file_path_sentences):
             data_item[key] = value
 
     return data_timestamps_sentences
+
+def ensure_timestamps_have_two_decimals(data_timestamps_sentences):
+    regex = re.compile('\.[0-9]{3}$')
+    for item in data_timestamps_sentences:
+        if re.search(regex, item['start']):
+            item['start'] = item['start'][:-1]
+        if re.search(regex, item['end']):
+            item['end'] = item['end'][:-1]
 
 def remove_word_indicators_in_string(string):
     import re
