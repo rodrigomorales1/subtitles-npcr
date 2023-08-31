@@ -281,10 +281,17 @@ sentences:
   en: But on Saturday afternoons,
   es: Pero los sábados por la mañana.
 - id: 0e9e4d2a-bcd2-48ac-9199-df00ef7315ae
+  context: video
   zh-hans: 要么我陪他去上电脑辅导班，
   pinyin: yàome wǒ péi tā qù shàng diànnǎo fǔdǎo bān,
   en: either I accompany him to computer tutorial class,
   es: O voy con él a una clase de informática.
+- id: c9c4cd7a-b626-4278-a92c-a10fbefd08a5
+  context: audio
+  zh-hans: 要么我陪她去上电脑辅导班，
+  pinyin: yàome wǒ péi tā qù shàng diànnǎo fǔdǎo bān,
+  en: either I accompany her to computer tutorial class,
+  es: O voy con ella a una clase de informática.
 - id: d33fe11b-00fe-42f9-8120-b018bbdb2d84
   zh-hans: 要么他爸爸带着他去上书法班。
   pinyin: yàome tā bàba dàizhe tā qù shàng shūfǎ bān.
