@@ -104,13 +104,13 @@ sentences:
 - id: 5a4e9f2a-f78a-4c4e-b56e-7e7c36752a3e
   zh-hans: 他们每天都要上六七个小时的课，
   pinyin: Tāmen měitiān dōu yào shàng liùqī gè xiǎoshí de kè,
-  en: They everyday must attend six or seven hours of class,
-  es: Tienen que ir a la escuela seis o siete horas al día.
+  en: They everyday must attend six or seven hours of class and,
+  es: Tienen que ir a la escuela seis o siete horas al día y,
 - id: 5a41e3f5-70cb-46dc-95d6-afa2c67ce204
   zh-hans: 晚上还要做很多作业。
   pinyin: wǎnshàng hái yào zuò hěnduō zuòyè.
-  en: and must also do lots of homework in the evening.
-  es: Tienen que hacer muchos deberes por la noche.
+  en: in the evening, they still have to do lots of homework.
+  es: por la noche, aún tienen que hacer mucha tarea.
 - id: 001e851a-ecf9-48f5-9850-c6fa909b8c8f
   zh-hans: 有些作业本来可以在上课的时候完成，
   pinyin: Yǒuxiē zuòyè běnlái kěyǐ zài shàngkè de shíhou wánchéng,
