@@ -25,10 +25,10 @@ sentences:
   en: What do you mean go play?
   es: ¿Dónde voy a jugar?
 - id: 69d638b1-6ca9-4aa0-99fb-3a21f90f1b97
-  zh-hans: 我是陪孩子去上电脑辅导班。
-  pinyin: Wǒ shì péi háizi qù shàng diànnǎo fǔdǎo bān.
-  en: I’m accompanying the child to computer tutorial class.
-  es: Voy a una clase de informática con mi hijo.
+  zh-hans: 我是陪孩子去上(1:电脑)(2:辅导:1)(3:班)。
+  pinyin: Wǒ shì péi háizi qù shàng (1:diànnǎo) (2:fǔdǎo) (3:bān).
+  en: I’m accompanying the child to (1:computer) (2:tutorial) (3:class).
+  es: Voy a una (3:clase) (2:extracurricular) de (1:informática) con mi hijo.
 - id: 6bece3e6-af9c-46e9-af6e-5da5fec657d9
   zh-hans: 你这位大记者，
   pinyin: Nǐ zhè wèi dà jìzhě,
@@ -40,20 +40,20 @@ sentences:
   en: should pay attention the situation in primary school.
   es: Es hora de que te intereses por lo que pasa en la escuela primaria.
 - id: efa3678f-e14b-4806-ad84-f84e04b327d9
-  zh-hans: 是啊，以后我也要当家长啊！
-  pinyin: Shì a, yǐhòu wǒ yě yào dāng jiāzhǎng a!
-  en: You’re right, later on I will be a parent too!
-  es: ¡Sí, yo también voy a ser padre!
+  zh-hans: 是啊，以后我也要当(1:家长:6)啊！
+  pinyin: Shì a, yǐhòu wǒ yě yào dāng (1:jiāzhǎng) a!
+  en: You’re right, later on I will be a (1:parent) too!
+  es: ¡Sí, yo también voy a ser (1:padre)!
 - id: 1854feed-32eb-44f7-a01f-830ac9f1e0c2
   zh-hans: 您孩子学习怎么样？
   pinyin: Nín háizi xuéxí zěnme yàng?
   en: How are your child’s studies going?
   es: ¿Cómo va el estudio de tu hijo?
 - id: 48ed78df-d0b0-4c1a-b1d9-ec8c0974860c
-  zh-hans: 孩子学习还可以，就是负担太重，
-  pinyin: Háizi xuéxí hái kěyǐ, jiùshì fùdān tài zhòng,
-  en: The child’s studies are alright, it’s just the burden is too heavy,
-  es: Le va bien en sus estudios, es solo que la carga académica es muy pesada.
+  zh-hans: 孩子学习还可以，(1:就是:2)(2:负担:3)太重，
+  pinyin: Háizi xuéxí hái kěyǐ, (1:jiùshì) (2:fùdān) tài zhòng,
+  en: The child’s studies are alright, (1:it’s just that) the (2:burden) is too heavy,
+  es: Le va bien en sus estudios, (1:es solo que) la (2:carga) académica es muy pesada.
 - id: 634236f9-f411-4f02-8086-e9f810f9b8b1
   context: video
   zh-hans: 全家人都为他着急。
@@ -67,25 +67,25 @@ sentences:
   en: the whole family is anxious for her.
   es: Toda la familia está preocupada por él.
 - id: aa77fdef-cad2-4a0e-bfc9-a53760446470
-  zh-hans: 最近我做了一个调查，
-  pinyin: Zuìjìn wǒ zuòle yīgè diàochá,
-  en: Recently I conducted a survey of
-  es: Hice una encuesta hace poco sobre
+  zh-hans: 最近我做了一个(1:调查:4)，
+  pinyin: Zuìjìn wǒ zuòle yīgè (1:diàochá),
+  en: Recently I conducted an (1:investigation) of
+  es: hace poco hice una (1:investigación) sobre
 - id: 5043d2c4-36e8-43b1-a518-13bf2f77f58aldo
-  zh-hans: 早上坐头班车的，几乎都是小学生
-  pinyin: zǎoshang zuò tóu bānchē de, jīhū dōu shì xiǎoxuéshēng
-  en: the morning shuttle bus, almost all are pupils
-  es: los primeros autobuses de la mañana, casi todos son estudiantes niños
+  zh-hans: 早上坐(1:头:5)(2:班:5)(3:车:5)的，几乎都是小学生
+  pinyin: zǎoshang zuò (1:tóu)(2:bān)(3:chē) de, jīhū dōu shì xiǎoxuéshēng
+  en: people who in the morning take the (1:first) (3:shuttle bus), almost all are pupils
+  es: personas que por las mañanas toman el (1:primer) (3:autobús), casi todos son estudiantes niños
 - id: 50263ca7-9287-443a-8337-b677c339313e
-  zh-hans: 和送他们上学的家长。
-  pinyin: hé sòng tāmen shàngxué de jiāzhǎng.
-  en: and their parent’s taking them to school.
-  es: y sus padres que los llevan al colegio.
+  zh-hans: 和送他们上学的(1:家长:6)。
+  pinyin: hé sòng tāmen shàngxué de (1:jiāzhǎng).
+  en: and their (1:parent)’s taking them to school.
+  es: y sus (1:padres) que los llevan al colegio.
 - id: 7e2bd17b-8f1d-4541-b869-496269f2d46f
-  zh-hans: 家长们真辛苦，
-  pinyin: Jiāzhǎngmen zhēn xīnkǔ,
-  en: The parents were really hard working,
-  es: Los padres trabajan mucho.
+  zh-hans: (1:家长们:6)真辛苦，
+  pinyin: (1:Jiāzhǎngmen) zhēn xīnkǔ,
+  en: The (1:parents) were really hard working,
+  es: Los (1:padres) trabajan mucho.
 - id: fe4ada2b-89e6-494c-8706-948c93e0aedf
   zh-hans: 除了上班以外，每天早上晚上
   pinyin: chúle shàngbān yǐwài, měitiān zǎoshang wǎnshàng
@@ -107,35 +107,35 @@ sentences:
   en: They everyday must attend six or seven hours of class and,
   es: Tienen que ir a la escuela seis o siete horas al día y,
 - id: 5a41e3f5-70cb-46dc-95d6-afa2c67ce204
-  zh-hans: 晚上还要做很多作业。
-  pinyin: wǎnshàng hái yào zuò hěnduō zuòyè.
-  en: in the evening, they still have to do lots of homework.
-  es: por la noche, aún tienen que hacer mucha tarea.
+  zh-hans: 晚上还要做很多(1:作业:7)。
+  pinyin: wǎnshàng hái yào zuò hěnduō (1:zuòyè).
+  en: in the evening, they still have to do lots of (1:homework).
+  es: por la noche, aún tienen que hacer mucha (1:tarea).
 - id: 001e851a-ecf9-48f5-9850-c6fa909b8c8f
-  zh-hans: 有些作业本来可以在上课的时候完成，
-  pinyin: Yǒuxiē zuòyè běnlái kěyǐ zài shàngkè de shíhou wánchéng,
-  en: Some of the homework could be completed during class,
-  es: Algunos de los deberes podrían haberse hecho en clase, pero los profesores dejan que los alumnos se los lleven a casa.
+  zh-hans: 有些(1:作业:7)(2:本来:8)可以在上课的时候(3:完成:9)，
+  pinyin: Yǒuxiē (1:zuòyè) (2:běnlái) kěyǐ zài shàngkè de shíhou (3:wánchéng),
+  en: Some of the (1:homework) could be (2:originally) (3:completed) during class,
+  es: Algunas de los (1:tareas) (2:originalmente) podrían haberse (3:completado) en clase,
 - id: 4a873357-a54e-435d-9d04-68e8536f8295
   zh-hans: 老师也让学生拿回家来做。
   pinyin: lǎoshī yě ràng xuéshēng ná huí jiā lái zuò.
   en: but the teacher still makes the students take it home to complete.
   es: Los profesores piden a los alumnos que se los lleven a casa para hacerlos.
 - id: 9a3e5fde-cf46-412d-8303-a84ac61da777
-  zh-hans: 家长还嫌孩子不努力，
-  pinyin: Jiāzhǎng hái xián háizi bù nǔlì,
-  en: Parents also dislike children not working hard,
-  es: Los padres piensan que sus hijos no trabajan lo suficiente.
+  zh-hans: (1:家长:6)还(1:嫌:10)孩子不努力，
+  pinyin: (1:Jiāzhǎng) hái (1:xián) háizi bù nǔlì,
+  en: (1:Parents) also (1:dislike) children not working hard,
+  es: Los (1:padres) (1:sienten rencor) porque creen sus hijos no se esfuerzan,
 - id: 6ed02c01-f18e-4105-908d-a6e84fa17464
-  zh-hans: 又给他们增加了很多辅导和练习。
-  pinyin: yòu gěi tāmen zēngjiāle hěnduō fǔdǎo hé liànxí.
-  en: and also give them lots of additional tutoring and practice.
-  es: Los padres creen que sus hijos no trabajan lo suficiente, así que les ponen muchas tutorías y ejercicios.
+  zh-hans: 又给他们(1:增加:11)了很多(2:辅导:1)和(3:练习)。
+  pinyin: yòu gěi tāmen (1:zēngjiā)le hěnduō (2:fǔdǎo) hé (3:liànxí).
+  en: and also (1:add) a lot of additional (2:tutoring) and (3:practice).
+  es: así que les (1:añaden) muchas (2:clases extracurriculares) y (3:ejercicios).
 - id: 486350b4-31e9-4046-b2a4-c0016b265a55
-  zh-hans: 孩子经常十点半以后才睡觉。
-  pinyin: Háizi jīngcháng shí diǎn bàn yǐhòu cái shuìjiào.
-  en: Children often cannot go to bed until after half-past ten.
-  es: Los niños suelen irse a la cama después de las 22.30 horas.
+  zh-hans: 孩子(1:经常:12)十点半以后才睡觉。
+  pinyin: Háizi (1:jīngcháng) shí diǎn bàn yǐhòu cái shuìjiào.
+  en: Children (1:often) cannot go to bed until after half-past ten.
+  es: Los niños (1:suelen) irse a la cama después de las 22.30 horas.
 - id: 2263aa81-2af0-4dd9-bf06-496db6d34315
   zh-hans: 他们连看电视的时间都没有啊！
   pinyin: Tāmen lián kàn diànshì de shíjiān dōu méiyǒu a!
@@ -157,15 +157,15 @@ sentences:
   en: being able to play is their right.
   es: Tienen derecho a jugar.
 - id: 2e9f0fb8-96e6-4315-a71f-625062615597
-  zh-hans: 可是家长都希望把自己的孩子
-  pinyin: Kěshì jiāzhǎng dōu xīwàng bǎ zìjǐ de háizi
-  en: But parents always wish to raise their children
-  es: Pero los padres quieren que sus hijos sean buenos estudiantes.
+  zh-hans: 可是(1:家长:6)都希望把自己的孩子
+  pinyin: Kěshì (1:jiāzhǎng) dōu xīwàng bǎ zìjǐ de háizi
+  en: But (1:parents) always wish their children
+  es: Pero los (1:padres) quieren que sus hijos
 - id: 742188b0-afb3-4cc7-ad5f-8764a956eb7d
-  zh-hans: 培养成为优秀的学生，
-  pinyin: péiyǎng chéngwéi yōuxiù de xuéshēng,
-  en: to be excellent students,
-  es: Que sean buenos estudiantes.
+  zh-hans: (1:培养:13)成为(2:优秀:14)的学生，
+  pinyin: (1:péiyǎng) chéngwéi (2:yōuxiù) de xuéshēng,
+  en: to be (1:fostered) to become (2:excellent) students,
+  es: sean (1:criados) que sean (2:excelentes) estudiantes.
 - id: 03f06f1a-b1db-4e3c-9823-eb470bb7f9e3
   zh-hans: 希望他们有一个好的前途；
   pinyin: xīwàng tāmen yǒu yīgè hǎo de qiántú;
@@ -197,10 +197,10 @@ sentences:
   en: and a good high school.
   es: una escuela secundaria de renombre.
 - id: eb1a775c-3de6-4eee-aef5-1127a5d28b81
-  zh-hans: 在这种风气的影响下，
-  pinyin: Zài zhè zhǒng fēngqì de yǐngxiǎng xià,
-  en: Under the influence of this sort of atmosphere,
-  es: Bajo la influencia de esta tendencia
+  zh-hans: 在这种(1:风气:15)的(2:影响:16)下，
+  pinyin: Zài zhè zhǒng (1:fēngqì) de (2:yǐngxiǎng) xià,
+  en: Under the (2:influence) of this sort of (1:atmosphere),
+  es: Bajo la (2:influencia) de este (1:ambiente)
 - id: e67005bb-eddc-4e3d-bbbe-3f06584d963f
   zh-hans: 孩子们从小学就开始竞争了。
   pinyin: háizimen cóng xiǎoxué jiù kāishǐ jìngzhēngle.
@@ -223,36 +223,36 @@ sentences:
   es: Están ocupados estudiando.
 - id: 10a7f3cf-65fe-47f5-ad30-f95ced1f5f03
   context: video
-  zh-hans: 周末应该让他们放松一下了？
-  pinyin: zhōumò yīnggāi ràng tāmen fàngsōng yīxiàle?
-  en: in the weekend they should be allowed to rest a bit.
-  es: ¿Les toca relajarse los fines de semana?
+  zh-hans: (1:周末:17)应该让他们(2:放松:18)一下了？
+  pinyin: (1:zhōumò) yīnggāi ràng tāmen (2:fàngsōng) yīxiàle?
+  en: (1:in the weekend) they should be allowed to (2:rest) a bit.
+  es: ¿Les toca (2:relajarse) los (1:fines de semana)?
 - id: a8f859c5-e46d-4230-8aa4-0d83ab580d67
   context: audio
-  zh-hans: 周末应该让他们放松一下了吧？
-  pinyin: zhōumò yīnggāi ràng tāmen fàngsōng yīxiàle ba?
-  en: in the weekend they should be allowed to rest a bit.
-  es: ¿Les toca relajarse los fines de semana?
+  zh-hans: (1:周末:17)应该让他们(2:放松:18)一下了吧？
+  pinyin: (1:zhōumò) yīnggāi ràng tāmen (2:fàngsōng) yīxiàle ba?
+  en: (1:in the weekend) they should be allowed (2:to rest) a bit.
+  es: ¿Les toca (2:relajarse) los (1:fines de semana)?
 - id: c50a8582-5de5-4df4-bea4-4f24a2384207
-  zh-hans: 周末无论成绩差的还是好的，
-  pinyin: Zhōumò wúlùn chéngjī chà de háishì hǎo de,
-  en: In the weekend no matter if performance is good or bad,
-  es: Sean malos o buenos, no pueden relajarse el fin de semana.
+  zh-hans: (1:周末:17)无论成绩差的还是好的，
+  pinyin: (1:Zhōumò) wúlùn chéngjī chà de háishì hǎo de,
+  en: In the (1:weekend) no matter if performance is good or bad,
+  es: Los (1:fines de semana), sin importar si sus notas son buenas o malas,
 - id: 42d22ec2-c613-46bb-bcff-3d4b91e176f8
-  zh-hans: 都放松不了。
-  pinyin: dōu fàngsōng bùliǎo.
-  en: cannot relax.
-  es: No pueden relajarse.
+  zh-hans: 都(1:放松:18)不了。
+  pinyin: dōu (1:fàngsōng) bùliǎo.
+  en: cannot (1:relax).
+  es: No pueden (1:relajarse).
 - id: a11b0aa2-4c43-4fb5-8c50-0314630ae868
-  zh-hans: 成绩差的学生要上补习班，
-  pinyin: Chéngjī chà de xuéshēng yào shàng bǔxí bān,
-  en: Poor performing students must take supplementary classes,
-  es: Los de bajo rendimiento tienen que asistir a clases particulares.
+  zh-hans: 成绩差的学生要上(1:补习:19)(2:班)，
+  pinyin: Chéngjī chà de xuéshēng yào shàng (1:bǔxí) (2:bān),
+  en: Poor performing students must take (1:supplementary) (2:classes),
+  es: Los de bajo rendimiento tienen que asistir a (2:clases) (1:suplementarias).
 - id: b2f6df5b-2866-459e-a627-04e9de5c071f
-  zh-hans: 学习好的得培养他们的特长。
-  pinyin: xuéxí hào de děi péiyǎng tāmen de tècháng.
-  en: learn to foster their strengths.
-  es: Los buenos tienen que desarrollar sus especialidades.
+  zh-hans: 学习好的得(1:培养:13)他们的(2:特长:20)。
+  pinyin: xuéxí hào de děi (1:péiyǎng) tāmen de (2:tècháng).
+  en: learn to (1:foster) their (2:skills).
+  es: Los buenos tienen que (1:desarrollar) sus (2:habilidades).
 - id: 33632e81-8ef0-4253-8b2b-38670ede9b28
   zh-hans: 拿我的孩子来说吧，
   pinyin: Ná wǒ de háizi lái shuō ba,
@@ -271,10 +271,10 @@ sentences:
   en: she is considered good at studying,
   es: Es un buen estudiante.
 - id: 4d9da1d4-6624-42f6-866d-fdd1925ddb53
-  zh-hans: 不用补习。
-  pinyin: bùyòng bǔxí.
-  en: and does not need supplementary classes.
-  es: No necesita clases particulares.
+  zh-hans: 不用(1:补习:19)。
+  pinyin: bùyòng (1:bǔxí).
+  en: and does not need (1:supplementary classes).
+  es: No necesita (1:clases suplementarias).
 - id: ac5f263f-0a12-4fe3-9c8a-2850cd5aa1bc
   zh-hans: 可是星期六上午，
   pinyin: Kěshì xīngqíliù shàngwǔ,
@@ -282,33 +282,33 @@ sentences:
   es: Pero los sábados por la mañana.
 - id: 0e9e4d2a-bcd2-48ac-9199-df00ef7315ae
   context: video
-  zh-hans: 要么我陪他去上电脑辅导班，
-  pinyin: yàome wǒ péi tā qù shàng diànnǎo fǔdǎo bān,
-  en: either I accompany him to computer tutorial class,
-  es: O voy con él a una clase de informática.
+  zh-hans: (1:要么:21)我陪他去上(2:电脑)(3:辅导:1)(4:班)，
+  pinyin: (1:yàome) wǒ péi tā qù shàng (2:diànnǎo) (3:fǔdǎo:1) (4:bān),
+  en: (1:either) I accompany him to (2:computer) (3:tutorial) (4:class),
+  es: (1:O) voy con él a una (4:clase) (3:extracurricular) de (2:computación).
 - id: c9c4cd7a-b626-4278-a92c-a10fbefd08a5
   context: audio
-  zh-hans: 要么我陪她去上电脑辅导班，
-  pinyin: yàome wǒ péi tā qù shàng diànnǎo fǔdǎo bān,
-  en: either I accompany her to computer tutorial class,
-  es: O voy con ella a una clase de informática.
+  zh-hans: (1:要么:21)我陪她去上(2:电脑)(3:辅导:1)(4:班)，
+  pinyin: (1:yàome) wǒ péi tā qù shàng (2:diànnǎo) (3:fǔdǎo:1) (4:bān),
+  en: (1:either) I accompany her to (2:computer) (3:tutorial) (4:class),
+  es: (1:O) voy con ella a una (4:clase) (3:extracurricular) de (2:computación).
 - id: d33fe11b-00fe-42f9-8120-b018bbdb2d84
   context: video
-  zh-hans: 要么他爸爸带着他去上书法班。
-  pinyin: yàome tā bàba dàizhe tā qù shàng shūfǎ bān.
-  en: or his father takes him to calligraphy class.
-  es: O su padre le lleva a una clase de caligrafía.
+  zh-hans: (1:要么:21)他爸爸带着他去上书法班。
+  pinyin: (1:yàome) tā bàba dàizhe tā qù shàng shūfǎ bān.
+  en: (1:or) his father takes him to calligraphy class.
+  es: (1:O) su padre le lleva a una clase de caligrafía.
 - id: f90c6b5b-9c89-42bd-a861-64aca4a09ab5
   context: audio
-  zh-hans: 要么她爸爸带着他去上书法班。
-  pinyin: yàome tā bàba dàizhe tā qù shàng shūfǎ bān.
-  en: or her father takes him to calligraphy class.
-  es: O su padre la lleva a una clase de caligrafía.
+  zh-hans: (1:要么:21)她爸爸带着他去上书法班。
+  pinyin: (1:yàome) tā bàba dàizhe tā qù shàng shūfǎ bān.
+  en: (1:or) her father takes him to calligraphy class.
+  es: (1:O) su padre la lleva a una clase de caligrafía.
 - id: 9d8c4493-8978-47b2-b446-cb9566b67959
-  zh-hans: 小朋友，你周末学书法，
-  pinyin: Xiǎopéngyǒu, nǐ zhōumò xué shūfǎ,
-  en: Kid, in the weekend you learn calligraphy,
-  es: Niño, los fines de semana aprendes caligrafía
+  zh-hans: 小朋友，你(1:周末:17)学书法，
+  pinyin: Xiǎopéngyǒu, nǐ (1:zhōumò) xué shūfǎ,
+  en: Kid, in the (1:weekend) you learn calligraphy,
+  es: Niño, los (1:fines de semana) aprendes caligrafía
 - id: 9a2674bc-c53f-4cee-a089-5c93dede143f
   zh-hans: 是想当书法家吗？
   pinyin: shì xiǎng dāng shūfǎ jiā ma?
@@ -351,16 +351,16 @@ sentences:
   es: Pero el profesor no me deja.
 - id: ab398a9e-b044-4d9b-8bc9-36568e9883e9
   context: video
-  zh-hans: 星期日上午，他还得做英语作业。
-  pinyin: Xīngqírì shàngwǔ, tā hái děi zuò yīngyǔ zuòyè.
-  en: Sunday morning, he also must do English homework.
-  es: Tiene que hacer los deberes de inglés el domingo por la mañana.
+  zh-hans: 星期日上午，他还得做英语(1:作业:7)。
+  pinyin: Xīngqírì shàngwǔ, tā hái děi zuò yīngyǔ (1:zuòyè).
+  en: Sunday morning, he also must do English (1:homework).
+  es: Tiene que hacer (1:tareas) de inglés el domingo por la mañana.
 - id: ce55a915-e26a-489b-a74c-c6ec919e2acd
   context: audio
-  zh-hans: 星期日上午，她还得做英语作业。
-  pinyin: Xīngqírì shàngwǔ, tā hái děi zuò yīngyǔ zuòyè.
-  en: Sunday morning, she also must do English homework.
-  es: Tiene que hacer los deberes de inglés el domingo por la mañana.
+  zh-hans: 星期日上午，她还得做英语(1:作业:7)。
+  pinyin: Xīngqírì shàngwǔ, tā hái děi zuò yīngyǔ (1:zuòyè).
+  en: Sunday morning, she also must do English (1:homework).
+  es: Tiene que hacer los (1:deberes) de inglés el domingo por la mañana.
 - id: af9d9d8d-e35b-4fe9-848d-03735d276878
   context: video
   zh-hans: 只有下午才能让他玩儿一会儿。
@@ -389,10 +389,10 @@ sentences:
   en: I heard that,
   es: He oído que
 - id: 80780584-e344-47e5-bf6f-151e24ff78c5
-  zh-hans: 很多学校的领导和老师们
-  pinyin: hěnduō xuéxiào de lǐngdǎo hé lǎoshīmen
-  en: the leaders and teachers of many schools
-  es: Muchos líderes escolares y profesores
+  zh-hans: 很多学校的(1:领导:22)和老师们
+  pinyin: hěnduō xuéxiào de (1:lǐngdǎo) hé lǎoshīmen
+  en: the (1:leaders) and teachers of many schools
+  es: Muchos (1:líderes) escolares y profesores
 - id: 0428bc8c-5ae9-49e4-8a18-efdd04acb086
   zh-hans: 已经注意这个问题了。
   pinyin: yǐjīng zhùyì zhège wèntíle.
@@ -404,27 +404,27 @@ sentences:
   en: Some schools have proposed “happy education”,
   es: Algunas escuelas han propuesto la "educación feliz".
 - id: dad73bf1-2f9d-47db-923a-ae9c3aed3191
-  zh-hans: 老师已经不要求学生做家庭作业了。
-  pinyin: lǎoshī yǐjīng bù yāoqiú xuéshēng zuò jiātíng zuòyèle.
-  en: where the teachers do not require students to do homework.
-  es: Los profesores ya no piden a los alumnos que hagan deberes.
+  zh-hans: 老师已经不要求学生做家庭(1:作业:7)了。
+  pinyin: lǎoshī yǐjīng bù yāoqiú xuéshēng zuò jiātíng (1:zuòyè) le.
+  en: where the teachers do not require students to do (1:homework).
+  es: Los profesores ya no piden a los alumnos que hagan (1:deberes).
 - id: b33c8c3a-33fc-4c77-97cf-fb3d72d0dc7c
-  zh-hans: 老师不要求我们做家庭作业，
-  pinyin: Lǎoshī bù yāoqiú wǒmen zuò jiātíng zuòyè,
-  en: The teachers don't require us to do homework,
-  es: Los profesores no nos piden que hagamos tarea en casa,
+  zh-hans: 老师不要求我们做家庭(1:作业:7)，
+  pinyin: Lǎoshī bù yāoqiú wǒmen zuò jiātíng (1:zuòyè),
+  en: The teachers don't require us to do (1:homework),
+  es: Los profesores no nos piden que hagamos (1:tarea) en casa,
 - id: f7be3fc8-c7aa-4ac9-b7a7-d1b2df38140a
-  zh-hans: 这太好了，我百分之百地赞成。
-  pinyin: zhè tài hǎole, wǒ bǎifēnzhībǎi de zànchéng.
-  en: that’s great, I endorse this one hundred percent.
-  es: Eso es genial. Estoy 100% a favor de ello.
+  zh-hans: 这太好了，我百分之百地(1:赞成:23)。
+  pinyin: zhè tài hǎole, wǒ bǎifēnzhībǎi de (1:zànchéng).
+  en: that’s great, I (1:endorse) this one hundred percent.
+  es: Eso es genial. (1:Estoy) 100% (1:de acuerdo) con ello.
 - id: d6b5c8b9-05c6-47f2-a068-96e0aa86ff6e
   zh-hans: 可是你知道吗？
   pinyin: Kěshì nǐ zhīdào ma?
   en: But you know what?
   es: Pero, ¿sabéis qué?
 - id: 1db4951b-de14-41e8-90f3-ca9f9e98f3b3
-  zh-hans: 家长们并不都同意学校这样做。
-  pinyin: Jiāzhǎngmen bìng bù dōu tóngyì xuéxiào zhèyàng zuò.
-  en: The parents don’t actually agree with the school doing this.
-  es: Los padres no siempre están de acuerdo.
+  zh-hans: (1:家长们:6)(2:并:24)不都同意学校这样做。
+  pinyin: (1:Jiāzhǎngmen) (2:bìng) bù dōu tóngyì xuéxiào zhèyàng zuò.
+  en: The (1:parents) don’t (2:really) agree with the school doing this.
+  es: Los (1:padres) (2:realmente) no están de acuerdo que las escuelas hagan eso.
