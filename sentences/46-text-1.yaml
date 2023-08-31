@@ -362,9 +362,16 @@ sentences:
   en: Sunday morning, she also must do English homework.
   es: Tiene que hacer los deberes de inglés el domingo por la mañana.
 - id: af9d9d8d-e35b-4fe9-848d-03735d276878
+  context: video
   zh-hans: 只有下午才能让他玩儿一会儿。
   pinyin: Zhǐyǒu xiàwǔ cáinéng ràng tā wánr yīhuǐr.
   en: The afternoon is the only time he can play a little bit.
+  es: Sólo puede jugar por la tarde.
+- id: 8fd7ae93-13d4-4186-ae57-bab0563fc33a
+  context: audio
+  zh-hans: 只有下午才能让她玩儿一会儿。
+  pinyin: Zhǐyǒu xiàwǔ cáinéng ràng tā wánr yīhuǐr.
+  en: The afternoon is the only time she can play a little bit.
   es: Sólo puede jugar por la tarde.
 - id: 5433e6fb-a310-499c-9267-d1dc02b7752d
   zh-hans: 说实在的，
