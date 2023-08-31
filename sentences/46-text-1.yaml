@@ -15,10 +15,10 @@ sentences:
   en: (2:Teacher) (1:Chen), (3:hello),
   es: (2:Profesora) (1:Chen), (3:hola),
 - id: 24c83648-a9ff-410e-93a0-f6dbc4134e46
-  zh-hans: (1:星期六)带着(2:孩子)去哪儿(3:玩儿)？
-  pinyin: (1:xīngqíliù) dàizhe (2:háizi) qù nǎr (3:wánr)?
-  en: it’s (1:Saturday) where are you taking the (2:child) to (3:play)?
-  es: ¿Dónde va a llevar a los (2:niños) a (3:jugar), hoy, (1:sábado)?
+  zh-hans: (1:星期六)(2:带)着(3:孩子)去(4:哪儿)(5:玩儿)？
+  pinyin: (1:xīngqíliù) (2:dà)izhe (3:háizi) qù nǎr (5:wánr)?
+  en: it’s (1:Saturday) (4:where) are you (2:taking) the (3:child) to (5:play)?
+  es: ¿(4:Dónde) (2:lleva) a los (3:niños) a (5:jugar), hoy, (1:sábado)?
 - id: 7ee6aa59-a185-485d-9ebc-d3640f139e22
   zh-hans: 我哪儿是去(1:玩儿)？
   pinyin: Wǒ nǎr shì qù (1:wánr)?
