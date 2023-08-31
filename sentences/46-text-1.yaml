@@ -293,10 +293,17 @@ sentences:
   en: either I accompany her to computer tutorial class,
   es: O voy con ella a una clase de informática.
 - id: d33fe11b-00fe-42f9-8120-b018bbdb2d84
+  context: video
   zh-hans: 要么他爸爸带着他去上书法班。
   pinyin: yàome tā bàba dàizhe tā qù shàng shūfǎ bān.
   en: or his father takes him to calligraphy class.
   es: O su padre le lleva a una clase de caligrafía.
+- id: f90c6b5b-9c89-42bd-a861-64aca4a09ab5
+  context: audio
+  zh-hans: 要么她爸爸带着他去上书法班。
+  pinyin: yàome tā bàba dàizhe tā qù shàng shūfǎ bān.
+  en: or her father takes him to calligraphy class.
+  es: O su padre la lleva a una clase de caligrafía.
 - id: 9d8c4493-8978-47b2-b446-cb9566b67959
   zh-hans: 小朋友，你周末学书法，
   pinyin: Xiǎopéngyǒu, nǐ zhōumò xué shūfǎ,
