@@ -82,10 +82,10 @@ sentences:
   en: people who in the (1:morning) (2:take) the (3:first) (5:shuttle bus),
   es: personas que por las (1:mañanas) (2:toman) el (3:primer) (5:autobús),
 - id: cbb74be1-e96e-446e-bee1-4ca31af6ef7a
-  zh-hans: (6:几乎)都是(7:小学生)
-  pinyin: ((6:jīhū) dōu shì (7:xiǎoxuéshēng)
-  en: (6:almost) all are (7:pupils)
-  es: (6:casi) todos son (7:estudiantes niños)
+  zh-hans: (1:几乎)都是(2:小学生)
+  pinyin: ((1:jīhū) dōu shì (2:xiǎoxuéshēng)
+  en: (1:almost) all are (2:pupils)
+  es: (1:casi) todos son (2:estudiantes niños)
 - id: 50263ca7-9287-443a-8337-b677c339313e
   zh-hans: 和(1:送)他们(2:上学)的(3:家长:6)。
   pinyin: hé (1:sòng) tāmen (2:shàngxué) de (3:jiāzhǎng).
