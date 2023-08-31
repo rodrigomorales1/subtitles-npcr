@@ -222,8 +222,15 @@ sentences:
   en: they are busy studying,
   es: Están ocupados estudiando.
 - id: 10a7f3cf-65fe-47f5-ad30-f95ced1f5f03
+  context: video
   zh-hans: 周末应该让他们放松一下了？
   pinyin: zhōumò yīnggāi ràng tāmen fàngsōng yīxiàle?
+  en: in the weekend they should be allowed to rest a bit.
+  es: ¿Les toca relajarse los fines de semana?
+- id: a8f859c5-e46d-4230-8aa4-0d83ab580d67
+  context: audio
+  zh-hans: 周末应该让他们放松一下了吧？
+  pinyin: zhōumò yīnggāi ràng tāmen fàngsōng yīxiàle ba?
   en: in the weekend they should be allowed to rest a bit.
   es: ¿Les toca relajarse los fines de semana?
 - id: c50a8582-5de5-4df4-bea4-4f24a2384207
