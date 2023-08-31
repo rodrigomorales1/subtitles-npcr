@@ -64,7 +64,7 @@ sentences:
   context: audio
   zh-hans: 全家人都为她着急。
   pinyin: quánjiā rén dōu wèi tā zhāojí.
-  en: the whole family is anxious for him.
+  en: the whole family is anxious for her.
   es: Toda la familia está preocupada por él.
 - id: aa77fdef-cad2-4a0e-bfc9-a53760446470
   zh-hans: 最近我做了一个调查，
@@ -259,9 +259,16 @@ sentences:
   en: Talking about my child,
   es: Por ejemplo, mi hijo.
 - id: 0b1519f8-a2fd-4779-9822-462176088756
+  context: video
   zh-hans: 他算是学习好的，
   pinyin: tā suànshì xuéxí hào de,
   en: he is considered good at studying,
+  es: Es un buen estudiante.
+- id: 14179a68-ec17-43aa-bb89-0edc879eccc7
+  context: audio
+  zh-hans: 她算是学习好的，
+  pinyin: tā suànshì xuéxí hào de,
+  en: she is considered good at studying,
   es: Es un buen estudiante.
 - id: 4d9da1d4-6624-42f6-866d-fdd1925ddb53
   zh-hans: 不用补习。
