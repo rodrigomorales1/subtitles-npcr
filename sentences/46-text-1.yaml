@@ -55,7 +55,14 @@ sentences:
   en: The child’s studies are alright, it’s just the burden is too great,
   es: Va bien, pero está sobrecargado.
 - id: 634236f9-f411-4f02-8086-e9f810f9b8b1
+  context: video
   zh-hans: 全家人都为他着急。
+  pinyin: quánjiā rén dōu wèi tā zhāojí.
+  en: the whole family is anxious for him.
+  es: Toda la familia está preocupada por él.
+- id: 0e266d68-9033-4891-ab0a-41f7c6499335
+  context: audio
+  zh-hans: 全家人都为她着急。
   pinyin: quánjiā rén dōu wèi tā zhāojí.
   en: the whole family is anxious for him.
   es: Toda la familia está preocupada por él.
