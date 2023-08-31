@@ -69,13 +69,13 @@ sentences:
 - id: aa77fdef-cad2-4a0e-bfc9-a53760446470
   zh-hans: 最近我做了一个调查，
   pinyin: Zuìjìn wǒ zuòle yīgè diàochá,
-  en: Recently I conducted a survey,
-  es: Hice una encuesta hace poco.
-- id: 5043d2c4-36e8-43b1-a518-13bf2f77f5a8
+  en: Recently I conducted a survey of
+  es: Hice una encuesta hace poco sobre
+- id: 5043d2c4-36e8-43b1-a518-13bf2f77f58aldo
   zh-hans: 早上坐头班车的，几乎都是小学生
   pinyin: zǎoshang zuò tóu bānchē de, jīhū dōu shì xiǎoxuéshēng
-  en: of the morning shuttle bus, almost all are students
-  es: Casi todos los primeros autobuses de la mañana los toman alumnos de primaria y sus padres.
+  en: the morning shuttle bus, almost all are pupils
+  es: los primeros autobuses de la mañana, casi todos son estudiantes niños
 - id: 50263ca7-9287-443a-8337-b677c339313e
   zh-hans: 和送他们上学的家长。
   pinyin: hé sòng tāmen shàngxué de jiāzhǎng.
