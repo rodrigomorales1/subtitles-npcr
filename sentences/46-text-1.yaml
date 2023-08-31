@@ -337,8 +337,8 @@ sentences:
 - id: a9b04140-adf0-45bf-aabd-b83476995af4
   zh-hans: (1:星期六)这一天是没有了。
   pinyin: (1:Xīngqíliù) zhè yītiān shì méiyǒule.
-  en: This (1:Saturday) there is no class.
-  es: Este (1:sábado) no hay clases.
+  en: This (1:Saturday) there is no time to play.
+  es: Este (1:sábado) no hay tiempo para ir a jugar.
 - id: 690901a1-9a4e-4477-8148-bd3bcf589015
   zh-hans: (1:明天)是(2:星期日)，
   pinyin: (1:Míngtiān) shì (2:xīngqírì),
