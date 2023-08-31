@@ -16,7 +16,7 @@ sentences:
   es: (2:Profesora) (1:Chen), (3:hola),
 - id: 24c83648-a9ff-410e-93a0-f6dbc4134e46
   zh-hans: (1:星期六)(2:带)着(3:孩子)去(4:哪儿)(5:玩儿)？
-  pinyin: (1:xīngqíliù) (2:dà)izhe (3:háizi) qù nǎr (5:wánr)?
+  pinyin: (1:xīngqíliù) (2:dà)izhe (3:háizi) qù (4:nǎr) (5:wánr)?
   en: it’s (1:Saturday) (4:where) are you (2:taking) the (3:child) to (5:play)?
   es: ¿(4:Dónde) (2:lleva) a los (3:niños) a (5:jugar), hoy, (1:sábado)?
 - id: 7ee6aa59-a185-485d-9ebc-d3640f139e22
