@@ -80,6 +80,7 @@ def generate_video(file_path_media,
     keys_for_bottom_subtitles = keys_for_bottom_subtitles.split(',')
 
     data_timestamps_sentences = utilities.get_data_timestamps_sentences(file_path_timestamps, file_path_sentences)
+    utilities.ensure_timestamps_have_two_decimals(data_timestamps_sentences)
 
     ass_file = generate_ass_file(data_timestamps_sentences, do_color_words, keys_for_bottom_subtitles)
 
