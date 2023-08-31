@@ -55,10 +55,10 @@ sentences:
   en: The (1:child)’s (2:studies) are alright,
   es: A mi (1:hijo) le va bien en sus (2:estudios),
 - id: 95b4c348-6baf-4395-ab1b-f34a8e40fbb0
-  zh-hans: (3:就是:2)(4:负担:3)(5:太)(6:重)，
-  pinyin: (3:jiùshì) (4:fùdān) (5:tài) (6:zhòng),
-  en: (3:it’s just that) the (4:burden) is (5:too) (6:heavy),
-  es: (3:es solo que) la (4:carga) académica es (5:muy) (6:pesada).
+  zh-hans: (1:就是:2)(2:负担:3)(3:太)(4:重)，
+  pinyin: (1:jiùshì) (2:fùdān) (3:tài) (4:zhòng),
+  en: (1:it’s just that) the (2:burden) is (3:too) (4:heavy),
+  es: (1:es solo que) la (2:carga) académica es (3:muy) (4:pesada).
 - id: 634236f9-f411-4f02-8086-e9f810f9b8b1
   context: video
   zh-hans: (1:全家人)都为(2:他)(3:着急)。
@@ -77,10 +77,15 @@ sentences:
   en: (1:Recently) I (2:conducted) (3:an) (3:investigation) of
   es: (1:hace poco) (2:hice) (3:una) (3:investigación) sobre
 - id: 5043d2c4-36e8-43b1-a518-13bf2f77f5a8
-  zh-hans: (1:早上)(2:坐)(3:头:5)(4:班:5)(5:车:5)的，(6:几乎)都是(7:小学生)
-  pinyin: (1:zǎoshang) (2:zuò) (3:tóu)(4:bān)(5:chē) de, (6:jīhū) dōu shì (7:xiǎoxuéshēng)
-  en: people who in the (1:morning) (2:take) the (3:first) (5:shuttle bus), (6:almost) all are (7:pupils)
-  es: personas que por las (1:mañanas) (2:toman) el (3:primer) (5:autobús), (6:casi) todos son (7:estudiantes niños)
+  zh-hans: (1:早上)(2:坐)(3:头:5)(4:班:5)(5:车:5)的，
+  pinyin: (1:zǎoshang) (2:zuò) (3:tóu)(4:bān)(5:chē) de,
+  en: people who in the (1:morning) (2:take) the (3:first) (5:shuttle bus),
+  es: personas que por las (1:mañanas) (2:toman) el (3:primer) (5:autobús),
+- id: cbb74be1-e96e-446e-bee1-4ca31af6ef7a
+  zh-hans: (6:几乎)都是(7:小学生)
+  pinyin: ((6:jīhū) dōu shì (7:xiǎoxuéshēng)
+  en: (6:almost) all are (7:pupils)
+  es: (6:casi) todos son (7:estudiantes niños)
 - id: 50263ca7-9287-443a-8337-b677c339313e
   zh-hans: 和(1:送)他们(2:上学)的(3:家长:6)。
   pinyin: hé (1:sòng) tāmen (2:shàngxué) de (3:jiāzhǎng).
