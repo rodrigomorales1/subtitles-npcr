@@ -48,7 +48,7 @@ sentences:
   zh-hans: 您(1:孩子)(2:学习)怎么样？
   pinyin: Nín (1:háizi) (2:xuéxí) zěnme yàng?
   en: How are your (1:child)’s (2:studies) going?
-  es: ¿Cómo va el (2:estudio) de tu (1:h)ijo?
+  es: ¿Cómo va el (2:estudio) de tu (1:hijo)?
 - id: 48ed78df-d0b0-4c1a-b1d9-ec8c0974860c
   zh-hans: (1:孩子)(2:学习)还可以，
   pinyin: (1:Háizi) (2:xuéxí) hái kěyǐ,
@@ -72,10 +72,10 @@ sentences:
   en: the (1:whole family) is (3:anxious) for (2:her).
   es: (1:Toda la familia) está (3:preocupada) por (2:ella).
 - id: aa77fdef-cad2-4a0e-bfc9-a53760446470
-  zh-hans: (1:最近)我(2:做)了(3:一)个(3:调查:4)，
-  pinyin: (1:Zuìjìn) wǒ (2:zuò)le (3:yī)gè (3:diàochá),
-  en: (1:Recently) I (2:conducted) (3:an) (3:investigation) of
-  es: (1:hace poco) (2:hice) (3:una) (3:investigación) sobre
+  zh-hans: (1:最近)我(2:做)了(3:一)个(4:调查:4)，
+  pinyin: (1:Zuìjìn) wǒ (2:zuò)le (3:yī)gè (4:diàochá),
+  en: (1:Recently) I (2:conducted) (3:an) (4:investigation) of
+  es: (1:hace poco) (2:hice) (3:una) (4:investigación) sobre
 - id: 5043d2c4-36e8-43b1-a518-13bf2f77f5a8
   zh-hans: (1:早上)(2:坐)(3:头:5)(4:班:5)(5:车:5)的，
   pinyin: (1:zǎoshang) (2:zuò) (3:tóu)(4:bān)(5:chē) de,
@@ -83,7 +83,7 @@ sentences:
   es: personas que por las (1:mañanas) (2:toman) el (3:primer) (5:autobús),
 - id: cbb74be1-e96e-446e-bee1-4ca31af6ef7a
   zh-hans: (1:几乎)都是(2:小学生)
-  pinyin: ((1:jīhū) dōu shì (2:xiǎoxuéshēng)
+  pinyin: (1:jīhū) dōu shì (2:xiǎoxuéshēng)
   en: (1:almost) all are (2:pupils)
   es: (1:casi) todos son (2:estudiantes niños)
 - id: 50263ca7-9287-443a-8337-b677c339313e
@@ -204,7 +204,7 @@ sentences:
 - id: c0efba51-3954-4893-9a09-ea289373e1bd
   zh-hans: (1:名牌)(2:中学)。
   pinyin: (1:míngpái) (2:zhōngxué).
-  en: and a (11:good) (2:high school).
+  en: and a (1:good) (2:high school).
   es: una (1:reconocida) (2:escuela secundaria).
 - id: eb1a775c-3de6-4eee-aef5-1127a5d28b81
   zh-hans: 在(1:这)(2:种)(3:风气:15)的(4:影响:16)下，
@@ -215,7 +215,7 @@ sentences:
   zh-hans: (1:孩子们)从(2:小学)就(3:开始)(4:竞争)了。
   pinyin: (1:háizimen) cóng (2:xiǎoxué) jiù (3:kāishǐ) (4:jìngzhēng)le.
   en: (1:children) from (2:primary school) (3:begin) to (4:compete).
-  es: los (1:niños) (3:empiezan) a (3:competir) desde la (2:escuela primaria).
+  es: los (1:niños) (3:empiezan) a (4:competir) desde la (2:escuela primaria).
 - id: dcbd0bad-bc93-445b-a00b-4434eab7025d
   zh-hans: (1:这)(2:太)(3:不)(4:应该)了。
   pinyin: (1:Zhè) (2:tài) (3:b)ù (4:yìnggāi) le.
@@ -225,7 +225,7 @@ sentences:
   zh-hans: 他们(1:从)(2:星期一)(3:到)(3:星期五)
   pinyin: Tāmen (1:cóng) (2:xīngqí yī) (3:dào) (3:xīngqíwǔ)
   en: (1:From) (2:Monday) to (3:Friday)
-  es: Ellos, (1:de) (2:lunes) (2:a) (3:viernes),
+  es: Ellos, (1:de) (2:lunes) (3:a) (3:viernes),
 - id: 887450da-7bea-419a-91b8-138fe8ed4bc2
   zh-hans: 都(1:忙)于(2:学习)，
   pinyin: dōu (1:máng) yú (2:xuéxí),
@@ -295,25 +295,25 @@ sentences:
   zh-hans: (1:要么:21)我(2:陪)(3:他)去上(4:电脑)(5:辅导:1)(6:班)，
   pinyin: (1:yàome) wǒ (2:péi) (3:tā) qù shàng (4:diànnǎo) (5:fǔdǎo:1) (6:bān),
   en: (1:either) I (2:accompany) (3:him) to a (5:supplementary) (6:class) on (4:computing),
-  es: (1:O) lo (2:acompaño) a una (6:clase) (5:suplementaria) de (4:computación).
+  es: (1:o) lo (2:acompaño) a una (6:clase) (5:suplementaria) de (4:computación).
 - id: c9c4cd7a-b626-4278-a92c-a10fbefd08a5
   context: audio
   zh-hans: (1:要么:21)我(2:陪)她去上(3:电脑)(4:辅导:1)(5:班)，
   pinyin: (1:yàome) wǒ (2:péi) tā qù shàng (3:diànnǎo) (4:fǔdǎo:1) (5:bān),
   en: (1:either) I (2:accompany) her to a (5:supplementary) (6:class) on (4:computing),
-  es: (1:O) la (2:acompaño) a una (5:clase) (4:suplementaria) de (3:computación).
+  es: (1:o) la (2:acompaño) a una (5:clase) (4:suplementaria) de (3:computación).
 - id: d33fe11b-00fe-42f9-8120-b018bbdb2d84
   context: video
   zh-hans: (1:要么:21)他(2:爸爸)带着他去上(3:书法)(4:班)。
   pinyin: (1:yàome) tā (2:bàba) dàizhe tā qù shàng (3:shūfǎ) (4:bān).
   en: (1:or) his (2:father) takes him to (3:calligraphy) (4:class).
-  es: (1:O) su (2:padre) le lleva a una (4:clase) de (3:caligrafía).
+  es: (1:o) su (2:padre) le lleva a una (4:clase) de (3:caligrafía).
 - id: f90c6b5b-9c89-42bd-a861-64aca4a09ab5
   context: audio
   zh-hans: (1:要么:21)她(2:爸爸)带着他去上(3:书法)(4:班)。
   pinyin: (1:yàome) tā (2:bàba) dàizhe tā qù shàng (3:shūfǎ) (4:bān).
   en: (1:or) her (2:father) takes him to (3:calligraphy) (4:class).
-  es: (1:O) su (2:padre) la lleva a una (4:clase) de (3:caligrafía).
+  es: (1:o) su (2:padre) la lleva a una (4:clase) de (3:caligrafía).
 - id: 9d8c4493-8978-47b2-b446-cb9566b67959
   zh-hans: (1:小朋友)，你(2:周末:17)学(3:书法)，
   pinyin: (1:Xiǎopéngyǒu), nǐ (2:zhōumò) xué (3:shūfǎ),
@@ -417,17 +417,17 @@ sentences:
   zh-hans: (1:老师)(2:已经)不(3:要求)(4:学生)做(5:家庭)(6:作业:7)了。
   pinyin: (1:lǎoshī) (2:yǐjīng) bù (3:yāoqiú) (4:xuéshēng) zuò (5:jiātíng) (6:zuòyè) le.
   en: where the (1:teachers) do not (3:require) (4:students) to do (6:homework).
-  es: Los (1:profesores) ya no (3:piden) a los (4:alumnos) que hagan (6:tarea) para la (5:casa).
+  es: Los (1:profesores) (2:ya) no (3:piden) a los (4:alumnos) que hagan (6:tarea) para la (5:casa).
 - id: b33c8c3a-33fc-4c77-97cf-fb3d72d0dc7c
   zh-hans: (1:老师)不(2:要求)我们做(3:家庭)(4:作业:7)，
   pinyin: (1:Lǎoshī) bù (2:yāoqiú) wǒmen zuò (3:jiātíng) (4:zuòyè),
   en: The (1:teachers) don't (2:require) us to do (3:home)(4:work),
   es: Los (1:profesores) no nos (2:piden) que hagamos (4:tarea) para la (3:casa),
 - id: f7be3fc8-c7aa-4ac9-b7a7-d1b2df38140a
-  zh-hans: (1:这)(3:太好了)，我(3:百分之百)地(4:赞成:23)。
-  pinyin: (1:zhè) (3:tài hǎole), wǒ (3:bǎifēnzhībǎi) de (4:zànchéng).
-  en: (1:This) (3:is great), I (4:endorse) this (3:one hundred percent).
-  es: (1:Esto) (3:es genial). (4:Estoy) (3:100%) (4:de acuerdo) con ello.
+  zh-hans: (1:这)(2:太好了)，我(3:百分之百)地(4:赞成:23)。
+  pinyin: (1:zhè) (2:tài hǎole), wǒ (3:bǎifēnzhībǎi) de (4:zànchéng).
+  en: (1:This) (2:is great), I (4:endorse) this (3:one hundred percent).
+  es: (1:Esto) (2:es genial). (4:Estoy) (3:100%) (4:de acuerdo) con ello.
 - id: d6b5c8b9-05c6-47f2-a068-96e0aa86ff6e
   zh-hans: (1:可是)(2:你)(3:知道)吗？
   pinyin: (1:Kěshì) (2:nǐ) (3:zhīdào) ma?
