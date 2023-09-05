@@ -142,10 +142,17 @@ sentences:
   en: and also (1:add) (2:a lot of) additional (3:tutoring) and (4:practice).
   es: así que les (1:añaden) (2:muchas) (3:clases extracurriculares) y (4:ejercicios).
 - id: 486350b4-31e9-4046-b2a4-c0016b265a55
+  context: video
   zh-hans: (1:孩子)(2:经常:12)(3:十点)(4:半)(5:以后)才(6:睡觉)。
   pinyin: (1:Háizi) (2:jīngcháng) (3:shí diǎn) (4:bàn) (5:yǐhòu) cái (6:shuìjiào).
   en: (1:Children) (2:often) cannot (6:go to sleep) until (5:after) (4:half)-past (3:ten).
-  es: Los (1:niños) (2:suelen) irse a (6:dormir) (5:después) de las (3:diez) y (4:media).
+  es: Los (1:niños) (2:suelen) (6:dormir) (5:después) de las (3:diez) y (4:media).
+- id: ddf3471f-f90b-4d61-9d97-c3e46b094287
+  context: audio
+  zh-hans: (1:孩子)(2:经常:12)(3:晚上)(4:十点)(5:半)(6:以后)才(7:睡觉)。
+  pinyin: (1:Háizi) (2:jīngcháng) (3:wǎnshang) (4:shí diǎn) (5:bàn) (6:yǐhòu) cái (7:shuìjiào).
+  en: (1:Children) (2:often) cannot (7:go to sleep) until (6:after) (5:half)-past (4:ten) at (3:night).
+  es: Los (1:niños) (2:suelen) (7:dormir) (6:después) de las (4:diez) y (5:media) de la (3:noche).
 - id: 2263aa81-2af0-4dd9-bf06-496db6d34315
   zh-hans: 他们(1:连)(2:看)(3:电视)的(4:时间)都(5:没)(6:有)啊！
   pinyin: Tāmen (1:lián) (2:kàn) (3:diànshì) de (4:shíjiān) dōu (5:méi)(6:yǒu) a!
