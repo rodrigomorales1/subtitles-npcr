@@ -25,3 +25,58 @@ It should be written like this:
 #+END_SRC
 
 The second translation doesn't sound natural, but we are prioritizing full conveyance of meaning over naturality of speech.
+
+* 2. Vertical proximity of translations
+
+There should be a balance between naturality of speech and the vertical proximity of words in the original language.
+
+Sometimes when trying to follow this rule, it might be difficult to ensure naturality of speech. In such cases, prioritize naturality of speech.
+
+** Example
+
+The following =en= translation doesn't comply with this rule.
+
+#+begin_src yaml
+- id: 74fc4823-1700-4e68-b878-ff8638db231d
+  zh-hans: 养花是不太难。
+  en: It is not too difficult to raise flowers.
+#+end_src
+
+It should be written as shown below:
+
+#+begin_src yaml
+- id: 74fc4823-1700-4e68-b878-ff8638db231d
+  zh-hans: 养花是不太难。
+  en: Raising flowers is not too difficult.
+#+end_src
+
+** Example
+
+The following =en= translation doesn't comply with this rule.
+
+#+begin_src yaml
+- id: 19dd003c-9982-4f04-a0d5-ea6a6696f223
+  zh-hans: 你们都很喜欢，我太高兴了。
+  en: I am very happy that you all enjoyed it.
+#+end_src
+
+It should be written as shown below:
+
+#+begin_src yaml
+- id: 19dd003c-9982-4f04-a0d5-ea6a6696f223
+  zh-hans: 你们都很喜欢，我太高兴了。
+  en: You all enjoyed it, I am very happy.
+#+end_src
+
+** Example
+
+The following =en= translation doesn't comply with this rule because "teahouse" appears at the beginning of the sentence while "茶馆" appears at the end of the sentence.
+
+#+begin_src yaml
+- id: c0198d9f-60ef-4b8a-b9a3-f6a16ef4dbaf
+  zh-hans: 这就是我常说的老茶馆。
+  en: This is the old teahouse I often talk about.
+#+end_src
+
+Someone could think that a translation that comply with this rule is "This is I often talk about of the old teahouse", but it is not grammatically correct.
+
