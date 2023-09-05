@@ -8,7 +8,7 @@ There's a trade-off when showing full meaning of words: sentences don't sound to
 
 ** Example
 
-The following =en= translation doesn't conform with this rule.
+The following =en= translation doesn't comply with this rule.
 
 #+BEGIN_SRC sh
 - id: 93b6590f-6567-4fbe-a667-8f35b67a5024
