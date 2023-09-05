@@ -55,6 +55,37 @@ def generate_ass_file_three_lines(data_timestamps_sentences, keys_for_bottom_sub
 ScriptType: v4.00+
 
 [V4+ Styles]
+Format: Name,                     Fontname, Fontsize, Outline, BorderStyle, PrimaryColour, OutlineColour
+Style:     1-pinyin,      Noto Sans CJK SC,       18,       1,           3,      &H000000,      &HF4D442
+Style:     2-pinyin,      Noto Sans CJK SC,       18,       1,           3,      &HFFFFFF,      &H4B19E6
+Style:     3-pinyin,      Noto Sans CJK SC,       18,       1,           3,      &H000000,      &H19E1FF
+Style:     4-pinyin,      Noto Sans CJK SC,       18,       1,           3,      &HFFFFFF,      &HD86343
+Style:     5-pinyin,      Noto Sans CJK SC,       18,       1,           3,      &H000000,      &HC3FFAA
+Style:     6-pinyin,      Noto Sans CJK SC,       18,       1,           3,      &HFFFFFF,      &H909946
+Style:     7-pinyin,      Noto Sans CJK SC,       18,       1,           3,      &H000000,      &HE632F0
+Style:     8-pinyin,      Noto Sans CJK SC,       18,       1,           3,      &HFFFFFF,      &H3182F5
+Style:     9-pinyin,      Noto Sans CJK SC,       18,       1,           3,      &H000000,      &HD4BEFA
+Style:     10-pinyin,     Noto Sans CJK SC,       18,       1,           3,      &HFFFFFF,      &H000080
+Style:     1-zh-hans,     Noto Sans CJK SC,       32,       1,           3,      &H000000,      &HF4D442
+Style:     2-zh-hans,     Noto Sans CJK SC,       32,       1,           3,      &HFFFFFF,      &H4B19E6
+Style:     3-zh-hans,     Noto Sans CJK SC,       32,       1,           3,      &H000000,      &H19E1FF
+Style:     4-zh-hans,     Noto Sans CJK SC,       32,       1,           3,      &HFFFFFF,      &HD86343
+Style:     5-zh-hans,     Noto Sans CJK SC,       32,       1,           3,      &H000000,      &HC3FFAA
+Style:     6-zh-hans,     Noto Sans CJK SC,       32,       1,           3,      &HFFFFFF,      &H909946
+Style:     7-zh-hans,     Noto Sans CJK SC,       32,       1,           3,      &H000000,      &HE632F0
+Style:     8-zh-hans,     Noto Sans CJK SC,       32,       1,           3,      &HFFFFFF,      &H3182F5
+Style:     9-zh-hans,     Noto Sans CJK SC,       32,       1,           3,      &H000000,      &HD4BEFA
+Style:     10-zh-hans,    Noto Sans CJK SC,       32,       1,           3,      &HFFFFFF,      &H000080
+Style:     1-third-line,  Noto Sans CJK SC,       18,       1,           3,      &H000000,      &HF4D442
+Style:     2-third-line,  Noto Sans CJK SC,       18,       1,           3,      &HFFFFFF,      &H4B19E6
+Style:     3-third-line,  Noto Sans CJK SC,       18,       1,           3,      &H000000,      &H19E1FF
+Style:     4-third-line,  Noto Sans CJK SC,       18,       1,           3,      &HFFFFFF,      &HD86343
+Style:     5-third-line,  Noto Sans CJK SC,       18,       1,           3,      &H000000,      &HC3FFAA
+Style:     6-third-line,  Noto Sans CJK SC,       18,       1,           3,      &HFFFFFF,      &H909946
+Style:     7-third-line,  Noto Sans CJK SC,       18,       1,           3,      &H000000,      &HE632F0
+Style:     8-third-line,  Noto Sans CJK SC,       18,       1,           3,      &HFFFFFF,      &H3182F5
+Style:     9-third-line,  Noto Sans CJK SC,       18,       1,           3,      &H000000,      &HD4BEFA
+Style:     10-third-line, Noto Sans CJK SC,       18,       1,           3,      &HFFFFFF,      &H000080
 Format: Name, Fontname, Fontsize, Outline, PrimaryColour, Shadow, Bold, Alignment, MarginV""")
 
         t1.write("\nStyle: group-1-pinyin, Noto Sans, 18, 0, &HFFFFFF, 0, 0, 2, 258")

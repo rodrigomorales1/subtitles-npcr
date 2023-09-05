@@ -57,19 +57,18 @@ def remove_word_indicators_in_keys(data, keys):
             if key in keys:
                 obj[key] = remove_word_indicators_in_string(obj[key])
 
-colors = ['77CCDD', 'EECC88', '339999', 'CC9966', '99AA44', 'CC6677', 'CC6677', 'CC6677']
-
 def insert_colors_in_string(string):
     import re
-    return re.sub(r'\(([0-9]+):([^)]+)\)', lambda x: f'{{\\1c&H{colors[int(x.group(1))-1]}&}}{x.group(2)}{{\\c}}', string)
+    return re.sub(r'\(([0-9]+):([^)]+)\)', lambda x: f'{{\\r{int(x.group(1))}}}{x.group(2)}{{\\r}}', string)
 
 def get_string_with_underline_and_colors(match):
     if current_key == 'pinyin':
         numberings_of_groups_found_in_string.append(match.group(1))
-    color = colors[int(match.group(1))-1]
+    color = match.group(1)
     word = match.group(2)
+    style = f"{color}-" + (current_key if current_key == 'pinyin' or current_key == 'zh-hans' else 'third-line')
     do_underline = True if match.group(1) in numberings_of_new_words else False
-    return (r'{\u1}' if do_underline else "") + f"""{{\\1c&H{color}&}}{word}{{\\c}}""" + (r'{\u0}' if do_underline else "")
+    return (r'{\u1}' if do_underline else "") + f"""{{\\r{style}}}{word}{{\\r}}""" + (r'{\u0}' if do_underline else "")
 
 def replace_all_parentheses_groups_with_colors_and_underline(string, key):
     import re
