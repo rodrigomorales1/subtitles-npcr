@@ -1,0 +1,25 @@
+* 1. Prioritize conveying of full meaning over naturality of speech
+
+There are some commonly used words in Chinese which convey greater meanings than their counterparts in other languages (especially terms for family members). For example, 外婆 means "maternal grandmother" and 奶奶 "paternal grandmothe". When someone greet their grandmother in Chinese, they either say 外婆 or 奶奶. Contrarily, it is not common to hear English native speakers say "paternal grandmother" or "maternal grandmother" when greeting.
+
+
+
+There's a trade-off when showing full meaning of words: sentences don't sound too natural. When the subtitles are intended to be read by Chinese learners, the learner when reading the subtitles in their native language, he/she might be more interested in reading a translation that convey the same meaning instead of reading a translation that sounds natural. Therefore, subtitles should give higher priority to expressing the same meaning as the original sentence rather than trying to sound natural.
+
+** Example
+
+The following =en= translation doesn't conform with this rule.
+
+#+BEGIN_SRC sh
+- id: 93b6590f-6567-4fbe-a667-8f35b67a5024
+  zh-hans: 外婆，您好！
+  en: Grandmother, hello!
+#+END_SRC
+
+It should be written like this:
+
+#+BEGIN_SRC sh
+- id: 93b6590f-6567-4fbe-a667-8f35b67a5024
+  zh-hans: 外婆，您好！
+  en: Maternal grandmother, hello!
+#+END_SRC
