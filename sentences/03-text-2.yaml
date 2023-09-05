@@ -13,7 +13,7 @@ sentences:
   zh-hans: 陈老师，您好！
   pinyin: Chén Lǎoshī, nín hǎo!
   en: Teacher Chen, hello!
-  es: ¡Hola, Sr. Chen!
+  es: ¡Hola, profesor Chen!
 - id: 380464de-0009-48a7-bfea-9f46c62f882a
   zh-hans: 这是我哥哥，他是外语老师。
   pinyin: Zhè shì wǒ gēgē, tā shí wàiyǔ lǎoshī.
@@ -23,13 +23,13 @@ sentences:
   zh-hans: 你好！
   pinyin: Nǐ hǎo!
   en: Hello!
-  es: ¡Hola, Sr. Chen!
+  es: ¡Hola!
 - id: 56e34c91-9436-424c-9f78-2520463a5ca9
   context: video
   zh-hans: 你好！
   pinyin: Nǐ hǎo!
   en: Hello!
-  es: ¡Hola, Sr. Chen!
+  es: ¡Hola!
 - id: 60eb378c-c2bd-4e07-b006-7dc008b2be41
   zh-hans: 这是我朋友。
   pinyin: Zhè shì wǒ péngyǒu.
@@ -39,36 +39,36 @@ sentences:
   zh-hans: 你好！你也是老师吗？
   pinyin: Nǐ hǎo! Nǐ yěshì lǎoshī ma?
   en: Hello! Are you also a teacher?
-  es: Mucho gusto. ¿Tú también eres profesor?
+  es: Hola. ¿Tú también eres profesor?
 - id: f7bb1270-498f-480c-a057-4d4c053ec248
   zh-hans: 您好！我不是老师。我是医生。
   pinyin: Nín hǎo! Wǒ bùshì lǎoshī. Wǒ shì yīshēng.
   en: Hello! I am not a teacher. I am a doctor.
-  es: ¡No soy profesor! No soy profesor. Soy médico.
+  es: ¡Hola! No soy profesor. Soy médico.
 - id: 2fd4a31d-37cb-4323-b241-d9b24a67facd
   zh-hans: 力波，这是你奶奶吗？
   pinyin: Lìbō, zhè shì nǐ nǎinai ma?
   en: Libo, is this your paternal grandmother?
-  es: Libo, ¿es tu abuela?
+  es: Libo, ¿es tu abuela de lado paterno?
 - id: 12f99a4c-19c0-4461-8e7b-58347abc93c1
   zh-hans: 不是，她是我外婆。
   pinyin: Bùshì, tā shì wǒ wàipó.
   en: No. She is my maternal grandmother.
-  es: No, es mi abuela.
+  es: No, es mi abuela de lado materno.
 - id: 93b6590f-6567-4fbe-a667-8f35b67a5024
   zh-hans: 外婆，您好！
   pinyin: Wàipó, nín hǎo!
-  en: maternal grandmother, hello!
+  en: Grandmother, hello!
   es: ¡Hola, abuela!
 - id: da792c19-246c-4523-9e97-c79b1a117e84
   context: video
   zh-hans: 你好！
   pinyin: Nǐ hǎo!
   en: Hello!
-  es: ¿Qué tal estás?
+  es: ¡Hola!
 - id: a17daae6-790c-45c9-b218-7deb61eb9ef4
   context: video
   zh-hans: 好，坐吧。
   pinyin: Hǎo, zuò ba.
-  en: Great, let’s sit.
-  es: Bien, siéntate.
+  en: Ok, let’s sit.
+  es: Bien, sentémonos.
