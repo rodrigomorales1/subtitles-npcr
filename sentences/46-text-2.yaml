@@ -281,7 +281,11 @@ sentences:
   en: Fourthly, must not friviously spend money.”
   es: Cuarto, no gastes dinero imprudentemente".
 - id: 9fb489a6-95a2-407d-83ab-914f77679750
+  context: audio
   zh-hans: 女儿说：
+  pinyin: Nǚ'ér shuō:
+  en: My daughter said:
+  es: Mi hija dijo:
 - id: c247ec55-66c9-426a-a9e6-42cf2bf6eb0b
   zh-hans: “你们放心，这四条我保证做到。”
   pinyin: “Nǐmen fàngxīn, zhè sìtiáo wǒ bǎozhèng zuò dào.”
