@@ -212,11 +212,13 @@ sentences:
   en: She jumps up with excitement.
   es: Ella saltó de alegría.
 - id: d487b363-8757-4d34-9ae3-b9ac2dcaa089
+  context: video
   zh-hans: “太好了，太好了。”
   pinyin: “Tài hǎole, tài hǎole.”
   en: “So great, so great.”
   es: "Genial, genial."
 - id: ab0594d0-a851-4c0b-b1a5-d038549c19f1
+  context: audio
   zh-hans: 我对她说：
 - id: 214615ea-3d13-4202-b754-61bb2573a459
   zh-hans: “你别高兴得太早，
