@@ -81,10 +81,10 @@ sentences:
   es: Mi hija se puso muy contenta.
 - id: 18283b9b-6ca9-4f33-97e7-224016a96a99
   context: video
-  zh-hans: “真的，妈妈你太好了。”
-  pinyin: “Zhēn de, māmā nǐ tài hǎole.”
-  en: “Really, Mum you are so great.”
-  es: '"De verdad, mamá, eres muy amable".'
+  zh-hans: “真的？妈妈你太好了。”
+  pinyin: “zhēn de? māmā nǐ tài hǎole.”
+  en: “Really? Mum, you are so great.”
+  es: '"¿De verdad? mamá, eres muy genial."'
 - id: 56342843-9a0a-41a9-ba64-43bfc450cb57
   zh-hans: 可是家里的人都反对。
   pinyin: Kěshì jiālǐ de rén dōu fǎnduì.
