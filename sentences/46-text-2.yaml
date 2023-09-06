@@ -333,7 +333,11 @@ sentences:
   en: On the fifth day, grandmother was the first who couldn’t help herself,
   es: Al quinto día, la abuela fue la primera en decir.
 - id: 05cf8cb0-7cb3-4579-8842-5a25a6f2d639
+  context: audio
   zh-hans: 她说：
+  pinyin: Tā shuō:
+  en: She said:
+  es: Ella dijo:
 - id: 7fb84a3e-00c3-4da8-a172-2e73f1d73d49
   zh-hans: “怎么没有消息呢？”
   pinyin: “Zěnme méiyǒu xiāoxi ne?
