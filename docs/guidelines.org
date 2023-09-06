@@ -84,3 +84,26 @@ The following =en= translation doesn't comply with this rule because "teahouse" 
 
 Someone could think that a translation that comply with this rule is "This is I often talk about of the old teahouse", but it is not grammatically correct.
 
+* 3. Show as much direct translations as possible
+
+Since subtitles are aimed for language learners, it sounds reasonable to try to show as much as possible direct translations of words so as to give learners the opportunity to know the specific meaning of words.
+
+** Example
+
+The following =en= translation doesn't comply with this rule.
+
+#+begin_src yaml
+- id: 283dd850-6858-4acb-92f0-0bf73b2501ab
+  zh-hans: 女儿看大家都不同意，
+  en: My daughter sees that no one agreed.
+#+end_src
+
+It should be written as shown below:
+
+#+BEGIN_SRC yaml
+- id: 283dd850-6858-4acb-92f0-0bf73b2501ab
+  zh-hans: 女儿看大家都不同意，
+  en: My daughter sees that everyone did not agree,
+#+END_SRC
+
+The first and the second English translation convey the same meaning. However, the first translation =大家= does not include the direct translation (i.e. "everyone"), while the second translation does include it.
