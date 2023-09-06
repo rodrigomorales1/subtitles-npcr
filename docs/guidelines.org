@@ -84,7 +84,7 @@ The following =en= translation doesn't comply with this rule because "teahouse" 
 
 Someone could think that a translation that comply with this rule is "This is I often talk about of the old teahouse", but it is not grammatically correct.
 
-* 3. Show as much direct translations as possible
+* 3. Show direct translations as much as possible
 
 Since subtitles are aimed for language learners, it sounds reasonable to try to show as much as possible direct translations of words so as to give learners the opportunity to know the specific meaning of words.
 
