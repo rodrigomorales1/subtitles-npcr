@@ -220,6 +220,9 @@ sentences:
 - id: ab0594d0-a851-4c0b-b1a5-d038549c19f1
   context: audio
   zh-hans: 我对她说：
+  pinyin: wǒ duì tā shuō:
+  en: I said to her:
+  es: Le dije a ella:
 - id: 214615ea-3d13-4202-b754-61bb2573a459
   zh-hans: “你别高兴得太早，
   pinyin: “Nǐ bié gāoxìng de tài zǎo,
