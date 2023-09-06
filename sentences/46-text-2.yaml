@@ -307,6 +307,7 @@ sentences:
   en: me and her signed our names at the top.
   es: Ella y yo las firmamos.
 - id: 020b540a-9693-4e05-b66a-9c74b3d88662
+  context: video
   zh-hans: 我要去夏令营了，夏令营了。
   pinyin: “Wǒ yào qù xiàlìngyíngle, xiàlìngyíngle.”
   en: “I am going to summer camp, summer camp.”
