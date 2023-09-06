@@ -79,10 +79,6 @@ Format: Start, End, Style, Text""")
             temporary_files_opened[2].write(f"""\nDialogue: {start_time}, {end_time}, subtitles_bottom_1, {data_timestamps_sentences[i][keys_for_bottom_subtitles[0]]}""")
             temporary_files_opened[3].write(f"""\nDialogue: {start_time}, {end_time}, subtitles_bottom_2, {data_timestamps_sentences[i][keys_for_bottom_subtitles[1]]}""")
 
-    # print([x.name for x in temporary_files])
-    # import time
-    # time.sleep(1000)
-
     return temporary_files
 
 def generate_video(file_path_media,
