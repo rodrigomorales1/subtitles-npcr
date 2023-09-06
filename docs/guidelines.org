@@ -1,3 +1,7 @@
+* Introduction
+
+This document presents guidelines for translations of sentences in Standard Mandarin which are primarily aimed to language learners of that language.
+
 * 1. Prioritize full conveyance of meanings over naturality of speech
 
 There are some commonly used words in Chinese which convey greater meanings than their counterparts in other languages (especially terms for family members). For example, 外婆 means "maternal grandmother" and 奶奶 "paternal grandmothe". When someone greet their grandmother in Chinese, they either say 外婆 or 奶奶. Contrarily, it is not common to hear English native speakers say "paternal grandmother" or "maternal grandmother" when greeting.
