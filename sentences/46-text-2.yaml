@@ -111,10 +111,10 @@ sentences:
   en: makes them very uneasy.
   es: Estaban inquietos.
 - id: b6af1888-952e-4436-a889-dbc440460da4
-  zh-hans: 孩子的爸爸本来同意让她去，
-  pinyin: Háizi de bàba běnlái tóngyì ràng tā qù,
-  en: The child’s father originally agreed to let her go,
-  es: El padre de la niña había accedido a dejarla ir.
+  zh-hans: (1:孩子)的(2:爸爸)(3:本来)(4:同意)(5:让)(6:她)(7:去)，
+  pinyin: (1:háizi) de (2:bàba) (3:běnlái) (4:tóngyì) (5:ràng) (6:tā) (7:qù),
+  en: The (1:child)’s (2:father) had (3:originally) (4:agreed) to (5:let) (6:her) (7:go),
+  es: El (2:padre) de la (1:niña) (3:originalmente) había (4:estado de acuerdo) con (5:dejar)(6:la) (7:ir).
 - id: 05d4f57f-1481-4712-910c-280e53d6f2b8
   zh-hans: 可是听了爷爷奶奶的话，
   pinyin: kěshì tīngle yéye nǎinai dehuà,
