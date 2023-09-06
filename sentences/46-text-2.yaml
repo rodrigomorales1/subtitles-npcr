@@ -439,13 +439,27 @@ sentences:
   en: 'Grandparents heard this, and satisfactorily said:'
   es: 'Los abuelos se alegraron:'
 - id: 7f5d4c63-3c78-4e93-a6e0-309c77d48f44
+  context: video
   zh-hans: “好，又学会洗衣服，
   pinyin: “Hǎo, yòu xuéhuì xǐ yīfú,
   en: “Good, learned to wash clothes,
   es: '"Bien, ha aprendido a lavar la ropa.'
+- id: e44660f2-60e4-4ab8-9a22-45156a3f18bb
+  context: audio
+  zh-hans: “好，又学会了洗衣服，
+  pinyin: “Hǎo, yòu xuéhuì le xǐ yīfú,
+  en: “Good, learned to wash clothes,
+  es: '"Bien, ha aprendido a lavar la ropa.'
 - id: 98d10297-b801-454a-a05c-67bd7417882c
+  context: video
   zh-hans: 又学会唱英语歌，
   pinyin: yòu xuéhuì chàng Yīngyǔ gē,
+  en: learned to sing English songs,
+  es: Y ha aprendido a cantar canciones en inglés.
+- id: 3f6a75bf-49ee-4831-bb2d-3932b10c797f
+  context: audio
+  zh-hans: 又学会了唱英语歌，
+  pinyin: yòu xuéhuì le chàng Yīngyǔ gē,
   en: learned to sing English songs,
   es: Y ha aprendido a cantar canciones en inglés.
 - id: 42f36122-2a06-422b-a481-337caf8c5c1d
