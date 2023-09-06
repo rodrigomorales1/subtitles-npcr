@@ -191,6 +191,7 @@ sentences:
   en: she will learn how to wash clothes herself.
   es: Ella aprenderá a lavar su propia ropa.
 - id: 700a0d87-7904-4c59-9216-c395c8b6cd6c
+  context: video
   zh-hans: “妈妈，让我去吧。”
   pinyin: “Māmā, ràng wǒ qù ba.”
   en: “Mum, allow me to go.”
