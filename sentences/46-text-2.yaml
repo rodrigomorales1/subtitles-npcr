@@ -244,6 +244,7 @@ sentences:
   en: or you do not go.”
   es: 'O no vas".'
 - id: 911512e5-8ce6-46aa-9ffd-b5cce3c5f2fd
+  context: audio
   zh-hans: 女儿急忙问我：
   pinyin: nǚ'ér jímáng wèn wǒ:
   en: My daughter hurriedly asked me:
