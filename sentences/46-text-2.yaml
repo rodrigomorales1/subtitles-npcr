@@ -254,7 +254,11 @@ sentences:
   en: “Mum, what are the conditions? Speak.”
   es: '"Mamá, ¿qué condiciones? Dímelas".'
 - id: 4eb00704-740b-40f0-a72d-3b9268073877
+  context: audio
   zh-hans: 我告诉她：
+  pinyin: wǒ gàosù tā:
+  en: I told her:
+  es: Le dije a ella:
 - id: aeadcb97-08b1-4bb0-9dbb-f14ba082a3b5
   zh-hans: “第一，要听老师的话。
   pinyin: “Dì yī, yào tīng lǎoshī dehuà.
