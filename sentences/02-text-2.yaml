@@ -17,15 +17,15 @@ sentences:
 - id: ed8d51e5-19cf-4ec3-86a6-d507263677d5
   zh-hans: 我要咖啡。
   pinyin: Wǒ yào kāfēi.
-  en: I’ll have a coffee.
+  en: I want a coffee.
   es: Quiero café.
 - id: 5b7805c5-aa85-4fc1-8ab5-8cb62775ce5e
   zh-hans: 我也要咖啡。
   pinyin: Wǒ yě yào kāfēi.
-  en: I’ll also have a coffee.
+  en: I also want a coffee.
   es: Yo también quiero café.
 - id: a91057f2-f563-480d-b26b-80a3ab84d8b6
   zh-hans: 好。我们都喝咖啡。
   pinyin: Hǎo. Wǒmen dōu hē kāfēi.
   en: Ok. We’ll all drink coffee.
-  es: Está bien. Ambos tomaremos café.
+  es: Está bien. Todos tomaremos café.
