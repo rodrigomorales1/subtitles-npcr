@@ -99,17 +99,17 @@ sentences:
   zh-hans: (1:从来没有)(2:离开)过(3:家)，
   pinyin: (1:cónglái méiyǒu) (2:líkāi)guò (3:jiā),
   en: and has (1:never) (2:left) (3:home),
-  es: y que (1:nunca) había se había (2:marchado) de (3:casa)
+  es: y que (1:nunca) había se había (2:marchado) de (3:casa),
 - id: 5eb76e8d-cf2e-4e4e-87ae-dc2be899b2c2
   zh-hans: (1:让)(2:她)(3:一个人)(4:出去)，
   pinyin: (1:ràng) (2:tā) (3:yīgè rén) (4:chūqù),
-  en: so (1:allowing) (2:her) (4:to go out) (3:on her own),
-  es: como para (1:dejar)(2:la) (4:salir) (3:sola),
+  en: so (1:allowing) (2:her) (4:to go out) (3:on her own)
+  es: así que (1:dejar)(2:la) (4:salir) (3:sola)
 - id: 8d66fef4-6692-48d4-9127-bb0eb9abdfe1
-  zh-hans: (1:他们)很不(2:放心)。
-  pinyin: (1:tāmen) hěn bù (2:fàngxīn).
-  en: makes (1:them) very (2:uneasy).
-  es: (1:ellos) estaban (2:inquietos).
+  zh-hans: (1:他们)(2:很)(3:不放心)。
+  pinyin: (1:tāmen) (2:hěn) (3:bù fàngxīn).
+  en: makes (1:them) (2:very) (3:uneasy).
+  es: (3:los) hace sentir (2:muy) (3:intranquilos).
 - id: b6af1888-952e-4436-a889-dbc440460da4
   zh-hans: (1:孩子)的(2:爸爸)(3:本来)(4:同意)(5:让)(6:她)(7:去)，
   pinyin: (1:háizi) de (2:bàba) (3:běnlái) (4:tóngyì) (5:ràng) (6:tā) (7:qù),
@@ -235,7 +235,7 @@ sentences:
   es: (1:yo) (2:todavía) (3:tengo) (4:algunas) (5:condiciones) más.
 - id: d5e90202-7933-4164-8178-e7251c42ea1b
   zh-hans: (1:要么)你(2:保证)(3:做到)这(4:几)(5:条)，
-  pinyin: (1:Yàome) nǐ (2:bǎozhèng) (5:zuòdào) zhè (4:jǐ) (5:tiáo),
+  pinyin: (1:Yàome) nǐ (2:bǎozhèng) (3:zuòdào) zhè (4:jǐ) (5:tiáo),
   en: (1:Either) you (2:ensure) (4:these) (5:conditions) are (3:met),
   es: (1:o) (2:prometes) (3:cumplir) (4:estas) (5:condiciones).
 - id: 5089ed8e-8a51-41d4-851e-72ba83674277
@@ -252,8 +252,8 @@ sentences:
 - id: 6b70045c-1fa7-4867-a2f3-2ca9b29bcf8f
   zh-hans: “(1:妈妈)，(2:什么)(3:条件)？(4:您)(5:快)(6:说)。”
   pinyin: “(1:Māmā), (2:shénme) (3:tiáojiàn)? (4:Nín) (5:kuài) (6:shuō).”
-  en: “(1:Mum), (2:what) are the (3:conditions)? (6:Speak).”
-  es: '"(1:mamá), ¿(2:qué) (3:condiciones)? Dímelas".'
+  en: “(1:Mum), (2:what) are the (3:conditions)? (6:speak).”
+  es: '"(1:mamá), ¿(2:qué) (3:condiciones)? (5:Rápido), (6:dilas)".'
 - id: 4eb00704-740b-40f0-a72d-3b9268073877
   context: audio
   zh-hans: (1:我)(2:告诉)(3:她)：
@@ -279,7 +279,7 @@ sentences:
   zh-hans: (1:第四)，(2:不要)(3:乱)(4:花)(5:钱)。”
   pinyin: (1:Dì sì), (2:bùyào) (3:luàn) (4:huā) (5:qián).”
   en: (1:Fourthly), (2:must not) (3:friviously) (4:spend) (5:money).”
-  es: '(1:Cuarto), (2:no) (5:gastes) (5:dinero) (5:imprudentemente)."'
+  es: '(1:Cuarto), (2:no) (4:gastes) (5:dinero) (3:imprudentemente)."'
 - id: 9fb489a6-95a2-407d-83ab-914f77679750
   context: audio
   zh-hans: (1:女儿)(2:说)：
