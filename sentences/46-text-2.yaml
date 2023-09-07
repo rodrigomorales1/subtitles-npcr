@@ -10,462 +10,462 @@ metadata:
   add-groups-es: {finished: false, issue_id: 885}
 sentences:
 - id: d33dd097-2eb0-4a01-8f29-38ee58b8327e
-  zh-hans: 女儿今年才八岁，
-  pinyin: Nǚ’ér jīnnián cái bā suì,
-  en: Daughter is only eight years-old this year,
-  es: Mi hija sólo tiene ocho años,
+  zh-hans: (1:女儿)(2:今年)(3:才)(4:八)(5:岁)，
+  pinyin: (1:Nǚ’ér) (2:jīnnián) (3:cái) (4:bā) (5:suì),
+  en: My (1:daughter) is (3:only) (4:eight) (5:years-old) (2:this year),
+  es: Mi (1:hija) (2:este año) (3:sólo) tiene (4:ocho) (5:años),
 - id: d208e25d-a78b-4d72-9413-1559f33195e9
-  zh-hans: 上小学二年级。
-  pinyin: shàng xiǎoxué èr niánjí.
-  en: in Grade 2 of primary school.
-  es: está en segundo de primaria.
+  zh-hans: (1:上)(2:小学)(3:二)(4:年级)。
+  pinyin: (1:shàng) (2:xiǎoxué) (3:èr) (4:niánjí).
+  en: she is (1:attending) (4:Grade) (3:2) of (2:primary school).
+  es: ella (1:asiste) a (3:segundo) (4:grado) de (2:primaria).
 - id: 7f3f630f-1781-4dc1-a03c-e637f9943c3e
-  zh-hans: 她学习还不错，
-  pinyin: Tā xuéxí hái bùcuò,
-  en: Her studies are not bad,
-  es: es una buena estudiante,
+  zh-hans: 她(1:学习)(2:还不错)，
+  pinyin: Tā (1:xuéxí) hái (2:bùcuò),
+  en: Her (1:studies) are (2:not bad),
+  es: ella (1:estudia) (2:bien),
 - id: 62d71326-6361-47bb-996e-f3a5105e9036
-  zh-hans: 老师称赞她做作业认真。
-  pinyin: lǎoshī chēngzàn tā zuò zuo yè rènzhēn.
-  en: the teacher commends her on how earnestly she completes her homework.
-  es: su profesora la elogia por hacer los deberes a conciencia.
+  zh-hans: (1:老师)(2:称赞)(3:她)(4:做)(5:作业)(6:认真)。
+  pinyin: (1:lǎoshī) (2:chēngzàn) (3:tā) (4:zuò) (5:zuoyè) (6:rènzhēn).
+  en: the (1:teacher) (2:commends) (3:her) on how (6:earnestly) she (4:does) her (5:homework).
+  es: su (1:profesora) (3:la) (2:elogia) por (4:hacer) las (5:tareas) (6:a conciencia).
 - id: be11379e-b296-4b8c-a95f-867dfecad42a
-  zh-hans: 爷爷奶奶喜欢她聪明。
-  pinyin: Yéye nǎinai xǐhuan tā cōngmíng.
-  en: Grandfather and grandmother are fond of her intelligence.
-  es: Su abuelo paterno y su abuela paterna les gustan que ella sea lista.
+  zh-hans: (1:爷爷)(2:奶奶)(3:喜欢)(4:她)(5:聪明)。
+  pinyin: (1:Yéye) (2:nǎinai) (3:xǐhuan) (4:tā) (5:cōngmíng).
+  en: (1:Paternal grandfather) and (2:paternal grandmother) are (3:fond of) (4:her) (5:intelligence).
+  es: Su (1:abuelo paterno) y su (2:abuela paterna) les (3:gustan) que (4:ella) sea (5:lista).
 - id: 89f7aa79-802c-4a17-a47e-10549a27b84f
-  zh-hans: 我和她爸爸对她也都满意，
-  pinyin: Wǒ hé tā bàba duì tā yě dōu mǎnyì,
-  en: Me and her father are satisfied with her,
-  es: Yo y su padre estamos contentos con ella,
+  zh-hans: (1:我)(2:和)(3:她)(4:爸爸)对(5:她)(6:也)都(7:满意)，
+  pinyin: (1:Wǒ) (2:hé) (3:tā) (4:bàba) duì (5:tā) (6:yě) dōu (7:mǎnyì),
+  en: (1:Me) (2:and) (3:her) (4:father) are (6:also) (7:satisfied) with (5:her),
+  es: (1:Yo) (2:y) (3:su) (4:padre) (6:también) estamos (7:contentos) con (5:ella),
 - id: 29044b77-e65e-4a04-8576-76003a7b473b
-  zh-hans: 就是觉得她太爱玩儿了。
-  pinyin: jiùshì juéde tā tài ài wánrle.
-  en: just feel that she loves to play too much.
-  es: pero creemos que le ama demasiado jugar.
+  zh-hans: (1:就是)(2:觉得)(3:她)(4:太)(5:爱)(6:玩儿)了。
+  pinyin: (1:jiùshì) (2:juéde) (3:tā) (4:tài) (5:ài) (6:wánr)le.
+  en: (1:it's just that) we (2:feel) that (3:she) (5:loves) to (6:play) (4:too much).
+  es: (1:es solo que) (2:creemos) que (3:ella) (5:ama) (4:demasiado) (6:jugar).
 - id: ebdc4aea-1388-4145-a78f-37c975095ef7
-  zh-hans: 为了培养孩子学习英语的兴趣，
-  pinyin: Wèile péiyǎng hái zǐ xuéxí Yīngyǔ de xìngqù,
-  en: In order to cultivate the child’s interest in learning English,
-  es: para fomentar el interés de mi hija por aprender inglés.
+  zh-hans: (1:为了)(2:培养)(3:孩子)(4:学习)(5:英语)的(6:兴趣)，
+  pinyin: (1:Wèile) (2:péiyǎng) (3:hái zǐ) (4:xuéxí) (5:Yīngyǔ) de (6:xìngqù),
+  en: (1:In order to) (2:cultivate) the (3:child)’s (6:interest) in (4:learning) (5:English),
+  es: (1:para) (2:fomentar) el (6:interés) de mi (3:hija) por (4:aprender) (5:inglés).
 - id: 5f8879b3-00b3-4dba-9deb-e2d1f392856d
-  zh-hans: 今年暑假，我打算让她参加
-  pinyin: jīnnián shǔjià, wǒ dǎsuàn ràng tā cānjiā
-  en: during this year’s summer holidays, I intend to let her participate
-  es: estas vacaciones de verano, planeo dejarla asistir a
+  zh-hans: (1:今年)(2:暑假)，(3:我)(4:打算)(5:让)(6:她)(7:参加)
+  pinyin: (1:jīnnián) (2:shǔjià), (3:wǒ) (4:dǎsuàn) (5:ràng) (6:tā) (7:cānjiā)
+  en: during (1:this year)’s (2:summer holidays), (3:I) (4:intend) to (5:let) (6:her) (7:assist)
+  es: las (2:vacaciones de verano) de (1:este año), (3:yo) (4:planeo) (5:dejar)(6:la) (7:asistir) a
 - id: 89d2b2f2-6fac-437f-965a-6cd1eb174b71
-  zh-hans: 英语夏令营，
-  pinyin: yīngyǔ xiàlìngyíng,
-  en: in an English summer camp,
-  es: un campamento de verano de inglés.
+  zh-hans: (1:英语)(2:夏令营)，
+  pinyin: (1:yīngyǔ) (2:xiàlìngyíng),
+  en: an (1:English) (2:summer camp),
+  es: un (2:campamento de verano) de (1:inglés).
 - id: 97abe28e-5095-4654-8a98-d5323b00e6fc
-  zh-hans: 时间并不长，
-  pinyin: shíjiān bìng bù cháng,
-  en: the duration of which will not be long,
-  es: la tiempo de duración no es muy largo,
+  zh-hans: (1:时间)并(2:不)(3:长)，
+  pinyin: (1:shíjiān) bìng (2:bù) (3:cháng),
+  en: the duration (1:time) will (2:not) be (3:long),
+  es: la (1:tiempo) de duración (2:no) es muy (3:largo),
 - id: bac16bc4-7032-4c84-9f53-77c9764749c8
-  zh-hans: 只去十天。
-  pinyin: zhǐ qù shí tiān.
-  en: only ten days.
-  es: sólo irá por diez días.
+  zh-hans: (1:只)(2:去)(3:十)(4:天)。
+  pinyin: (1:zhǐ) (2:qù) (3:shí) (4:tiān).
+  en: she will (1:only) (2:go) for (3:ten) (4:days).
+  es: (1:sólo) (2:irá) por (3:diez) (4:días).
 - id: 1d9a2712-0e07-42ed-88b4-713b886acd76
-  zh-hans: 我把自己的想法讲出来，
-  pinyin: Wǒ bǎ zìjǐ de xiǎngfǎ jiǎng chūlái,
-  en: When I spoke of my idea,
-  es: Dije mi opinión,
+  zh-hans: (1:我)把自己的(2:想法)(3:讲)出来，
+  pinyin: (1:Wǒ) bǎ zìjǐ de (2:xiǎngfǎ) (3:jiǎng) chūlái,
+  en: When (1:I) (3:explained) my (2:idea),
+  es: Cuando (1:yo) (3:dije) mi (2:opinión),
 - id: 2ddcc08e-1c22-4131-933c-fb0c5b49f810
-  zh-hans: 女儿高兴极了。
-  pinyin: nǚ’ér gāoxìng jíle.
-  en: daughter was extremely happy.
-  es: mi hija se puso muy contenta.
+  zh-hans: (1:女儿)(2:高兴)(3:极了)。
+  pinyin: (1:nǚ’ér) (2:gāoxìng) (3:jíle).
+  en: (1:daughter) was (3:extremely) (2:happy).
+  es: mi (1:hija) se puso (3:extremadamente) (2:contenta).
 - id: 18283b9b-6ca9-4f33-97e7-224016a96a99
   context: video
-  zh-hans: “真的？妈妈你太好了。”
-  pinyin: “zhēn de? māmā nǐ tài hǎole.”
-  en: “Really? Mum, you are so great.”
-  es: '"¿De verdad? mamá, eres muy genial."'
+  zh-hans: “(1:真的)？(2:妈妈)(3:你)(4:太好了)。”
+  pinyin: “(1:zhēn de)? (2:māmā) (3:nǐ) (4:tài hǎole).”
+  en: “(1:Really)? (2:Mum), (3:you) are (4:so great).”
+  es: '"¿(1:De verdad)? (2:mamá), (3:tú) eres (4:muy genial)."'
 - id: 56342843-9a0a-41a9-ba64-43bfc450cb57
-  zh-hans: 可是家里的人都反对。
-  pinyin: Kěshì jiālǐ de rén dōu fǎnduì.
-  en: However the family are all opposed.
-  es: Pero todos en la familia estaban en contra.
+  zh-hans: (1:可是)(2:家)里的人都(3:反对)。
+  pinyin: (1:Kěshì) (2:jiā)lǐ de rén dōu (3:fǎnduì).
+  en: (1:However) everyone at (2:home) all (3:opposed).
+  es: (1:Pero) todos en la (2:casa) estaban (3:en contra).
 - id: 52f36b78-3e7c-4aa3-b594-fceac6dbc795
-  zh-hans: 爷爷奶奶认为孩子太小，
-  pinyin: Yéye nǎinai rènwéi háizi tài xiǎo,
-  en: Grandparents think that the child is too young,
-  es: El abuelo paterno y la abuela paterna pensaban que la niña era demasiado joven.
+  zh-hans: (1:爷爷)(2:奶奶)(3:认为)(4:孩子)(5:太)(6:小)，
+  pinyin: (1:Yéye) (2:nǎinai) (3:rènwéi) (4:háizi) (5:tài) (6:xiǎo),
+  en: (1:Paternal granndparent) and (2:paternal grandmother) (3:thought) that the (4:child) was (5:too) (6:young),
+  es: El (1:abuelo paterno) y la (2:abuela paterna) (3:pensaban) que la (4:niña) era (5:demasiado) (6:joven).
 - id: 77732d08-c757-4e34-b1f0-b9d77c778030
-  zh-hans: 从来没有离开过家，
-  pinyin: cónglái méiyǒu líkāiguò jiā,
-  en: and has never been away from home,
-  es: y que nunca había salido de casa
+  zh-hans: (1:从来没有)(2:离开)过(3:家)，
+  pinyin: (1:cónglái méiyǒu) (2:líkāi)guò (3:jiā),
+  en: and has (1:never) (2:left) (3:home),
+  es: y que (1:nunca) había se había (2:marchado) de (3:casa)
 - id: 5eb76e8d-cf2e-4e4e-87ae-dc2be899b2c2
-  zh-hans: 让她一个人出去，
-  pinyin: ràng tā yīgè rén chūqù,
-  en: so allowing her to go out on her own,
-  es: como para dejarla salir sola,
+  zh-hans: (1:让)(2:她)(3:一个人)(4:出去)，
+  pinyin: (1:ràng) (2:tā) (3:yīgè rén) (4:chūqù),
+  en: so (1:allowing) (2:her) (4:to go out) (3:on her own),
+  es: como para (1:dejar)(2:la) (4:salir) (3:sola),
 - id: 8d66fef4-6692-48d4-9127-bb0eb9abdfe1
-  zh-hans: 他们很不放心。
-  pinyin: tāmen hěn bù fàngxīn.
-  en: makes them very uneasy.
-  es: estaban inquietos.
+  zh-hans: (1:他们)很不(2:放心)。
+  pinyin: (1:tāmen) hěn bù (2:fàngxīn).
+  en: makes (1:them) very (2:uneasy).
+  es: (1:ellos) estaban (2:inquietos).
 - id: b6af1888-952e-4436-a889-dbc440460da4
   zh-hans: (1:孩子)的(2:爸爸)(3:本来)(4:同意)(5:让)(6:她)(7:去)，
   pinyin: (1:háizi) de (2:bàba) (3:běnlái) (4:tóngyì) (5:ràng) (6:tā) (7:qù),
   en: The (1:child)’s (2:father) had (3:originally) (4:agreed) to (5:let) (6:her) (7:go),
   es: El (2:padre) de la (1:niña) (3:originalmente) había (4:estado de acuerdo) con (5:dejar)(6:la) (7:ir).
 - id: 05d4f57f-1481-4712-910c-280e53d6f2b8
-  zh-hans: 可是听了爷爷奶奶的话，
-  pinyin: kěshì tīngle yéye nǎinai dehuà,
-  en: but after hearing the paternal grandfather and paternal grandmother,
-  es: pero después de escuchar al abuelo paterno y la abuela paterna,
+  zh-hans: (1:可是)(2:听)了(3:爷爷)(4:奶奶)的话，
+  pinyin: (1:kěshì) (2:tīng)le (3:yéye) (4:nǎinai) dehuà,
+  en: (1:but) after (2:hearing) the (3:paternal grandfather) and (4:paternal grandmother),
+  es: (1:pero) después de (2:escuchar) al (3:abuelo paterno) y la (4:abuela paterna),
 - id: 7aa9e06c-3981-4a86-8f50-8a601c527f5d
-  zh-hans: 也嫌十天时间太长，
-  pinyin: yě xián shí tiān shíjiān tài zhǎng,
-  en: also dislikes the fact that ten days is too long,
-  es: le incomoda que diez días es demasiado tiempo,
+  zh-hans: (1:也)(2:嫌)(3:十)(4:天)(5:时间)(6:太)(7:长)，
+  pinyin: (1:yě) (2:xián) (3:shí) (4:tiān) (5:shíjiān) (6:tài) (7:zhǎng),
+  en: (1:also) (2:dislikes) the fact that (3:ten) (4:days) is (6:too) (7:long),
+  es: (1:también) le (2:incomoda) que (3:diez) (4:días) es un (5:tiempo) (6:muy) (7:largo).
 - id: 5afe9e71-4c53-46a9-97b5-2fae62d8d396
-  zh-hans: 觉得孩子没有独立生活的能力，
-  pinyin: juéde háizi méiyǒu dúlì shēnghuó de nénglì,
-  en: and feels that the child does not have the ability to live on her own,
-  es: piensa que la niña no es capaz de vivir sola,
+  zh-hans: (1:觉得)(2:孩子)(3:没有)(4:独立)(5:生活)的(6:能力)，
+  pinyin: (1:juéde) (2:háizi) (3:méiyǒu) (4:dúlì) (5:shēnghuó) de (6:nénglì),
+  en: and (1:feels) that the (2:child) (3:does not have) the (6:ability) to (5:live) (4:on her own),
+  es: (1:piensa) que la (2:niña) (3:no tiene) la (6:habilidad) de (5:vivir) (4:sola),
 - id: 58f71ad0-6274-428a-b3de-b120ab4987c2
-  zh-hans: 他也改变了主意。
-  pinyin: tā yě gǎibiànle zhǔyì.
-  en: so he changed his mind.
-  es: así que él también cambió de opinión.
+  zh-hans: (1:他)(2:也)(3:改变)了(4:主意)。
+  pinyin: (1:tā) (2:yě) (3:gǎibiàn)le (4:zhǔyì).
+  en: so (1:he) (2:also) (3:changed) his (4:decision).
+  es: así que (1:él) (2:también) (3:cambió) de (4:opinión).
 - id: f763b962-79f7-4021-96c4-67471f8f6162
-  zh-hans: 听了他们的意见，
-  pinyin: Tīngle tāmen de yìjiàn,
-  en: After hearing their suggestions,
-  es: Después de escuchar sus sugerencias,
+  zh-hans: (1:听)了(2:他们)的(3:意见)，
+  pinyin: (1:Tīng)le (2:tāmen) de (3:yìjiàn),
+  enb: After (1:hearing) (2:their) (3:suggestions),
+  es: Después de (1:escuchar) sus (3:sugerencias),
 - id: b0fd444b-7f2d-4aa4-af97-3561773c1641
-  zh-hans: 连我也不想让她去了。
-  pinyin: lián wǒ yě bùxiǎng ràng tā qùle.
-  en: even I didn't want to let her go.
-  es: incluso yo quería que vaya.
+  zh-hans: (1:连)(2:我)(3:也)(4:不)(5:想)(6:让)(7:她)(8:去)了。
+  pinyin: (1:lián) (2:wǒ) (3:yě) (4:bù) (5:xiǎng) (6:ràng) (7:tā) (8:qù)le.
+  en: (1:even) (2:I) did (4:not) (5:want) to (6:let) (7:her) (8:go).
+  es: (1:incluso) (2:yo) (4:no) (5:quería) (6:dejar)(7:la) (8:ir).
 - id: 283dd850-6858-4acb-92f0-0bf73b2501ab
-  zh-hans: 女儿看大家都不同意，
-  pinyin: Nǚ’ér kàn dàjiā dōu bù tóngyì,
-  en: My daughter saw that everyone did not agree,
-  es: Mi hija vio que todos estaban en desacuerdo,
+  zh-hans: (1:女儿)(2:看)(3:大家)都(4:不)(5:同意)，
+  pinyin: (1:Nǚ’ér) (2:kàn) (3:dàjiā) dōu (4:bù) (5:tóngyì),
+  en: My (1:daughter) (2:saw) that (3:everyone) did (4:not) (5:agree),
+  es: Mi (1:hija) (2:vio) que (3:todos) (4:no) (5:estaban de acuerdo),
 - id: 3abd073e-a658-4c93-b4e2-6d876ff594ec
-  zh-hans: 都急得哭了。
-  pinyin: dōu jí de kūle.
-  en: she was so anxious that she cried.
-  es: estaba tan ansiosa que lloró.
+  zh-hans: 都(1:急)得(2:哭)了。
+  pinyin: dōu (1:jí) de (2:kū)le.
+  en: she was so (1:anxious) that she (2:cried).
+  es: estaba tan (1:ansiosa) que (2:lloró).
 - id: c7be47f9-5ec7-467a-9f8b-b93ec5f8e6e8
-  zh-hans: 她的态度很坚决，
-  pinyin: Tā de tàidù hěn jiānjué,
-  en: Her attitude is very determined,
-  es: Su actitud es muy decidida,
+  zh-hans: (1:她)的(2:态度)很(3:坚决)，
+  pinyin: (1:Tā) de (2:tàidù) hěn (3:jiānjué),
+  en: (1:Her) (2:attitude) is very (3:determined),
+  es: (1:Su) (2:actitud) es muy (3:decidida),
 - id: 924ac379-f619-4b53-b1e1-3d55a9de16ac
-  zh-hans: 她说，英语夏令营是在海边，
-  pinyin: tā shuō, Yīngyǔ xiàlìngyíng shì zài hǎibiān,
-  en: she says, English summer camp is at the beach,
-  es: dice que el campamento inglés está junto al mar,
+  zh-hans: (1:她)(2:说)，(3:英语)(4:夏令营)是在(5:海边)，
+  pinyin: (1:tā) (2:shuō), (3:Yīngyǔ) (4:xiàlìngyíng) shì zài (5:hǎibiān),
+  en: (1:she) (2:says), (3:English) (4:summer camp) is near the (5:beach),
+  es: (1:ella) (2:dice) que el (4:campamento de verano) de (3:inglés) está (5:junto al mar),
 - id: 41fad43d-a3a1-4eeb-8566-6f7406dc4ef0
-  zh-hans: 她想去看大海，
-  pinyin: tā xiǎng qù kàn dàhǎi,
-  en: she wants to see the sea,
-  es: quiere ver el mar.
+  zh-hans: (1:她)(2:想)(3:去)(4:看)(5:大海)，
+  pinyin: (1:tā) (2:xiǎng) (3:qù) (4:kàn) (5:dàhǎi),
+  en: (1:she) (2:wants) to (3:go) to (4:see) the (5:sea),
+  es: (1:ella) (2:quiere) (3:ir) a (4:ver) el (5:mar).
 - id: 5b07729c-6022-4fd7-b7b1-c91246616abd
-  zh-hans: 他们班的同学都想参加，她一定要去。
-  pinyin: tāmen bān de tóngxué dōu xiǎng cānjiā, tā yīdìng yào qù.
-  en: and all of their classmates want to join, so she must go.
-  es: todos los alumnos de su clase quieren ir, así que ella debe ir.
+  zh-hans: (1:他们)(2:班)(3:的)(4:同学)都想(5:参加)，(6:她)(7:一定)要(8:去)。
+  pinyin: (1:tāmen) (2:bān) (3:de) (4:tóngxué) dōu xiǎng (5:cānjiā), (6:tā) (7:yīdìng) yào (8:qù).
+  en: and all of their (4:classmates) want to (5:join), so (6:she) (7:must) (8:go).
+  es: todos sus (4:compañeros de estudio) de su (4:clase) quieren (5:asistir), así que (6:ella) (7:debe) (8:ir).
 - id: 8bf566f4-d568-4522-a8af-381e47fa81f1
-  zh-hans: 为了能参加英语夏令营，
-  pinyin: Wèile néng cānjiā Yīngyǔ xiàlìngyíng,
-  en: In order to be able to attend the English summer camp,
-  es: Para poder asistir al campamento de verano de inglés,
+  zh-hans: (1:为了)(2:能)(3:参加)(4:英语)(5:夏令营)，
+  pinyin: (1:Wèile) (2:néng) (3:cānjiā) (4:Yīngyǔ) (5:xiàlìngyíng),
+  en: (1:In order to) (2:be able to) (3:attend) the (4:English) (5:summer camp),
+  es: (1:Para) (2:poder) (3:asistir) al (5:campamento de verano) de (4:inglés),
 - id: 9e160412-58e7-40d5-90d2-394a68ecb817
-  zh-hans: 她向我们保证，
-  pinyin: tā xiàng wǒmen bǎozhèng,
-  en: she assures us,
-  es: ella nos prometió que
+  zh-hans: (1:她)向(2:我们)(3:保证)，
+  pinyin: (1:tā) xiàng (2:wǒmen) (3:bǎozhèng),
+  en: (1:she) (3:assures) (2:us),
+  es: (1:ella) (2:nos) (3:prometió) que
 - id: 8be2dbc9-5d50-405c-92fb-def58da5f242
-  zh-hans: 她要学会自己洗衣服。
-  pinyin: tā yào xuéhuì zìjǐ xǐ yīfú.
-  en: she will learn how to wash clothes herself.
-  es: ella aprenderá a lavar su propia ropa.
+  zh-hans: (1:她)要(2:学会)(3:自己)(4:洗)(5:衣服)。
+  pinyin: (1:tā) yào (2:xuéhuì) (3:zìjǐ) (4:xǐ) (5:yīfú).
+  en: (1:she) will (2:learn) (3:by herself) how to (4:wash) (5:clothes).
+  es: (1:ella) (2:aprenderá) (3:por si misma) a (4:lavar) (5:ropa).
 - id: 700a0d87-7904-4c59-9216-c395c8b6cd6c
   context: video
-  zh-hans: “妈妈，让我去吧。”
-  pinyin: “Māmā, ràng wǒ qù ba.”
-  en: “Mum, allow me to go.”
-  es: "Mamá, déjame ir."
+  zh-hans: “(1:妈妈)，(2:让)(3:我)(4:去)吧。”
+  pinyin: “(1:Māmā), (2:ràng) (3:wǒ) (4:qù) ba.”
+  en: “(1:Mum), (2:allow) (3:me) to (4:go).”
+  es: "(1:Mamá), (2:déja)(3:me) (4:ir)."
 - id: d5b8d4fb-cf12-42f1-b8ec-d43c5263196a
-  zh-hans: 在她不断地要求下，
-  pinyin: Zài tā bùduàn de yāoqiú xià,
-  en: After her constant demanding,
-  es: A su constante petición,
+  zh-hans: 在她(1:不断)地(2:要求)下，
+  pinyin: Zài tā (1:bùduàn) de (2:yāoqiú) xià,
+  en: After her (1:constant) (2:demanding),
+  es: A su (1:constante) (2:petición),
 - id: cc6db06e-3ccb-4a00-b64f-66182e12ee9c
-  zh-hans: 我同意了她参加夏令营。
-  pinyin: wǒ tóngyìle tā cānjiā xiàlìngyíng.
-  en: I agree to allow her to join the summer camp.
-  es: acepté dejarla ir al campamento de verano.
+  zh-hans: (1:我)(2:同意)了(3:她)(4:参加)(5:夏令营)。
+  pinyin: (1:wǒ) (2:tóngyì)le (3:tā) (4:cānjiā) (5:xiàlìngyíng).
+  en: (1:I) (2:agreed) that (3:she) (4:joins) the (5:summer camp).
+  es: (1:Yo) (2:acepté) que (3:ella) (4:asista) al (5:campamento de verano).
 - id: 437dd2ae-262d-460a-a7c3-c3228af0ef3a
-  zh-hans: 她高兴得跳了起来。
-  pinyin: Tā gāoxìng de tiàole qǐlái.
-  en: She jumps up with excitement.
-  es: Ella saltó de alegría.
+  zh-hans: 她(1:高兴)得(2:跳)了起来。
+  pinyin: Tā (1:gāoxìng) de (2:tiào)le qǐlái.
+  en: She (2:jumps) up with (1:excitement).
+  es: Ella (2:saltó) de (1:alegría).
 - id: d487b363-8757-4d34-9ae3-b9ac2dcaa089
   context: video
-  zh-hans: “太好了，太好了。”
-  pinyin: “Tài hǎole, tài hǎole.”
-  en: “So great, so great.”
-  es: "Genial, genial."
+  zh-hans: “(1:太好了)，(2:太好了)。”
+  pinyin: “(1:Tài hǎole), (2:tài hǎo)le.”
+  en: “So (1:great), (2:so great).”
+  es: "(1:Genial), (2:genial)."
 - id: ab0594d0-a851-4c0b-b1a5-d038549c19f1
   context: audio
-  zh-hans: 我对她说：
-  pinyin: wǒ duì tā shuō:
-  en: I said to her:
-  es: Le dije a ella:
+  zh-hans: (1:我)对(2:她)(3:说)：
+  pinyin: '(1:wǒ) duì (2:tā) (3:shuō):'
+  en: '(1:I) (3:said) to (2:her):'
+  es: '(1:Yo) le (3:dije) a (2:ella):'
 - id: 214615ea-3d13-4202-b754-61bb2573a459
-  zh-hans: “你别高兴得太早，
-  pinyin: “Nǐ bié gāoxìng de tài zǎo,
-  en: “Don’t be happy too soon,
-  es: '"No te alegres tan temprano...'
+  zh-hans: “(1:你)(2:别)(3:高兴)得(4:太早)，
+  pinyin: “(1:Nǐ) (2:bié) (3:gāoxìng) de (4:tài zǎo),
+  en: “(2:Don’t) be (3:happy) (4:too soon),
+  es: '"(2:No) te (3:alegres) (4:tan temprano)...'
 - id: 70d359d6-2f81-4539-ad17-c6ceb81d532a
-  zh-hans: 我还有几个条件呢。
-  pinyin: wǒ hái yǒu jǐ gè tiáojiàn ne.
-  en: I still have a few conditions.
-  es: todavía tengo algunas condiciones más.
+  zh-hans: (1:我)(2:还)(3:有)(4:几)个(5:条件)呢。
+  pinyin: (1:wǒ) (2:hái) (3:yǒu) (4:jǐ) gè (5:tiáojiàn) ne.
+  en: (1:I) (2:still) (3:have) a (4:few) (5:conditions).
+  es: (1:yo) (2:todavía) (3:tengo) (4:algunas) (5:condiciones) más.
 - id: d5e90202-7933-4164-8178-e7251c42ea1b
-  zh-hans: 要么你保证做到这几条，
-  pinyin: Yàome nǐ bǎozhèng zuò dào zhè jǐ tiáo,
-  en: Either you ensure these conditions are met,
-  es: o prometes cumplirlas.
+  zh-hans: (1:要么)你(2:保证)(3:做到)这(4:几)(5:条)，
+  pinyin: (1:Yàome) nǐ (2:bǎozhèng) (5:zuòdào) zhè (4:jǐ) (5:tiáo),
+  en: (1:Either) you (2:ensure) (4:these) (5:conditions) are (3:met),
+  es: (1:o) (2:prometes) (3:cumplir) (4:estas) (5:condiciones).
 - id: 5089ed8e-8a51-41d4-851e-72ba83674277
-  zh-hans: 要么你就别去了。”
-  pinyin: yàome nǐ jiù bié qùle.”
-  en: or you do not go.”
-  es: 'o no vas".'
+  zh-hans: (1:要么)你就(2:别)(3:去)了。”
+  pinyin: (1:yàome) nǐ jiù (2:bié) (3:qù)le.”
+  en: (1:or) you (2:do not) (3:go).”
+  es: '(1:o) (2:no) (3:vas)".'
 - id: 911512e5-8ce6-46aa-9ffd-b5cce3c5f2fd
   context: audio
-  zh-hans: 女儿急忙问我：
-  pinyin: nǚ'ér jímáng wèn wǒ:
-  en: My daughter hurriedly asked me:
-  es: mi hija me preguntó apresuradamente:
+  zh-hans: (1:女儿)(2:急忙)(3:问)(4:我)：
+  pinyin: "(1:nǚ'ér) (2:jímáng) (3:wèn) (4:wǒ):"
+  en: 'My (1:daughter) (2:hurriedly) asked (4:me):'
+  es: 'mi (1:hija) (4:me) (3:preguntó) (2:apresuradamente):'
 - id: 6b70045c-1fa7-4867-a2f3-2ca9b29bcf8f
-  zh-hans: “妈妈，什么条件？您快说。”
-  pinyin: “Māmā, shénme tiáojiàn? Nín kuài shuō.”
-  en: “Mum, what are the conditions? Speak.”
-  es: '"mamá, ¿qué condiciones? Dímelas".'
+  zh-hans: “(1:妈妈)，(2:什么)(3:条件)？(4:您)(5:快)(6:说)。”
+  pinyin: “(1:Māmā), (2:shénme) (3:tiáojiàn)? (4:Nín) (5:kuài) (6:shuō).”
+  en: “(1:Mum), (2:what) are the (3:conditions)? (6:Speak).”
+  es: '"(1:mamá), ¿(2:qué) (3:condiciones)? Dímelas".'
 - id: 4eb00704-740b-40f0-a72d-3b9268073877
   context: audio
-  zh-hans: 我告诉她：
-  pinyin: wǒ gàosù tā:
-  en: I told her:
-  es: le dije a ella:
+  zh-hans: (1:我)(2:告诉)(3:她)：
+  pinyin: '(1:wǒ) (2:gàosù) (3:tā):'
+  en: '(1:I) (2:told) (3:her):'
+  es: '(1:le) (2:dije) a (3:ella):'
 - id: aeadcb97-08b1-4bb0-9dbb-f14ba082a3b5
-  zh-hans: “第一，要听老师的话。
-  pinyin: “Dì yī, yào tīng lǎoshī dehuà.
-  en: “Firstly, must listen to the teacher.
-  es: '"Primero, escucha a tu profesor.'
+  zh-hans: “(1:第一)，要(2:听)(3:老师)的话。
+  pinyin: “(1:Dì yī), yào (2:tīng) (3:lǎoshī) dehuà.
+  en: “(1:Firstly), must (2:listen) to the (3:teacher).
+  es: '"(1:Primero), (2:escucha) a tu (3:profesor).'
 - id: 6e9acf1a-9b95-444e-9f49-2dc8ee6ee3a7
-  zh-hans: 第二，要跟同学团结。
-  pinyin: Dì èr, yào gēn tóngxué tuánjié.
-  en: Secondly, you must be united with with your classmates.
-  es: Segundo, tienes que estar unida a tus compañeros de clase.
+  zh-hans: (1:第二)，要跟(2:同学)(3:团结)。
+  pinyin: (1:Dì èr), yào gēn (2:tóngxué) (3:tuánjié).
+  en: (1:Secondly), you must (3:be united with) with your (2:classmates).
+  es: (1:Segundo), tienes que (3:ser unida con) tus (2:compañeros de clase).
 - id: 5dd557a7-692b-4d68-be66-9b526017c85a
-  zh-hans: 第三，每天要写日记。
-  pinyin: Dì sān, měitiān yào xiě rìjì.
-  en: Thirdly, everyday must write a diary.
-  es: Tercero, escribe un diario todos los días.
+  zh-hans: (1:第三)，(2:每天)要(3:写)(4:日记)。
+  pinyin: (1:Dì sān), (2:měitiān) yào (3:xiě) (4:rìjì).
+  en: (1:Thirdly), (2:everyday) must (3:write) a (4:diary).
+  es: (1:Tercero), (2:todos los días)  (3:escribe) un (4:diario).
 - id: adb7b544-2f9f-43b7-a935-7daedbdd03c8
-  zh-hans: 第四，不要乱花钱。”
-  pinyin: Dì sì, bùyào luàn huā qián.”
-  en: Fourthly, must not friviously spend money.”
-  es: 'Cuarto, no gastes dinero imprudentemente."'
+  zh-hans: (1:第四)，(2:不要)(3:乱)(4:花)(5:钱)。”
+  pinyin: (1:Dì sì), (2:bùyào) (3:luàn) (4:huā) (5:qián).”
+  en: (1:Fourthly), (2:must not) (3:friviously) (4:spend) (5:money).”
+  es: '(1:Cuarto), (2:no) (5:gastes) (5:dinero) (5:imprudentemente)."'
 - id: 9fb489a6-95a2-407d-83ab-914f77679750
   context: audio
-  zh-hans: 女儿说：
-  pinyin: Nǚ'ér shuō:
-  en: My daughter said:
-  es: Mi hija dijo:
+  zh-hans: (1:女儿)(2:说)：
+  pinyin: "(1:Nǚ'ér) (2:shuō):"
+  en: 'My (1:daughter) (2:said):'
+  es: 'Mi (1:hija) (2:dijo):'
 - id: c247ec55-66c9-426a-a9e6-42cf2bf6eb0b
-  zh-hans: “你们放心，这四条我保证做到。”
-  pinyin: “Nǐmen fàngxīn, zhè sìtiáo wǒ bǎozhèng zuò dào.”
-  en: “You rest assured, I will ensure these four conditions are met.”
-  es: '"No te preocupes, prometo cumplir estas cuatro condiciones".'
+  zh-hans: “(1:你们)(2:放心)，(3:这)(4:四)(5:条)(6:我)(7:保证)(8:做到)。”
+  pinyin: “(1:Nǐmen) (2:fàngxīn), (3:zhè) (4:sì) (5:tiáo) (6:wǒ) (7:bǎozhèng) (8:zuò dào).”
+  en: “(1:You) (2:rest assured), (6:I) (7:promise) to (8:fulfill) (3:these) (4:four) (5:conditions).”
+  es: '"(2:No se preocupen), (6:yo) (7:prometo) (8:cumplir) (3:estas) (4:cuatro) (5:condiciones)".'
 - id: 4cec9059-5595-4b30-8c85-b9a5444f43fe
-  zh-hans: 她把这四条写在一张纸上，
-  pinyin: Tā bǎ zhè sìtiáo xiě zài yī zhāng zhǐ shàng,
-  en: She wrote these four conditions down on a piece of paper,
-  es: Ella escribió estas cuatro reglas en un pedazo de papel y
+  zh-hans: (1:她)把(2:这)(3:四)(4:条)(5:写)(6:在)一张(7:纸)上，
+  pinyin: (1:Tā) bǎ (2:zhè) (3:sì) (4:tiáo) (5:xiě) (6:zài) yī zhāng (7:zhǐ) shàng,
+  en: (1:She) (5:wrote) (2:these) (3:four) (4:conditions) down on a piece of (7:paper),
+  es: (1:Ella) (5:escribió) (2:estas) (3:cuatro) (4:condiciones) en un pedazo de (7:papel) y
 - id: a26bf92a-2d35-44ed-b6b6-e9257df540c0
-  zh-hans: 像签订合同似的，
-  pinyin: xiàng qiāndìng hétóng shì de,
-  en: and just like agreeing to and signing a contract,
-  es: como firmando un contrato.
+  zh-hans: (3:像)(1:签订)(2:合同)(3:似)的，
+  pinyin: (5:xiàng) (1:qiāndìng) (2:hétóng) (3:shì) de,
+  en: and just (3:like) (1:agreeing to and signing) a (2:contract),
+  es: (3:como) (1:firmando) un (2:contrato).
 - id: f668ad13-a286-4063-8c7b-ba0a83430e65
-  zh-hans: 我和她都在上边签了字。
-  pinyin: wǒ hé tā dōu zài shàngbian qiānle zì.
-  en: me and her signed our names on it.
-  es: Ella y yo lo firmamos.
+  zh-hans: (1:我)(2:和)(3:她)都在上边(4:签)了(4:字)。
+  pinyin: (1:wǒ) (2:hé) (3:tā) dōu zài shàngbian (4:qiān)le (4:zì).
+  en: (1:me) (2:and) (3:her) (4:signed our names) on it.
+  es: (1:Yo) (2:y) (3:ella) (4:firmamos nuestros nombres).
 - id: 020b540a-9693-4e05-b66a-9c74b3d88662
   context: video
-  zh-hans: 我要去夏令营了，夏令营了。
-  pinyin: “Wǒ yào qù xiàlìngyíngle, xiàlìngyíngle.”
-  en: “I am going to summer camp, summer camp.”
-  es: Me voy de campamento de verano. Campamento de verano.
+  zh-hans: (1:我)要(2:去)(3:夏令营)了，(4:夏令营)了。
+  pinyin: “(1:Wǒ) yào (2:qù) (3:xiàlìngyíng)le, (4:xiàlìngyíng)le.”
+  en: “(1:I) am (2:going) to (3:summer camp), (4:summer camp).”
+  es: (1:Me) (2:voy) de (3:campamento de verano). (4:campamento de verano).
 - id: 15b27900-b63c-4f29-9996-ac4d47402ada
-  zh-hans: 女儿高高兴兴地去夏令营了。
-  pinyin: Nǚ’ér gāo gāoxìng xìng de qù xiàlìngyíngle.
-  en: Daughter happily went to summer camp.
-  es: Mi hija se fue feliz al campamento.
+  zh-hans: (1:女儿)(2:高高兴兴)地(3:去)(4:夏令营)了。
+  pinyin: (1:Nǚ’ér) (2:gāogāo xìng xìng) de (3:qù) (4:xiàlìngyíng)le.
+  en: (1:Daughter) (2:happily) (3:went) to (4:summer camp).
+  es: Mi (1:hija) se (3:fue) (2:feliz) al (4:campamento de verano).
 - id: b24bd4ba-1aa1-4e0a-8982-af1f79fd95ea
-  zh-hans: 她走了以后，全家人都不放心，
-  pinyin: Tā zǒule yǐhòu, quánjiā rén dōu bù fàngxīn,
-  en: After she left, the whole family could not relax,
-  es: Cuando se fue, toda la familia estaba preocupada.
+  zh-hans: (1:她)(2:走)了(3:以后)，(4:全)(5:家人)都不(6:放心)，
+  pinyin: (1:Tā) (2:zǒu) le (3:yǐhòu), (4:quán) (5:jiārén) dōu bù (6:fàngxīn),
+  en: (3:After) (1:she) (2:left), the (4:whole) (5:family) could not (6:feel relieved),
+  es: (3:Luego) que (1:ella) (2:se vaya), (4:toda) (5:la familia) no (6:estaban tranquilos).
 - id: 408e9bd7-efa2-4010-915a-3b001d1cc0fc
-  zh-hans: 总怕她出点儿什么问题。
-  pinyin: zǒng pà tā chū diǎnr shénme wèntí.
-  en: always afraid she will encounter some problems.
-  es: temían que pasara cualquier problema.
+  zh-hans: (1:总)(2:怕)(3:她)出点儿什么(4:问题)。
+  pinyin: (1:zǒng) (2:pà) (3:tā) chū diǎnr shénme (4:wèntí).
+  en: (1:always) (2:afraid) (3:she) will encounter some (4:problems).
+  es: (1:siempre) (2:temían) que (3:le) pasara cualquier (4:problema).
 - id: 170aa2bf-e2ca-4537-a49a-b069beaf0fcc
-  zh-hans: 到了第五天，奶奶第一个忍不住了，
-  pinyin: Dàole dì wǔ tiān, nǎinai dì yī gè rěn bù zhùle,
-  en: On the fifth day, grandmother was the first who couldn’t help herself,
-  es: Al quinto día, la abuela no pudo evitar ser la primera en decir,
+  zh-hans: 到了(1:第五)(2:天)，(3:奶奶)(4:第一)个(5:忍不住)了，
+  pinyin: Dàole (1:dì wǔ) (2:tiān), (3:nǎinai) (4:dì yī) gè (5:rěn bù zhù)le,
+  en: On the (1:fifth) (2:day), (3:paternal grandmother) was (4:the first) who (5:couldn’t help herself),
+  es: Al (1:quinto) (2:día), la (3:abuela paterna) (5:no pudo evitar) ser (4:la primera) en decir,
 - id: 05cf8cb0-7cb3-4579-8842-5a25a6f2d639
   context: audio
-  zh-hans: 她说：
-  pinyin: Tā shuō:
-  en: She said:
-  es: Ella dijo:
+  zh-hans: (1:她)(2:说)：
+  pinyin: '(1:Tā) (2:shuō):'
+  en: '(1:She) (2:said):'
+  es: '(1:Ella) (2:dijo):'
 - id: 7fb84a3e-00c3-4da8-a172-2e73f1d73d49
-  zh-hans: “怎么没有消息呢？”
-  pinyin: “Zěnme méiyǒu xiāoxi ne?
-  en: “How come there has been no news?
-  es: '"¿Por qué no hay noticias?'
+  zh-hans: “(1:怎么)(2:没有)(3:消息)呢？”
+  pinyin: “(1:Zěnme) (2:méiyǒu) (3:xiāoxi) ne?
+  en: “(1:How come) (2:there is no) (3:news)?
+  es: '"¿(1:Cómo es posible) que (2:no hay) (3:noticias)?'
 - id: db96d426-6cdc-4fb0-aa3e-ce1b8feab00a
-  zh-hans: 都怪你们同意她去。
-  pinyin: Dōu guài nǐmen tóngyì tā qù.”
-  en: Completely blame you for agreeing to her going.”
-  es: 'Es culpa tuya por dejarla marchar."'
+  zh-hans: 都(1:怪)(2:你们)(3:同意)她(4:去)。
+  pinyin: Dōu (1:guài) (2:nǐmen) (3:tóngyì) tā (4:qù).”
+  en: Completely (1:blame) (2:you) for (3:agreeing) to her (4:going).”
+  es: 'Es (1:culpa) de (2:ustedes) por (3:estar de acuerdo) en dejarla (4:ir)."'
 - id: add8ecae-2ec1-4b6d-a28b-5908547b58a6
-  zh-hans: 我急忙给老师家里打了电话，
-  pinyin: Wǒ jímáng gěi lǎoshī jiālǐ dǎle diànhuà,
-  en: I rushed to call the teacher's home,
-  es: Me apresuré a llamar a la familia de la maestra y
+  zh-hans: 我(1:急忙)给(2:老师)(3:家)里(4:打)了(4:电话)，
+  pinyin: Wǒ (1:jímáng) gěi (2:lǎoshī) (3:jiā)lǐ (4:dǎ) le (4:diànhuà),
+  en: I (1:rushed) to (4:call) the (2:teacher's) (3:home),
+  es: Me (1:apresuré) a (4:llamar) a la (3:casa) de la (2:maestra) y
 - id: 7c1ff319-e341-410d-94a4-0fcad909b45f
-  zh-hans: 知道一切都很好，
-  pinyin: zhīdào yīqiè dōu hěn hǎo,
-  en: and found out that everything was fine,
-  es: me enteré de que todo iba bien.
+  zh-hans: (1:知道)(2:一切)都(3:很好)，
+  pinyin: (1:zhīdào) (2:yīqiè) dōu (3:hěn hǎo),
+  en: and (1:found out) that (2:everything) was (3:fine),
+  es: me (1:enteré) de que (2:todo) iba (3:bien).
 - id: 87c2b9ba-c548-46d5-8e9c-ede74b151f3e
-  zh-hans: 爷爷奶奶才放心。
-  pinyin: yéye nǎinai cái fàngxīn.
-  en: so grandparents could relax.
-  es: Los abuelos se sintieron aliviados.
+  zh-hans: (1:爷爷)(2:奶奶)才(3:放心)。
+  pinyin: (1:yéye) (2:nǎinai) cái (3:fàngxīn).
+  en: so (1:paternal grandfather) and (2:paternal grandmother) could (3:feel relieved).
+  es: (1:Abuelo paterno) y (2:abuela paterna) se (3:sintieron aliviados).
 - id: fc785199-2d53-40e4-abdb-dfbdff25f235
-  zh-hans: 十天终于过去了，女儿回来了。
-  pinyin: Shí tiān zhōngyú guòqùle, nǚ’ér huíláile.
-  en: Finally the tenth day passed, and daughter returned home.
-  es: Pasaron diez días y mi hija volvió.
+  zh-hans: (1:十天)(2:终于)(3:过去)了，(4:女儿)(5:回来)了。
+  pinyin: (1:Shí tiān) (2:zhōngyú) (3:guòqù)le, (4:nǚ’ér) (5:huílái)le.
+  en: (2:Finally) (1:ten day) (3:passed), and (4:daughter) (5:returned home).
+  es: (2:Finalmente) (3:pasaron) (1:diez días) y mi (4:hija) (5:volvió).
 - id: 5335d5b1-e03a-4c1d-86d2-cdacbe545f5b
-  zh-hans: 她一进门就把手里的一袋水果交给我，
-  pinyin: Tā yī jìnmén jiù bǎshǒu lǐ de yī dài shuǐguǒ jiāo gěi wǒ,
-  en: As soon as she entered she handed to me the fruit she was carrying,
-  es: Nada más entrar, me entregó una bolsa de fruta,
+  zh-hans: (1:她)一(2:进门)就把(3:手)里的一(4:袋)(5:水果)(6:交)给(7:我)，
+  pinyin: (1:Tā) yī (2:jìnmén) jiù bǎ (3:shǒu) lǐ de yī (4:dài) (5:shuǐguǒ) (6:jiāo) gěi (7:wǒ),
+  en: As soon as (1:she) (2:entered) she (6:gave) me (7:me) a (4:bag) of (5:fruit) she was carrying on her (3:hand),
+  es: Nada más (2:entrar), me (6:entregó) una (4:bolsa) de (5:fruta) que llevaba en su (3:mano),
 - id: f6f05224-4921-48b6-9be6-11ee97f229e1
-  zh-hans: 她说，这是她带给全家的礼物。
-  pinyin: tā shuō, zhè shì tā dài gěi quánjiā de lǐwù.
-  en: she said, this is a present she had brought for the whole family.
-  es: ella dijo que era un regalo para toda la familia.
+  zh-hans: (1:她)(2:说)，这是她(3:带)给(4:全)(5:家)的(6:礼物)。
+  pinyin: (1:tā) (2:shuō), zhè shì tā (3:dài) gěi (4:quán)(5:jiā) de (6:lǐwù).
+  en: (1:she) (2:said), this is a (6:present) she had (3:brought) for the (4:whole) (5:family).
+  es: (1:ella) (2:dijo) que era un (6:regalo) que ella (3:trajo) para (4:toda) la (5:familia).
 - id: 213e89bc-61a9-42ce-b18e-d538e1a2956e
-  zh-hans: 这时候，
-  pinyin: Zhè shíhou,
-  en: At this moment,
-  es: En ese momento,
+  zh-hans: (1:这)(2:时候)，
+  pinyin: (1:Zhè) (2:shíhou),
+  en: At (1:this) (2:moment),
+  es: En (1:ese) (2:momento),
 - id: 8f9b40f4-f0cc-4f1b-8058-91f10fbbe72c
-  zh-hans: 我觉得孩子好像长高了，也长大了。
-  pinyin: wǒ juéde háizi hǎoxiàng zhǎng gāole, yě zhǎng dàle.
-  en: I felt like the child had grown taller, and grown older.
-  es: sentí como si mi hija hubiera crecido y se hubiera hecho mayor.
+  zh-hans: (1:我)(2:觉得)(3:孩子)(4:好像)(5:长高)了，也(6:长大)了。
+  pinyin: (1:wǒ) (2:juéde) (3:háizi) (4:hǎoxiàng) (5:zhǎnggāo) le, yě (6:zhǎngdà) le.
+  en: (1:I) (2:felt) (4:like) the (3:child) had (5:grown taller), and (6:grown older).
+  es: (1:yo) (2:sentí) (4:como) si mi (3:hija) hubiera (5:crecido) y se hubiera (6:hecho mayor).
 - id: 35d90b42-dc69-4ab7-9e5d-3a7242e32b01
-  zh-hans: 吃晚饭的时候，
-  pinyin: Chī wǎnfàn de shíhou,
-  en: At dinner,
-  es: A la hora de cenar,
+  zh-hans: (1:吃)(2:晚饭)(3:的时候)，
+  pinyin: (1:Chī) (2:wǎnfàn) (3:de shíhou),
+  en: (3:When) (1:eating) (2:dinner),
+  es: (3:Cuando) (1:comíamos) la (2:cena),
 - id: e10b8290-e152-444a-8ecf-d9e9610f877f
-  zh-hans: 女儿先向全家介绍夏令营的生活，
-  pinyin: nǚ’ér xiān xiàng quánjiā jièshào xiàlìngyíng de shēnghuó,
-  en: daughter first introduced life at summer camp to the whole family,
-  es: mi hija presentó primero la vida del campamento a toda la familia,
+  zh-hans: (1:女儿)(2:先)向(3:全)(4:家)(5:介绍)(6:夏令营)的(7:生活)，
+  pinyin: (1:nǚ’ér) (2:xiān) xiàng (3:quán)(4:jiā) (5:jièshào) (6:xiàlìngyíng) de (7:shēnghuó),
+  en: (1:daughter) (2:first) (5:introduced) (7:life) at (6:summer camp) to the (3:whole) (4:family),
+  es: mi (1:hija) (2:primero) (5:presentó) la (7:vida) del (6:campamento) a (3:toda) la (4:familia),
 - id: 26e6088c-e425-4c0a-b686-243df9929a10
-  zh-hans: 然后她拿出日记和自己拍的照片给我们看。
-  pinyin: ránhòu tā ná chū rìjì hé zìjǐ pāi de zhàopiàn gěi wǒmen kàn.
-  en: and then she took out her diary and photographs for us to look at.
-  es: luego sacó su diario y las fotos que había hecho y nos las enseñó.
+  zh-hans: (1:然后)她拿出(2:日记)和自己(3:拍)的(4:照片)给我们(4:看)。
+  pinyin: (1:ránhòu) tā ná chū (2:rìjì) hé zìjǐ (3:pāi) de (4:zhàopiàn) gěi wǒmen (4:kàn).
+  en: and (1:then) she took out her (2:diary) and (4:photographs) she (3:took) for us to (4:look at).
+  es: (1:luego) sacó su (2:diario) y las (4:fotos) que (3:tomó) para que las (4:veamos).
 - id: e0eec0b4-b3ed-4db1-98f0-a0681731121b
-  zh-hans: 她特别认真地说，
-  pinyin: Tā tèbié rènzhēn dì shuō,
-  en: She said very earnestly,
-  es: Hablaba con mucha seriedad,
+  zh-hans: (1:她)(2:特别)(3:认真)地(4:说)，
+  pinyin: (1:Tā) (2:tèbié) (3:rènzhēn) dì (4:shuō),
+  en: (1:She) (4:said) (2:very) (3:earnestly),
+  es: (1:Ella) (4:dijo) con (2:mucha) (3:seriedad) que
 - id: 8c803b47-6740-4881-984a-c72792f4fbc5
-  zh-hans: 她不但跟班上的同学很团结，
-  pinyin: tā bùdàn gēnbān shàng de tóngxué hěn tuánjié,
-  en: she not only stuck with her classmates,
-  es: no sólo se llevó bien con sus compañeros,
+  zh-hans: (1:她)(2:不但)跟班上的(3:同学)很(4:团结)，
+  pinyin: (1:t)ā (2:bùdàn) gēnbān shàng de (3:tóngxué) hěn (4:tuánjié),
+  en: (1:she) (2:not only) (4:was united) with her (3:classmates),
+  es: (1:ella) (2:no sólo) (4:se llevó bien) con sus (3:compañeros de clase),
 - id: 96dc4a0b-50cb-4641-9025-582aa7a15339
-  zh-hans: 而且还认识了几个英国小朋友。
-  pinyin: érqiě hái rènshile jǐ gè Yīngguó xiǎopéngyǒu.
-  en: but also got to know a few British children.
-  es: también conoció a algunos niños ingleses.
+  zh-hans: 而且还(2:认识)了(3:几)个(4:英国)(5:小朋友)。
+  pinyin: érqiě hái (2:rènshi)le (3:jǐ) gè (4:Yīngguó) (5:xiǎopéngyǒu).
+  en: but also got to (2:know) a (3:few) (4:British) (5:children).
+  es: sino también (2:conoció) a algunos (5:niños) (4:ingleses).
 - id: f7252505-470c-4682-8b12-e7a6d677d89b
-  zh-hans: 英国老师还称赞她英语歌唱得好。
-  pinyin: Yīngguó lǎoshī hái chēngzàn tā Yīngyǔ gēchàng de hǎo.
-  en: The British teacher also commended her that she sang an English song very well.
-  es: Su profesora de inglés también la elogió por su buen canto en inglés.
+  zh-hans: (1:英国)(2:老师)(3:还)(4:称赞)(5:她)(6:英语)歌(8:唱)得(9:好)。
+  pinyin: (1:Yīngguó) (2:lǎoshī) (3:hái) (4:chēngzàn) (5:tā) (6:Yīngyǔ) gē (8:chàng) de (9:hǎo).
+  en: The (1:British) (2:teacher) (3:also) (4:commended) (5:her) that she (8:sang) an (6:English) song very (9:well).
+  es: Su (2:profesora) de (1:inglés) (3:también) (5:la) (4:elogió) por su (9:buen) (8:canto) en (6:inglés).
 - id: e817025e-33ea-4f25-9343-051566ba3dfb
-  zh-hans: 她没有乱花钱，去买水果的时候，
-  pinyin: Tā méiyǒu luàn huā qián, qù mǎi shuǐguǒ de shíhou,
-  en: She did not frivolously spend money, when she went to buy fruit,
-  es: No gastaba el dinero a lo loco y aprendió a regatear cuando iba a comprar fruta.
+  zh-hans: (1:她)(5:没有)(2:乱)(3:花)(4:钱)，(6:去)(7:买)(8:水果)(9:的时候)，
+  pinyin: (1:Tā) (5:méiyǒu) (2:luàn) (3:huā) (4:qián), (6:qù) (7:mǎi) (8:shuǐguǒ) (9:de shíhou),
+  en: (1:She) (5:did not) (2:frivolously) (3:spend) (4:money), (9:when) she (6:went) to (7:buy) (8:fruit),
+  es: (2:Ella) (5:no) (3:gastó) el (4:dinero) (2:a su antojo) y (9:cuando) (6:iba) a (7:comprar) (8:fruta).
 - id: 39cb726d-3a03-498f-9ed5-1ef38b57db94
-  zh-hans: 还学会了砍价。
-  pinyin: hái xuéhuìle kǎn jià.
-  en: she also learned to bargin.
-  es: aprendió a rebajar el precio.
+  zh-hans: (1:还)(2:学会)了(3:砍价)。
+  pinyin: (1:hái) (2:xuéhuì) le (3:kǎn jià).
+  en: she (1:also) (2:learned) to (3:bargain).
+  es: (1:también) (2:aprendió) a (3:rebajar el precio).
 - id: af687807-bb2a-4eb3-8b9c-b3a74a21991b
-  zh-hans: 爷爷奶奶听了，满意地说：
-  pinyin: 'Yéye nǎinai tīngle, mǎnyì de shuō:'
-  en: 'Paternal grandfather and paternal grandmother heard this, and satisfactorily said:'
-  es: 'El abuelo paterno y la abuela paterna se alegraron:'
+  zh-hans: (1:爷爷)(2:奶奶)(3:听)了，(4:满意)地(5:说)：
+  pinyin: '(1:Yéye) (2:nǎinai) (3:tīng)le, (4:mǎnyì) de (5:shuō):'
+  en: '(1:Paternal grandfather) and (2:paternal grandmother) (3:heard) this, and (4:satisfactorily) (5:said):'
+  es: 'El (1:abuelo paterno) y la (2:abuela paterna), al (3:escuchar)la, (4:contentos) (5:dijeron):'
 - id: 7f5d4c63-3c78-4e93-a6e0-309c77d48f44
   context: video
-  zh-hans: “好，又学会洗衣服，
-  pinyin: “Hǎo, yòu xuéhuì xǐ yīfú,
-  en: “Good, learned to wash clothes,
-  es: '"Bien, ha aprendido a lavar la ropa,'
+  zh-hans: “(1:好)，又(3:学会)(4:洗)(5:衣服)，
+  pinyin: “(1:Hǎo), yòu (3:xuéhuì) (4:xǐ) (5:yīfú),
+  en: “(1:Good), (3:learned) to (4:wash) (5:clothes),
+  es: '"(1:Bien), ha (3:aprendido) a (4:lavar) la (5:ropa),'
 - id: e44660f2-60e4-4ab8-9a22-45156a3f18bb
   context: audio
-  zh-hans: “好，又学会了洗衣服，
-  pinyin: “Hǎo, yòu xuéhuì le xǐ yīfú,
-  en: “Good, learned to wash clothes,
-  es: '"Bien, ha aprendido a lavar la ropa,'
+  zh-hans: “(1:好)，又(2:学会)了(3:洗)(4:衣服)，
+  pinyin: “(1:Hǎo), yòu (2:xuéhuì) le (3:xǐ) (4:yīfú),
+  en: “(1:Good), (2:learned) to (3:wash) (4:clothes),
+  es: '"(3:Bien), ha (3:aprendido) a (3:lavar) la (3:ropa),'
 - id: 98d10297-b801-454a-a05c-67bd7417882c
   context: video
-  zh-hans: 又学会唱英语歌，
-  pinyin: yòu xuéhuì chàng Yīngyǔ gē,
-  en: learned to sing English songs,
-  es: y ha aprendido a cantar canciones en inglés.
+  zh-hans: 又(1:学会)(2:唱)(3:英语)(4:歌)，
+  pinyin: yòu (1:xuéhuì) (2:chàng) (3:Yīngyǔ) (4:gē),
+  en: (1:learned) to (2:sing) (3:English) (4:songs),
+  es: y ha (1:aprendido) a (2:cantar) (4:canciones) en (3:inglés).
 - id: 3f6a75bf-49ee-4831-bb2d-3932b10c797f
   context: audio
-  zh-hans: 又学会了唱英语歌，
-  pinyin: yòu xuéhuì le chàng Yīngyǔ gē,
-  en: learned to sing English songs,
-  es: y ha aprendido a cantar canciones en inglés.
+  zh-hans: 又(1:学会)了(2:唱)(3:英语)(4:歌)，
+  pinyin: yòu (1:xuéhuì) le (2:chàng) (3:Yīngyǔ) (4:gē),
+  en: (1:learned) to (2:sing) (3:English) (4:songs),
+  es: y ha (1:aprendido) a (2:cantar) (4:canciones) en (3:inglés).
 - id: 42f36122-2a06-422b-a481-337caf8c5c1d
-  zh-hans: 以后这样的活动可以多参加。”
-  pinyin: yǐhòu zhèyàng de huódòng kěyǐ duō cānjiā.”
-  en: in the future you can join more of these sort of activities.”
-  es: 'puedes participar en más actividades como esta en el futuro".'
+  zh-hans: (1:以后)(2:这样)的(3:活动)(4:可以)(5:多)(6:参加)。”
+  pinyin: (1:yǐhòu) (2:zhèyàng) de (3:huódòng) (4:kěyǐ) (5:duō) (6:cānjiā).”
+  en: (1:in the future) you (4:can) (6:join) (5:more) of (2:these sort) of (3:activities).”
+  es: '(1:en el futuro), (4:puedes) (6:participar) en (5:más) (3:actividades) (2:como esta)."'
 
 
