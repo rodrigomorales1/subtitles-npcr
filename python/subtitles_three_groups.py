@@ -88,15 +88,15 @@ Style:     9-third-line,  Noto Sans CJK SC,       18,       1,           3,     
 Style:     10-third-line, Noto Sans CJK SC,       18,       1,           3,      &HFFFFFF,      &H000080
 Format: Name, Fontname, Fontsize, Outline, PrimaryColour, Shadow, Bold, Alignment, MarginV""")
 
-        t1.write("\nStyle: group-1-pinyin, Noto Sans, 18, 0, &HFFFFFF, 0, 0, 2, 258")
+        t1.write("\nStyle: group-1-pinyin, Noto Sans, 18, 0, &HFFFFFF, 0, 0, 2, 256")
         t2.write("\nStyle: group-1-zh-hans, Noto Sans Mono CJK SC Regular, 32, 0, &HFFFFFF, 0, 0, 2, 223")
         t3.write("\nStyle: group-1-third-line, Noto Sans, 18, 0, &HFFFFFF, 0, 0, 2, 203")
 
-        t4.write("\nStyle: group-2-pinyin, Noto Sans, 18, 0, &HFFFFFF, 0, 0, 2, 164")
+        t4.write("\nStyle: group-2-pinyin, Noto Sans, 18, 0, &HFFFFFF, 0, 0, 2, 162")
         t5.write("\nStyle: group-2-zh-hans, Noto Sans Mono CJK SC Regular, 32, 0, &HFFFFFF, 0, 0, 2, 129")
         t6.write("\nStyle: group-2-third-line, Noto Sans, 18, 0, &HFFFFFF, 0, 0, 2, 109")
 
-        t7.write("\nStyle: group-3-pinyin, Noto Sans, 18, 0, &HFFFFFF, 0, 0, 2, 67")
+        t7.write("\nStyle: group-3-pinyin, Noto Sans, 18, 0, &HFFFFFF, 0, 0, 2, 65")
         t8.write("\nStyle: group-3-zh-hans, Noto Sans Mono CJK SC Regular, 32, 0, &HFFFFFF, 0, 0, 2, 32")
         t9.write("\nStyle: group-3-third-line, Noto Sans, 18, 0, &HFFFFFF, 0, 0, 2, 12")
 
