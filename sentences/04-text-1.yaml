@@ -23,13 +23,13 @@ sentences:
   zh-hans: 杨老师，您好。
   pinyin: Yáng Lǎoshī, nín hǎo.
   en: Teacher Yang, hello.
-  es: Hola, Sr. Yang.
+  es: Hola, profesor Yang.
 - id: 890ed092-c802-44f2-89d8-62ea274246e9
   context: video
   zh-hans: 你好。
   pinyin: Nǐ hǎo.
   en: Hello.
-  es: ¿Cómo está?
+  es: Hola.
 - id: 0c212368-cbc8-470e-8532-2d6ac998b1c5
   zh-hans: 这是我朋友，他是记者。
   pinyin: Zhè shì wǒ péngyǒu, tā shì jìzhě.
@@ -39,12 +39,12 @@ sentences:
   zh-hans: 请问，您贵姓？
   pinyin: Qǐngwèn, nín guìxìng?
   en: May I ask, what is your name?
-  es: ¿Cómo se llama?
+  es: Disculpe, ¿Cómo se llama?
 - id: 36d113c3-e2c1-4296-a809-6814d7a4ac95
   zh-hans: 我姓陆，叫陆雨平。
   pinyin: Wǒ xìng Lù, jiào Lù Yǔpíng.
   en: My surname is Lu, I am called Lu Yuping.
-  es: Me llamo Lu, Lu Yuping.
+  es: Me apellido Lu, Lu Yuping.
 - id: eef6ee3f-2fb5-4e01-9813-2b28377def45
   zh-hans: 你好，陆先生，认识你很高兴。
   pinyin: Nǐ hǎo, Lù Xiānshēng, rènshí nǐ hěn gāoxìng.
@@ -54,4 +54,4 @@ sentences:
   zh-hans: 杨老师，认识您，我也很高兴。
   pinyin: Yáng Lǎoshī, rènshí nín, wǒ yě hěn gāoxìng.
   en: Teacher Yang, I am also very pleased to meet you.
-  es: Sr. Yang, encantado de conocerle también.
+  es: Profesor Yang, encantado de conocerle también.
